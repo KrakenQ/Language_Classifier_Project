@@ -1,8 +1,0 @@
-DSSS (Direct Sequence Spread Spectrum) é a sequência direta de espalhamento do espectro.
-A técnica da modulação do espectro de propagação é usada extensamente em aplicações militares. Fornece uma densidade espectral de potência muito baixa espalhando a potência do sinal sobre uma faixa de freqüência muito larga. Este tipo de modulação requer, conseqüentemente, uma largura de faixa muito grande para transmitir diversos Mbits/s. 
-Como a largura de faixa disponível é limitada, esta técnica é ideal para transmitir taxas de dados mais baixas nos cabos de energia elétrica.
-Esta técnica é igualmente utilizada nas redes locais sem fios WiFi 802.11b, 802.11g 802.11n e na telefonia móvel de 3ª geração W-CDMA, Wideband Code Division Multiple Access. Ela proporciona criptografia por salto pseudo aleatório de frequência, uma resistência ao ruído e um número de utilizadores/equipamentos mais elevado do que as soluções TDMA, Time Division Multiple Access.
-DSSS
-O método de modulação DSSS (Direct Sequence Spread Spectrum – Espectro de dispersão de sequência direta) também é restrito a 1 ou 2
-Mbps. Utiliza 11 canais para o uso em 2,4 GHz, mas com um nível de potência menor que o FHSS, possibilitando, assim, o funcionamento de várias redes sem que elas interfiram entre si.O DSSS combina um sinal de dados envio pelo transmissor com uma alta taxa de sequência de bit rate, permitindo aos receptores filtrar sinais que não utilizam o mesmo padrão, incluindo ruídos ou interferências. O transmissor gera um código de chip, e apenas os receptores que conhecem o código são capazes de decifrar os dados. Esta tecnologia utiliza um método conhecido como sequência de
-Barker para espalhar o sinal de rádio através de um único canal, sem alterar as frequências.

@@ -1,5 +1,0 @@
-GIMP (GNU Image Manipulation Program) ye un programa d'edición d'imáxenes, tantu dibuxos como semeyes. Ye un programa llibre y de baldre, englobáu nel proyeutu GNU y disponible baxo la llicencia GNU.
-La primera versión de GIMP desendolcóse pa sistemes Unix y foi camentada n'especial pa GNU/Linux. Esisten versiones totalmente funcionales pa Windows, pa Mac OS X, pa Distribuciones Linux (como Ubuntu) y pa otros sistemes operativos, faciéndolu el programa de remanamientu de gráficos disponible en más sistemes operativos. Pue consideráse-y como l'alternativa más firme pa Photoshop, magar que tien un interface enforma desemeyáu.
-Esiste una versión portátil de GIMP que pue ser tresportada y usada direutamente dende una memoria USB ensin necesidá d'instalase nel ordenador, disponible namái pa ordenadores baxo Windows y Mac.
-La biblioteca de controles gráficos GTK, desendolcada pa GIMP, dio orixe al entornu d'escritoriu de GNOME.
-Anguaño, esiste la traducción de GIMP en llingua asturiana, de la mano de Softastur

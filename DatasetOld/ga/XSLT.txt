@@ -1,2 +1,0 @@
-Teanga thrasfhoirmiúcháin  is ea an Trasfhoirmithe Teanga Inbhreisithe Stílbhileoige, nó XSLT (ón Bhéarla eXtensible Stylesheet Language Transformations). Is teanga í a thrasfhoirmíonn cáipéisí XML go dtí cáipéisí XML eile, nó formáidí eile amhail HTML, gnáth-théacs nó XSL-FO. 
-Agus na formáidí nua cruthaithe, is féidir iad a thrasfhoirmiú go formáidí iomlán nua amhail PDF, PostScript agus PNG.

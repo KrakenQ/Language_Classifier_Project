@@ -1,2 +1,0 @@
-Rietveld es una herramienta colaborativa basada en web para revisión de código para Subversion escrita por Guido van Rossum para ser ejecutada sobre el servicio de nube de Google. Van Rossum basó Rietveld en la experiencia que tuvo escribiendo Mondrian, una aplicación propietaria antiguamente utilizada internamente por Google para revisar su código.
-Rietveld fue nombrada en honor a Gerrit Rietveld, quien era uno de los arquitectos neerlandeses favoritos de Van Rossum y el diseñador de la silla zigzag.[1]​

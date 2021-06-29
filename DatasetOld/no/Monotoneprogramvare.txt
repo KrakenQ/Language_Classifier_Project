@@ -1,2 +1,0 @@
-Monotone er et fritt og åpent programvareverktøy for distribuert versjonskontroll.
-Monotone sporer revisjoner av datafiler, grupperer sett med revisjoner i forandringsgrupper, og sporer filhistorien på tvers av omdøpinger. Prosjektets fokus er på integritet snarere enn ytelse.  Monotone er laget for distributert operasjon, og gjør mye bruk av kryptographiske primitiver for å spore filrevisjoner (via SHA-1 sikker hash) og å autentifisere brukerhandlinger (via RSA digitale signaturer).

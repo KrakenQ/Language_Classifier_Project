@@ -1,3 +1,0 @@
-Fl-informatika dipendenza jew coupling hija l-kejl ta' kemm il-moduli ġo programm huma relatati. Iktar ma jkunu relatati, iktar ħa jkun hemm possibiltà li żball f'modulu minnhom jaffetwa l-bqija. Jiġri wkoll li jkun iktar diffiċli li taqbad modulu wieħed u tieħdu ġo programm ieħor jew tbiddel modulu ma' ieħor ġdid. Għalhekk hu mixtieq li l-livell ta' dipendenza jkun baxx ħafna b'hekk il-moduli jkunu indipendenti ħafna.
-Hemm kuntrast bejn Dipendenza u Cohesion minħabba li dawn imorru kontra xulxin.
-Meta moduli jkollhom ftit Dipendenza, xorta jkunu jistgħu jgħajtu lil xulxin. L-importanti huwa li moduliDi ħdejn jew ġo xulxin jkunu jiddependu minn l-inqas fuq xulxin.

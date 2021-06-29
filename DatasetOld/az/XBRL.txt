@@ -1,1 +1,0 @@
-XBRL - (eXtensible Business Reporting Language). Maliyyə hesabatlarını elektron şəkildə təqdim etmək üçün açıq standart. XBRL formatı XML dilinə əsaslanır. XBRL dilinin spesifikasiyası müstəqil beynəlxalq qurum olan XBRL International, Inc tərəfindən işlənib hazırlanır və dərc olunur.

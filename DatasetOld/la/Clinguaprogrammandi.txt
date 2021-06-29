@@ -1,3 +1,0 @@
-C est lingua programmandi quam Dennis Ritchie, ingeniarius Societatis Bell Telephonicae, ad Unix systema administrativum exponendum anno 1972  excogitavit.  
-C iussa et instructiones in structuris segmentatis adhibet, talem grammaticam et memoriam gradu infimo adhibendo, eo consilio, ut programmatata simpliciter compilentur, sine interpretatione. C utilis ad programmata describenda erat, quae antea in lingua machinali sola scripta essent.  
-Quia programmata in systemata varia facile lingua C transferuntur, principalis linguae C usus in programmandis systematis administrativis, compilatris interpretatrisque linguarum aliarum consistit. C quidem evolutionem multarum programmandi linguarum influit, praesertim linguae C++, quae primitus commenta est ut lingua C extendatur.
