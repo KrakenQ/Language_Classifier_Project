@@ -1,6 +1,0 @@
-Modelo:Cor title dn
-Modelo:Anfo/Cidade de la Benezuela
-Los Teques ye ua cidade benezuelana capital de l stado de Miranda i de l munecípio de Guaicaipuro.
-Modelo:Capitales de stados de la Benezuela
-
-Modelo:Rabisco-geobe

@@ -1,9 +1,0 @@
-Slovo Arch se může vyskytnout v následujících pojmech:
-
-arch papíru – v papírenství a typografii list papíru
-arch autorský – míra rozsahu textu (literárního díla)
-vydavatelský arch – míra rozsahu textu v konkrétním vydání díla tiskem
-arch. – zkratka pro titul architekt
-Arch Linux – jedna z distribucí Linuxu
-GNU arch – verzovací systém pro vývoj software
-Nakladatelství Arch – Zabezpečuje technické a tiskové zpracování výstupů Českého stavebního informačního systému (Stavební přehled, Stavební katalog), časopisů Fórum architektury a stavitelství a Stavební listy, edice odborných publikací Stavební právo aj.

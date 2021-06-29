@@ -1,6 +1,0 @@
-ECO klasifikacija: B10-B19
-Caro-Kannova obramba je poimenovana po angleškem šahistu Horatiu Caru (1862-1920) in avstrijskem šahistu Marcusu Kannu (1820-1886). Spada med polodprte šahovske otvoritve. S potezo 2... c6 črni pripravlja poseg v center s potezo d5 prav tako, kot pri francoski obrambi, vendar s to razliko, da pusti odprto pot daminemu lovcu, kar je pri francoski obrambi slabost. 
-
-Caro-Kannova obramba
-
-1. e4 c6

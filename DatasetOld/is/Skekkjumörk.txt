@@ -1,2 +1,0 @@
-Skekkjumörk eru tölfræðileg bil sem gefa til kynna mögulegar rangfærslur í niðurstöðum spálíkana byggt á úrtökum úr þýðum. Mælieiningin getur verið margvísleg allt frá fjölda dýra í stofni og yfir í peningamagn í umferð í tilteknu hagkerfi og allt þar á milli. Niðurstöður skoðanakannana eru oftast birtar með fyrivara um skekkjumörk.
-Sé til dæmis framkvæmd skoðanakönnun um fylgi stjórnmálaflokka þar sem fram kemur að stjórnmálaflokkur X hafi 34,5% fylgi en að skekkjumörkin séu 3% má draga þá ályktun að líklegast sé að fylgi flokksins sé einhvers staðar á bilinu 31,5%-37,5%.

@@ -1,6 +1,0 @@
-L'enhormación es un conjuntu organizau de datus procesaus, que constituyin un mensaji que cambia el estau de conocimientu del sujetu o sistema que recibi ichu mensaji. Existin diversus enfoquis pal estudiu l'enhormación:
-
-En biología, l'enhormación se considera com'estímulu sensorial qu'afecta al comportamientu los individus.
-En computación y teoría l'enhormación, com'una midía la complejidá d'un conjuntu de datus.
-En comunicación social y periodismu, com'un conjuntu de mensajis intercambiaus por individus d'una sociedá con finis organizativus concretus.Los datos sensorialis una vezi percibíus y procesaus constituyin una enhormación que cambia el estau de conocimientu, esu permiti a los individus o sistemas que posein ichu estau nuevu de conocimientu tomal decisionis pertinentis acordis a ichu conocimientu.
-Desdi el puntu de vista la céncia la computación, l'enhormación es un conocimientu explícitu extraíu por seris vivus o sistemas expertus comu resultau d'interación con el entornu o percepcionis sensiblis del mesmu entornu. En prencipiu l'enhormación, a diferencia los datus o las percepcionis sensiblis, tién estructura útil que modificará las sucesivas interacionis del que posei icha enhormación con su entornu.

@@ -1,1 +1,0 @@
-Pamäť s priamym prístupom alebo RAM (angl. Random Access Memory) je pamäť s voľným (náhodným, ľubovoľným) prístupom . Čas zápisu do pamäte je rovnaký bez ohľadu na umiestnenie údaja v pamäti. Jej opakom je pamäť so sekvenčným prístupom. Prvé polovodičové RAM prišli na trh na začiatku sedemdesiatych rokov.
