@@ -1,0 +1,58 @@
+Un émulseur est une solution aqueuse saponifiante permettant de diminuer la tension superficielle de l'eau favorisant ainsi la formation d'une mousse.
+
+
+== Types d'émulseurs utilisés dans la lutte contre le feu ==
+Il existe différents types d'émulseurs utilisés par les sapeurs pompiers et dans les extincteurs :
+
+Émulseur newtonien
+émulseur dont la viscosité est indépendante de son état d'agitation.
+Émulseur thixotrope
+émulseur dont la viscosité diminue quand on augmente son état d'agitation. Au repos, il peut se présenter sous la forme d'un gel.La fabrication d'émulseurs permet de distinguer deux principales bases moussantes :
+
+Émulseur protéinique
+contient des protéines hydrolysées
+Émulseur synthétique
+contient des tensioactifs d'origine synthétiqueOn trouve :
+
+
+=== AFFF (Agent formant un film flottant) ===
+Émulseur doté de tensioactifs fluorés « filmogènes ». Dans les cas de feux de catégorie B (hydrocarbures et solvants inflammables), il forme à la surface des hydrocarbures ou solvants en feu un mince film aqueux l'isolant de l'air.  La couche doit être épaisse et résistante aux températures élevées ainsi qu'au démoussage par le solvant afin d'éviter la ré-inflammation. L'AFFF ne forme pas de film aqueux sur les liquides polaires.
+Les tensioactifs fluorés responsables de la formation du film aqueux ont été mis sur le marché dans les années 1970 par la société 3M. 
+AFFF vient de la terminologie anglo-saxonne : Aqueous Film Forming Foam.
+Les AFFF ont pour inconvénient d'être « nocifs pour l'environnement et la santé ». Des alternatives moins toxiques ou non-toxiques sont recherchées, par exemple à base de polysaccharides tels que la gomme xanthane.
+
+
+=== FFFP (Agent formant un film flottant protéinique) ===
+Émulseur de base protéinique présentant la propriété filmogène, comme pour un AFFF.
+FFFP vient de la terminologie anglo-saxonne : Film Forming Foam Protein.
+
+
+=== FFF (émulseur sans fluor) ===
+Émulseur à base de tensioactifs hydrocarbonés. Il créer d’un tapis de mousse avec une multitude de bulles.FFF vient de l'anglais : Fluorine-Free Foam. On le retrouve aussi sous le nom "F3".
+En 2002, BIOEX a lancé le premier émulseur sans fluor polyvalent et efficace sur le marché : ECOPOL.
+
+
+=== AMM (Agent mouillant moussant) ===
+Émulseur modifiant la tension superficielle de l'eau, très utilisé en feux de forêts et de paille. Ils sont composés de tensioactifs de nature anionique (alkyl sulfates, alkyls sulfonates), d'alcools gras et de dérivés glycolés. Ils peuvent avoir un caractère irritant. Leur concentration d'emploi est relativement faible et les plus performants sont efficaces à des concentrations d'emploi variant entre 0,1 % et 0,5 %. Ces produits sont associés à l'emploi de systèmes de dosage précis. Leur propriété mouillante multiplie le pouvoir extincteur de l'eau en la faisant pénétrer dans les supports solides.
+
+
+=== APPPP (Agent produisant une pellicule protectrice polyvalente) ===
+Émulseur qui contient des polymères hydrophiles créant un gel d'eau sur les liquides polaires.
+
+
+=== Émulseur polyvalent ===
+Émulseur efficace autant sur les feux de liquides polaires que sur les hydrocarbures. Sensible au froid, il devient plus visqueux à l'approche de 0 °C. Il est en outre difficile de trouver un émulseur polyvalent qui foisonne au-dessus de 1:700.
+
+
+=== Émulseur multifoisonnement ===
+Émulseur qui peut produire des mousses de différents foisonnements (bas, moyen, haut).
+
+
+== Applications ==
+Émulseur + eau = Solution moussante
+Solution moussante + air = mousse
+
+
+== Notes et références ==
+
+ Portail de la chimie

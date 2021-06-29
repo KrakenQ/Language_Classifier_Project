@@ -1,0 +1,24 @@
+Windows Phone është sistem operativ mobil zhvilluar nga Microsoft, dhe eshte pasuesi i Windows Mobile platformes, edhe pse është komplet një sistem i ri.. Ka dalë në treg në pjesën e dytë të vitit 2010. Në Windows Phone, Microsoft krijoi një ndërfaqe të re, duke përfshirë edhe gjuhën e dizajnit të quajtur Metro. Përveç kësaj, programi ka të integruar serviset e Microsoft-it, dhe kërkon një numër minimal specifikash hardverike në të cilat punon
+
+
+== Historia ==
+
+
+=== Zhvillimi ===
+Puna për një ndryshim madhor të Windows Mobile ka filluar qysh nga viti 2004, por puna shkonte ngadalë  dhe projekti ishte ndalur. Në vitin 2008, Microsoft riorganizoj grupin e Windows Mobile dhe filloi të punoj në një sistem operativ mobil të ri. Produkti do të duhej të ishte lëshuar në vitin 2009 si Windows Phone, por disa vonesa e detyruan Microsoft-in me zhvillu Windows Mobile 6.5.
+Windows Phone ishte zhvilluar shpejt. Si rezultat perfundimtar ishte se aplikacionet që punonin në Windows Mobile nuk do të punonin në Windows Phone. Microsoft po mundohet që telefoninë ta shikoj në një mënyrë tjeter, me shfrytëzuesin e fundit në qendër të vemendjes.
+
+
+== Windows Phone? ==
+
+
+=== Ndërfaqja ===
+Windows Phone vjen me një ndërfaqe të re, bazuar në gjuhën e dizajnit të Windows Phone të quajtur Metro. Faqja kryesore është e përbërë nga disa pllaka që shfaqin informacione gjatë tërë kohës. Këto pllaka janë lidhje të aplikacioneve, tipareve , funksioneve të ndryshme. Përdoruesit do të kenë mundësi me shtu ose me i largu këto pllaka sipas dëshirës. Këto pllaka janë dinamike dhe ndryshohen në kohë reale – për shembull pllaka për një postë elektronike shfaq numrin e mesazheve të palexuara.
+Disa tipare të Windows Phone janë të organizuara në atë mënyrë që kombinojnë përmbajtjen lokale dhe nga Interneti integrohen me rrjete sociale si Facebook, Windows Live dhe Twitter. Për shembull tek Fotografitë shfaqen fotografitë e bëra nga përdoruesi dhe gjithashtu fotografitë nga albumet e rrjeteve sociale si Facebook. Përdoruesit mund të komentojnë nga një Windows Phone direkt në njërin nga rrjetet sociale. Tipare tjera të Windows Phone janë edhe Music and Video (Integrohet me Zune), Lojrat (që integrohen me XBOX Live), Marketplace (dycani zyrtar për të blerë aplikacione).
+
+
+=== Çmimet ===
+Windows Phone ishte prezentuar me totalin prej tri çmimeve në vitin 2011 duke marrur medaljen e Artë nInteractive Product Experience Interaktivitetin e Produktit, medaljen e Argjendë në Hulumtime dhe medaljen e Bronztë ne Dizajn.
+
+
+== Referimet ==

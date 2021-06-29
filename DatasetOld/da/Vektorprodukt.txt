@@ -1,0 +1,128 @@
+Vektorprodukt eller vektormultiplikation kan referere til flere produktdannelser inde for matematikken:
+
+Krydsproduktet – her er resultatet (produktet) en vektor 
+  
+    
+      
+        
+          
+            
+              u
+              →
+            
+          
+        
+        ×
+        
+          
+            
+              v
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {u}}\times {\vec {v}}}
+  , og det er især dette produkt der kaldes vektorproduktet
+Produktet fra vektorrumsstrukturen – et produkt af typen 
+  
+    
+      
+        t
+        
+          
+            
+              v
+              →
+            
+          
+        
+      
+    
+    {\displaystyle t{\vec {v}}}
+   hvor 
+  
+    
+      
+        t
+      
+    
+    {\displaystyle t}
+   er en skalar; produktet er en vektor
+Skalarproduktet – også kendt som prikproduktet 
+  
+    
+      
+        
+          
+            
+              u
+              →
+            
+          
+        
+        ⋅
+        
+          
+            
+              v
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {u}}\cdot {\vec {v}}}
+   eller det indre produkt 
+  
+    
+      
+        ⟨
+        
+          
+            
+              u
+              →
+            
+          
+        
+        ∣
+        
+          
+            
+              v
+              →
+            
+          
+        
+        ⟩
+      
+    
+    {\displaystyle \langle {\vec {u}}\mid {\vec {v}}\rangle }
+  ; her er resultatet en skalar.
+Det ydre produkt – her er resultatet en matrix 
+  
+    
+      
+        
+          
+            
+              u
+              →
+            
+          
+        
+        ⊗
+        
+          
+            
+              v
+              →
+            
+          
+        
+      
+    
+    {\displaystyle {\vec {u}}\otimes {\vec {v}}}
+  .

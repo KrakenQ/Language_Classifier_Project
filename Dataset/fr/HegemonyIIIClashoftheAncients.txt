@@ -1,0 +1,55 @@
+Hegemony III: Clash of the Ancients est le troisième volet de la série de jeux vidéo de stratégie Hegemony, qui a été développé par le studio canadien Longbow Games et est sorti pour Windows le 25 août 2015.
+Hegemony III combine des aspects de grands jeux de stratégie historiques sur une carte librement zoomable avec des batailles tactiques en temps réel . Contrairement aux autres jeux de stratégie, le joueur peut zoomer et dézoomer à tout moment entre une carte stratégique 2D et une carte tactique 3D, tandis que le jeu progresse complètement en temps réel (avec pause). Les niveaux stratégique et tactique sont liés par le besoin de gestion des ressources. Un aspect central du jeu est donc la création de chaînes d'approvisionnement pour relier les centres de ressources à l'infrastructure et approvisionner les armées. Sur le plan tactique, les différents types d'unités sont commandés par le joueur et les batailles sont gagnées par la sélection, la posture et le positionnement des unités.
+
+
+== Sujet du jeu ==
+
+
+=== Généralement ===
+Le jeu se déroule vers le Ve siècle av. J.-C., une époque où Rome était encore l'une des nombreuses cités-États de la péninsule italienne. En conséquence, en plus de Rome, le joueur peut également choisir une autre faction pour démarrer le jeu, par exemple les Étrusques et les Gaulois au nord ou les Grecs au sud de l'Italie. En développant et en gérant habilement les ressources et en construisant une armée, il est important d'élargir la sphère d'influence de la faction élue. L'expansion des villes avec des bâtiments, la recherche de nouvelles technologies et l'interaction diplomatique avec d'autres factions soutiennent l'expansion. Le joueur est épaulé par un tutoriel sous forme de mini-campagne pour apprendre les mécaniques du jeu.
+
+
+=== Mode Sandbox ===
+L'objectif en mode bac à sable est de collecter des points d'hégémonie afin d'assurer la victoire globale grâce à une combinaison de supériorité culturelle, économique, navale et militaire.
+
+
+==== Type de sandbox ====
+Le joueur peut choisir entre des bacs à sable de différentes tailles. Le jeu de base propose un grand bac à sable en Italie (la péninsule des Apennins) et un petit bac à sable en Étrurie (un peu comme la Toscane d'aujourd'hui). Avec The Eagle King DLC, un bac à sable Sicile de taille moyenne est ajouté et le bac à sable Italie peut éventuellement être étendu pour inclure la Sicile.
+Avec The Eagle King DLC, le joueur peut jouer un scénario d'invasion dans lequel il choisit librement une faction (par exemple les Gaulois, les Crétois, les Macédoniens), les équipe de troupes selon un système de points et les débarque en Italie. Le but est d'établir une base avec les colons également présents et de s'affirmer contre les factions locales.
+
+
+==== Les factions ====
+Les factions disponibles dans le jeu reflètent les tribus présentes en Italie au Ve siècle av. J.-C. Le joueur peut choisir parmi 28 factions de six groupes culturels. Avec l'extension The Eagle King, 5 autres factions du groupe culturel sicilien sont ajoutées. Les fractions diffèrent par différents bonus de démarrage culturels, différents types d'unités et en partie aussi différentes technologies qui peuvent être recherchées au fur et à mesure que le jeu progresse. Par exemple, les factions suivantes peuvent être jouées (liste non exclusive): Rome, Veii, les Sabins, les Marsiens, les Lucaniens ou les Vénitiens. Les groupes culturels disponible en jeu sont les suivants:
+
+Étrusque
+Gaulois
+Greque
+Illyrique
+Latine
+Sabellique
+Sicilien
+
+
+=== Mode campagne ===
+Le mode campagne guide le joueur à travers un scénario historique spécifique basé sur des tâches et des événements (facultatifs). Actuellement (début 2021), seule la campagne Pyrrhus of Epirus est disponible (The Eagle King DLC), dans laquelle le joueur dans le rôle du roi Pyrrhus of Epirus est chargé de protéger une coalition de cités-états grecques dans le sud de l'Italie (Magna Graecia) de la République romaine expansionniste. Un certain nombre de tâches permettent au joueur de choisir s'il veut revivre l'histoire selon les événements historiques ou s'il veut changer l'histoire en fonction de ses propres considérations.
+
+
+== Éditeur de carte et support de modding ==
+Le jeu de base contient un éditeur de carte, avec lequel le joueur peut créer ses propres cartes et qui peut être utilisé pour d'autres modifications. Des cartes fantastiques et réelles peuvent être créées en important des images satellite de la NASA et en les ajustant grâce à un certain nombre d'outils logiciels. Hegemony III propose un support complet de l'atelier Steam et, associé à celui-ci, de nombreuses opportunités pour développer et publier ses propres modifications du jeu.
+
+
+== Extensions ==
+Le DLC Eagle King est la seule extension à ce jour et a été publié le 16 février 2017. Il contient la campagne Pyrrhus of Epirus, un bac à sable d'invasion et une extension de la carte pour la Sicile.
+Le DLC Isle of Giants a été annoncé pour 2021 et contiendra une extension de la carte pour la Sardaigne et la Corse.
+
+
+== Accueil ==
+Hégémonie III a d' abord eu un accueil mitigé. Immédiatement après la sortie et avant les trois correctifs bientôt arrivés, il a été critiqué pour ses erreur ("bugs") et sa mauvaise IA. Game Watcher a donné 6/10, déclarant "Je voulais aimer Hegemony III, mais c'était trop frustrant."  D'autre part, WCCFtech l'a noté 7,8 / 10  et StrategyFront Gaming a déclaré que "[c'est] une expérience complexe et enrichissante qui peut résister à des goûts de Total War."  En Allemagne, les joueurs attestent de sa grande rejouabilité. En 2016, le podcast du jeu de stratégie Three Moves Ahead a expliqué comment le jeu n'avait pas beaucoup évolué au fil du temps et comment il ne pouvait pas offrir les mêmes options de jeu. – concernant la diplomatie ou le commerce – que d'autres titres de stratégie offerts. Cependant, les critiques ultérieures étaient beaucoup plus positives: "Je vous recommande vivement d'essayer Hegemony III: Clash of the Ancients par vous-même. C’est un jeu ambitieux avec un objectif unique (lignes d’approvisionnement), combinant la gestion économique avec un wargame détaillé, se déroulant dans un monde antique bien réalisé. Ce serait dommage si vous, comme moi, attendiez trop longtemps avant de sauter le pas."L'expansion The Eagle King a été acclamée par la critique ("À certains égards, The Eagle King est un retour en forme pour la série Hegemony.")  et a été considérée comme une étape importante vers le développement ultérieur de la série (" The Eagle King est une excellente extension pour un grand jeu et je suis impatient de voir où Longbow prend les choses d'ici. ) 
+
+
+== Les références ==
+
+
+== Liens externes ==
+Site officiel
+Game-Wiki officiel Portail du jeu vidéo

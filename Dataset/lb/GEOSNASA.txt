@@ -1,0 +1,23 @@
+GEOS (Geodetic Earth Orbiting Satellite) war eng Serie vun dräi amerikaneschen geodetesche Fuerschungssatellitte vun der NASA.
+Déi éischt béid GEOS-Satellitten (gestart 1965 an 1968) goufen ënner dem Explorer-Programm entwéckelt. Si hunn iwwer eng Positiounsstabiliséierung duerch e Schwéieregradient verfügt an eng Energieversuergung iwwer Solarzellen. D'GEOS-Satellitte waren déi éischt Missiounen am National Geodetic Satellite Program.
+D'Ausrëschtung bestoung aus enger Zuel vun opteschen a Funk-Systemer (dorënner och jee en Transponder fir d'SECOR-System) zu der exakter Bunnverfollegung souwéi Laser-Reflekteren. Als aktiv Satellitte waren si eng Weiderentwécklung vun der Anna 1B-Sond a konnten kuerz Serië vu sechs bis aacht hell Liichtblëtzer verschécken. Déi goufe vu Buedemstatiounen synchron virum Stärenhannergrond fotograféiert (Stellartriangulatioun), fir duerch genee Richtungsmiessung groussraimeg Vermiessungsnetzer opzebauen.
+Zil vun de Missioune war d'Vermoosse vun ausgewielten Observatiounspunkte mat enger Genauegkeet vun zéng Meter an engem dräidimensionalen Koordinatesystem mam Masseschwéierpunkt vun der Äerd als Mëttelpunkt. Weider gouf d'Struktur vum irregulären Äerdgravitatiounsfeld an d'Lag vun de grousse Gravitatiounsanomalien bestëmmt.
+De GEOS-3-Satellit (wéinst de vergréisserten Aufgaben och Geodynamics Experimental Ocean Satellite) genannt, war eng verbessert Versioun vun de béiden éischte Satellitten. De GEOS-3 war net méi en Deel vum Explorer-Programm. Zousätzlech zu der Aufgabenstellung vun de Virgänger war duerch e Radar-Altimeter eng prezis Miessung vun den Ozeanhéichte méiglech, wat eng weider Verbesserung vum Äerdgravitationsmodell erméiglecht huet. Zousätzlech gouf e Bunnverfollegungsexperiment mam experimentellen Kommunikatiounssatellit ATS 6 erreecht. Eng verbessert Versioun vum GEOS-3-Satellit gouf vun der US Navy ënner dem Numm Geosat gestart.
+
+
+== Satellitten am GEOS Programm ==
+GEOS 1 (Explorer 29) (virum Start GEOS A) gouf de 6. November 1965 vum Cape Canaveral aus mat enger Delta-E-Rakéit an de Weltraum bruecht.
+GEOS 2 (Explorer 36) (virum Start GEOS B) gouf den 11. Januar 1968 vu Vandenberg (Kalifornien) mat enger Delta-E-Rakéit gestart.
+GEOS 3 (virum Start GEOS C) gouf de 9. Abrëll 1975 och vu Vandenberg op enger Delta-1410-Rakéit gestart.
+
+
+== Kuckt och ==
+ Portal Astronomie
+
+Explorer-Programm
+
+
+== Um Spaweck ==
+(en) NSSDC:GEOS 1
+(en) NSSDC:GEOS 2
+(en) NSSDC: GEOS 3

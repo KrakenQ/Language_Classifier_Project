@@ -1,0 +1,52 @@
+Mercedes F1 W05 je Formula 1 automobil dizajniran od strane Aldo Costa, Bob Bell i Geoff Willis za Mercedes da se natječu u Formula 1 - sezona 2014. To će se voziti po svjetsko prvak 2008. Lewis Hamilton i Nico Rosberg. 
+U F1 W05 je dizajniran za korištenje novi V6 turbo motor Mercedes AMG HPP 1,6-litarski, PU106A Hybrid.
+Automobil je predstavljen 28. januara 2014. na Circuito de Jerez.
+
+
+== Tehnički podaci ==
+Šasija:
+Prednji ovjes: Pushrod sustava
+Stražnji ovjes: Pullrod sustava
+Amortizeri: Penske
+Kočnice : Brembo kliješta i karbon diskovi.
+Točkovi: Advanti 13"
+Gume :  Pirelli P Zero - Pirelli Cinturato
+Elektronika: FIA standardne elektronske kontrolna jedinica.
+Instrumentacija: McLaren Electronic System (MES)
+Motor:
+Oznaca: Mercedes-Benz PU106A Hybrid
+Ukupna kubikaža: 1.600
+Broj cilindara: 6
+Broj ventila: 24
+Težina motora: 145 kg
+Tip: 90°, V6
+obr/min: 15.000
+Gorivo: Petronas Primax
+Maziva: Petronas Syntium
+Maksimalna goriva protok: 100 kg/h
+ERS (Energy Recovery System): Mercedes AMG High Performance Powertrains (HPP)Integrirani hibridna energije oporavak preko Motor Generator Unit, radilice u kombinaciji sa električnim MGU-K, turbopunjač u kombinaciji s električnim MGU-H.
+MGU-K:
+Maksimalna brzina: 50,000 obr/min
+Maksimalna snaga: 120 kW
+Maksimalna oporavak energije: 2 MJ po krugu.
+Maksimalna energetska raspoređivanje: 4 MJ po krugu.
+MGU-H:
+Maksimalna brzina: 125,000 obr/min
+Snaga: neograničeno
+Maksimalna oporavak energije: neograničeno
+Maksimalni raspoređivanje energije: neograničeno
+Mjenjač : Mercedes AMG 8-stepeni poluautomatski i hod unazad.
+Dimenzije:
+Dužina: 4.800 mm
+Širina: 1.800 mm
+Visina: 950 mm
+Ukupna težina bolida : 691 kg (sa vodom, maziva i vozač)
+
+
+== Potpuni spisak rezultata u Formuli 1 ==
+(Legenda) (Utrke u boldu označavaju najbolju startnu poziciju, dok utrke u italicu označavaju najbrži krug utrke)
+
+
+== Vanjski linkovi ==
+f1technical.net - Mercedes F1 W05 Hybrid
+statsf1.com - Rezultati F1 W05 Hybrid

@@ -1,0 +1,198 @@
+A matematikában a szorzatszabály alkalmazásával két, vagy több függvény szorzatának a deriváltját lehet kiszámítani.
+Egy lehetséges jelöléssel:
+
+  
+    
+      
+        (
+        f
+        ⋅
+        g
+        
+          )
+          ′
+        
+        =
+        
+          f
+          ′
+        
+        ⋅
+        g
+        +
+        f
+        ⋅
+        
+          g
+          ′
+        
+        
+        
+      
+    
+    {\displaystyle (f\cdot g)'=f'\cdot g+f\cdot g'\,\!}
+  vagy a Leibniz-féle jelöléssel:
+
+  
+    
+      
+        
+          
+            
+              d
+              
+                d
+                x
+              
+            
+          
+        
+        (
+        u
+        ⋅
+        v
+        )
+        =
+        u
+        ⋅
+        
+          
+            
+              
+                d
+                v
+              
+              
+                d
+                x
+              
+            
+          
+        
+        +
+        v
+        ⋅
+        
+          
+            
+              
+                d
+                u
+              
+              
+                d
+                x
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\dfrac {d}{dx}}(u\cdot v)=u\cdot {\dfrac {dv}{dx}}+v\cdot {\dfrac {du}{dx}}}
+  .továbbá:
+
+  
+    
+      
+        d
+        (
+        u
+        v
+        )
+        =
+        u
+        
+        d
+        v
+        +
+        v
+        
+        d
+        u
+      
+    
+    {\displaystyle d(uv)=u\,dv+v\,du}
+  .A három függvény szorzatának deriváltja:
+
+  
+    
+      
+        
+          
+            
+              d
+              
+                d
+                x
+              
+            
+          
+        
+        (
+        u
+        ⋅
+        v
+        ⋅
+        w
+        )
+        =
+        
+          
+            
+              
+                d
+                u
+              
+              
+                d
+                x
+              
+            
+          
+        
+        ⋅
+        v
+        ⋅
+        w
+        +
+        u
+        ⋅
+        
+          
+            
+              
+                d
+                v
+              
+              
+                d
+                x
+              
+            
+          
+        
+        ⋅
+        w
+        +
+        u
+        ⋅
+        v
+        ⋅
+        
+          
+            
+              
+                d
+                w
+              
+              
+                d
+                x
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\dfrac {d}{dx}}(u\cdot v\cdot w)={\dfrac {du}{dx}}\cdot v\cdot w+u\cdot {\dfrac {dv}{dx}}\cdot w+u\cdot v\cdot {\dfrac {dw}{dx}}}
+  .

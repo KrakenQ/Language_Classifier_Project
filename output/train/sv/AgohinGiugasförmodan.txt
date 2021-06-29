@@ -1,0 +1,106 @@
+Inom talteori är Agohin–Giugas förmodan en förmodan om Bernoullitalen. Förmodandet säger att p är ett primtal om och bara om
+
+  
+    
+      
+        p
+        
+          B
+          
+            p
+            −
+            1
+          
+        
+        ≡
+        −
+        1
+        
+          
+          (
+          mod
+          
+          p
+          )
+        
+        ,
+      
+    
+    {\displaystyle pB_{p-1}\equiv -1{\pmod {p}},}
+  där 
+  
+    
+      
+        
+          B
+          
+            p
+            −
+            1
+          
+        
+      
+    
+    {\displaystyle B_{p-1}}
+   är det 
+  
+    
+      
+        p
+        −
+        1
+      
+    
+    {\displaystyle p-1}
+  :te Bernoullitalet. Förmodandet framlades av Takashi Agoh 1990. En ekvivalent form av detta förmodades av Giuseppe Giuga 1950: p är ett primtal om och bara om
+
+  
+    
+      
+        
+          1
+          
+            p
+            −
+            1
+          
+        
+        +
+        
+          2
+          
+            p
+            −
+            1
+          
+        
+        +
+        ⋯
+        +
+        (
+        p
+        −
+        1
+        
+          )
+          
+            p
+            −
+            1
+          
+        
+        ≡
+        −
+        1
+        
+          
+          (
+          mod
+          
+          p
+          )
+        
+        .
+      
+    
+    {\displaystyle 1^{p-1}+2^{p-1}+\cdots +(p-1)^{p-1}\equiv -1{\pmod {p}}.}

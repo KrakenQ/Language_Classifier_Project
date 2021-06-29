@@ -1,0 +1,207 @@
+Terminální balistika je odvětví vědního oboru balistiky. Zabývá se chováním střely ve chvíli, kdy zasáhne cíl. Pokud je cílem lidské tělo, nebo jiný živý tvor, pak je často označována jako „zastavovací efekt“.
+Terminální balistika se zabývá jak projektily malých ráží (ruční zbraně), tak i velkými rážemi (dělostřelectvo).
+
+
+== Dělení projektilů ==
+Pro účely terminální balistiky je možné dělit projektily do třech tříd:
+
+určené k dosažení maximální přesnosti na různé vzdálenosti
+určené k maximalizaci poškození cíle penetrací do cíle jak nejhlouběji je to možné
+určené k maximalizaci poškození cíle řízenou deformací střely, čímž se určuje, jak hluboko do cíle má střela proniknout.
+
+
+== Projektily pro terčovou střelbu ==
+
+
+=== Podle typu terče ===
+
+
+==== Papírové terče ====
+
+Při střelbě do papírových terčů je žádoucí, aby projektil vytvořil v terči perfektně kulatý otvor s ostrými okraji. To napomáhá přesnějšímu určení bodu zásahu v terči a tím i dosaženého skóre. Tento typ projektilu se nazývá „wadcutter“ (česky „prosekávač“). Má velmi plochou špičku a často velmi ostré okraje. Tato plochá špička vysekne v terči otvor, jehož průměr je takřka shodný s průměrem střely.
+
+
+==== Ocelové terče ====
+Při střelbě na ocelové terče je potřeba, aby střela měla dostatek síly pro shození tohoto terče a zároveň terč samotný co nejméně poškodila. Proto se používají střely z měkkého olova nebo střely typu jacketed hollow point případně soft point (pro informace viz projektil), které se při nárazu zploští, takže se působící síla rozloží na větší plochu.
+
+
+=== Podle vzdálenosti střelby ===
+
+
+==== Střelba na krátkou vzdálenost ====
+(Krátkou vzdáleností se má na mysli cca 50 metrů.) Při střelbě na krátké vzdálenosti se používají většinou střely o nízké úsťové rychlosti. Zde totiž aerodynamika nehraje příliš velkou roli.
+
+
+==== Střelba na dlouhou vzdálenost ====
+Pro střelbu na dlouhé vzdálenosti existují speciální střely, které se používají ve velice přesných a vysoce výkonných puškách. Jejich konstrukce se mezi jednotlivými výrobci liší. Ale všechny jsou odvozeny od střel uvedených na trh firmou Sierra Bullet Company kolem roku 1963. Konstrukce byla založena na výzkumu vzdušných sil americké armády prováděných v 50. letech 20. století, při kterých bylo zjištěno, že střely jsou při střelbách na delší vzdálenosti mnohem stabilnější a odolnější proti bočnímu větru, je-li jejich těžiště posunuto směrem dozadu. Střela MatchKing (stále se používá a je držitelkou mnoha rekordů ve střelbě) je konstrukce hollow-point (pro informace viz projektil) s malým otvorem ve špičce a se vzduchovou dutinou ve špičce pod pláštěm (předchozí typy střel tuto dutinu neměly, byly celé vyplněny olověným jádrem). Konstrukce ostatních výrobců se tomuto většinou velmi podobají. Liší se obvykle ve věcech jako velikost dutého prostoru případně přítomností zátky ve špičce z plastu nebo hliníku (jejím účelem je zlepšit aerodynamické vlastnosti střely. Díky použití lehkých materiálů má toto jen minimální vliv na umístění těžiště).
+Je ale třeba zdůraznit, že tyto střely, ač obsahují dutinku stejně jako některé lovecké střely nebo střely používané policí, se po dopadu nedeformují a nezplošťují. Po dopadu se střela MatchKing totiž chová velmi nepředvídatelně. Může se otáčet kolem vlastní osy nebo se může rozpadnout. Ale nejčastěji proletí skrz a vytvoří jenom velmi úzký střelný kanál (stejně jako střela typu FMJ) a tudíž nezabíjí dostatečně rychle a efektivně.
+Tento typ střely používají v odstřelovačských puškách i odstřelovači Americké armády a to jak v ráži 7,62 x 51 mm NATO tak 5.56 x 45 mm NATO. Vzhledem k vlastnostem zmíněným v předchozím odstavci má americká armáda za to, že použití těchto střel je v souladu s Haagskou konvencí.
+
+
+== Maximální penetrace ==
+Při střelbě na obrněné cíle nebo velmi velkou zvěř je hloubka penetrace (vniknutí) nejdůležitějším faktorem. Maximální penetrace střely se dosáhne při velké kinetické energii střely a zároveň malé dopadové ploše. Konstrukce střel používaných pro tyto účely je taková, aby se zamezilo jejich deformaci. Většinou mají olověné jádro umístěné uvnitř pláště většinou z mědi, mosazi nebo měkké oceli. Plášť zcela překrývá jádro střely v její přední části. Ale v zadní části je často obnažené olovo (to je důsledkem výrobního procesu, kdy se nejdříve vyrobí plášť do kterého se teprve následně vlévá olovo). U některých průbojných střel se ale používá místo olova tvrdší materiál, např. tvrzená ocel. Vojenská průbojná munice do ručních zbraň používá střely s ocelovým jádrem a měděným pláštěm (plášť se v tomto případě používá proto, že ocel by byla až příliš tvrdá a poškozoval by se vývrt hlavně). Současné střely ráže 5.56 x 45 mm NATO SS109 (M855) používají střely s jádrem ze dvou materiálů. V přední části je ocel, která zvyšuje odolnost střely vůči deformaci. V zadní olovo, které zvyšuje hmotnost střely a tím i průřezové zatížení střely pro lepší penetraci v měkkých cílech.
+U ráží, které se například používají v tankových dělech, kde je dosahováno velmi vysokých úsťových rychlostí, je více než tvrdost důležitá hustota použitých materiálů střely. Často se používá ochuzený uran.
+
+
+== Maximální poškození ==
+
+
+=== Střely s řízenou deformací ===
+Jedná se o skupinu střel, jejichž účel je maximalizovat poškození cíle. Používají se hlavně při lovu a proti lidem v civilním použití. Ve vojenství se většinou nepoužívají, protože v mezinárodních střetech jsou zakázány Haagskou konvencí.
+Při dopadu na cíl se díky jejich konstrukci maximálně zvětší jejich plocha. Díky tomu jim tkáně při průletu skrz ně kladou větší odpor, takže dochází ke snížení penetrace a zároveň předání většího množství energie. Vedlejším efektem je zvětšení otvoru, který střela při průletu tkáněmi způsobí a jejich větší poškození.
+Schéma zranění, které bylo způsobeno střelou, u které došlo k řízené deformace.
+
+
+=== Střely s plochým nosem ===
+Nejjednodušší střela působící maximální poškození tkání je ta, která má plochou špičku (anglicky Flat point). (Vedle ní se používá ještě střela s kulatou špičkou, která umožní tkáním proplout kolem okrajů a zůstat bez poškození.) Také se zvyšuje odpor, který tkáně kladou střele při průletu, čímž se snižuje hloubka penetrace. Střely, kde má přední část plochu rovnou téměř devadesáti procentům plochy průřezu střely, se používají na lov velké a nebezpečné zvěře.
+Jejich nevýhodou je větší aerodynamický odpor a tudíž nejsou vhodné pro střelbu na delší vzdálenosti.
+
+
+=== Střely u nichž dochází po dopadu ke fragmentaci (Fragmenting) ===
+Tyto střely jsou zkonstruovány tak, aby se po dopadu do cíle zcela rozpadly (na rozdíl od střel FMJ a HP, u kterých je požadavkem to, aby si zachovaly co nejvíce své hmoty). Konstrukčně se podobají expanzivním střelám, ale mívají mnohem větší dutinku v přední části. Nebo také mohou mít tenčí plášť, čímž se snižuje jejich celková integrita. Z důvodu snížení aerodynamického odporu ale přední dutinka bývá někdy zakryta plastovou zátkou. To, jestli k fragmentaci střely vůbec dojde a pak případně její míra, je velmi závislé na její dopadové rychlosti.
+Díky tomu, že se střela okamžitě po dopadu rozpadne na velmi malé kousky, dojde k předání veškeré kinetické energie během velmi krátkého okamžiku.
+Nejběžnějším použitím je odstřel malé škodné (použití proti člověku je zakázané a pro lov velké zvěře nevhodné, protože se jednak znehodnocuje maso a pak střela nedosahuje dostatečné penetrace na to, aby mohly být zasaženy životně důležité orgány u větších kusů). Použití těchto střel na malou škodnou je velmi humánní, protože nezávisle na tom, kam je zasažena, působí takřka okamžitou smrt. Navíc nedochází k nechtěným odrazům od pevných překážek.
+
+
+=== Střely které se po nárazu rozpadnou (Frangible) ===
+Díky své konstrukci se při dopadu na cíl rozpadnou, čímž se velmi zvyšuje zasažený povrch. Nejčastěji tyto střely obsahují malé olověné kuličky, které až do nárazu drží pohromadě. Po nárazu pak tyto kuličky pokračují v letu každá trochu jiným směrem. Díky nízkému poměru hmotnosti k jejich kinetické energii se zastaví velmi rychle.
+Tyto střely jsou používány bezpečnostními agenty na palubě letadel. Minimalizuje se jejich použitím pravděpodobnost poškození letadla a průstřel cíle a tím i ostatních cestujících.
+Může se zdát, že když je účel výše zmíněných střel zvýšení jejich průměru, tak by bylo lepší používat střely s velkým průměrem i bez jakýchkoliv zvětšení po dopadu do cíle. Tím by ale docházelo ke zvětšování rozměrů nábojů a tím snižování kapacity zásobníků.
+Schéma zranění způsobené střelou z náboje .357 Magnum 80gr Glaser Safety Slug 
+
+
+== Testování účinků střel v cíli a faktory mající vliv na účinek ==
+Standardním prostředkem pro testování účinků střel v cíli je balistická želatina. Je-li správně připravena, tak při určité teplotě (4 °C) mají střely při průletu skrz ní podobné účinky jako při průletu svalovými tkáněmi prasete (udržované v anestézii veterinářem).
+Účinek je určen zejména dvěma faktory: maximální hloubka penetrace a velikost střelného kanálu.
+Problém balistické želatiny je ale v určování dočasné dutiny, kterou střela vytvoří při průletu tkáněmi. Vzhledem k tomu, že tato želatina má mnohem nižší elasticitu než tkáně, tak tam, kde dojde k poškození želatiny, se tkáním nemusí stát vůbec nic. Také neodráží odolnost kůže proti proražení, která je větší než třeba u svalové tkáně.
+Pro rychlé usmrcení je nutné zasažení životně důležitého orgánu, zejména některého patřící do cévní soustavy nebo nervové soustavy. Hloubka penetrace střely potřebná pro zasažení těchto orgánů se liší zvíře od zvířete. Proto neexistuje nic univerzálního, ale je třeba vybírat vhodný náboj pro ten který konkrétní cíl. Dá se říct, že čím je zvíře větší, tím větší penetrace musí střela dosahovat.
+
+
+== Terminální balistika z hlediska obranné střelby (zastavovací efekt) ==
+Obrannou střelbou rozumíme zejména situace, kdy je v bezprostředním vážném ohrožením lidský život, zdraví nebo majetek.
+Cílem obranné střelby je zastavení útočníka. Účelem ale není jeho zabití.
+U nábojů, které se v drtivé většině případů používají pro obranou střelbu, nejde o zastavení útočníka samotnou energií střely, ale zraněními, která tato střela způsobí (Zejména ztráta krve a s tím související ztráta krevního tlaku. Nebo okamžité zastavení při zasažení srdce nebo mozku) případně i psychickými stavy, do kterých se útočník po střelbě může dostat.
+Zastavení útočníka je závislé na fyzických (biologických) aspektech, ale i psychologických.
+
+
+=== Historie ===
+Koncept zastavovacího efektu se objevil na konci 19. století, když koloniální jednotky (Američané na Filipínách, Britové na Novém Zélandu) zjistily, že při boji z blízka s domorodými kmeny nebyly jejich pistole schopny zastavit útočící válečníky (i přesto, že způsobená zranění byla smrtelná). To vedlo k vývoji zbraní větší ráže, které byly schopny zastavit nepřítele jedním výstřelem bez toho, aby ho musely nutně zabít.
+
+
+=== Dynamika střely ===
+Střela zničí nebo poškodí jakoukoliv tkáň, skrz kterou prochází a vytvoří střelný kanál. Dále způsobí roztažení přilehlých tkání, když prochází kolem nich. Tyto dva efekty se nazývají trvalá dutina (vytvoření dutiny vzniklé průletem střely) a dočasná dutina (dočasné posunutí tkáně stranou).
+Rozsah, ve kterém tyto dutiny vznikají, je závislý na váze, průměru, materiálu, tvaru a rychlosti střely. To je způsobeno tím, že střela tkáň nerozřízne, ale rozdrtí.
+Střely jsou konstruovány, aby se chovaly různými způsoby podle typu cíle. Mohou např. expandovat po dopadu do cíle; expandovat pouze při vysoké rychlosti; expandovat při určitém rozsahu dopadových rychlostí; může dojít ke fragmentaci při dopadu atd. Pro příklady střel a účelu jejich použití viz projektil.
+
+
+=== Fyzický efekt ===
+
+
+==== Trvalá dutina ====
+Dočasná a trvalá dutina (v angličtině permanent a temporary cavity) mají rozdílný biologický efekt. Efekt trvalé dutiny je zřejmý. Díra skrz srdce mu znemožní pumpovat krev, případně způsobí srdeční zástavu. Díra v mozku způsobí okamžité bezvědomí a pravděpodobně i smrt. Díra skrz svaly na ruce nebo na noze způsobují pouze velkou bolest. Ke smrti většinou nevedou, není-li zasažena některá z velkých cév a je-li dostatečně rychle poskytnuto lékařské ošetření.
+Schéma zranění, na kterém je ilustrováno, co je to trvalá a dočasná dutina.
+
+
+===== Zásah kosti =====
+Při zásahu kosti často dochází k jejímu rozpadu na úlomky, které získají zásahem střely vlastní hybnost. Je to jakýsi mini výstřel z brokovnice, protože každý z těchto úlomků může procházet okolními tkáněmi a ničit je.
+
+
+===== Zásah orgánů centrální nervové soustavy =====
+Jediným způsobem jak zcela zastavit útočící osobu nebo zvíře je poškodit nebo zničit jeho centrální nervový systém natolik, že ho to paralyzuje, ztratí vědomí nebo zemře. Tohoto může střela dosáhnout přímo nebo nepřímo.
+Buď může střela přímo zasáhnout mozek nebo páteř, což je ale díky jejich malé velikosti celkem obtížné. Nebo může poškodit kardiovaskulární systém natolik, že neposkytuje mozku dostatek kyslíku a útočník upadne do bezvědomí. (Pokud je mozek zcela odříznut od přívodu krve, tak je člověk schopen vědomé aktivity pouze 10 s, přičemž efektivita této aktivity se postupně snižuje.)
+
+
+===== Zásah srdce a hlavních cév =====
+Co se týče následků, tak je jedno, dojde-li k zasažení srdce nebo hlavních tepen, které z něj v hrudníku vycházejí. Vždy to má za následek zastavení přísunu okysličené krve do mozku. Bezvědomí nastává za 10-15 s, smrt během několika minut. Vždy se jedná o smrtelná zranění, protože krvácení probíhá uvnitř dutiny hrudní, takže je prakticky nemožné na ně přiložit nějaký tlakový obvaz.
+
+
+===== Zásah plic =====
+Při zasažení plic mohou nastat zejména dvě věci. Poruší se vzduchotěsnost dutiny kolem plíce, která se pak nemůže roztahovat a smršťovat. Dále se mohou ve velkém rozsahu porušit cévy zásobující plíce krví (plíce jsou velmi bohatě prostoupeny cévami). Krev plíce zaplaví a nemůže se do nich pak dostat vzduch. Oboje má za následek udušení.
+
+
+==== Dočasná dutina ====
+Efekt dočasné dutiny není ještě tak dobře prozkoumaný. To je způsobeno nedostatkem materiálu, podobného živým tkáním, na kterých by se dal testovat. Pravděpodobně ale vznikne něco podobně závažného jako například odřeniny. Za to může vysoká elasticita tkání různých orgánů (výjimkou jsou játra a mozek, kde jsou tkáně křehčí a tudíž zde dočasná dutina může napáchat mnohem větší poškození). 
+Rychlost střely je velmi důležitá. Zranění nožem nebo kopím nebude mít dočasnou dutinu. Zranění kulkou ano, vzhledem k větší rychlosti střely. Americká armáda vyzkoušela, že velikost dočasné dutiny je v poměru ke kinetické energii střely, která je v poměru k její rychlosti. V jednoduchém vyjádření malá rychlá střela udělá větší dočasnou dutinu než velká a pomalá.Podle některých spekulací by mohla mít vliv na nervy, čímž by mohlo dojít k dočasnému omráčení účastníka. To však ale ještě nebylo věrohodně prokázáno. Výjimkou je, pokud nějaká výjimečně silná dočasná kavitace zasáhne páteř. Mohla by pohnout s obratli, což by mohlo mít efekt na míchu ústící do paralyzace útočníka.
+Ještě by bylo dobré zmínit, že ve skutečnosti zásah člověka neodmrští, jak se to často děje ve filmech. Ve skutečnosti, síla působící na zasaženého člověka není větší než zpětný ráz zbraně, z níž bylo vystřeleno. Hybnost vypálené střely je totiž v porovnání s hmotností lidského těla zanedbatelná.
+
+
+==== Traumatický šok ====
+Traumatický šok je velmi žádaný účinek na zvěř při střelbě nejobvykleji používanými kulovnicemi. Tento stav je u zvěře vyvolaný mimovolnou reakcí zasaženého organismu, jejímž výsledkem je nadměrné podráždění nervové soustavy, prudká deprese všech životních pochodů, velký pokles krevního oběhu, překrvení a otok jater, plic a mozku a katastrofální snížení krevního tlaku. Všechny tyto změny jsou provázeny okamžitou ochablostí svalstva. Smrt způsobená traumatickým šokem přichází o něco později, ale rychle. Její bezprostřední příčinou je nedostatek kyslíku v mozku vyvolaný přerušením krevního oběhu. Jedině traumatický šok dává předpoklad k rychlému a bezbolestnému usmrcení zvěře, jestliže střela nezasáhla přímo některý z životně nejdůležitějších orgánů: srdce, mozek, míchu. Aby bylo dosaženo vyřazení celého nervového systému, musí střela proniknout z boku celé tělo zvěře (nebo uvíznout v druhé straně). Právě z tohoto důvodu je velmi důležité střílet na zvěř stojící k lovci bokem (naplocho), protože jenom tak se naruší celý nervový systém v obou částech těla podle roviny symetrie, která probíhá podélnou osou těla. Součástí traumatického šoku je i hypovolemický tzv. pokrvácivý šok, která vzniká při nadměrných krevních ztrátách poraněním velkých cév a krevnatých orgánů. Prakticky může nastat určitá pohybová aktivita zvěře, kterou jsme popsali jako „malá schopnost pohybové aktivity do 10-15 metrů“ a případy, kdy schopnost pohybu je zachována, „zvěř odbíhá na více než 15 metrů“. V malém procentu případů se po určité krátké latenci bezvědomí zvěř znovu probere k vědomí a musí být dostřelena na místě.
+
+
+=== Psychologický efekt ===
+Věci jako je např. emocionální šok nebo překvapení mohou u člověka vyvolal mdloby, útěk nebo vzdání se. Omdlení z psychických důvodů (ne samotná fyzikální síla střely) je pravděpodobně zdůvodněním pro většinu případů zastavení útočníka jedním výstřelem. Jsou zadokumentovány případy, kdy člověk okamžitě omdlel, i když byla zasažena pouze okrajová část jeho těla nebo ho střelec dokonce minul a tudíž nedošlo vůbec ke zranění. Na psychickém stavu člověka se samozřejmě také podepíše velmi hlasitá rána, která se ozve při výstřelu a případně z některých zbraní i zášleh z hlavně. Dalším psychologickým faktorem je bolest. Působení bolesti samo o sobě může stačit k tomu, aby útočník zanechal dalšího útoku.
+Problém ale nastává u lidí pod silným vlivem alkoholu nebo jiných návykových látek. U nich se nemusí psychologické efekty vůbec vyskytnout. Jsou zaznamenány i případy, kdy silně opilý útočník pokračoval v útoku i přesto, že byl několikrát zasažen střelbou a každá z ran sama o sobě byla smrtelná (po několika desítkách sekund samozřejmě zemřel, ale to je dostatečně dlouhý čas na to, aby mohl dokončit útok). Podobný efekt může také nastat, působí-li na útočníka silné emoce jako například hněv. U zvířat jsou psychologické efekty slabší než u lidí. Nicméně i zde je statisticky prokázáno, že zvěř zasažená v klidu se "láme v ohni" výrazně spolehlivěji, než zvěř, která se má na pozoru.
+
+
+=== Další okolnosti, které by mohly mít vliv na zastavovací efekt ===
+Existuje více okolností, které by mohly mít vliv na zastavovací efekt, než jen ty výše zmíněné. Problém s jejich prokázáním je v tom, že vědecké znalosti nejsou na dostatečně vysoké úrovni, aby dokázaly některé jevy změřit nebo nasimulovat.
+Jedná se zejména o hydrostatický šok – při průletu střely tkáněmi se od místa průletu střely šíří tkáněmi tlaková vlna, která působí další poranění.
+
+
+== Vlastnosti různých nábojů z hlediska terminální balistiky ==
+
+
+=== Hloubka penetrace ===
+Hloubka penetrace je velmi důležité hledisko. Aby došlo k poškození životně důležitých orgánů, musí být střela schopná proniknout dostatečně hluboko. Ale pokud by byla hloubka příliš velká a ve většině případů docházelo k prostřelení, tak to znamená, že střela má příliš velkou energii, než by bylo potřeba (což může ústit např. v nepříznivě velký zpětný ráz nebo v potřebu použít na konstrukci zbraně více materiálu, čímž se stává těžší), případně může dojít k poranění osob nebo poškození věcí nacházejí se za cílem střelby.
+Pokud se např. střílí z boku a střela nejdříve projde přes paži, je k průniku střely až do srdce potřebná hloubka penetrace 10-12 palců. Při střelbě do břišní dutiny z přední strany je třeba přibližně 7 palců k tomu, aby došlo k zasažení hlavních cév nacházejících se v zadní části břišní dutiny.Požadavek FBI na hloubku penetrace je 12 až 18 palců (305 až 457 mm).
+Na hloubku penetrace má negativní vliv použití expanzivní střely. Problém je v tom, že k její expanzi spolehlivě dochází jen asi v 60-70 % případů.
+
+
+=== Vhodnost konkrétních nábojů pro zastavení útočníka ===
+
+
+==== Marshallův index ====
+Jedná se o statistiku z reálných ozbrojených střetnutí prosazovanou Evan P. Marshall. Udává, v kolika procentech případů stačí k zastavení útočníka pouze jeden výstřel nábojem dané ráže.
+
+
+==== Kneubühl ====
+Jedná se o klasifikaci z roku 1933. Požadavky podle pana Kneubühla splňuje následující střelivo: 9 mm Browning, .32 HR Magnum, 9 mm Makarov, 7,65 Parabelum, 9 mm Police, .38 Spec, .44 Spec, 9 mm Ultra, .45 Colt, 9 mm Parabelum, .45 ACP, 9 m Steyer, .40 SW, 9x22 IMI, .38 Super Auto, .357 Magnum, 10 mm Automatic, .44 Magnum, .45 Win. Magnum.
+
+
+==== RSP - Relative Stopping Power ====
+RSP = q*v*F*k kde q – hmotnost střely v grainech, v – počáteční rychlost střely ve stopách za sekundu, F – průřez střely v palcích, k – součinitel tvaru střely v rozmezí 0,9-1,2. Pro civilní obranu by měla být jeho hodnota 15 a vyšší. To jen tak tak splňuje 9 mm Browning.
+
+
+==== TKO - Taylor Knock Out Index ====
+Používá se u loveckých zbraní a nábojů, zejména pro lov velké (africké) zvěře. Vzorec TKO=m.v.p./7000 … m – hmotnost střely v grainech (15,4 gr = 1 g), v – rychlost střely v ft/s (1 ft/s = 3,3 m/s), p – průměr střely v palcích (1 in = 25,4 mm). Doporučená minimální hodnora TKO je 15 – pro srnce, 30 – pro sele, lončáka prasete divokého, kamzíka, 40 – pro dospělou černou zvěř, jelena, daňka muflona.
+
+
+=== Schéma zranění způsobená střelami různých nábojů ===
+.38 Special 110gr +P JHP (Fired from 2-inch Barrel)
+.38 Special 158gr +P Lead Semi-Wadcutter Hollowpoint (LSWCHP) FBI Load (Fired from 4-inch Barrel)
+9mm (9x19mm) US Military M882 Ball (124gr FMJ) 
+.357 Magnum 80gr Glaser Safety Slug 
+.357 Magnum 125gr JSP 
+.45 ACP 185gr Winchester Silvertip JHP (Fired from 4-inch Barrel) 
+.45 ACP 230gr FMJ RN 
+.22 Long Rifle 37gr LHP 
+.22 Long Rifle 40gr RNL 
+5.45 x 39mm Russian FMJ (AK-74) 
+.223 Remington 50gr JSP 
+5.56 x 45mm US Military M193 FMJ (M16A1) 
+5.56 x 45mm US Military M855 FMJ (M16A2) 
+7.62 x 39mm Russian FMJ (AK-47/SKS) 
+30-30 Winchester 170gr JSP 
+7.62 x 51mm US Military M80 FMJ (M14) 
+.308 Winchester 150gr JSP 
+12 Gauge Shotgun 1 oz. Rifled Foster Slug 
+12 Gauge Shotgun 1¼ oz. #4 Buckshot 
+
+
+== Související články ==
+Balistika
+Typy střel
+Palná zbraň
+
+
+== Externí odkazy ==
+Výpočet (kalkulačka) RSP
+Mýty o zastavovacím efektu
+Průlety střel želatinou – fotografie – anglicky
+Terminální balistika střel různých nábojů při průletu barely s vodou.
+
+
+== Reference ==
+V tomto článku byly použity překlady textů z článků Terminal ballistics na anglické Wikipedii, Stopping power na anglické Wikipedii a Manstopper na anglické Wikipedii.
+http://www.buchtik.eu/Revo/Jak/jak_ucinek.htm

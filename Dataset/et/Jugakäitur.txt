@@ -1,0 +1,19 @@
+Jugakäitur ehk veepaiskur ehk vesiturbiin on veesõiduki keret pikisuunas läbivas torus asuva turbiinpumbaga käiturseade, mille tekitatava veejoa jõud paneb veesõiduki liikuma.
+
+
+== Kirjeldus ==
+Jugakäituri toru sisendava asub reeglina veesõiduki kere põhja all (tavaliselt kaetud restiga, takistamaks risu imemist turbiini) ja väljundava ahtris allpool veeliini. Peamasina abil käitatav turbiin (või harvem surugaas) paneb veetorus vee kiiresti liikuma, paisates kerest välja veejoa. Väljuva veejoa suunda muudetakse kas 
+1) rooliga – suunab juga kas otse või vasakule või paremale (veesõiduk liigub edasi, pöörab soovitud suunas); või 
+2) siibritega – suunavad-põrgatavad joa kas võrdselt külgedele (veesõiduk seisab) või piki põhja tagasi (veesõiduk liigub tagasi). 
+Jugakäituri eelis on madalas vees hõlpsam ja käiturile ohutum liikumise võime, hea manööverdusvõime ja suure kiiruse arendamise võime. Puuduseks on jõuseadme suurem ressursikulu ning süsteemi keerukam hooldus ja remont. 
+Jugakäituriga veesõidukiga manöövrite tegemine erineb kuigipalju tavalisest sõukruvi ja tüüriga manöövritest, nõudes laevajuhilt eelnevat harjutamist või vähemalt läbiproovimist.
+
+
+== Vaata ka ==
+Põtkur
+Jett
+Reaktiivmootor
+
+
+== Välislingid ==
+Mereviki

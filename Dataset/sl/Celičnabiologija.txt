@@ -1,0 +1,19 @@
+Celična biologija (ali biologija celice) (nekdaj citologija) je veda, ki raziskuje ultrastrukturno in molekulsko zgradbo ter delovanje celic. Razvila se je v drugi polovici dvajsetega stoletja. Poleg različnih tipov svetlobnih mikroskopov se v celični biologiji uporabljajo tudi elektronski mikroskopi, molekulske in biokemijske metode ter mnoge druge sodobne metode. Nekateri celično biologijo imenujejo citologija, ki ima danes drug pomen.
+
+
+== Zgodovina ==
+Citologija temelji na raziskovanju z mikroskopom, zato je razvoj te vede tesno povezan z razvojem mikroskopa.
+
+
+=== Razvoj mikroskopa ===
+Prvi mikroskop sta leta 1595 izdelala Hans in Zacharias Janssen. Odkrila sta , da 2 leči, pravilno nameščeni povečata sliko več kot ena sama. Povečava njunega mikroskopa je bila 9x.
+Izboljšavo mikroskopa je v 17. stoletja izdelal Anglež Robert Hook (1635-1703). Pod mikroskopom je Opazoval pluto, ki ga je spominjala na celice menihov v samostanu in jih poimenoval celula - celice. Leta 1665 je izdal delo Micrographia.
+Antonio van Leeuwanhooke (1632-1683) izdela mikroskop z eno samo lečo, ki ima povečavo do 200x. Z njimi je opazoval praživali, bakterije in alge, za vsako vrsto opažanja pa je izdelal nov mikroskop, tako da jih je skupno izdelal prek 500.
+
+
+=== Celična teorija ===
+Leta 1838 in 1839 sta dva nemška znanstvenika neodvisno drug od drugega postavita temelje celične teorije. Botanik Matthias Schleiden je trdil, da ima vsaka celica dvoje življenj: svoje lastno, hkrati pa prispeva k življenju osebka, katerega del je. Zoolog Theodor Schwann pa je leto kasneje enako potrdil tudi za živali. 
+Celična teorija pa pravi, da:
+
+je celica temeljna gradbena in dejavna enota živih bitij.
+delitev celic omogoča prenos dednih informacij iz materinske na hčerinsko celico.

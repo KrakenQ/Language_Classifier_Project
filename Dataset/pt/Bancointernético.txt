@@ -1,0 +1,47 @@
+Banco internético (do inglês Internet banking), e-banking, banco online, online banking, às vezes também banco virtual, banco eletrônico ou banco doméstico (do inglês home banking), são termos utilizados para caracterizar transações, pagamentos e outras operações financeiras e de dados pela Internet por meio de uma página segura de banco. Isto é bastante útil, especialmente para utilizar os serviços do banco fora do horário de atendimento ou de qualquer lugar onde haja acesso à Internet. Na maioria dos casos, um navegador como o Internet Explorer ou o Mozilla Firefox são utilizados e qualquer conexão à Internet é suficiente. Não é necessário nenhum software ou hardware adicional.
+
+
+== Conveniência ==
+O número de clientes que vem escolhendo o banco internético (Internet banking) como sua forma preferida de lidar com as finanças vem crescendo rapidamente. Muitas pessoas apreciam sua conveniência. O Internet banking usualmente oferece funções como pagamentos de contas eletrônicos e transferência de seus status da conta para um programa pessoal de finanças (como o MS Money ou o Kmymoney). Há um número crescente de bancos que operam exclusivamente em linha, porque isto tem um custo menor comparado aos custos dos bancos tradicionais. Sendo assim, eles podem oferecer melhores taxas de interesse.[carece de fontes?]
+
+
+== Segurança ==
+A proteção por autenticação de senha simples, como é o caso da segurança em muitas páginas de compra em linha, não é considerada segura o suficiente para aplicações bancárias na maior parte dos países. As interfaces de Internet banking são páginas seguras, em geral usando o protocolo HTTPS e o tráfego de toda a informação - incluindo a senha - é encriptado, tornando quase impossível uma terceira pessoa obter ou modificar a informação depois de enviada. Entretanto, a criptografia por si só não elimina a possibilidade de crackers ganharem acesso a computadores domésticos vulneráveis e interceptação de senhas enquanto estão sendo digitadas (keylogging). Há também o perigo de quebra de senhas e roubo destas quando escritas em papéis por usuários descuidados.
+Grande parte dos bancos internéticos impõem ainda uma segunda camada de segurança. As estratégias variam, mas um método comum é o uso de números de transação (ou TANs, TransAction Numbers), que são essencialmente senhas de uso único. Outra estratégia é o uso de duas senhas, apenas partes aleatórias do que é entrado no começo de cada sessão de Internet banking. Isto é, entretanto, menos seguro que a estratégia TAN e mais inconveniente para o usuário. Uma terceira opção que está se tornando popular é prover aos clientes leitores de cartões com chip capazes de gerar senhas únicas do cartão. Outra opção é usar certificados digitais, que digitalmente assinam ou autenticam as transações, enlaçando-as ao dispositivo físico (como computadores e telefones celulares). Nos Estados Unidos, entretanto muitos sítios de banco ainda usam segurança por senha simples.
+No Brasil, alguns bancos, como o Bradesco têm feito uso de um cartão com diversas senhas impressas, em cujo sítio o usuário entra digitando uma delas, conforme solicitado.
+
+
+== Limitações dos Bancos Virtuais ==
+Com um banco dependente inteiramente em serviços disponibilizados online existe o requisito essencial do domínio de tecnologias de acesso à www. Assim, existirá desde logo um limite de idades no segmento de clientes. Se por um lado a idade mínima de 18 anos não sofrerá alterações a idade máxima já será mais reduzida uma vez que as gerações mais idosas apresentam maiores dificuldades com as tecnologias de informação, pelo que poderemos definir uma idade média limite de 40 anos.
+Outro factor decorrente da necessidade de domínio das tecnologias de informação prende-se com o nível de desenvolvimento do mercado em que o banco actua. Regiões com um menor grau de iliteracia e com dificuldades de acesso à internet serão mais difíceis de atingir, limitando assim o mercado alvo de um banco virtual.
+Num banco virtual não existe o apoio físico de uma pessoa. Assim a análise a efectuar sobre os diversos serviços disponibilizados será efectuada individualmente. Tendo em conta esta característica o grau intelectual necessário do cliente alvo terá de ser superior ao banco típico uma vez que terá de possuir não só um maior grau de conhecimento sobre produtos financeiros, como uma maior facilidade de aprendizagem.
+Os fornecedores na sua maioria serão os mesmos que os dos bancos tradicionais, no entanto existem uma dependência elevada no fornecedor de desenvolvimento do portal da web. Na realidade o principal veículo de troca de informações está dependente de um único fornecedor. Qualquer tipo de dependência num único fornecedor é sempre um possível foco de instabilidade futura por parte de uma empresa.
+Na distribuição está um dos senãos mais comummente apresentados aos bancos virtuais, a falta de relação directa e pessoal entre quem oferece o serviço e quem usufrui. Aqui são levantadas questões ao nível da confiança que qualquer consumidor terá. É mais fácil confiar as nossas poupanças a uma "cara" do que a um computador. Claro que a presença física de uma pessoa não é condição para uma maior seriedade do negócio no entanto estamos a falar de seres humanos que dependem fortemente de uma componente emotiva e sentimental.
+Já nos serviços de assistência e pós-venda encontramos maiores dificuldades por parte de quem o presta, uma vez que não é presenciado. Embora sejam utilizadas ferramentas para suprir a falta de presença física de um assistente, nomeadamente através de call center e live chat, é mais difícil aceder às dúvidas dos consumidores principalmente em temáticas financeiras que acarretam normalmente uma elevada complexidade.
+O principal meio de comunicação de um banco virtual é através do seu portal. Tal como já foi referido anteriormente não existe um apoio no processo de análise do consumidor aos serviços disponibilizados pelo banco. Assim a comunicação no portal terá de ser bastante complexa de forma a poder abordar todas as questões e todos os produtos fornecidos. Desta forma os meios privilegiados de comunicação são de uma maior complexidade e sofisticação originando uma maior dificuldade por parte do cliente no processo inicial. Esta característica levantada poderá implicar um afastamento deste tipo de serviços devido a "assustar" o cliente com o grau de dificuldade.
+Uma outra questão de salientar prende-se com a capacidade da força de vendas. Caso exista o interesse por parte de um cliente em aderir a um determinado banco, tipicamente efectuará uma visita a uma sucursal de forma a obter informações específicas. Assim o primeiro contacto é acompanhado por um assistente que disponibilizará todo o tipo de esclarecimentos necessários. Mesmo que não exista desde logo a celebração do "contrato" ficará registado o contacto do cliente (normalmente através de uma plataforma CRM para futuros contactos). Esta possibilidade já será mais difícil de ser efectuada num banco virtual, uma vez que os contactos são efectuados tipicamente através de consulta do portal do banco não deixando qualquer registo para um posterior contacto/acompanhamento.
+
+
+== Fraudes ==
+Alguns clientes evitam o Internet banking porque supõem (na maior parte das vezes, erradamente) que este é muito vulnerável a fraudes. As medidas de segurança empregadas pelos bancos nunca serão 100% seguras, mas na prática o número de vítimas de fraude - devido a problemas do banco, e não do cliente - é muito pequeno. Na verdade, práticas do sistema bancário convencional tendem a ser mais fraudulentas do que o Internet banking. Fraudes de cartão de crédito, assinaturas falsas e roubo de identidade são crimes muito mais comuns do que fraudes eletrônicas. As transações bancárias são em geral rastreáveis e as penalidades criminais por estas fraudes são altas. O Internet banking pode ser mais inseguro se os usuários são descuidados ou analfabetos digitais. Um crescente número de práticas criminosas é usar-se de phising para acessar a conta do usuário, o que consiste em persuadir o usuário para que este dê a sua senha ao fraudador de dados (cracker).
+Existem sítios especializados no combate a fraudes, como o "Monitor das Fraudes" (http://www.fraudes.org), contendo informações completas sobre o assunto.
+
+
+== Sigla de segurança ==
+No Brasil, em 2008, foi criada a extensão "b.br". Se for digitado "www.NOMEDOSEUBANCO.b.br", isto encaminhará o usuário para o site correto de seu banco.
+
+
+== A banca electrónica em Portugal ==
+Em Portugal, o “pontapé de saída” da banca electrónica foi dado pelo BCP, em 1997, com a disponibilização de um portal onde era possível efectuar alguns dos serviços até então apenas disponíveis nas suas agências. Tal passo foi dado apenas 2 anos depois da disponibilização do sítio institucional do banco na Internet, então apenas para consulta de informações para clientes e potenciais clientes. 
+Seguiram-se os restantes bancos, em Portugal, com destaque para o BES (actual NOVO BANCO) que lançaria a sua plataforma, o Besnet, ainda em 1997.
+
+
+== Referências ==
+
+LIMEIRA, Tania. E-marketing na internet com casos brasileiros. 2° edição,Ed saraiva, 2007, São Paulo.
+
+
+== Ver também ==
+Banco móvel
+Caixa eletrônico
+Pagamento móvel

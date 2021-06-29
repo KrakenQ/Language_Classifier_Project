@@ -1,0 +1,17 @@
+Efektiivsuse suhtarvud e indikaatorid (inglise keeles liquidity ratios) on ettevõtte likviidsuse hindamiseks kasutatavad suhtarvud. Levinumad likviidsuse suhtarvud on:
+
+Raha keskmine laekumisperiood
+Lühiajalise võlgnevuse kattekordaja
+Lühiajalise võlgnevuse käibekordaja
+Kaubakäive
+Koguvara käive
+
+
+== Vaata ka ==
+Finantsanalüüs
+Likviidsus
+Lühiajaline võlgnevus
+Maksevõime suhtarvud
+
+
+== Viited ==

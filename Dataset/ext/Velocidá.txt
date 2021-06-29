@@ -1,0 +1,57 @@
+La velocidá es una magnitú física de carácter vectorial que relaciona el cambiu de posición (o desplazamientu) con el tiempu. Se representa con: 
+  
+    
+      
+        
+          v
+        
+        
+      
+    
+    {\displaystyle \mathbf {v} \,}
+  o   
+  
+    
+      
+        
+          
+            
+              v
+              →
+            
+          
+        
+        
+      
+    
+    {\displaystyle {\vec {v}}\,}
+  (en l'escritura manuscrita). En análisis dimensional las sus dimensionis son [L]/[t]. La su unidá en el Sistema Internacional d'Unidáis es el metru por segundu (símbolu, m/s).
+En virtú del su carácter vectorial, pa definil la velocidá debi consideralsi la direción del desplazamientu y el módulu, el cual se denomina celeridá o rapidez.
+
+
+== Guípesi tamién ==
+Aceleración
+Cinemática
+Velocidá angular
+Nirgía cinética
+
+
+== Huentis ==
+
+
+=== Notas ===
+
+
+=== Referéncias ===
+
+
+=== Bibliografía ===
+Ortega, Manuel R. "Lecciones de Física (4 volúmenes)". (1989-2006). ISBN 84-404-4290-4, ISBN 84-398-9218-7, ISBN 84-398-9219-5, ISBN 84-604-4445-7
+Resnick, Robert & Halliday, David "Física 4ª". (2004). ISBN 970-24-0257-3
+Tipler, Paul A. "Física para la ciencia y la tecnología (2 volúmenes)". (2000). ISBN 84-291-4382-3}}
+Giancoli. "Física". (2006). ISBN 970-26-0776-0
+
+
+== Atijus ==
+Bureau International des Poids et Mesures - The International System of Mesures
+Definición de velocidá en el DRAE

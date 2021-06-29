@@ -1,0 +1,2 @@
+DIN 960 er en DIN-Standard for en bolt med metrisk fingevind.
+DIN 960 bliver erstattet af ISO 8765.

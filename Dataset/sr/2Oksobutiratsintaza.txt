@@ -1,0 +1,21 @@
+2-Oksobutirat sintaza (EC 1.2.7.2, alfa-ketobutirat-feredoksinska oksidoreduktaza, 2-ketobutiratna sintaza, alfa-ketobutiratna sintaza, 2-oksobutirat-feredoksinska oksidoreduktaza, 2-oksobutanoat:feredoksin 2-oksidoreduktaza (KoA-propionilacija)) je enzim sa sistematskim imenom 2-oksobutanoat:feredoksin 2-oksidoreduktaza (KoA-propanoilacija). Ovaj enzim katalizuje sledeću hemijsku reakciju
+
+2-oksobutanoat + KoA + 2 oksidovani feredoksin 
+  
+    
+      
+        ⇌
+      
+    
+    {\displaystyle \rightleftharpoons }
+   propanoil-KoA + CO2 + 2 redukovani feredoksin + H+
+
+
+== Reference ==
+
+
+== Literatura ==
+
+
+== Spoljašnje veze ==
+2-oxobutyrate+synthase на US National Library of Medicine Medical Subject Headings (MeSH)

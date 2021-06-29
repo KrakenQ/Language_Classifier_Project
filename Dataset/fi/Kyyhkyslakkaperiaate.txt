@@ -1,0 +1,93 @@
+Kyyhkyslakkaperiaate (engl. pigeonhole principle) on yksinkertainen menetelmä, jonka avulla voidaan ratkaista monia matemaattisia ongelmia. Sen taustalla on havainto kyyhkyslakkaan lentävästä parvesta: jos parvessa on enemmän kyyhkysiä kuin kyyhkyslakassa pesäkoloja, lentää johonkin pesäkoloon vähintään kaksi kyyhkystä. Kyyhkyslakkaperiaatetta kutsutaan myös lokero-, laatikko- ja pulunkoloperiaatteeksi.
+Kyyhkyslakkaperiaatteen ideaa on ilmeisesti käyttänyt ensimmäisenä saksalainen matemaatikko Johann Peter Gustav Lejeune Dirichlet (1805–1859) vuonna 1834, jolloin hän kutsui sitä lokeroperiaatteeksi (saks. Schubfachprinzip). Joissakin kielissä kyyhkyslakkaperiaate on nimetty Dirichlet’n mukaan. Esimerkiksi venäjän kielessä sen nimi on Dirichlet’n laatikkoperiaate (ven. принцип ящиков Дирихле).
+
+
+== Esimerkkejä ==
+Vaikka kyyhkyslakkaperiaate vaikuttaa triviaalilta havainnolta, sen avulla saadaan helposti aikaan hämmästyttäviä tuloksia. Sitä käyttämällä voidaan osoittaa todeksi esimerkiksi seuraava väite: Suomessa on ainakin 25 ihmistä, joilla on täsmälleen yhtä monta hiusta. Ihmisellä on tyypillisesti noin 150 000 hiusta ja enintään noin 200 000 hiusta. Täten tarvitaan 200 000 "laatikkoa", jotka numeroidaan arvoilla 0 – 199 999. Kukin Suomen asukas sijoitetaan siihen laatikkoon, jonka numero on sama kuin hänen hiusmääränsä. Koska Suomessa on yli 5 miljoonaa asukasta ja laatikkoja 200 000, on väistämättä oltava sellainen laatikko, jossa on ainakin 25 ihmistä.
+Hiukan monimutkaisempaa on osoittaa oikeaksi seuraava väite: viiden henkilön joukossa on vähintään kaksi henkilöä, joilla on täsmälleen yhtä monta tuttavaa tässä joukossa. Tuttavuus ymmärretään tässä molemminpuoliseksi. Satunnaisesti valitulla henkilöllä voi siten olla 0, 1, 2, 3 tai 4 tuttavaa. Koska tuttavuussuhteiden määristä muodostuu viisi lokeroa, näyttää siltä, että lokerot olisivat jaettavissa tasan viiden henkilön kesken, jolloin kyyhkyslakkaperiaatetta ei päästäisi käyttämään väitteen todistamiseen. Ongelma ratkeaa kuitenkin helposti, kun se jaetaan kahteen erilliseen tapaukseen. Tutkitaan ensin tapausta, jossa joku henkilö on kaikkien tuttava eli hänellä on neljä tuttavaa. Tällöin joukossa ei ole ketään jolla olisi nolla tuttavaa, jolloin lokeroiden määrä vähenee neljään. Jos taasen kukaan henkilöistä ei ole kaikkien muiden tuttava, joukossa ei ole ketään, jolla olisi neljä tuttavaa, jolloin lokeroiden määrä vähenee myös neljään. Kummassakin tapauksessa lokeroita on siis neljä ja henkilöitä viisi, joten kyyhkyslakkaperiaatteen nojalla johonkin lokeroon tulee vähintään kaksi henkilöä. Ongelma voidaan yleistää myös n henkilön tapaukseen, joka ratkeaa samalla menetelmällä.
+
+
+== Matemaattinen esitys ==
+Kyyhkyslakkaperiaate voidaan esittää matemaattisesti seuraavalla tavalla: Jos A ja B ovat äärellisiä joukkoja, #A > #B ja f on kuvaus A → B, niin joukossa A on alkiot x ja y, joille on x ≠ y ja f(x) = f(y). Näin todella on, sillä muutoin f olisi injektio ja olisi #A ≤ #B.
+
+
+== Yleistyksiä ==
+Kyyhkyslakkaperiaate voidaan yleistää seuraavasti: jos n esinettä pannaan m laatikkoon, niin ainakin yhdessä laatikossa on vähintään ⌈n/m⌉ esinettä, missä ⌈...⌉ on kattofunktio.
+Todennäköisyyslaskennassa kyyhkyslakkaperiaatteen yleistys on: jos n kyyhkystä pannaan satunnaisesti m koloon todennäköisyydellä 1/m, niin ainakin yhdessä kolossa on enemmän kuin yksi kyyhkynen todennäköisyydellä
+
+  
+    
+      
+        1
+        −
+        
+          
+            
+              m
+              !
+            
+            
+              (
+              m
+              −
+              n
+              )
+              !
+              
+              
+                m
+                
+                  n
+                
+              
+            
+          
+        
+        =
+        1
+        −
+        
+          
+            
+              m
+              
+                
+                  n
+                  _
+                
+              
+            
+            
+              m
+              
+                n
+              
+            
+          
+        
+        ,
+        
+      
+    
+    {\displaystyle 1-{\frac {m!}{(m-n)!\;m^{n}}}=1-{\frac {m^{\underline {n}}}{m^{n}}},\!}
+  missä 
+  
+    
+      
+        
+          m
+          
+            
+              n
+              _
+            
+          
+        
+      
+    
+    {\displaystyle m^{\underline {n}}}
+   on laskeva kertoma. Kun n = 0 ja n = 1 (m > 0), niin todennäköisyys on nolla. Kun n > m, niin todennäköisyys on yksi, jolloin yleistys palautuu kyyhkyslakkaperiaatteen perusmuotoon.
+
+
+== Kirjallisuus ==
+Grimaldi, Ralph P.: Discrete and Combinatorial Mathematics: an Applied Introduction (4. painos, s. 244–248). 1998. ISBN 0-201-19912-2.

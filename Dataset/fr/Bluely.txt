@@ -1,0 +1,60 @@
+Bluely était un service d'autopartage mis en place par le groupe Bolloré dans la métropole de Lyon, qui a commencé le 10 octobre 2013 et été fermé le 31 août 2020.
+A sa fermeture, il comptait 227 véhicules et 100 stations.
+
+
+== Histoire ==
+La métropole de Lyon lance le 10 octobre 2013 un service de voitures 100 % électriques, baptisé « Bluely », financé entièrement par le groupe Bolloré. Ce service vient en complément de l'Autolib', renommé Citiz LPA en 2015, lancée cinq ans auparavant. Deuxième grande agglomération après celle de Paris (Autolib) à proposer un tel service, Bluely est mis en place sur Lyon et Villeurbanne. Dans un premier temps, 130 véhicules sont installés dans 50 stations. Leur nombre atteint 250 en 2014. À la différence d'Autolib à Paris qui est encadré par une délégation de service public (DSP), Bluely relève de l'initiative du groupe Bolloré. Différents abonnements sont disponibles : au mois (19,90 euros) ou à l'année (99 euros). De ces formules découlent le prix à l'utilisation entre neuf et six euros la demi-heure. Le service Bluely permet aussi de réserver une voiture ou une place de stationnement.
+Alors que le système se concentre sur les villes de Lyon et Villeurbanne lors de son ouverture, le service s'est étendu entre le mois de novembre 2014 et avril 2015 sur les communes suivantes : Bron, Champagne-au-Mont-d'Or, Caluire-et-Cuire, Tassin-la-Demi-Lune, Écully, Oullins, Vénissieux, Vaulx-en-Velin et Sainte-Foy-lès-Lyon. Cette première grande extension du réseau a permis la création de 49 nouvelles stations et la mise en circulation de 120 véhicules supplémentaires. Au total, le service est composé de 100 stations pour 250 véhicules.
+Depuis le 13 décembre 2016, une station est disponible à l'aéroport de Lyon-Saint-Exupéry,,,.
+Le 30 juillet 2020, Bluely annonce à ses utilisateurs l'arrêt de son activité dans la métropole de Lyon le 31 août 2020. Le manque de rentabilité du service, accentué par la crise du covid-19, est la principale raison avancée par le service. 
+
+
+== Dispositif ==
+
+
+=== Véhicules ===
+
+
+==== Bluecar ====
+
+Le véhicule utilisé par Bluely est la Bluecar, une voiture électrique produite par la société Batscap, filiale du groupe Bolloré et identiques à celles de l'Autolib' parisien. Il est équipé de batteries Lithium Métal Polymère fabriquées à Ergué-Gabéric (Bretagne) et de moteurs synchrones à aimants fabriqués à Angoulême par l’entreprise Leroy-Somer. L'autonomie annoncée est de 250 km en parcours urbain, pour une recharge moyenne effectuée en 4 heures. Le designer est l'italien Pininfarina, mais l'essentiel de la production est fait par la société "Cecomp".
+La Bluecar est un véhicule à trois portes et quatre places qui nécessite la possession d'un permis de conduire. La planche de bord est équipée d'un écran tactile spécifique, qui offre notamment à l'utilisateur le guidage GPS avec la possibilité de visualiser le nombre de places disponibles dans les stations Bluely, de créer un itinéraire vers sa station d'arrivée et d'y réserver une place de stationnement.
+
+
+==== Renault Twizy ====
+
+Avec son partenariat avec le groupe Renault, l'entreprise Bolloré propose aussi, depuis avril 2015, la location de 30 Renault Twizy pour compléter le parc de véhicules disponibles en location sur l'agglomération lyonnaise.
+
+
+=== Stations ===
+Les stations Bluely disposent de quatre à cinq places de stationnement et d'autant de bornes de charge. Chaque station est dotée d'une borne interactive à écran tactile permettant notamment à l'utilisateur de s'identifier et de rechercher les véhicules les plus proches si la station est vide.
+Certaines stations sont équipées d'un abri en verre situé sur le trottoir et sont alors appelées « Espaces Bluely », elles servent pour compléter un abonnement et scanner des papiers d'identité par vidéo-conférence. Il en existe neuf.
+L'arrivée de Bluely s'accompagne de la mise en place d'un réseau dense de bornes de charge pour véhicules électriques sur voirie. Ainsi, toutes les stations sont équipées d'une borne dédiée permettant la recharge simultanée d'un véhicule particulier et d'un deux-roues électriques, à condition de souscrire un abonnement Recharge spécifique.
+
+
+=== Tarifs ===
+Pour utiliser Bluely, l'inscription est obligatoire. Elle s'effectue sur internet, l'application Bluely ou en borne d'inscription. Le tarif inclut l'assurance, l'entretien et l'électricité.
+
+
+== Chiffres ==
+Depuis l'ouverture du service, 6 millions de kilomètres ont été parcourus en Bluely, soit 450 fois le tour de la Terre.
+
+
+== Notes et références ==
+
+
+== Voir aussi ==
+
+
+=== Articles connexes ===
+Autopartage en France
+Transports et communications à Lyon
+Vélo'v (système de vélos en libre-service de Lyon)
+Autolib' (Paris)
+BlueCub
+Bluecar
+Citiz LPA (autre système d'autopartage de Lyon)
+
+
+=== Liens externes ===
+Site officiel Portail de l’automobile   Portail de la métropole de Lyon   Portail des transports

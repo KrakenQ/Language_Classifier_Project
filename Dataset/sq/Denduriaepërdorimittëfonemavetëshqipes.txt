@@ -1,0 +1,5 @@
+Denduria e fonemave u nënshtrohet disa rregullsive të caktuara, të cilat përcaktohen nga karakteri i tyre fizik, reaksioni i veshit ndaj këtyre stimujve, si edhe nga shkalla e kompleksitetit të tyre. 
+Ndër fonemat e shqipes, zanoret zënë vendin e parë me 44,85% të tekstit, kurse bashkëtingëlloret si tërësi zënë 55,15% të tij. Nga këto del se koeficienti konsonantik i bashkëtingëlloreve të shqipes është 1,23. Gjatësia mesatare e një fjale në gjuhën tonë është afërsisht 4 fonema (3,97), ndërsa entropia është 1,67 bit.
+
+
+== Referimet ==

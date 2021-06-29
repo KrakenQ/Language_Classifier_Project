@@ -1,0 +1,20 @@
+Legenda: zač. ozn. - začasna prva oznaka asteroida; abs. mag. - absolutni izsev; 
+a - velika polos v astronomskih enotah; e - izsrednost tira;
+i - naklon tira v stopinjah; P - orbitalna perioda v letih; - Tip tel. - razvrstitev telesa v skupine: 
+AMR - Amorec,
+APL - Apolonec,
+ATN - Atonec,
+BIN - dvojni asteroid,
+CBW - kubevan,
+CNT - Kentaver,
+HLD - Hildški asteroid,
+JUT - Jupitrov Trojanec,
+MBA - asteroid glavnega pasu,
+NET - Neptunov Trojanec,
+PHA - potencialni nevarni asteroid,
+PLT - plutino,
+SDO - telo Kuiperjevega pasu,
+TNO - čezneptunsko telo,
+TNR - resonančno čezneptunsko telo.
+
+Podatki uporabljeni z dovoljenjem / Data used with permission © IAU: Minor Planet Center.

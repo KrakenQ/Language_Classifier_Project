@@ -1,0 +1,652 @@
+A mecánica hamiltoniana foi inventada en 1833 por Hamilton. Como a mecánica lagranxiana, é unha reformulación da mecánica clásica.
+
+
+== Características ==
+A mecánica hamiltoniana pode ser formulada por si mesma, usando os espazos simplécticos, sen referir a conceptos anteriores de forza ou da mecánica lagranxiana.
+Na primera parte do artigo, a modo de conexión, amósase como xorde historicamente do estudo da mecánica lagranxiana.
+Na mecánica lagranxiana, as ecuacións do movemento son dependentes das coordenadas xeneralizadas:
+qj para j=1... N (coordenadas de posición xeneralizada) e
+
+  
+    
+      
+        
+          {
+          
+            
+              
+                
+                  
+                    q
+                    
+                      j
+                    
+                  
+                  ˙
+                
+              
+            
+            
+              |
+            
+            j
+            =
+            1
+            ,
+            .
+            .
+            .
+            ,
+            N
+          
+          }
+        
+        .
+      
+    
+    {\displaystyle \left\{{\dot {q_{j}}}|j=1,...,N\right\}.}
+   (coordenadas de velocidade xeneralizada)escríbese o lagranxiano como
+
+  
+    
+      
+        L
+        (
+        
+          q
+          
+            j
+          
+        
+        ,
+        
+          
+            
+              
+                q
+                
+                  j
+                
+              
+              ˙
+            
+          
+        
+        ,
+        t
+        )
+        ,
+      
+    
+    {\displaystyle L(q_{j},{\dot {q_{j}}},t),}
+  coas variables anteriores representando todas as variables N dese tipo. A mecánica hamiltoniana apunta a substituír as variables xeneralizadas da velocidade polas variables xeneralizadas do momento, tamén coñecidas como momento conxugado. Para cada velocidade xeneralizada, hai un momento conxugado correspondente, definido como
+
+  
+    
+      
+        
+          p
+          
+            j
+          
+        
+        =
+        
+          
+            
+              ∂
+              L
+            
+            
+              ∂
+              
+                
+                  
+                    
+                      q
+                      
+                        j
+                      
+                    
+                    ˙
+                  
+                
+              
+            
+          
+        
+        .
+      
+    
+    {\displaystyle p_{j}={\partial L \over \partial {\dot {q_{j}}}}.}
+  nas coordenadas cartesianas, os momentos xeneralizados resultan ser os momentos lineais físicos. En coordenadas polares, o momento xeneralizado que corresponde á velocidade angular é o momento angular físico. Para unha elección arbitraria de coordenadas xeneralizadas, pode non ser posible obter unha interpretación intuitiva dos momentos conxugados. O hamiltoniano é a transformación de Legendre do lagranxiano
+
+  
+    
+      
+        H
+        
+          (
+          
+            
+              q
+              
+                j
+              
+            
+            ,
+            
+              p
+              
+                j
+              
+            
+            ,
+            t
+          
+          )
+        
+        =
+        
+          ∑
+          
+            i
+          
+        
+        
+          
+            
+              
+                q
+                
+                  i
+                
+              
+              ˙
+            
+          
+        
+        
+          p
+          
+            i
+          
+        
+        −
+        L
+        (
+        
+          q
+          
+            j
+          
+        
+        ,
+        
+          
+            
+              
+                q
+                
+                  j
+                
+              
+              ˙
+            
+          
+        
+        ,
+        t
+        )
+        .
+      
+    
+    {\displaystyle H\left(q_{j},p_{j},t\right)=\sum _{i}{\dot {q_{i}}}p_{i}-L(q_{j},{\dot {q_{j}}},t).}
+  Se as ecuacións da transformación que definen as coordenadas xeneralizadas son independentes de t, pode ser demostrado que H é a enerxía total E = T + V.
+Cada beira na definición de H produce un diferencial: 
+
+  
+    
+      
+        
+          
+            
+              
+                d
+                H
+              
+              
+                =
+              
+              
+                
+                  ∑
+                  
+                    i
+                  
+                
+                
+                  [
+                  
+                    
+                      (
+                      
+                        
+                          
+                            ∂
+                            H
+                          
+                          
+                            ∂
+                            
+                              q
+                              
+                                i
+                              
+                            
+                          
+                        
+                      
+                      )
+                    
+                    d
+                    
+                      q
+                      
+                        i
+                      
+                    
+                    +
+                    
+                      (
+                      
+                        
+                          
+                            ∂
+                            H
+                          
+                          
+                            ∂
+                            
+                              p
+                              
+                                i
+                              
+                            
+                          
+                        
+                      
+                      )
+                    
+                    d
+                    
+                      p
+                      
+                        i
+                      
+                    
+                    +
+                    
+                      (
+                      
+                        
+                          
+                            ∂
+                            H
+                          
+                          
+                            ∂
+                            t
+                          
+                        
+                      
+                      )
+                    
+                    d
+                    t
+                  
+                  ]
+                
+                
+                
+                
+                
+              
+            
+            
+              
+            
+            
+              
+              
+                =
+              
+              
+                
+                  ∑
+                  
+                    i
+                  
+                
+                
+                  [
+                  
+                    
+                      
+                        
+                          
+                            q
+                            
+                              i
+                            
+                          
+                          ˙
+                        
+                      
+                    
+                    d
+                    
+                      p
+                      
+                        i
+                      
+                    
+                    +
+                    
+                      p
+                      
+                        i
+                      
+                    
+                    d
+                    
+                      
+                        
+                          
+                            q
+                            
+                              i
+                            
+                          
+                          ˙
+                        
+                      
+                    
+                    −
+                    
+                      (
+                      
+                        
+                          
+                            ∂
+                            L
+                          
+                          
+                            ∂
+                            
+                              q
+                              
+                                i
+                              
+                            
+                          
+                        
+                      
+                      )
+                    
+                    d
+                    
+                      q
+                      
+                        i
+                      
+                    
+                    −
+                    
+                      (
+                      
+                        
+                          
+                            ∂
+                            L
+                          
+                          
+                            ∂
+                            
+                              
+                                
+                                  
+                                    q
+                                    
+                                      i
+                                    
+                                  
+                                  ˙
+                                
+                              
+                            
+                          
+                        
+                      
+                      )
+                    
+                    d
+                    
+                      
+                        
+                          
+                            q
+                            
+                              i
+                            
+                          
+                          ˙
+                        
+                      
+                    
+                    −
+                    
+                      (
+                      
+                        
+                          
+                            ∂
+                            L
+                          
+                          
+                            ∂
+                            t
+                          
+                        
+                      
+                      )
+                    
+                    d
+                    t
+                  
+                  ]
+                
+                .
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{matrix}dH&=&\sum _{i}\left[\left({\partial H \over \partial q_{i}}\right)dq_{i}+\left({\partial H \over \partial p_{i}}\right)dp_{i}+\left({\partial H \over \partial t}\right)dt\right]\qquad \qquad \quad \quad \\\\&=&\sum _{i}\left[{\dot {q_{i}}}dp_{i}+p_{i}d{\dot {q_{i}}}-\left({\partial L \over \partial q_{i}}\right)dq_{i}-\left({\partial L \over \partial {\dot {q_{i}}}}\right)d{\dot {q_{i}}}-\left({\partial L \over \partial t}\right)dt\right].\end{matrix}}}
+  substituíndo a definición anterior dos momentos conxugados nesta ecuación e emparellando coeficientes, obtemos as ecuacións do movemento da mecánica hamiltoniana, coñecidas como ecuacións canónicas de Hamilton:
+
+  
+    
+      
+        
+          
+            
+              ∂
+              H
+            
+            
+              ∂
+              
+                q
+                
+                  j
+                
+              
+            
+          
+        
+        =
+        −
+        
+          
+            
+              
+                p
+                
+                  j
+                
+              
+              ˙
+            
+          
+        
+        ,
+        
+        
+          
+            
+              ∂
+              H
+            
+            
+              ∂
+              
+                p
+                
+                  j
+                
+              
+            
+          
+        
+        =
+        
+          
+            
+              
+                q
+                
+                  j
+                
+              
+              ˙
+            
+          
+        
+        ,
+        
+        
+          
+            
+              ∂
+              H
+            
+            
+              ∂
+              t
+            
+          
+        
+        =
+        −
+        
+          
+            
+              ∂
+              L
+            
+            
+              ∂
+              t
+            
+          
+        
+        .
+      
+    
+    {\displaystyle {\partial H \over \partial q_{j}}=-{\dot {p_{j}}},\qquad {\partial H \over \partial p_{j}}={\dot {q_{j}}},\qquad {\partial H \over \partial t}=-{\partial L \over \partial t}.}
+  As ecuacións de Hamilton son ecuacións diferenciais de primeira orde, e por tanto máis doadas de solucionar que as ecuacións de Lagrange, que son de segunda orde. Non embargantes, os pasos que levan ás ecuacións do movemento son más dificultosos que en mecánica lagranxiana - comenzando coas coordenadas xeneralizadas e o lagranxiano, debemos calcular o hamiltoniano, expresar cada velocidade xeneralizada en termos dos momentos conxugados, e substituír as velocidades xeneralizadas no hamiltoniano polos momentos conxugados.
+En última instancia, producirá a mesma solución que a mecánica lagranxiana e as leis de Newton do movemento. A atracción principal do enfoque hamiltoniano é que proporciona a base para resultados máis profundos na teoría da mecánica clásica.
+
+
+== Formalismo matemático ==
+Se temos un espazo simpléctico, que está equipado naturalmente cun corchete de Poisson e unha función diferenciable H sobre ela, entón H define unha familia de transformacións uniparamétricas con respecto ó tempo e isto chámase mecánica hamiltoniana. En particular,
+
+  
+    
+      
+        
+          
+            ∂
+            
+              ∂
+              t
+            
+          
+        
+        f
+        =
+        {
+        f
+        ,
+        H
+        }
+        .
+      
+    
+    {\displaystyle {\frac {\partial }{\partial t}}f=\{f,H\}.}
+  así, se temos unha distribución de probabilidade, ρ, entón
+
+  
+    
+      
+        
+          
+            ∂
+            
+              ∂
+              t
+            
+          
+        
+        ρ
+        =
+        −
+        {
+        ρ
+        ,
+        H
+        }
+        .
+      
+    
+    {\displaystyle {\frac {\partial }{\partial t}}\rho =-\{\rho ,H\}.}
+  A isto chámaselle Teorema de Liouville. Cada función diferenciable, G, sobre a variedade simpléctica xera unha familia uniparamétrica de simplectomorfismos e se {G, h}=0, entón G consérvase e os simplectomorfismos son transformacións de simetría.
+
+
+=== Álxebras de Poisson ===
+Hai outra xeralización que podemos facer. En troques de mirar a álxebra de funcións diferenciables sobre unha variedade simpléctica, a mecánica hamiltoniana pódese formular nunha álxebra de Poisson real unital conmutativa xeral. Un estado é unha funcional lineal continua na álxebra de Poisson (equipada de algunha topoloxía conveniente) tales que para calquera elemento da álxebra, A, A^2 vai a ser un número real non negativo.
+
+
+== Véxase tamén ==
+
+
+=== Outros artigos ===
+espazo simpléctico.
+
+
+=== Ligazóns externas ===
+Weisstein, Eric W., "Hamiltonian"
+Rychlik, Marek, "Lagrangian and Hamiltonian mechanics -- A short introduction"
+Binney, James, "Classical Mechanics" (PostScript) lecture notes (PDF)

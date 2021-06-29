@@ -1,0 +1,4 @@
+Mozilla nie je le blós miono internetowégò przezérnika w skłôd chtërnégò wchôdô paczét programów, je to téż miono ùdbë namieniony dlô ji ùsôdzeniégò. 
+Przezérnik je darmôk ë òpiarti na licencëji MPL(Mozilla Public License). Wspiérô wnetka wszëtczé nônowszé internetowé sztandardë ùgòdzoné przez W3C (World Wide Web Consortium) np.: XHTML 1.x, HTML 4, DOM, XML, CSS, CSS2 ..., co dôwô baro wiôlgą pòprôwnosc wëskrzëwónëch starn.
+Slédnô sztabilnô wersëjô, z 21 séwnika 2006 rokù, to 1.7.12 ë je òna slédną jakô òstała wëpùszonô z mionã Mozilla. 
+Nôslédné wersëje bãdą ju wëchôdac jakno SeaMonkey. Rega 1.7.x Mozillë mô dali le blós wspiarce òd startne bezpiekù przezérnika.

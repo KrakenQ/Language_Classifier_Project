@@ -1,0 +1,44 @@
+Virülans, bir mikrobun patojenliği, yani onun hastalığa neden olma yeteneğidir. Patojenlik terimi mutlak anlamda hastalığa neden olma yeteneği için kullanılır, virülans ise bir patojenin ne derecede hastalık yapabileceğini ifade etmek için kullanılır. Virülansın sıfat hali virülandır (Latince virulentus, "zehir dolu" ). Ekolojik bir bakış açısıyla virülans, bir parazitin neden olduğu, konak organizmadaki evrimsel uyum azalmasıdır.
+
+
+== Virülan bakteriler ==
+Bakterilerin hastalığa yol açma yeteneğini belirleyen faktörler, enfeksiyon yapan bakteri sayısı, vücuda giriş yolu, konak organizmanın savunma mekanizmalarının etkisi ve virülans denen, bakterinin kendine has özelliklerdir. Bazen konak organizmanın savunma mekanizmaları enfeksiyonu engellerken konak dokulara da zarar verebildiği için, konak aracılıklı patogenez de önemli olabilir.
+
+
+=== Hastalık mekanizmaları ===
+Patojen organizmalar çeşitli mekanizmalarla hastalığa yol açabilirler.
+
+Adhezyon (yapışma). Çoğu bakteriyel hastalığın ilk aşaması bakterinin hücre yüzeyine bağlanmasıdır. Bakterilerin konak hücrelere bağlanmasıyla ilişkili pek çok bakteriyel ve konak molekülün kimliği belirlenmiştir. Çoğu bakterinin bağlandığı reseptör konak hücrenin normal işlevleri için gereklidir.
+Kolonizasyon. Bazı virülan bakteriler konağın vücudunun belli bölgelerini işgal edebilmek için özel proteinler salgılarlar.  Helicobacter pylori insan karnındaki asit ortamda yaşayabilmek için üreaz enzimini salgılar. Mide çeperinin bu bakteri tarafından kolonileştirmesi mide ülseri ve kansere yol açar. Çeşitli Helicobacter pylori suşlarının virülansı, salgıladıkları üreaz enzimi ile ilintilidir.
+İstila. Bazı virülan bakteriler konak hücre zarını bozar veya bakterinin konak hücre içine endositoz ile alınmasına neden olur. Bu virülans faktörleri bakterinin konak hücrelerin içine girmesini sağlar, böylece vücudan yüzeyindeki epitel doku yoluyla bakterinin vücudun içine girmesi mümkün olur.
+İmmün tepki inhibitörleri. Çoğu bakteri, konak organizmanın bağışıklık siteminin işleyişini bozan virülans faktörleri üretir. Örneğin, yaygın bir bakteriyel strateji, konak organizmanın antikorlarına bağlanan proteinler salgılamaktır. Streptococcus pneumoniae 'ın polisakkarit kapsülü, bakterinin konak immün hücreleri tarafından fagositoz olmasını engeller.
+Toksinler. Çoğu virülans faktörü, konak hücreleri zehirleyip doku zararına neden olan proteinlerdir. Örneğin, insan gıdalarına bulaşan bakteriler tarafından salgılanan çeşitli gıda zehirlenmesi toksinleri vardır. Bunların bazıları "bozulmuş" gıdaları pişirildikten sonra imha olmazlar ve gıdanın yenmesiyle hastalığa yol açarlar.
+
+
+== Virülan virüsler ==
+Viral virülans faktörleri enfeksiyona neden olurlar ve meydana gelen viral hastalığın ciddiliğini belirlerler. Çoğu Virüs konak hücrelerde spesifik olarak bağlandıkları reseptör proteinlere gerek duyar. Tipik olarak bu konak proteinleri endositoz yoluyla hücre içine alınırlar ve onlara bağlı olan virüsler de böylece hücre içine girer. AIDS hastalığının etkeni HIV gibi virülan virüslerin konak savunma sistemlerinden kaçınmak için mekanizmaları vardır. HIV, Yardımcı T-lenfosit hücrelerini enfekte ederek konağın adaptif bağışıklık sistemini zayıflatır ve sonunda konakta immün yetmezlik oluşmasını sağlar. Ölüm genelde bağışıklık sisteminin AIDS virüsü tarafından bozulmasınin bir sonucu olarak oluşan fırsatçı enfeksiyonlardan dolayı olur. Bazı viral virülan faktörleri ise, ateş gibi, konağın savunma amaçlı enflamasyon tepkileri sırasında çoğalma yeteneğini verir. Çoğu virüs konak içinde uzun bir dönem bir zarara neden olmadan varlıklarını sürdürebilir. Aşırı virülan virüslermutasyon ve doğal seleksiyon sonucu konak içindeki viral popülasyon içinde evrimleşirler.
+Nörovirülan terimi, sinir sitemini istila edip orada hastalığa neden olan, kuduz ve herpes simpleks gibi virüslere değinmek için kullanılır.
+
+
+== Virülansın evrimi ==
+Patojen topluluk konak içine girdikten sonra evrimleşir. Patojenlerin nasıl evrimleştiği hakkında üç model vardır. Bu modeller virüs veya bakterinin konak içinde nasıl ürediği veya konak içinde yayıldığını ve hatta konağı öldürdüğünü açıklar. Bu üç hipotez "tesadüfi evrim hipotezi", konak için evrim ve denge hipotezi olarak adlandırılır.
+
+
+=== Denge hipothezi ===
+Bazı biyologlar (Ewald, 1994) patojenlerin virülansının sürekli azalması gerektiğini öne sürmüşlerdir, çünkü konağa verilen zarar, en sonunda onun için yaşayan patojene de zarar verecektir. Konak ölürse patojen de ölecektir. Dolayısıyla daha az virülan patojenlerin uzun vadede daha başarılı olması gerekecektir. Bu mekanizma her zaman geçerli değildir; konağının ölümünü hızlandıran patojenler eğer bunun sonucunda başka konak organizmalara bulaşma olasılıklarını artırabilirlerse, patojenler daha yaygınlaşabilirler. Dolayısıyla patojenlerin evrimi sırasında virülansın yarar ve zararları arasında bir denge oluşur. Doğrudan bulaşan hastalıklarda daha az öldürücü olan patojenlerin sıklığının daha yüksek olduğu, buna karşın taşıyıcı (vektör) aracılığıyla yayılan hastalıklarda böyle bir ilişki olmadığı bulunmuştur.
+
+
+=== Kısa vadeli evrim hipotezi ===
+Kısa vadeli evrim görüşüne göre evrimsel uyumu artıran özellikler toplulukta daha yüksek bir sıklığa ulaşmalıdır. Bu özellikler arasında daha uzun ömürlü olmak, daha çok sayıda çoğalmak, antikorlara karşı dayanıklı olmak veya patojenin normalde nüfuz etmediği vücut bölgelerine yayılabilmek sayılabilir. Birkaç kuşak sonra bu yararlı mutasyonlar yüksek bir sıklığa ulaşırlar. Ancak, bu mutasyonları taşıyan patojenler taşımayanlara kıyasla daha avantajlı bir durumda olsalar da, konak organizma için çok zararlı olabilirler. Patojen konak organizmaya zarar verme noktasına ulaşınca patojenin üremesini durdurması veya daha fazla büyümemesi onun çıkarına olması gerekir, çünkü bakteri veya virüs için besin kaynağı konak organizmadır. Ne var ki, doğal seleksiyon akıl ile kontrol edilen bir süreç değildir, patojenler büyüme veya çoğalmalarını durdurmazlar, konağı ölüme sürükleseler dahi.
+
+
+=== Tesadüfî evrim hipotezi ===
+Bir hastalığın ne derece virülan olduğunu belirleyen faktörler, patojenin konak içindeki virülansıyla ilişkisiz olarak etki eden baskılar sonucu evrimleşmiştir. Bu görüşe göre  virülans, konak organizmanın patojene karşı yetersiz, uygunsuz veya aşırı tepki göstermesinin bir sonucudur. Örneğin E. coli bakterisin idrar yolu enfeksiyonuna neden olan adhezin molekülleri aslında bu bakterinin bağırsağı daha iyi kolonize etmesini sağladığı için evrimleşmiştir. Aynı molekelün idrar yolu enfeksiyonuna neden olması bakteriye evrimsel bir avantaj sağlamaz ve bu virülans mekanizması tesadüfî bir evrim sonucudur.
+
+
+== Kaynakça ==
+
+
+== Ayrıca bakınız ==
+Optimal virülans
+Virülans faktörü

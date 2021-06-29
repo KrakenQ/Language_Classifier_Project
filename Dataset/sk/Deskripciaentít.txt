@@ -1,0 +1,12 @@
+Deskripcia entít je identifikácia a rozlíšenie entít a ich tried. Deskripcie entít sú tvorené vetami určitého jazyka, ktorých prvky sú tvorené primitívnymi konceptmi.
+
+
+== Pozri aj ==
+deskripcia
+charakteristika
+deskriptívny model
+opis
+
+
+== Externé odkazy ==
+FILIT – zdroj, z ktorého pôvodne čerpal tento článok.

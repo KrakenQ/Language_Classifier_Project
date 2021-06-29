@@ -1,0 +1,12 @@
+Kompüterin daxili qurğuları - kompüterin əsas işini təmin edən qurğulardır:
+
+Ana plata (prosessor, kontrollerlər, əməli yaddaş qurğusu (RAM), keş-yaddaş, akkumulyator batareyaları);
+Prosessorları qurmaq üçün adapterlər;
+Daimi yaddaş qurğusu (Winchester, ROM);
+Səs platası;
+Qida bloku.Prosessor – hesab və məntiqi əməliyyatların, proqramların yerinə yetirilməsi proseslərini idarə edən qurğudur. Prosessorun sürəti takt tezliyi, saniyədə taktların sayı, yəni saniyədə əməliyyatların sayı ilə təyin edilir. Məsələn, 40Mhs – saniyədə 40 milliyon əməliyyat, 1000Mhs=1GHs.
+Yaddaş qurğuları
+Əmr və verilənləri yadda saxlamaq üçün yaddaş qurğularından istifadə olunur. Yaddaş qurğuları funksiyalarına görə müxtəlif olurlar:
+
+Daimi yaddaş qurğusu (Read Only Memory – ROM, – yalnız oxumaq üçün istifadə olunan yaddaş olub, kompüterdəki bütün fayllar, qovluqları özündə saxlayır. İlk dəfə 1973-cü ildə İBM 3340 sistemin yaddaşında yaradılıb.
+Əməli yaddaş qurğusu (Random Access Memory – RAM) – ixtiyari müraciətə malik yaddaş olub, kompüter və digər qurğularda informasiyanın oxunması və yazılmasını təmin edən yaddaş. Kompüter söndürüldükdə ƏYQ-da saxlanılan verilənlər silinir.

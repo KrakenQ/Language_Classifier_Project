@@ -1,0 +1,27 @@
+Mecanismo é um conjunto de elementos rígidos, móveis uns relativamente a outros, unidos entre si mediante diferentes tipos de junções chamadas pares cinemáticos (pernas, uniões de contato, passadores, etc.), cujo propósito é a transmissão e/ou transformação de movimentos e forças. São, portanto, as abstrações teóricas do funcionamento das máquinas, e de seu estudo se ocupa a Teoria de Mecanismos.
+Baseando-se em princípios da álgebra linear e física, se criam esqueletos vetoriais, com os quais se formam sistemas de equações. A diferença de um problema de cinemática ou dinâmica básico, um mecanismo não é considerado como uma massa pontual e, devido a que os elementos que conformam a um mecanismo apresentam combinações de movimentos relativos de rotação e translação, é necessário levar em conta conceitos como centro de gravidade, momento de inércia, velocidade angular, etc. 
+Na maioria das vezes um mecanismo pode ser analisado utilizando um enfoque bidimensional, o que reduz o mecanismo a um plano.
+Em mecanismos mais complexos, é necessário utilizar uma análise espacial. Um exemplo disto é uma rótula esférica, a qual pode realizar rotações tridimensionais.
+A análise de um mecanismo deveria ser feita  na seguinte ordem:
+
+Análise de posição de um mecanismo.
+Análise de velocidade de um mecanismo.
+Análise de aceleração de um mecanismo.
+Análise dinâmica de um mecanismo.
+Análise de esforços de um mecanismo.
+
+
+== Métodos para analisar um mecanismo ==
+Método da velocidade relativa
+Aceleração relativa
+Análise dinâmica
+
+
+== Ver também ==
+Roda de Genebra
+Came
+Cinemática direta
+Polia
+
+
+== Ligações externas ==

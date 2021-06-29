@@ -1,0 +1,72 @@
+IntelliJ IDEA je večkrat nagrajeno integrirano razvojno okolje, razvito s strani podjetja jetBrains, predvsem za potrebe Java razvijalcev programske opreme. Gre za komercialen produkt, ki je na voljo tako v plačljivi, kot v zastonjski verziji. Zastonjska različica razvojnega okolja izhaja pod odprtokodno licenco,  posledično je zato možno pridobiti izvorno kodo razvojnega okolja, vendar pa se je potrebno za izvorno kodo projekta ustrezno prijaviti. Kljub namembnosti, pa obstaja ogromno razširitvenih modulov, s katerimi si lahko vsak razvijalec razvojno okolje prilagodi svojim potrebam razvoja.
+
+
+== Zgodovina ==
+Zametki razvojnega okolja segajo v začetek leta 2001, kjer je bila v mesecu Januarju izdana prva stabilna različica programa InteliJ IDEA 1.0.  Gre za tiste čase prvo integrirano razvojno okolje, ki je vsebovalo avtomatično reorganizacijo internih delov izvorne kode, brez spreminjanja eksternega obnašanja (angl. »code refactoring«).  Prvi popravki podjetja so se pojavili istega leta meseca Julija  z izdajo različice InteliJ IDEA 2.0. Od leta 2001 do danes je podjetje izdalo številne popravke in nove različice programa, vsaka podprta z novimi funkcionalnostmi, tako je trenutna stabilna različica InteliJ IDEA 11.0.1 izdana 30. Decembra 2011, projekt pa se še vedno dopolnjuje in spreminja. 
+
+
+== Podprte razširitve in orodja ==
+InteliJ IDEA svoje podprte razširitve in orodja deli glede na različico integriranega razvojnega okolja, tako gre pri odprtokodni zastonjski različici za okrnjeno sposobnost okolja. Plačljiva, kot tudi zastonjska različica, podpirata vse od naprednih možnosti urejanja izvorne kode, do orodij za ugotavljanje kvalitete programske kode, urejanje izgleda razvojnega okolja in integracijo z raznimi programskimi rešitvami za nadzor verzij programske kode. 
+
+
+=== Napredno urejanje izvorne kode ===
+IntelliJ Idea razpolaga z  raznimi orodji za podporo rapidnemu programiranju, ki razvijalca osredotočijo na razvoj kode in ne na sintaktično pravilnost. Tako ima orodje vgrajene razne mehanizme za samodokončanje izvorne kode, črkovalnik, ki preverja ustreznost komentarjev, literalov v razvijalčevi kodi, sposobnost takojšnje zaznave in prikaza javanskih razredov, metod, polj, ki so deklarirani, vendar se drugje v projektu ne pojavijo, podporo pri razreševanju napak, ki razvijalcu ob zaznavi napake sugerira popravek. V novejših različicah programa se pojavlja tudi z WYSIWYG ("to kar vidiš to dobiš") orodjem za podporo vizualiziranja programa, ki ga razvijalec razvija.
+
+
+=== Podprti jeziki in tehnologije ===
+InteliJ IDEA podpira naslednje razvojne jezike :
+
+Java,
+Groovy
+Javascript,
+HTML/XHTML/CSS,
+ActionScript/FLEX/Air,
+XML/XLS,
+Ruby/Jruby
+SQL,
+FreeMarker/Velocity,
+PHP,
+ColdFusion,
+Scala
+
+
+=== Podprte tehnologije in okolja ===
+JSP,
+JSF,
+EJB
+AJAX,
+GWT,
+Struts,
+Struts 2,
+Jboss Seam,
+Spring
+JPA/Hibernate,
+Web Services,
+Rails,
+Grails,
+Tapestry,
+Google App Engine,
+Android,
+OSGi,
+JAVA ME MIDP/CLDC
+
+
+=== Podpora poenotenemu jeziku modeliranja ===
+Programsko orodje vsebuje podporo za posamezne tehnike poenotenega jezika modeliranja, s katerimi lahko preučimo aplikacijsko strukturo na razrednem ali paketnem nivoju. Podpora modeliranju ponuja ogled, ustvarjanje, odstranjevanje paketov, razredov, atributov in ostalih relacij. Ponuja tudi pretvorbo iz UML modela v izvorno kodo.
+
+
+=== Integracija z rešitvami nadzora verzij programske kode ===
+Okolje je prilagojeno  tako, da nudi podporo z raznimi rešitvami nadzora verzij programske kode. Tako lahko uporabimo rešitve kot so : Team Foundation Server Integration, Subversion, Git, CVS, VCS, 
+
+
+== Vtičniki ==
+IntelliJ Idea ponuja integracijo z uradnim repozitorijem skupnosti IntelliJ Idea. S prirejenim vmesnikom lahko vsak razvijalec naloži in uporabi razne vtičnike, ki jih razvijajo razvijalci odprtokodne IntelliJ Idea skupnosti, ter si tako prilagodi orodje svojim potrebam. IntelliJ Idea nato avtomatsko pregleduje za posodobitve vtičnikov in jih po potrebi namesti. Vtičnikov repozitorij se nahaja na naslov http://plugins.intellij.net/.
+
+
+== Sklici in opombe ==
+
+
+== Zunanje povezave ==
+http://blogs.jetbrains.com/idea/
+http://www.jetbrains.com/idea/
+http://www.jetbrains.com/

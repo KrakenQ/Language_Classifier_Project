@@ -1,0 +1,27 @@
+Арланъёс (латин кылын Cricetinae) – пичигес пӧйшуръёс. 
+
+Mesocricetus
+Сириысь арлан (Mesocricetus auratus)
+"Хомяк закавказский" (Mesocricetus brandti)
+"Хомяк предкавказский" (Mesocricetus raddei)
+"Хомяк Ньютона" (Mesocricetus newtoni)
+Phodopus
+"Хомячок джунгарский" (Phodopus sungorus)
+"Хомячок Кэмпбелла" (Phodopus campbelli)
+"Хомячок Роборовского" (Phodopus roborovskii)
+Cricetus
+Арлан (Cricetus cricetus)
+Cricetulus
+"Короткохвостый хомячок" (Cricetulus alticola)
+"Хомячок барабинский" (Cricetulus barabensis)
+"Хомячок тибетский" (Cricetulus kamensis)
+"Хомячок длиннохвостый" (Cricetulus longicaudatus)
+"Хомячок серый" (Cricetulus migratorius)
+"Хомячок Соколова" (Cricetulus sokolovi)
+Allocricetulus
+"Хомячок монгольский" (Allocricetulus curtatus)
+"Хомячок Эверсманна" (Allocricetulus eversmanni)
+Cansumys
+Cansumys canus
+Tscherskia
+"Хомячок крысовидный" (Tscherskia triton)

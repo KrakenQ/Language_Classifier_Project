@@ -1,0 +1,47 @@
+Les fusils semi-automatiques SVT-38 et SVT-40 ont été mis au point par Fiodor Vassilievitch Tokarev et mis en service dans l'Armée rouge respectivement en 1938 et 1940. Ils étaient chambrés pour la cartouche 7,62 × 54 mm R utilisée dans les Mosin-Nagant 1891 et 91/30 ou dans la mitrailleuse Maxim 1910.
+Plus de 1 600 000 de ces fusils ont été fabriqués jusqu'en 1945. Ils ont été réformés vers 1955. Ce modèle peut être considéré comme l'ancêtre du fusil de précision Dragounov.
+
+
+== Histoire ==
+Ces deux types de fusil remplacent le fusil automatique AVS-36 jugé trop fragile et sont employés en grand nombre durant la Seconde Guerre mondiale. Des SVT-38 pris à l'ennemi (au nombre de 17 000) sont utilisés par la Finlande lors des guerres d'Hiver (décembre 1939 à mars 1940) et de Continuation (après juin 1941), mais ils sont assez vite réformés. Par ailleurs, à compter de 1941, ils impressionnent tant la Wehrmacht que les centaines de milliers d'exemplaires capturés sont aussitôt remis en service sous les nouvelles désignations allemandes : « G.258(r) » ou « G.259(r) », selon le modèle. Ensuite, ces armes inspirent grandement les armes de conception allemande comme le Walther G41 et surtout le Walther G43 : celui-ci copie une bonne partie du mécanisme du SVT-40, notamment le système d'emprunt de gaz à piston.
+Après la Seconde Guerre mondiale, les Soviétiques les « reconditionnent » en arsenal et les stockent comme la plupart des armes déclassées.
+Quelques exemplaires sont utilisés par les révolutionnaires cubains mais, contrairement à d'autres armes, ils sont très peu diffusés dans les pays satellites ou amis de l'URSS.
+
+
+== Description ==
+Le SVT-38 — ou le SVT-40 — est pourvu d'une crosse/fût et d'un garde-main en bois non huilé (pour éviter un accroissement du poids de la monture) et il peut recevoir une baïonnette pour le combat rapproché.
+Malgré le soin relatif apporté à la fabrication, l'arme manque de robustesse, principalement du fait de la volonté soviétique de produire une carabine légère. Afin d'alléger l'arme (seulement 3,85 kg à vide, à comparer aux 4,4 kg du Mosin-Nagant M1891), le canon et la crosse sont conçus avec une épaisseur très mince. Ainsi, en plus d'une dispersion verticale du tir due à l’échauffement, le canon peut très facilement se courber lors de l'usage de la baïonnette, ce qui rend l'arme inutilisable. D'autres points sont à déplorer, tels la limitation de la cadence de tir continu admissible : à 30 coups seulement, en pratique 20  à   25 coups/min en mode semi-automatique. En outre, le tir continu de 50 cartouches peut mettre l'arme hors d'usage.
+En définitive, le SVT-40 ne parvient pas à s'imposer en raison de sa relative complication (par rapport au Mosin-Nagant M91/30 ou au PPSh-41), et aussi car il exige un entraînement et un soin particuliers pour une utilisation correcte et son entretien. En conséquence, seuls les corps expérimentés de l'Armée rouge savent exploiter sa puissance de feu ; dans le même ordre d'idées, la Wehrmacht, au départ composée de troupes plus aguerries, montre qu'elle peut tirer profit des captures de cette arme.
+Le SVT-40 développe une vitesse initiale de 829 m/s pour une portée maximale efficace d'environ :
+
+400 m contre les cibles terrestres ;
+450 m contre les cibles aériennes.L'ajout d'une lunette à « champ PU (en) » 3,5x sur monture en fer à cheval permet d'utiliser le SVT-40 comme fusil de précision jusqu'à 1 000 m.
+
+
+== Versions ==
+L'URSS a utilisé plusieurs types de fusils et carabines Tokarev :
+
+SVT-38 : première version adoptée en 1938 ;
+SVT-40 : seconde version adoptée en 1940 ;
+SKT-40 : version carabine ;
+AVT-40 : version introduite en 1943 permettant le tir automatique grâce à un sélecteur de tir. Néanmoins, selon les consignes en vigueur, le choix du tir automatique ne pouvait se faire que sur ordre du chef de section.
+
+
+== Culture populaire ==
+Le SVT 40 apparaît dans les jeux vidéo Call of Duty 2, Call of Duty: World at War et Call of Duty: WWII.
+Il apparaît aussi dans le jeu vidéo Red Orchestra 2: Heroes of Stalingrad.
+Il est l'arme distribuée à tout soldat d'infanterie soviétique dans le jeu vidéo Heroes and Generals.
+Il est également achetable dans le jeu mobile World War Heroes.
+Il est une arme obtenable dans le mod du jeux-vidéo Minecraft : Decimation.
+
+
+== Bibliographie ==
+Martin J. Dougherty, Armes à feu : encyclopédie visuelle, Elcy éditions, 304 p. (ISBN 9782753205215), p. 136-137.
+
+
+== Notes et références ==
+
+
+== Annexes ==
+
+ Portail des armes   Portail de l’URSS   Portail de la Seconde Guerre mondiale   Portail de la guerre froide

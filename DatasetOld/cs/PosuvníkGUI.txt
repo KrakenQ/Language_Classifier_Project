@@ -1,0 +1,11 @@
+Posuvník (anglicky scrollbar) je pomocný ovládací prvek grafického uživatelského rozhraní. Používá se, pokud je třeba zobrazit část rozsáhlejšího vstupního pole, seznamu, formuláře nebo plochy okna na omezeném prostoru. V určeném prostoru je zobrazen pouze výřez z rozsáhlejší oblasti a posuvník slouží pro posouvání (anglicky scrolling) tohoto výřezu ve vodorovném nebo svislém směru.
+Posuvník se zpravidla zobrazuje, pouze pokud je výřez menší než zobrazovaná plocha. Pokud je zobrazovaná plocha větší než výřez ve vodorovném i svislém směru, zobrazuje se vodorovný i svislý posuvník.
+Posuvník se zpravidla zobrazuje jako pruh zakončený na obou koncích šipkami. V pruhu se posunuje obdélník, jehož velikost a umístění naznačují, jaká část celé oblasti je viditelná. Například: obdélník začíná v polovině posuvného pruhu a končí čtvrtinu délky pruhu od konce. Má tedy délku jedné čtvrtiny délky posuvného pruhu. To naznačuje, že v okně je viditelná třetí čtvrtina oblasti.
+Pokud uživatel chce, aby se v okně objevila další část plochy, musí posuvník posunout. To lze provést následujícími způsoby:
+
+Kliknutím na jednu ze šipek na koncích posuvníku se posuvník posune o určitou vzdálenost v požadovaném směru.
+Kliknutím na místo nad nebo pod posuvníkem se posuvník posouvá o vzdálenost přibližně rovnou jeho vlastní délce.
+Kliknutím na místo nad nebo pod posuvníkem se stisknutou klávesou ⇧ Shift se posuvník se přesune na místo, kam bylo kliknuto.
+Přetáhnutím obdélníku myší.
+Otáčením kolečka myši.
+Při kliknutí pravým tlačítkem myši na místo nad nebo pod posuvníkem se v mnoha prostředích zobrazí kontextová nabídka s možnostmi posunu.

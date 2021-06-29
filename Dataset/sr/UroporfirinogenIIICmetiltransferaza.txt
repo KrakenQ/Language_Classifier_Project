@@ -1,0 +1,39 @@
+Uroporfirinogen-III C-metiltransferaza (EC 2.1.1.107, uroporfirinogenska metiltransferaza, uroporfirinogen-III metiltransferaza, adenozilmetionin-uroporfirinogen III metiltransferaza, S-adenozil-L-metionin-zavisna uroporfirinogenska III metilaza, uroporfirinogen-III metilaza, SirA, CysG, CobA, SUMT, uroporfirin-III C-metiltransferaza, S-adenozil-L-metionin:uroporfirin-III C-metiltransferaza) je enzim sa sistematskim imenom S-adenozil-L-metionin:uroporfirinogen-III C-metiltransferaza. Ovaj enzim katalizuje sledeću hemijsku reakciju
+
+2 S-adenozil-L-metionin + uroporfirinogen III 
+  
+    
+      
+        ⇌
+      
+    
+    {\displaystyle \rightleftharpoons }
+   2 S-adenozil-L-homocistein + prekorin-2 (sveukupna reakcija)
+(1a) S-adenozil-L-metionin + uroporfirinogen III 
+  
+    
+      
+        ⇌
+      
+    
+    {\displaystyle \rightleftharpoons }
+   S-adenozil-L-homocistein + prekorin-1
+(1b) S-adenozil-L-metionin + prekorin-1 
+  
+    
+      
+        ⇌
+      
+    
+    {\displaystyle \rightleftharpoons }
+   S-adenozil-L-homocistein + prekorin-2Ovaj enzim katalizuje dve sekvencijalne reakcije metilacije. Prvom se formira prekorin-1, a druga dovodi do formiranja prekorina-2. To je prvi od tri koraka koji dovode do formiranja sirohema iz uroporfirinogena III.
+
+
+== Reference ==
+
+
+== Literatura ==
+
+
+== Spoljašnje veze ==
+Uroporphyrinogen-III+C-methyltransferase на US National Library of Medicine Medical Subject Headings (MeSH)

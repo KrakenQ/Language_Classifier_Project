@@ -1,0 +1,36 @@
+Tha a' chruinne na nì a tha cruthte mar ball. Ann an matamataic, tha a' chruinne quadric bac.
+Anns an àbhaist neo-mhatamataigeach tha a' chruinne air a lìonadh.
+Nas cunntasaiche, 's e seat dhen puing ann am fànas Euclidean 3-thomaid a th' ann ann an cruinne, agus tha astar r bhon a' phuing bunaiteach nam fànas sin.
+Ann an cruinneadaireachd cho-òrdanaich, tha a' chruinne aig a bheil buillsgean aig:
+(x0, y0, z0) agus radius r seat dhen puingean uile (x,y,z) mar seo:
+
+(x - x0)2 + (y - y0)2 + (z - z0)2 = r2'S urrainn dhuinn na puingean a sgrìobhadh air a' chruinne le radius r agus buillsgean air a' bhun thaobh:
+
+x = r cos(φ) sin(θ)
+y = r sin(φ) sin(θ)       (0 ≤ θ < π agus -π < φ ≤ π)
+z = r cos(θ)(faic foincseanan triantanach agus co-òrdanaich cruinn).
+'S urrainn dhuinn cunntas a chur air cruinne le radius sam bith a tha air a shocrachadh air a' bhun mar a leanas dèanamh diofarail :
+
+  
+    
+      
+        x
+        
+        d
+        x
+        +
+        y
+        
+        d
+        y
+        +
+        z
+        
+        d
+        z
+        =
+        0.
+      
+    
+    {\displaystyle x\,dx+y\,dy+z\,dz=0.}
+  Tha farsaingeachd uachdar na cruinne le radius r air a thoirt le 4πr2, agus tha a tomad air a thoirt le 4πr3/3.

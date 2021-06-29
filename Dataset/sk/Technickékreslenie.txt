@@ -1,0 +1,9 @@
+Technické kreslenie je grafický vyjadrovací prostriedok používaný pri kreslení výkresov v rôznych technických odboroch.
+Druhy technického kreslenia:
+Elektrotechnické,
+Stavbárske,
+Zememeračské
+
+
+== Externé odkazy ==
+FILIT – zdroj, z ktorého pôvodne čerpal tento článok.

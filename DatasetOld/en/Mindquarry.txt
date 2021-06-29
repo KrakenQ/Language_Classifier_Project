@@ -1,0 +1,4 @@
+Mindquarry is an open source collaborative software geared towards small and medium-sized workgroups. Mindquarry attempts to strike a balance between features and ease-of-use. The application offers four tightly integrated modules: Teams, Files, Wiki, and Tasks.
+Mindquarry consists of two components—a server and a client—but it is not a conventional client–server application. The server provides all the functionality while the client acts as a bridge between the user's desktop and the server.
+The Mindquarry server relies on a number of technologies, including the Apache HTTP server, Subversion, and Java SDK.
+After the company had to end its commercial offerings in October, 2007, the previously available versions Mindquarry GO (a hosted version of the application run and maintained by Mindquarry GmbH) and Mindquarry PRO (a fully serviced, standalone enterprise suite) are discontinued. However, Mindquarry will still be available as open source product.

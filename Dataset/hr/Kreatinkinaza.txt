@@ -1,0 +1,5 @@
+Kreatin kinaza (CK) ili kreatin fosfokinaza (CPK) je enzim koji katalizira reakciju kreatin i adenozin trifosfata (ATP) pri čemu nastaje kreatin-fosfat i adenozin difosfat (ADP).
+
+U tkivima koja brzo troše energiju kao što su poprečnoprugasti mišići, ali i mozak, te glatki mišići, fosfokreatin služi kao brzi izvor za regeneraciju ATPa, pa je kreatin kinaza vrlo važan enzim za to tkivo. 
+Kreatin kinaza u krvi u povišenim koncentracijama može biti marker infarkta miokarda, rabdomiolize, mišićne distrofije ili akutnog zatajenja bubrega.
+U većini stanica enzim CK se sastoji od dvije podjedinice: podjedinice B (engl. brain) ili podjedinice M (engl. muscle). Moguće su tri izoenzima: CK-MM, CK-BB i CK-MB.

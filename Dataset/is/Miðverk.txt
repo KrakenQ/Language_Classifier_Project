@@ -1,0 +1,6 @@
+Miðverk tölvu er rafrás sem keyrir forrit. Miðverk tölva hefur breyst gríðarlega í gegnum tíðina, en grunnvirkni þess hefur haldist sú sama í megindráttum. Miðverkið sækir skipanir úr minni, þýðir þær yfir á skipanamengi tölvunnar, keyrir þær og skrifar úttakið í minni, eftir tiltekinni tíðni sem gefur vísbendingu um reiknihraða. 
+Örgjörvi er samrás sem útfærir alla þætti miðverksins á einni kísilflögu. Þeir komu fyrst fram á sjónarsviðið á 8. áratug 20. aldar en fram að því var miðverkið samsett úr mörgum íhlutum í einni rafrás.
+
+
+== Tengt efni ==
+Örgjörvi

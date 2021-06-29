@@ -1,0 +1,20 @@
+El Microsoft Flight Simulator X (conegut per la comunitat de Flight Simulator simplement com a FSX) és un videojoc d'ordinador en el qual es pot fer la simulació d'avions, helicòpters i planejadors viatjant per tots els territoris del planeta. És la següent versió del Microsoft Flight Simulator, la d'abans d'aquesta era Flight Simulator 2004. Aquesta nova versió inclou un motor de gràfics que és compatible amb Direct3D 10 i Windows Vista.
+
+
+== Avions, helicòpters i planejadors ==
+
+
+== Vegeu també ==
+Microsoft
+Simulador de vol
+Llista de videojocs simuladors de vol
+
+
+== Referències ==
+
+
+== Enllaços externs ==
+Flight Simulator X – Web oficial
+Microsoft.com – Flight Simulator X
+Flight Simulator X - Informació
+Microsoft Flight Simulator Insider – Flight Simulator X - Informació i Descàrregues

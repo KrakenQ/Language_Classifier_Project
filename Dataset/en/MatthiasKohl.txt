@@ -1,0 +1,16 @@
+Matthias Kohl (born August 14, 1973 in Vilseck, Germany) is a German mathematician and statistician who is known for his contributions to the asymptotic theory of robustness and robust statistics. Kohl studied mathematics at the University of Bayreuth and earned his PhD in mathematics there, in 2005. His dissertation was entitled 'Numerical Contributions to the Asymptotic Theory of Robustness'.He spent the first half of his career at the University of Jena as a biostatistician. At Jena, he worked on problems in the analysis of high dimensional biological data, the development and validation of microarray-based predictive models and study design. He then became professor at Furtwangen University. There, his research area are statistical methods for biomarker development and molecular diagnostics.
+
+
+== Publications (books) ==
+M. Kohl, H.P. Deigner. Precision Medicine: Tools and Quantitative Approaches. 1st Edition, 2018, 374 pages. eBook ISBN 9780128054338, Paperback ISBN 9780128053645
+M. Kohl. Einführung in das Programmieren mit R. 1. Auflage, 2016, ISBN 978-87-403-1235-5.
+M. Kohl. Introduction to statistical data analysis with R. 1st edition, 2015, 228 pages, free. ISBN 978-87-403-1123-5.
+M. Kohl. Analyse von Genexpressionsdaten – mit R und Bioconductor. 1. Auflage, 2013, ISBN 978-87-403-0349-0
+
+
+== References ==
+
+
+== External links ==
+His personal website
+His institutional website

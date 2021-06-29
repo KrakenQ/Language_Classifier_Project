@@ -1,0 +1,2 @@
+La RAM (Random Access Memory) e je une memorie a acès casuâl, ven a stâi che no si à di seguî un ordin secuenziâl, come par esempli tai nastris magnetics.
+Al è un tiermin par solit doprât par riferîsi a supuarts di memorie a stât solit che a fasin part dal hardware instalât parsore di un ordenadôr. La RAM in gjenar e costituìs la memorie principâl dai elaboradôrs.

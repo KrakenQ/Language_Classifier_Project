@@ -1,0 +1,2 @@
+Lo chipset ECS, coma Extended Chip Set es una evolucion dau chipset OCS, lo chipset originau de l'Amiga.
+L'Amiga 500+, l'Amiga 600 e l'Amiga 3000 avián lo chipset ECS que permetia un una resolucion mai bèla, l'ajonch d'un processor, lo blitter, per posquer far d'overscan, e alargar l'espaci d'afichatge deis sprites.

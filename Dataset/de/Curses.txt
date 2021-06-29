@@ -1,0 +1,18 @@
+curses ist der Name verschiedener Programmbibliotheken zur Darstellung zeichenorientierter Benutzerschnittstellen (Text User Interface, TUI) unabhängig vom darstellenden Textterminal bzw. Terminalemulator.
+Zunächst gab es eine Implementierung der Berkeley Software Distribution (BSD) 4.4, dem 1989 eine Weiterentwicklung für Veröffentlichung 4 von System V folgte. Anfang der 1990er Jahre wurde nach diesem Vorbild vom GNU-Projekt eine freie Implementation namens ncurses entwickelt, die heute überwiegend in Gebrauch ist. Andere Weiterentwicklungen sind das 1987 gestartete Public Domain Curses (PDCurses) von Mark Hessling und pcurses (1982) von Pavel Curtis.
+Es gibt einen Standard von X/Open, der sich ausgesprochen nahe an die System-V-Implementierung hält.
+
+
+== Programmbeispiel ==
+Einfaches Hallo-Welt-Programm mit curses:
+
+
+== Literatur ==
+John Strang: Programming with curses. O’Reilly & Associates, Sebastopol CA 1986, ISBN 978-0-937175-02-6 (UNIX C library for screen manipulation. A Nutshell handbook). 
+
+
+== Weblinks ==
+X/Open-Standard: Referenz der Funktionen, Überblick über die Schnittstelle
+
+
+== Einzelnachweise ==

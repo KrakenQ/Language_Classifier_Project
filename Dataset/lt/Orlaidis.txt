@@ -1,0 +1,30 @@
+Orlaidis (angl. air valve) – įrenginys, skirtas orui įleisti / išleisti į / iš vamzdynų.
+
+
+== Aprašymas ==
+Visuose hermetiškuose vamzdynuose neišvengiamai kaupiasi oras. Aukščiausiuose vamzdyno taškuose besikaupiantis oro kiekis gali sumažinti vamzdyno pralaidumą, kuris pasireiškia hidrauliniais nuostoliais ir padidėjusiomis energijos sąnaudomis. Taip pat dėl besikaupiančio oro gali užsikimšti vamzdynai, atsirasti armatūros pažeidimų.
+Efektyviausiai oras iš vamzdynų yra pašalinamas orlaidžių pagalba. Orlaidžiai gali būti mažaangiai, su viena kamera, skirta tik išsiskiriančiam iš vandens orui išleisti ir tokiam pat oro kiekiui įleisti. Didžiaangis orlaidis yra su dviem kamerom, kurių vienos anga maža (apie 2 mm), skirta išsiskiriančiam orui iš vandens išleisti, o antros kameros anga didelė, skirta vamzdyno apsaugai nuo vakuumo, kai vamzdynas tuštinamas ar jame įvyksta hidraulinis smūgis.
+
+
+== Paskirtis ==
+Vamzdyno remonto metu įleisti orą, kad išbėgtų vanduo.
+Vamzdyno pildymo metu pašalinti orą ir pripildyti vandeniu.
+Darbo metu susikaupusiam orui iš vamzdyno išleisti.
+
+
+== Veikimo principas ==
+Oras į vamzdyną įleidžiamas ir išleidžiamas judant vožtuvui įrenginio viduje. Vamzdyno tuštinimo metu, vožtuvas leidžiasi žemyn, atidarydamas oro įleidimo / išleidimo angą (oras įleidžiamas). Vamzdyno pildymo metu, kylant vandens lygiui, vožtuvas kyla į viršų, uždarydamas oro išleidimo/įleidimo angą (oras pašalinamas). Darbo metu orlaidis pašalina susikaupusį orą per mažą oro išleidimo angą.
+
+
+== Rekomenduojamos įrengimo vietos ==
+Statomi aukščiausiose vandentakių, magistralių ir skirstomųjų linijų vietose.
+Ilgose ilgai kylančiose ar besileidžiančiose linijose (apie 800 m).
+Po siurblių.
+Prieš debito reguliavimo įrenginius.Orlaidžiai montuojami šuliniuose ar šachtose. Šulinius reikia įrengti taip, kad į juos nepatektų vanduo ir jie būtų sausi.
+
+
+== Literatūra ==
+STR 2.07.01:2003 „Vandentiekis ir nuotekų šalintuvas. Pastato inžinerinės sistemos. Lauko inžineriniai tinklai“. Vilnius, 2003
+Eccua [interaktyvus]. [žiūrėta 2017 m. gegužės 15 d.]. Prieiga per internetą: www.eccua.lt
+Industek [interaktyvus]. [žiūrėta 2017 m. gegužės 15 d.]. Prieiga per internetą: www.industek.lt
+Dezurik [interaktyvus]. [žiūrėta 2017 m. gegužės 19 d.]. Prieiga per internetą: www.dezurik.com

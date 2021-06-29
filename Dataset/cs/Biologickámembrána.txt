@@ -1,0 +1,41 @@
+Biologická membrána či též biomembrána je membránová struktura, která tvoří součást živých systémů. Je tenká, odděluje dvě prostředí nebo struktury, a v závislosti na své stavbě plní často i další, často velmi komplexní funkce.
+Protože pojem membrána je z hlediska biologie dosti široký pojem, rozdělujeme biologické membrány na dvě základní skupiny: buněčné a anatomické membrány.
+
+
+== Buněčné membrány ==
+
+Buněčné membrány jsou tvořené převážně molekulami fosfolipidů, které jsou orientované vůči okolnímu vodnému prostředí. Většina buněčných membrán je tvořena dvojitou vrstvou lipidů, které jsou orientovány hydrofilní částí molekuly směrem ven, hydrofobní uhlíkové řetězce pak tvoří vnitřek membrány. Stavbu takové membrány popisuje model fluidní mozaiky; membrána je v podstatě polotekutá a proteiny integrované v membráně jsou zakotveny do značné míry pohyblivě (nemohou se translokovat na opačnou stranu membrány). Buněčné membrány jsou semipermeabilní (polopropustné): jsou selektivně propustné pouze pro některé látky. Transport látek membránou je ovlivňován a řízen specializovanými proteinovými přenašeči, kanály a iontovými pumpami.
+
+Speciální typy buněčných membráncytoplasmatická membrána: odděluje buňku od vnějšího prostředí
+membrána chloroplastů: u zelených řas a rostlin (archaeplastida) je dvoujednotková
+mitochondriální membrána: vždy dvoujednotková membrána, vnitřní membrána je uspořádaná ve formě krist nebo tubulů
+tonoplast: dvoujednotková membrána rostlinných vakuol
+karyolema, jaderná membrána: specializovaný obal jádra eukaryotické buňky, je tvořen dvěma vrstvami a perinukleárním prostorem mezi nimi, který může být napojen na cisterny ER. Spojení mezi jádrem a cytoplazmou je umožněno jadernými póry, které u savčí buňky zabírají asi třetinu povrchu membrány. Nejsou to ale pravé otvory, jsou přepažené tenkou vrstvičkou granulární hmoty zvané diafragma.Mnohé vnitřní membrány spolu komunikují a nazývají se souhrnně endomembránový systém.
+
+
+== Anatomické membrány ==
+
+U mnohobuněčných organismů se vytvářejí anatomické struktury, které také mají charakter membrány. Mikroskopické membrány jsou tvořené mezibuněčnou hmotou, některé makroskopické mnohovrstevné membrány jsou tvořeny vazivem. Struktury, které jsou v anatomii nebo mikroskopické anatomii označované jako membrána nemají více společných znaků než právě jejich rovinné uspořádání; některé jsou polopropustné, jiné nepropustné, i jejich funkce jsou rozdílné.
+
+Histologické membránybazální membrána: vrstvička mezibuněčné hmoty, na kterou nasedají buňky epitelové tkáně nebo endotelu
+Bowmanova membrána: jedna z vrstev rohovky oka, (lat. lamina limitans anterior)
+Descemetova membrána: jedna z vrstev rohovky oka (lat. lamina limitans posterior)
+Bruchova membrána: jedna z vrstev cévnatky oka (lat. lamina vitrea)
+Membrana limitans interna: jedna z vrstev iris oka
+Reissnerova membrána: součást blanitého hlemýždě vnitřního ucha
+basilární membrána: součást Kortiho orgánu vnitřního uchaMakroanatomické membránymezikostní membrána (lat. membrana interossea): silný vazivový pruh napjatý mezi kostmi předloktí a bérce
+ušní bubínek (lat. membrana tympani)
+oválné okénko : kryté membránou, přechod mezi středním a vnitřním uchem
+intersegmentální membrána: vazivová membrána, která umožňuje vzájemnou pohyblivost článků hmyzuMembrány vznikající během embryonálního vývojeBěhem vývoje embrya vznikají některé membránové struktury, které se později prolamují a tím zanikají, nebo naopak zesilují a tvoří struktury, které se později již jako membrány neoznačují
+
+oropharyngeální membrána – přechodné stadium při vývoji stomodea (budoucí dutiny ústní) a prvostřeva
+pleuroperitoneální membrána – stadium oddělování břišní a hrudní dutiny a vzniku bránice
+kloakální membrána
+urogenitální membrána
+anální membrána
+
+
+== Poznámky ==
+
+
+== Reference ==

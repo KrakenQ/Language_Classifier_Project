@@ -1,0 +1,77 @@
+Cirkulacijski otpor − poznat i kao vaskularni otpor − je onaj otpor koji se mora prevazići pri potiskivanju krvi kroz krvotok i stvoriti protok. Otpor u sistemskoj cirkulaciji je poznat je kao sistemski vaskularni otpor (SVO) ili može ponekad biti nazvan starijim terminom ukupni periferni otpor (UPO), dok je otpor u plućnoj cirkulaciji poznat kao plućni vaskularni otpor (PVO). Sistemski vaskularni otpor se koristi u proračunima krvnog pritiska, protoka krvi i srčane funkcije. Vazokonstrikcija (tj. smanjenje promjera krvnih sudova) povećava SVO, a vazodilatacija (povećanje promjera) ga smanjuje.
+Jedinica za mjerenje vaskularnog otpora je din • din•s•cm−5, paskalskih sekundi po kubnom metro metre (Pa•s/m³) ili, radi lakšeg izvođenja, može se, na osnovu pritiska (mjereno u mmHg) i minutnog volumena (mjerenog u L/ min), dati u mmHg • min/L. Ovo je numerički ekvivalent hibridne referentne jedinice (HRJ), koji je također poznat kao Woodova jedinica (u čast Earla Wooda, ranog pionira u ovom polju), a često ga koriste pedijatrijski kardiolozi. Konverzija između tih jedinica je:
+  
+    
+      
+        1
+        
+        
+          
+            
+              
+                mmHg
+              
+              ⋅
+              
+                min
+              
+            
+             L 
+          
+        
+        (
+        
+          HRJ
+        
+        )
+        =
+        8
+        
+        
+          
+            
+              
+                MPa
+              
+              ⋅
+              
+                s
+              
+            
+            
+              
+                m
+              
+              
+                3
+              
+            
+          
+        
+        =
+        80
+        
+        
+          
+            
+              
+                din
+              
+              ⋅
+              
+                sec
+              
+            
+            
+              
+                cm
+              
+              
+                5
+              
+            
+          
+        
+      
+    
+    {\displaystyle 1\,{\frac {{\text{mmHg}}\cdot {\text{min}}}{\text{ L }}}({\text{HRJ}})=8\,{\frac {{\text{MPa}}\cdot {\text{s}}}{{\text{m}}^{3}}}=80\,{\frac {{\text{din}}\cdot {\text{sec}}}{{\text{cm}}^{5}}}}

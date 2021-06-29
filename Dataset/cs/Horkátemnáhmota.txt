@@ -1,0 +1,20 @@
+Horká temná hmota (HDM) je teoretická forma temné hmoty, která se skládá z částic, které se pohybují ultrarelativistickými rychlostmi. 
+Temná hmota je hmota, která neinteraguje s běžnou hmotou, a proto nemůže být detekována elektromagnetickým zářením, tedy je temná. Je vyslovena domněnka, že temná hmota může vysvětlit, jak z kup a nadkup vznikly po Velkém třesku galaxie. Data z rotačních křivek galaxií ukazují, že přibližně 90 % hmotnosti galaxií nemůže být viděno. Tato hmota může být zjištěna pouze pomocí jejího gravitačního účinku.
+Horká temné hmota nemůže vysvětlit, jak se jednotlivé galaxie tvořily po Velkého Třesku. Reliktním záření měřené satelitem COBE je velmi hladké a rychle se pohybující částice nemohou tvořit shluky jako malé počáteční galaxie z takovéhoto hladkého původního stavu. Vzhledem k teorii, s cílem vysvětlit malý rozsah struktur ve vesmíru, je nutné postulovat studenou temnou hmotu (CDM) nebo teplou temnou hmotu (WDM). Horká temná hmota jako jediné vysvětlení temné hmoty již není životaschopná, proto je v dnešní době zmiňována pouze jako součást teorie smíšené temné hmoty (MDM).
+
+
+== Neutrina ==
+Příklad částice horké temné hmoty je neutrino. Neutrina mají velmi malou hmotnost, a neúčastní se dvou ze čtyř základních interakcí, elektromagnetické a silné interakce. Teoreticky mohou komunikovat prostřednictvím slabé interakce a gravitace, ale vzhledem k nízké intenzitě těchto interakcí je obtížné to odhalit. Některé projekty jako je například neutrinová observatoř Super-Kamiokande v Gifu v Japonsku v současné době stále studují tato neutrina.
+
+
+== Reference ==
+V tomto článku byl použit překlad textu z článku Hot dark matter na anglické Wikipedii.
+
+
+== Další literatura ==
+BERTONE, Gianfranco. Particle Dark Matter: Observations, Models and Searches. [s.l.]: Cambridge University Press, 2010. ISBN 978-0-521-76368-4. S. 762. (anglicky) 
+
+
+== Externí odkazy ==
+Horká temná hmota v Berkeley
+Temná hmota

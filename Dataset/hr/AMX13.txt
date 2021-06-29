@@ -1,0 +1,94 @@
+AMX-13 je francuski laki tenk razvijen poslije Drugog svjetskog rata. Namjenjen je izravnoj potpori pješaštvu.
+
+
+== Razvoj ==
+Razvoj lakog tenka AMX-13 započeo je 1946. godine u Atalier de Construction d'Issy-les-Moulineuaux. Serijska proizvodnja pokrenuta je 1952. godine u tvornivci „Atelier de Construction Roanne (ARE)“, a početkom šezdesetih prebačena je u tvornicu „Creusot-Loire“. 
+Godine 1966. top od 75 mm zamijenjen je jačim od 90 mm. Do 1985. napravljene su mnoge izmjene na tenku i dodani su novi Dieselov motor, potpuna automatska transmisija itd. Zadnji model je proizveden 1987. godine. Tenk AMX-13 je povučen iz Francuske vojske tijekom 1970e. Zamijenili su ga trenutni francuski laki tenkovi ERC 90 Sagaie i AMX-10RC.
+
+
+== Dizajn ==
+Vozilo se koncepcijski razlikuje od ostalih tenkova. U prednjem lijevom dijelu oklopnog tijela smješten je vozač, desno od njega nalazi se motor, a iza je smještena kupola sa naoružanjem. Kupola se pokreće po elevaciji (naginje) zajedno sa topom. Zbog malih dimenzija vozila, članovi posade moraju biti visine manje od 173 cm.
+
+
+=== Naoružanje ===
+Naoružanje vozila se razlikuje od verzije do verzije. Prva verzija (Model 51) bila je naoružana topom kalibra 75 mm i spregnutim mitraljezom 7,5 mm i kao opciju je imao postavljanje protuavionskog mitraljezom istog kalibra. Top se punio iz automatskog punjača revolverskog tipa, kapaciteta 12 granata, a ukupno se u borbenom kompletu nalazilo 37 granata. Postojala je i verzija vozila koja je pored topa 75 mm imala i dvostruki lanser za protuoklopne vođene rakete SS-11 ili HOT. Početkom šezdesetih godina u proizvodnju je uvedena verzija tenka sa kupolom FL-12, naoružana topom 90 mm. U borbenom kompletu nalazila su se 32 granate. Za izvoz je razvijena verzija naoružana topom 105 mm u kupoli FL-12 ili novijoj FL-15.
+
+
+=== Oklop ===
+Oklop tenka izrađen je varenjem ploča pancirnog čelika. Debljina čeličnih ploča na prednjoj strani tijela je 15 mm, ali kako je oklop postavljen pod kutom od 55° ekvivalentna debljina je 40 mm. Oklop na bokovima tijela je debeo 20 mm, a na zadnjoj strani 15 mm. Kupola je zaštićena pancirnim pločama debljine 25 mm, koje su sa prednje strane postavljene pod kutom od 45° pa pružaju zaštitu ekvivalentnu debljini 40 mm.
+
+
+=== Pokretljivost ===
+Prve verzije tenka AMX-13 imale su osmocilindričnim vodom hlađeni benzinski motor Sofam Model 8Gxb, koji je razvijao 250 ks (185 kW) pri 3200 okretaja u minuti. Kasnije verzije imaju Dieselov motor Detroit Diesel Model 6V-53T ili Baudouin 6F 11 SRY snage 205 kW. Ugradnjom Dieselova motora poboljšana je pokretljivost, a dimet kretanja po dobrom putu je sa 350-400 km porastao na 550-600 km.
+
+
+== Verzije ==
+
+
+=== Prototipovi ===
+Char AMX-13 (2A)
+Char AMX-13 (2B)
+Char AMX-13 (2C)
+Char AMX-13 (2D)
+Char AMX-13 (2E) - Prototip s 90 mm topom
+Char AMX-13 (2F) - Prototip s termovizijom
+
+
+=== Serijske verzije ===
+
+AMX-13 - Početno vozilo opremljeno  sa kupolom s M24
+AMX-13 [DTT] - Trening verzija s kupolom M26. Top uklonjen.
+AMX-13/75 Modele 51 – Verzija s  75 mm topom
+AMX-13 T75 (Char Lance SS-11) - Verzija sa SS-11 protuoklopnim raketama
+AMX-13 T75 avec TCA - Opremljen elektronskim sustavom vođenja rakete
+AMX-13/90 Modele 52 - FL-10 cijev s lećom suspregnuta sa F3 90 mm topom
+AMX-13/90 LRF - Opremljen laserski daljinomjerom
+AMX-13/105 Modele 58 - Verzija sa 105 mm u Topom FL-12 cijev s lećom (koristi ga argentinska i nizozemska vojska)
+AMX-13/105 - Izvozna verzija od Modele 58 sa termovizijom
+AMX-13 Model 1987 - Kasnija proizvodna verzija
+AMX-DCA - Inače poznat pod imenom AMX-13/S530 SPAAG verzija oružana sa dva HS 831 protuavionskim 30 mm topovima
+AMX-DCA 30 - inače poznat pod imenom Bitube de 30 mm anti-aérien automoteur, Oeil Noir - SPAAG verzija s radarom, 60 isporučenih između 1969 i kasnih 80s
+AMX-13 [Trening vozilo]
+AMX-13 bez kupole. Koristi se za obuku vozača
+AMX-13 Modele 55 (AMX-D) – Vozilo za popravke
+AMX-13 PDP (Poseur De Pont) Modele 51 – pokretni most
+
+
+== Korisnici ==
+ Argentina – 24 AMX-13 Mk F3 155 mm
+ Obala Bjelokosti - 5
+ Cipar - 12
+ Čile – 47 AMX-13 155 mm
+ Dominikanska Republika - 2
+ Džibuti –
+ Ekvador - 102
+ Indonezija – 275
+ Kambodža – 12
+ Kuvajt
+ Libanon - 35
+ Meksiko – 409 AMX-VCI
+ Nepal
+ Peru – 110
+ Singapur – 350 AMX-13/SM1
+ Tunis
+ Venezuela – 36 AMX-13C
+
+
+== Bivši korisnici ==
+ Alžir
+ Argentina – 58 tenkova zamijenila sa SK-105 Kurassier
+ Belgija
+ Egipat
+ Francuska – povučeni iz službe tijekom 1970. godine
+ Indija
+ Izrael – prodala Singapuru
+ Maroko – zamijenila sa SK-105 Kurassier
+ Nizozemska – 131 (povučeni)
+ Švicarska
+
+
+== Izvori ==
+http://naoruzanje.paracin.co.yu/amx-13.html
+
+
+== Vanjske poveznice ==

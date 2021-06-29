@@ -1,0 +1,39 @@
+En el baloncesto profesional, el indicador estadístico más usado para la comparación del valor general de los jugadores es llamado eficiencia. Es un indicador sintético que deriva de las estadísticas individuales básicas: puntos, rebotes, asistencias, robos, tapones, pérdidas y tiros intentados. El indicador de la eficiencia, en teoría, tiene en cuenta tanto las contribuciones ofensivas del jugador (puntos, asistencias, rebotes ofensivos) como las defensivas (robos, tapones, rebotes defensivos), pero está generalmente aceptado que los indicadores de eficiencia favorecen a los jugadores ofensivos frente a los defensivos, debido a que la defensa es más difícil de cuantificar con las estadísticas usadas actualmente.
+
+
+== NBA ==
+
+
+=== EFF ===
+La NBA publica en internet todas las estadísticas básicas de los jugadores recogidas oficialmente por la competición. La eficiencia individual de los jugadores se expresa en su web como 'efficiency' (eficiencia en su versión en español) con la abreviatura EFF. Se calcula con la siguiente fórmula:
+
+(PTS + REB + AST + ROB + TAP − TC Fallados − TL Fallados − PER) / PJLa fórmula fue creada por el periodista deportivo de Kansas City y estatista Martin Manley (1953–2013).[1]​
+
+
+=== PER ===
+
+La alternativa más común al indicador de eficiencia es el Ratio de Eficiencia (PER por Player Efficiency Rating en inglés), desarrollado por el estadista deportivo de la ESPN John Hollinger. Es referido en inglés como PER, y es un índice sintético derivado de una fórmula de cálculo muy compleja diseñada para ajustar el valor de la eficiencia, teniendo en cuenta, entre otros factores, el estilo de juego del equipo en el que está el jugador al que se evalúa. Los valores obtenidos por ambos indicadores no difieren notablemente, pero la ordenación de los jugadores evaluados si cambia.
+Un valor de 15 en este ratio está considerado la media en la NBA (diferente valor en la Eficiencia) y sirve como indicador para evaluar a un jugador e indicar el valor que puede tener para las franquicias de la liga. Los equipos que luchan por el título buscan tener en plantilla al menos a dos jugadores con altos indicadores de eficiencia (sobre un valor de 20).
+Un PER de más de 30 en un marco temporal superior a unos pocos partidos es considerado excepcionalmente alto. De acuerdo con la fórmula oficial usada como referencia en la NBA (Basketball-Reference.com),[2]​ el PER más alto que se ha logrado nunca en una temporada completa en la NBA fue de 31.84 y lo hizo Wilt Chamberlain en 1962/63. Ningún otro jugador sobrepasó los 30 puntos hasta  Michael Jordan en 1987/88 con un PER de 31.71. Desde entonces, Jordan superó la marca de los 30 puntos en otras tres ocasiones, y desde entonces, este valor ha sido superado en varias ocasiones por jugadores como David Robinson, Stephen Curry, Shaquille O'Neal (tres veces), Tracy McGrady, Dwyane Wade, LeBron James (cuatro veces) y Anthony Davis. No existen datos PER anteriores a la temporada 1951/52 ya que la estadística de los 'minutos jugados' no se recogió hasta entonces.
+Algunos jugadores de la NBA conocidos por sus altos niveles de Eficiencia en la liga son Kevin Garnett, Pau Gasol, LeBron James, Chris Paul, Russell Westbrook, Dwyane Wade, Kevin Durant, Tim Duncan, Kobe Bryant, Dirk Nowitzki and Dwight Howard.
+Los archivos de los datos históricos de eficiencia en la NBA son:[3]​
+
+Carrera con un Ratio de Eficiencia mayor: Michael Jordan (27.91)
+Temporada con un Ratio de Eficiencia mayor: Wilt Chamberlain (31.82 en 1962–63)
+Carrera PO con un Ratio de Eficiencia mayor: Michael Jordan (28.59)
+Temporada PO con un ratio de Eficiencia mayor: Hakeem Olajuwon (38.96 en 1988)
+
+
+== Euroliga y Eurocup ==
+
+La Euroliga, la Eurocup, y muchas otras ligas europeas domésticas, usan un tipo diferente de fórmula para evalura las actuaciones de los jugadores. Este se llama Índice de Valoración y fue creado en la Liga ACB (En inglés 'Performance Index Rating', PIR). Se calcula como:
+
+(Puntos + Rebotes + Asistencias + Robos + Tapones + Faltas Recibidas) - (Tiros de Campo Fallados + Tiros Libres Fallados + Pérdidas + Tapones Recibidos + Faltas Realizadas).
+
+
+== Referencias ==
+
+
+== Enlaces externos ==
+Líderes en eficiencia profesional de Basketball-Reference.com
+Clasificación de eficiencia (EFF) de NBA.com

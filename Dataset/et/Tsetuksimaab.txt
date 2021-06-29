@@ -1,0 +1,52 @@
+Siin tutvustatakse ravimit või ravimeetodit, kuid kirjutatu pole arstlik nõuanne ning see ei asenda arsti konsultatsiooni. Vikipeedia ei vastuta iseravimise tagajärgede eest.
+
+Tsetuksimaab (Erbitux) (ladina cetuximabum) on onkoteraapias kasutatav veenisise infusioonina manustatav keemiline aine, mis on kimäärne monoklonaalne IgG1 antikeha ja toodetud imetaja rakuliini (Sp2/0) baasil rekombinantse DNA tehnoloogia abil.
+Tsetuksimaab (Erbitux) on näidustatud pea ja kaela lamerakulist vähki põdevate patsientide ja epidermaalse kasvufaktori retseptori (EGFR – epidermal growth factor receptor) ekspressiooniga, metsikut tüüpi RAS-geeniga metastaatilise soolevähki põdevate patsientide ravis.  
+Keemiaravile lisatuna peaks ravim võimaldama pikendada patsientide elumust hinnanguliselt 4 kuu võrra. 
+
+
+== Nimetused ja tähised ==
+CAS-i registreerimisnumber on 205923-56-4. 
+Farmakoterapeutiline rühm: kasvajavastased ained, monoklonaalsed antikehad, ATC-kood on L01XC06. 
+Tsetuksimaab on rahvusvaheline ravimi mittepatenteeritud nimi. Ravimi tootenimi on Erbitux. Erbitux on retseptiravim.
+
+
+== Õiguslik alus ==
+Tsetuksimaabi tohib Euroopa Liidus välja kirjutada. 
+Erbitux® (tsetuksimaab) on registreeritud Eesti ravimiregistris:
+
+ravimiomaduste kokkuvõte (SPC)
+pakendi infoleht (PIL).
+
+
+== Annustamine ja kulud ==
+Enne esimest infusiooni manustatakse premedikatsiooniks antihistamiinikumi ja kortikosteroidi. 
+Soovitatav tsetuksimaabi annustamine on 1 kord nädalas. 
+Infusioonlahuse ühe 100 ml viaali maksumus varieerub vahemikus 1057–1144 dollarit.Eestis maksab kaks ravikuuri rohkem kui 8700 eurot. 
+Eesti Haigekassa andmetel oleks ravimi kulutõhusus lihtsustatud meetodil arvutatuna umbkaudu 82 000 € võidetud eluaasta kohta.
+
+
+== Kõrvaltoimed ja ohud ==
+Ravis võivad sageli ilmneda rasked infusiooniga seotud reaktsioonid, sh anafülaktilised reaktsioonid, mis võivad olla kas anafülaktilist või anafülaktoidset laadi või olla põhjustatud tsütokiini vabastamise sündroomist (CRS). 
+Reaktsioonide sümptomite hulka võivad kuuluda bronhospasm, urtikaaria, vererõhu tõus või langus, teadvusekaotus või šokk. Harvadel juhtudel on täheldatud rinnaangiini, müokardiinfarkti või südameseiskust.
+Kõrvaltoimetena on nahareaktsioonid üsna sagedased; arvatakse, et seda põhjustab kombinatsioon kemoteraapiaga. Suurem oht on sekundaarsete infektsioonide tekkeks (peamiselt bakteriaalsed) – mõnel juhul, näiteks nekrotiseeruva fastsiidi ja sepsise korral on esinenud surmaga lõppenud stafülokokse põlenud naha sündroomi. Lisaks esinevad neutropeenia ja kardiovaskulaarsed häired ning silmakahjustused. 
+EGFR osaleb loote arengus, seega tsetuksimab pääseb platsentasse.  
+
+
+=== Resistentsus ===
+Septembris 2011 tehtud uuringud indikeerivad arvatavasti ravimile lisakomponentide lisamise vajadust, kuna vähirakud võivad ravimile resitentseks muutuda. 
+
+
+== Toime ==
+Kirjelduste kohaselt suunab tsetuksimab tsütotoksilised immuunsed efektorrakud EGFRiga kasvajarakkude vastu (antikehast sõltuv rakkude poolt vahendatud tsütotoksilisus, antibody dependent cell–mediated cytotoxicity – ADCC).
+In vitro ja in vivo testides inhibeerib tsetuksimab EGFRiga inimese kasvajarakkude proliferatsiooni ja apoptoosi ning kutsub esile tuumori uussoonestumise ja metastaaside vähenemise.
+
+
+== Viited ==
+
+
+== Välislingid ==
+Bardelli A, Siena S., Molecular mechanisms of resistance to cetuximab and panitumumab in colorectal cancer. Lühikokkuvõte., J Clin Oncol. 1. märts 2010;28(7):1254-61. doi: 10.1200/JCO.2009.24.6116., veebiversioon (vaadatud 11.10.2014)(inglise keeles)
+Kimio Yonesaka, Kreshnik Zejnullahu, Isamu Okamoto, Taroh Satoh, Federico Cappuzzo, John Souglakos, Dalia Ercan, Andrew Rogers, Massimo Roncalli, Masayuki Takeda, Yasuhito Fujisaka, Juliet Philips, Toshio Shimizu, Osamu Maenishi, Yonggon Cho, Jason Sun, Annarita Destro, Koichi Taira, Koji Takeda, Takafumi Okabe, Jeffrey Swanson, Hiroyuki Itoh, Minoru Takada, Eugene Lifshits, Kiyotaka Okuno, Jeffrey A. Engelman, Ramesh A. Shivdasani, Kazuto Nishio, Masahiro Fukuoka, Marileila Varella-Garcia, Kazuhiko Nakagawa, ja Pasi A. Jänne, Activation of ERBB2 signaling causes resistance to the EGFR-directed therapeutic antibody cetuximab, Sci Transl Med. 7. september 2011; 3(99): 99ra86., doi: 10.1126/scitranslmed.3002442, PMCID: PMC3268675, NIHMSID: NIHMS337522, veebiversioon (vaadatud 11.10.2014) (inglise keeles)
+Vähiravifond „Kingitud Elu“ toetab 29-aastase naise võitlust käärsoole kasvajaga, 8. oktoober 2014, veebiversioon (vaadatud 11.10.2014)
+Eesti Haigekassa, Kulutõhususe ja ravikindlustuse eelarve mõju hinnang, veebiversioon (vaadatud 11.10.2014)Selles artiklis on kasutatud ingliskeelset artiklit en:Cetuximab seisuga 11.10.2014.

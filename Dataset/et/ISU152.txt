@@ -1,0 +1,34 @@
+ISU-152 on NSV Liidus aastatel 1943–1946 tootmises olnud liikursuurtükk, mida 1945. aasta maiks oli toodetud 1885 masinat (üldse toodeti kuni 1946. aastani kokku üle 2800).
+
+
+== Eellugu ==
+Iseliikuv suurtükk ISU-152 töötati välja Jossif Kotini poolt Tšeljabinski tehases "Nr 100" juunist septembrini 1943. Väljatöötatav masin sai tehasenimeks "Objekt 241" (vene keeles "Объект 241") ning oli ehitatud samaaegselt väljatöötatud tanki IS-1 šassiile (hiljem kasutati ka IS-2-e ja IS-2 mudel 1944 šassiisid). Esimene katsemasin valmis 1943. aasta oktoobris ning oktoobris-novembris toimusid masina tehase- ja polügoonikatsetused. 6. detsembril võeti masin relvastusse ja lasti seeriatootmisse.
+Uus liikursuurtükk sarnanes ülimalt oma eelkäija SU-152-ga, kuid omas tunduvalt kõrgemat soomustorni. Kinnises liikumatus soomustornis asusid nii juhtimis- kui ka lahingusektsioon koos pearelvaga. Mootor ja transmissioon paiknesid korpuse tagaosas. ISU-152 erines oma eelkäijast SU-152-st paksema soomuse ning tunduvalt töökindlamate seadmete, veermiku, transmissiooni ja jõuseadmete poolest.
+
+
+== ISU-152 konstruktsioon ja tehniline lahendus ==
+
+
+=== Relvastus ===
+Masina pearelv oli esialgu kolbluku ja pilusuudmepiduriga 152 mm haubits ML20 mod. 1937. Haubits koos raamidega oli paigaldatud soomustorni esiseina, nihutatult veidi masina parema külje poole. Tulejoone kõrguseks oli 1800 mm. Alates 1944. aasta maist sai masin uue 152 mm haubitsa ML20S mod. 1943. 
+Haubitsat oli võimalik liigutada vertikaalselt −3 kuni +20 kraadi, horisontaalselt aga kummalegi küljele 10 kraadi. Otsesihtimisega tulistamiseks oli masinale paigaldatud teleskoopsihik "ST10", kaugsihtimiseks kasutati pikendusega panoraamsihikut "Kertš", mille objektiiv väljus soomustorni lael olevast vasakpoolsest esimesest luugist. Öiseks tulistamiseks olid vaatlusskaalad ja panoraamid, kui ka sihikud ja mürsud varustatud elektrilampidest seadmetega. Laskekaugus otsesihtimisega oli 3800 m ja kauglaskmisega 6200 m. Laskekiirus oli 2 kuni 3 lasku minutis. Esimestel masinatel oli käsipäästik, hilisematel aga elektriline. Lahinguvaru oli 21 laengut ja mürskui. Laengud paiknesid soomustorni vasakul seinal vastavates raamides, mürsud aga nende all vastavates raamides. Osa mürske oli aga paigutatud suurtüki alla põrandale. Soomustläbistavatel mürskudel kaaluga 48,78 kg ning kildfugassmürskudel kaaluga 43,56 kg oli algkiirus 600 m/s. Soomustläbistavad mürsud läbistasid 1 km pealt 123 mm soomust. Alates 1944. aasta oktoobrist hakati torni laele, komandöriluugile turelliga kinnitama 12,7 mm õhutõrjekuulipildujat DŠK ja sihtimisseadet K8T. Kuulipilduja lahingukomplekti kuulus 250 padrunit. Peale selle oli meeskonna enesekaitseks kaks 7,62 mm püstolkuulipildujat PPŠ lahinguvaruga 1491 padrunit (21 ketast) ja 20 käsigranaati F1.
+
+
+=== Meeskond ===
+Meeskonda koosnes viiest või neljast mehest, kes paiknesid lahingusektsioonis järgnevalt: komandör – esiosas suurtükist paremal,tema taga laskur, juht-mehaanik oli esiosas vasakul, tema taga sihtur ning sihturi taga laadur. Kui meeskond koosnes neljast mehest, täitis laadur ka laskuri ülesandeid. Meeskonna sisenemiseks-väljumiseks oli torni lael kolm kahepoolset luuki, kaks (ümmargused ja pööratavad) asusid esiosas ja üks (ristkülikukujuline) tagaosas. Kõik luugid olid varustatud periskoop vaatlusseadmetega MK4. Juht-mehaanikul oli torni esiseinas spetsiaalne tripleksklaasiga vaatepilu, mis oli kaitstud soomusega. Korpuse põhjas, juht-mehaaniku istme all oli varuväljapääs, mis oli suletud soomusluugiga.
+
+
+=== Korpus ja torn ===
+Masina torn ja korpus olid valmistatud soomuslehtedest paksusega 20, 30, 60 ja 90 mm, suurtükimaski soomuse paksus oli esialgu 60, kuid hilisematel masinatel kuni 100 mm.
+
+
+== ISU-152 kasutus ja teised masinad ==
+Raske liikursuurtükk ISU-152 näitas oma häid lahinguomadusi Berliini tänavalahingutes ja Königsbergi kindlustiste tulistamisel. 1950. aastatel moderniseeriti masinat – ISU-152K sai omale öövaatlusseadme.
+Sõja ajal töötati ka uute projektide kallal, mis oleks ehitatud ISU-152 šassiile ning relvastatud 152 mm pikaraudse kahuriga BL-8, 152 mm kahuriga BL-10 ja 130 mm kahuriga S-26. Kõigist kolmest masinast valmisid ka prototüübid, kuid erinevatel põhjustel ei läinud neist ükski seeriatootmisse. Neist masinaist kaks, ISU-152 kahuriga BL-10 ja ISU-130 kahuriga S-26 on alles tänapäevani ning hoitakse Moskva lähistel Kubinka tankimuuseumis.
+Pärast sõda ehitati ISU-152 baasil iseliikuvaid raketilaskjaid ja evakueerimisveokeid.
+
+
+== Välislingid ==
+За-СССР! ISU-152 (vene keeles)
+Battlefield. ISU-122/ISU-152 ajalugu (vene keeles)
+Battlefield. ISU-122/ISU-152 sõjajärgne kasutus (vene keeles)

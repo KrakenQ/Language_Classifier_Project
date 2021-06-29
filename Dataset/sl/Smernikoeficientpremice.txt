@@ -1,0 +1,287 @@
+
+== Definicija smernega koeficienta ==
+Smerni koeficient premice na ravnini z osema x in y označimo s črko k in je definiran kot sprememba koordinate y deljeno s 
+pripadajočo spremembo koordinate x med dvema različnima točkama na premici. To opisuje enačba:
+
+  
+    
+      
+        k
+        =
+        
+          
+            
+              Δ
+              y
+            
+            
+              Δ
+              x
+            
+          
+        
+      
+    
+    {\displaystyle k={\frac {\Delta y}{\Delta x}}}
+  (simbol delta , »Δ«, se pogosto uporablja v matematiki s pomenom »razlika« ali »sprememba«.)
+S podanima točkama (x1, y1) in (x2, y2) je prememba x-a med prvo in drugo točko enaka x2 - x1, medtem ko je prememba y-a enaka y2 - y1. Če ti vrednosti vstavimo v zgornjo enačbo dobimo:
+
+  
+    
+      
+        k
+        =
+        
+          
+            
+              
+                y
+                
+                  2
+                
+              
+              −
+              
+                y
+                
+                  1
+                
+              
+            
+            
+              
+                x
+                
+                  2
+                
+              
+              −
+              
+                x
+                
+                  1
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle k={\frac {y_{2}-y_{1}}{x_{2}-x_{1}}}}
+  Katere točke na premici izberemo in vrstni red le-teh nista pomembna; določena premica ima povsod enak smerni koeficient.
+
+
+=== Primer 1 ===
+Premica poteka skozi dve točki: P(1,2) and Q(13,8):
+
+  
+    
+      
+        k
+        =
+        
+          
+            
+              Δ
+              y
+            
+            
+              Δ
+              x
+            
+          
+        
+        =
+        
+          
+            
+              
+                y
+                
+                  2
+                
+              
+              −
+              
+                y
+                
+                  1
+                
+              
+            
+            
+              
+                x
+                
+                  2
+                
+              
+              −
+              
+                x
+                
+                  1
+                
+              
+            
+          
+        
+        =
+        
+          
+            
+              8
+              −
+              2
+            
+            
+              13
+              −
+              1
+            
+          
+        
+        =
+        
+          
+            6
+            12
+          
+        
+        =
+        
+          
+            1
+            2
+          
+        
+      
+    
+    {\displaystyle k={\frac {\Delta y}{\Delta x}}={\frac {y_{2}-y_{1}}{x_{2}-x_{1}}}={\frac {8-2}{13-1}}={\frac {6}{12}}={\frac {1}{2}}}
+  Smerni koeficient 1/2 = 0.5.
+
+
+=== Primer 2 ===
+Premica poteka skoz točki (4, 15) and (3, 21):
+
+  
+    
+      
+        k
+        =
+        
+          
+            
+              21
+              −
+              15
+            
+            
+              3
+              −
+              4
+            
+          
+        
+        =
+        
+          
+            6
+            
+              −
+              1
+            
+          
+        
+        =
+        −
+        6
+      
+    
+    {\displaystyle k={\frac {21-15}{3-4}}={\frac {6}{-1}}=-6}
+  
+
+
+== Geometrija ==
+Večja kot je absolutna vrednost smernega koeficienta, bolj strma je premica. Vodoravna premica ima smerni koeficient 0, naraščajoča premica z naklonom 45° ima smerni koeficient +1, padajoča premica z naklonom 45° ima smerni koeficient -1. Navpična premica nima realnega smernega koeficienta.
+Kot 
+  
+    
+      
+        α
+      
+    
+    {\displaystyle \alpha }
+  , ki ga premica oklepa s pozitivnim delom x-osi je povezan s smernim koeficientom k: 
+
+  
+    
+      
+        k
+        =
+        
+          t
+          g
+        
+        
+        α
+      
+    
+    {\displaystyle k=\mathrm {tg} \,\alpha }
+  in
+
+  
+    
+      
+        α
+        =
+        
+          a
+          r
+          c
+          t
+          g
+        
+        
+        k
+      
+    
+    {\displaystyle \alpha =\mathrm {arctg} \,k}
+  (glej trigonometrija).
+Dve premici sta vzporedni natanko takrat, ko imata enaka smerna koeficienta ali ko sta obe navpični in zato nista definirani. Premici sta pravokotni natanko takrat, ko je produkt njunih smernih koeficientov enak -1, ali ko ima ena smerni koeficient enak 0, druga pa je navpična.
+
+
+=== Naklon ceste ===
+Obstajata dva načina za opis naklona ceste: podan je kot v stopinjah ali naklon v procentih. Formula za pretvorbo naklona iz procentov v stopinje je:
+
+  
+    
+      
+        α
+        =
+        
+          
+            180
+            π
+          
+        
+        
+          a
+          r
+          c
+          t
+          g
+        
+        
+          
+            
+              naklon
+            
+            100
+          
+        
+        .
+      
+    
+    {\displaystyle \alpha ={\frac {180}{\pi }}\mathrm {arctg} {\frac {\mbox{naklon}}{100}}.}
+  Torej je 100 % naklon enak 45°.

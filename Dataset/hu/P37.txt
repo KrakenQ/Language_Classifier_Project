@@ -1,0 +1,46 @@
+A P–37 (GRAU-kódja: 1RL139, NATO-kódneve: Bar Lock, közepes hatótávolságú kétdimenziós felderítő és rávezető rádiólokátor, melyet a Szovjetunióban fejlesztettek ki a korábbi P–30 lokátorból az 1970-es években. A lokátor napjainkban is hadrendben áll egyes országokban. A P–37-et a Magyar Néphadsereg is hadrendbe állította.
+
+
+== Története ==
+A rádiólokátort az 1970-es évek közepén fejlesztették ki a P–35-ös radar továbbfejlesztett változataként. A fejlesztésnél a P–35-höz képest a megbízhatóság, az üzembiztonság, a zavarvédelem, az ellenséges rádióelektronikai tevékenység elleni védelem, valamint a hatótávolság növelése volt a cél. A rádiólokátor sikeres tesztjeit követően rendszeresítették a Szovjet Hadseregben. A berendezés sorozatgyártását a Moszkvában található Lianozovói Elektromechanikai Gyár (LEMZ) végezte.
+A P–37 fő célja a nagy távolságú felderítés, látótávolsága több mint 300 km is lehet, ez persze az adott domborzattól is függ. Az antenna egy viszonylagos mobil eszköz, melyet egy teherautó felépítményére telepítettek. A két antenna egy úgynevezett azimut szögben, 2 dimenzióban keresi a céltárgyat, vagyis az észlelt légi jármű horizontális égi koordinátáját határozza meg, tehát az eszköz nem tud magasságot mérni, nem lát 3 dimenzióban. ennek kiküszöbölése miatt a PRV–17-es magasságmérő radarral párhuzamosan szokták üzemeltetni.
+A radar 500 méteres pontossággal tud repülő tárgyakat bemérni, sebességet és távolságot adva nekik. Jelenleg Magyarországon 5 helyen szolgának a P–37-esek. Mozgathatóságuk és a tervezéskori NATO elvektől eltérő doktrína miatt nélkülözhetetlen lokátor.
+
+
+== Korszerűsített P–37-es lokátor adatai ==
+A P–37 lokátor modernizálási programja 1997-ben kezdődött, az első modernizált radart a HM Arzenál ZRt. 1999-ben adta át a Magyar Honvédségnek.
+A Magyar Honvédségnél ezekre a modernizált P–37 radarokra épül a légtér-ellenőrzési feladatok ellátása, ezzel részt vesznek az egységes európai légtér helyzet kialakításában
+Rendeltetés: A radar gerinchálózat elemeként a légijárművek detektálása és a légtérellenőrző rendszer számára elsődleges és másodlagos radarinformáció szolgáltatása.
+Főbb műszaki jellemzők:
+
+S-sávú felderítő radar, amelynek az adó modulátorát és a magnetronját is új, korszerű típusra alakították át;
+A vevő rendszer teljesen új, a nagyfrekvenciás előerősítő félvezetős a keverő fokozat után digitális jelfeldolgozás van;
+Képes primer magassági információ biztosítására is;
+A jelfeldolgozó, megjelenítő és adattovábbító rendszer teljesen új digitális rendszerű;
+Beépített szekunder radarberendezés;
+A radar megbízhatósága jelentősen nőtt, a hibakeresés szoftveresen támogatott.Főbb műszaki adatai:
+
+Üzemi frekvenciasáv: S sáv;
+Maximális felderítési távolság: 350 km;
+Adó: MI–503 magnetron és új modulátorblokk (ötszörös élettartam);
+Hosszabb élettartamú talpcsapágy;
+A vevő és jelfeldolgozó rendszernél: 14 bites középfrekvenciás mintavételezés, „szoftvervevő”, ARCNET hálózati kommunikáció, csatornánkénti extraktor, amely lehetővé teszi a magassági koordináta meghatározását is;
+IFF rendszer: Siemens 1990 szekunder radar interfész, távvezérléssel
+Megjelenítés: 18”-os TFT monitorral analóg videó és szintetikus célkoordináta megjelenítés, valamint 2 db PIKET indikátor digitális interfésszel analóg videóhoz
+Kommunikáció: az RHP berendezéshez RS422 adatkimeneti interfész;Objektív kontroll biztosított.
+
+
+== Kapcsolódó szócikkek ==
+Radarkeresztmetszet
+Lokátor
+Radarreflektor
+Hangtükör
+Fázisvezérelt antennarács
+Szintetikus apertúrájú rádiólokátor
+Rádiólokátor
+
+
+== Források ==
+
+Képek a magyar repülésirányítás és légvédelmi vezetés történetéből – 1958–1990 (magyar nyelven). drseres.com. (Hozzáférés: 2011. július 20.)
+A modernizált P–37 a HM Arzenál Zrt. honlapján

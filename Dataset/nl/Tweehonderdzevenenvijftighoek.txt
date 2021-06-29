@@ -1,0 +1,605 @@
+Een tweehonderzevenenvijftighoek (hierna geschreven als 257-hoek) is een meetkundige figuur (een veelhoek) met 257 hoeken en evenzoveel zijden. Het aantal hoeken en zijden van een veelhoek wordt meestal aangegeven met de letter 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+  ; in dit geval is dus 
+  
+    
+      
+        n
+        =
+        257
+      
+    
+    {\displaystyle n=257}
+  .
+
+
+== Regelmatige 257-hoek ==
+De grootte 
+  
+    
+      
+        α
+      
+    
+    {\displaystyle \alpha }
+   van een hoek van een regelmatige 257-hoek is (in graden):
+  
+    
+      
+        α
+        =
+        
+          
+            
+              n
+              −
+              2
+            
+            n
+          
+        
+        ⋅
+        
+          
+            
+              180
+            
+            
+              o
+            
+          
+        
+        =
+        
+          
+            255
+            257
+          
+        
+        ⋅
+        
+          
+            
+              180
+            
+            
+              o
+            
+          
+        
+        ≈
+        
+          
+            
+              178
+              ,
+              60
+            
+            
+              o
+            
+          
+        
+      
+    
+    {\displaystyle \alpha ={\frac {n-2}{n}}\cdot {{180}^{\text{o}}}={\frac {255}{257}}\cdot {{180}^{\text{o}}}\approx {{178,60}^{\text{o}}}}
+  De algemene formule voor de oppervlakte 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+   van een regelmatige 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+  -hoek waarvan de lengte van de zijde gelijk is aan 
+  
+    
+      
+        z
+      
+    
+    {\displaystyle z}
+   luidt:
+  
+    
+      
+        A
+        =
+        
+          
+            
+              1
+              4
+            
+          
+        
+        n
+        
+          
+            
+              z
+            
+            
+              2
+            
+          
+        
+        cot
+        ⁡
+        
+          (
+          
+            
+              
+                
+                  180
+                
+                
+                  o
+                
+              
+              n
+            
+          
+          )
+        
+      
+    
+    {\displaystyle A={\tfrac {1}{4}}n{{z}^{2}}\cot \left({\frac {{180}^{\text{o}}}{n}}\right)}
+  
+Voor 
+  
+    
+      
+        n
+        =
+        257
+      
+    
+    {\displaystyle n=257}
+   is dat:
+
+  
+    
+      
+        A
+        =
+        
+          
+            257
+            4
+          
+        
+        ⋅
+        
+          
+            
+              z
+            
+            
+              2
+            
+          
+        
+        cot
+        ⁡
+        
+          (
+          
+            
+              
+                
+                  180
+                
+                
+                  o
+                
+              
+              257
+            
+          
+          )
+        
+      
+    
+    {\displaystyle A={\frac {257}{4}}\cdot {{z}^{2}}\cot \left({\frac {{180}^{\text{o}}}{257}}\right)}
+  
+Zodat:
+
+  
+    
+      
+        A
+        =
+        5255,750
+        616
+        ⋅
+        
+          
+            
+              z
+            
+            
+              2
+            
+          
+        
+      
+    
+    {\displaystyle A=5255{,}750616\cdot {{z}^{2}}}
+  
+
+
+== Benadering van ==
+  
+    
+      
+        π
+      
+    
+    {\displaystyle \pi }
+  
+De omtrek 
+  
+    
+      
+        
+          S
+          
+            i
+            n
+          
+        
+      
+    
+    {\displaystyle S_{in}}
+   van een ingeschreven regelmatige 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+  -hoek van een cirkel waarvan de straal gelijk is aan 
+  
+    
+      
+        1
+      
+    
+    {\displaystyle 1}
+  , is:
+
+  
+    
+      
+        
+          
+            
+              S
+            
+            
+              i
+              n
+            
+          
+        
+        =
+        2
+        n
+        ⋅
+        sin
+        ⁡
+        
+          (
+          
+            
+              
+                
+                  180
+                
+                
+                  o
+                
+              
+              n
+            
+          
+          )
+        
+      
+    
+    {\displaystyle {{S}_{in}}=2n\cdot \sin \left({\frac {{180}^{\text{o}}}{n}}\right)}
+  Substitutie van 
+  
+    
+      
+        n
+        =
+        257
+      
+    
+    {\displaystyle n=257}
+   geeft:
+
+  
+    
+      
+        
+          
+            
+              S
+            
+            
+              i
+              n
+            
+          
+        
+        =
+        2
+        ⋅
+        257
+        ⋅
+        sin
+        ⁡
+        
+          (
+          
+            
+              
+                
+                  180
+                
+                
+                  o
+                
+              
+              257
+            
+          
+          )
+        
+        ≈
+        6,283
+        029
+      
+    
+    {\displaystyle {{S}_{in}}=2\cdot 257\cdot \sin \left({\frac {{180}^{\text{o}}}{257}}\right)\approx 6{,}283029}
+  Hieruit volgt een benadering in 
+  
+    
+      
+        6
+      
+    
+    {\displaystyle 6}
+   decimalen van 
+  
+    
+      
+        π
+      
+    
+    {\displaystyle \pi }
+  : 
+  
+    
+      
+        3,141
+        514
+      
+    
+    {\displaystyle 3{,}141514}
+   (werkelijke waarde, ook in 
+  
+    
+      
+        6
+      
+    
+    {\displaystyle 6}
+   decimalen: 
+  
+    
+      
+        3,141
+        593
+      
+    
+    {\displaystyle 3{,}141593}
+  ).
+
+
+== Construeerbaarheid ==
+Het getal 
+  
+    
+      
+        257
+        =
+        
+          
+            
+              2
+            
+            
+              
+                
+                  2
+                
+                
+                  3
+                
+              
+            
+          
+        
+        +
+        1
+      
+    
+    {\displaystyle 257={{2}^{{2}^{3}}}+1}
+   is een zogeheten Fermat-priemgetal. Op grond van de stelling van Gauss-Wantzel is daarmee een regelmatige 257-hoek met passer en (ongemerkte) liniaal te construeren.Hoewel Gauss zijn aandeel in de stelling in 1796 bewees (gepubliceerd in 1801), werden de eerste daadwerkelijke constructies pas in 1822 en 1832 gegeven respectievelijk door Magnus Georg Paucker (1787–1855, Estland) en Friedrich Julius Richelot (1806–1875, Duitsland).Een moderne constructiemethode (met passer en liniaal) maakt gebruik van zogeheten Carlyle-cirkels. Carlyle-cirkels zijn cirkels die gekoppeld zijn aan bepaalde vierkantsvergelijkingen, die daarmee grafisch kunnen worden opgelost. Bij deze constructie is er een serie van 24 vergelijkingen nodig die na elkaar met behulp van de bijbehorende Carlyle-cirkel moeten worden opgelost. De eerste vergelijking in de serie is 
+  
+    
+      
+        
+          
+            
+              x
+            
+            
+              2
+            
+          
+        
+        +
+        x
+        −
+        64
+        =
+        0
+      
+    
+    {\displaystyle {{x}^{2}}+x-64=0}
+  .
+
+
+== 257-gram ==
+
+Een 257-gram is een 257-zijdige sterveelhoek. Omdat 
+  
+    
+      
+        257
+      
+    
+    {\displaystyle 257}
+   een priemgetal is, zijn er 
+  
+    
+      
+        127
+      
+    
+    {\displaystyle 127}
+   verschillende regelmatige 257-grammen, die kunnen worden vast gelegd via het zogeheten Schläfli-symbool 
+  
+    
+      
+        {
+        257
+        
+          /
+        
+        n
+        }
+      
+    
+    {\displaystyle \{257/n\}}
+  , voor alle gehele getallen 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+   met 
+  
+    
+      
+        2
+        ≤
+        n
+        ≤
+        128
+      
+    
+    {\displaystyle 2\leq n\leq 128}
+  .
+In de figuur rechts staat een regelmatig 257-gram met 
+  
+    
+      
+        {
+        257
+        
+          /
+        
+        128
+        }
+      
+    
+    {\displaystyle \{257/128\}}
+  . Daarvan is de interne hoek gelijk aan 
+  
+    
+      
+        
+          
+            
+              180
+            
+            
+              o
+            
+          
+        
+        
+          /
+        
+        257
+         
+        (
+        ≈
+        
+          
+            
+              0
+              
+                ,
+              
+              7
+            
+            
+              o
+            
+          
+        
+        )
+      
+    
+    {\displaystyle {{180}^{\text{o}}}/257\ (\approx {{0{,}7}^{\text{o}}})}
+  .
+
+
+== Literatuur ==
+Benjamin Bold (1969): Famous Problems of Geometry and How to Solve Them. New York (USA): Dover Publications Inc.; reprint 1982; pp. 7–17, pp. 49–71.
+Audun Holme (2002): Geometry, our cultural heritage. Berlijn: Springer Verlag; pp. 340–347.
+N.D. Kazarinoff (1970): The Ruler and the Round. Mineola (USA): Dover Publications Inc.; reprint 2003; pp. 119–125.
+Devin Kuh (2013): Constructible regular n-gons. Via: Whitmann College, Walla Walla (WA, USA), PDF-bestand.
+Paul J. Nahin (2006): Dr. Euler’s Fabulous formula: cures many mathematical ills. Princeton (NY, USA): Princeton University Press; pp. 48–53.
+
+
+== Externe link ==
+(en)  Constructible regular polygons – OEIS: A003401
+
+
+== Noten ==

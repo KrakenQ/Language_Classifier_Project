@@ -1,0 +1,4 @@
+RDRAM edo Rambus DRAM, Rambus enpresak garatutako protokolo pribatu batean oinarrituriko gama altuko memoria da. Beraz erosleak royalty-ak ordaintzera behartuta daude. Ondorioz merkatua erabilpen askeko DDR memorien erabilpenaren alde agertu da, prestazio handiko zerbitzari batzuk (CRAY) eta PlayStation 2 famatua dira honen salbuespenak.
+
+
+== Kanpo estekak ==

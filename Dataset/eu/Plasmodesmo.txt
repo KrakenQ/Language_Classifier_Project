@@ -1,0 +1,41 @@
+Plasmodesmoa landare zelulen horma zeharkatzen duen kanal zitoplasmatikoa da, zelula biak elkarlotzen dituena eta beren arteko komunikazioa eta sustantzien garraioa ahalbidetzen duena. Landare eta algatan agertzen da.
+Animalia zelulek ez dute zelula hormarik baina bi zelulen artean antzeko kanalak agertzen dira, Gap loturak hain zuzen ere. Landareen plasmodesmoak baino sinpleagoak dira ordea.
+
+
+== Sorrera ==
+
+
+=== Lehen mailako plasmodesmoak ===
+Zelularen mitosiaren amaieran zitokinesia gertatzen ari denean Golgi aparatutik datozen fragmoplastoak zelula biak banatuko dituen erdiko xafla eratzen hasten dira. Erretikulu endoplasmatikoaren atal batzuk fragmoplasto artean harrapaturik gelditzen dira eta ondorioz poro zitoplasmatikoa eratzen da honen inguruan. Harrapaturiko erretikulu hodiari desmotubulo izena ematen zaio.
+
+
+=== Bigarren mailako plasmodesmoak ===
+Zelula helduen artean sortzen dira. Ez da prozesua zehazki ezagutzen baina dirudienez erretikulu endoplasmatikoak estimulaturiko entzimek zelula horma zulatzen dute eta ondoz ondoko zelulen zitoplasmek poroan zehar bat egiten dute.
+
+
+== Egitura ==
+
+Landare zelula estandar batean 103 eta 105 plasmodesmok elkartzen dituzte ondoz ondoko zelulak. Plasmodesmo bakoitzak 50-60 nm-tako diametroa izaten du eta 90 nm-ko lodiera duten zelula hormak zeharkatzen ditu. Hiru geruzak osatzen dute plasmodesmoa; ertzetik erdialdera, zelula mintza, zitoplasma eta desmotubuloa.
+
+
+=== Zelula mintza ===
+Zelula bien mintzen arteko jarraipena da eta fosfolipido egitura bera mantentzen du. Landare zelulen mintzari plasmalemma ere esaten zaio.
+Plasmodesmoaren aho bietan, zelula horma barnean kalosa izeneko polisakaridoa pilatzen da. Kalosaren kopurua handitzen bada ahoa estutu egiten da eta mintzak plasmodesmoaren diametroa txikituko du. Horrela plasmodesmoko garraioa kontrolatzea posible dute zelulek. Zelula bat hiltzen denean hormako kalosa ugaritu eta gogortu egiten da eta plasmodesmoa itxi egiten du.
+
+
+=== Kanal zitoplasmatikoa ===
+Zelula bien zitosolaren jarraipena izanik fluidoak betetzen du plasmalemma eta desmotubuloaren arteko espazioa. Molekula txikiak (ioiak, monosakaridoak, aminoazidoak...) zitoplasma eremu honenatik difusio bakunez igarotzen dira, molekula handiagoak (proteinak, RNA molekulak...) ordea difusio erraztu bidez pasatu behar dira eta hainbat kasutan energia gastatu beharko da.
+
+
+=== Desmotubuloa ===
+Ondoz ondoko zelula biren erretikulu endoplasmatikoak lotzen dituen hodia da. Zelula hormak eragiten dion presioarengatik hodia zapaldua agertzen da eta ez dirudi molekula garraio handirik gertatzen denik bertan. Desmotubuloari atxikituta zitoeskeletoko proteinak agertzen dira, aktina eta miosina batez ere. Zitoplasmatik molekula handiak garraiatzen laguntzeko funtzioa dutela pentsatzen da.
+
+
+== Historia ==
+Eduard Tanglek 1879. urtean Strychnos nux-vomica landarearen kotiledoietako zelulen artean loturak aurkitu zituen eta zelula guztiek maila altuagoko izakia osatzen zuteneko hipotesia azaldu zuen. Ordurarte zelula bakoitzak unitate autonomo gisa jokatzen zuela pentsatzen zen. 1901. urtean Eduard Strasburger botaniko poloniarrak plasmodesmata izena eman zion.
+
+
+== Erreferentziak ==
+
+
+== Kanpo estekak ==

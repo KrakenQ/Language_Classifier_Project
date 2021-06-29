@@ -1,0 +1,112 @@
+A fogasléc fogazott rúd, mely fogaskerékhez csatlakoztatva olyan hajtóművet alkot, amely forgó mozgást haladóvá, illetve haladó mozgást forgó mozgássá alakít. A fogasléc a fogaskerék speciális esetének is felfogható: végtelen sok fogszámú vagy végtelen nagy gördülőkörű fogaskerék egy véges hosszúságú szakasza.
+A fogasléc fogazatának alkalmazkodnia kell a csatlakozó fogaskerék fogazatához. Leggyakrabban evolvens fogazatot használnak. Ebben az esetben a fogasléc fogai egyszerű trapéz alakúak. Többek között emiatt terjedt el az evolvens fog használata, mivel a fogasléc alakú fogazó szerszámokat egyszerűen és nagy pontossággal lehet gyártani különleges technológiát nem igénylő szerszámgépeken. (Az evolvens fogazat másik előnye, hogy nem érzékeny a tengelytáv pontos betartására, a hajtás akkor is pontos - vagyis a hajtott tengely szögsebessége állandó marad a hajtó tengely állandó szögsebessége esetén - ha a tengelytáv a tervezettől kissé eltér. Az evolvens fogazatok egységesítése céljából a szabványok a generáló fogasléc alakját és méreteit határozzák meg. A tényleges fogasléc méreteit a szabványos modullal való szorzás eredményeképp kapják.
+Fogaskerék-fogasléc hajtást szakaszos működtetés esetén szoktak használni, egyik első példája a számszeríj felhúzó szerkezete. Alkalmazzák zsilipkapuk nyitására-zárására, gépkocsi kormányművében. Ez utóbbinak az az előnye a csigás megoldással szemben, hogy visszajelzést ad a gépkocsivezetőnek a kerekek elfordításához szükséges tényleges nyomatékról.
+A fogaskerekű vasutak fogassínje lényegében egy hosszú fogasléc. Több megoldás használatos: egyben kovácsolt egyszerű fogasléc alakú sín, kettős fogasléc félfoggal eltolva, vízszintes fogazású kettős fogassín, két sín közé beerősített pálcákból álló fogassín.
+A fogasléc 
+  
+    
+      
+        v
+        
+      
+    
+    {\displaystyle v\,}
+   sebessége és a csatlakozó fogaskerék 
+  
+    
+      
+        ω
+        
+      
+    
+    {\displaystyle \omega \,}
+   szögsebessége között az alábbi összefüggés áll fenn:
+
+  
+    
+      
+        v
+        =
+        
+          
+            d
+            2
+          
+        
+        ⋅
+        ω
+        =
+        
+          
+            
+              z
+              ⋅
+              m
+            
+            2
+          
+        
+        ⋅
+        
+          
+            
+              2
+              π
+              ⋅
+              n
+            
+            60
+          
+        
+        =
+        4
+        ,
+        774649
+        z
+        ⋅
+        m
+        ⋅
+        n
+        
+      
+    
+    {\displaystyle v={\frac {d}{2}}\cdot \omega ={\frac {z\cdot m}{2}}\cdot {\frac {2\pi \cdot n}{60}}=4,774649z\cdot m\cdot n\,}
+  ahol
+
+  
+    
+      
+        z
+        
+      
+    
+    {\displaystyle z\,}
+   a fogaskerék fogszáma
+
+  
+    
+      
+        m
+        
+      
+    
+    {\displaystyle m\,}
+   a modul
+
+  
+    
+      
+        n
+        
+      
+    
+    {\displaystyle n\,}
+   a fogaskerék percenkénti fordulatszámaFogaskerék-fogasléc geometria
+		
+		
+		
+
+
+== Források ==
+Pattantyús Gépész- és Villamosmérnökök Kézikönyve 2. kötet. Műszaki Könyvkiadó, Budapest, 1961.
+Fr. Freytag: Hilfsbuch für den Maschinenbau. Springer, Berlin, 1920.

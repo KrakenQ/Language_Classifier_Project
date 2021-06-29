@@ -1,0 +1,86 @@
+Os leucotrienos son lípidos do grupo dos eicosanoides, que funcionan como moléculas de sinalización celular. Unha das súas funcións (especificamente do leucotrieno D4) é provocar a contracción dos músculos lisos da traquea; a súa sobreprodución é unha das principais causas da inflamación que se presenta en casos de asma e rinite alérxica. Os antagonistas dos leucotrienos utilízanse para tratar esas doenzas ao inhibiren a produción ou a actividade dos leucotrienos.
+Os leucotrienos producidos na célula conducen sinais que actúan ou ben na célula que os produciu (sinalización autócrina) ou ben nas células veciñas (sinalización parácrina) para regular a resposta inmunitaria.
+Os leucotrienos sintetízanse no corpo a partir doc ácido araquidónico por acción do encima 5-lipoxixenase. A súa produción xeralmente acompáñase da produción de histamina.
+
+
+== Tipos ==
+Exemplos de leucotrienos son: LTA4, LTB4, LTC4, LTD4, LTE4, e LTF4.
+Os LTC4, LTD4 e LTE4 denomínanse a miúdo cisteinil leucotrienos debido a que conteñen na súa estrutura o aminoácido cisteína. En conxunto, os cisteinil leucotrienos levan a cabo a anafilaxe SRS-A (anafilaxe de substancia de reacción lenta).
+Tamén se postulou a existencia do LTG4, un metabolito do LTE4 no cal o residuo cisteinil foi oxidado orixinando un alfa-ceto-ácido (por exemplo, a cisteína é substituída por piruvato). Pero sábese moi pouco deste posible leucotrieno.
+
+
+== Historia e nome ==
+O nome leucotrieno foi introducido polo bioquímico sueco Bengt Samuelsson en 1979, e procede de leucocito, o tipo de célula onde primeiro se descubriron, e trieno, que indica que o composto ten tres dobres enlaces conxugados.
+A substancia que foi denominada leucotrieno C, "substancia estimulante do músculo liso de reacción lenta" (SRS) xa fora anteriormente descrita entre 1938 e 1940 por Feldberg e Kellaway. 
+Os investigadores illaron o SRS do tecido pulmonar despois dun período prolongado de exposición ao veleno de cobra e histamina.
+Os leucotrienos comercialízanse para o seu uso en investigación.
+
+
+== Bioquímica ==
+
+
+=== Síntese ===
+
+Os leucotrienos sintetízanse na célula a partir do ácido araquidónico pola 5-lipoxixenase. O mecanismo catalítico implica a inserción dun osíxeno nunha posición específica da estrutura do ácido araquidónico.
+A vía da lipoxixenase está activa nos leucocitos, incluíndo as células mastoides, eosinófilos, neutrófilos, monocitos, e basófilos. Cando se activan estas células, o ácido araquidónico é liberado dos fosfolípidos da membrana celular pola fosfolipase A2, e cedido pola proteína activadora da 5-lipoxixenase (FLAP) á 5-lipoxixenase. Ademais de nas células mencionadas, a 5-lipoxixenase tamén se expresa nas células escumosas do tecido aterosclerótico, pero a súa súa síntese está bloqueada nas demais células por metilación do ADN.
+A 5-lipoxixenase (5-LO) utiliza a FLAP para converter o ácido araquidónico en ácido 5-hidroperoxieicosatetraenoico (5-HPETE), o cal se reduce espontaneamente a ácido 5-hidroxieicosatetraenoico (5-HETE). O encima 5-lipoxixenase actúa de novo sobre o 5-HETE converténdoo en leucotrieno A4 (LTA4), un epóxido inestable.
+En células que dispoñen de LTA4 hidrolase, como os neutrófilos e monocitos, o LTA4 é convertido en dihidroxi ácido leucotrieno LTB4, o cal é un potente quimioatractor dos neutrófilos actuando nos receptores BLT1 e BLT2 da membrana plasmática de ditas células.
+En células que expresan a LTC4 sintase, como as células mastoides e eosinófilos, o LTA4 é conxugado co tripéptido glutatión para formar os cisteinil leucotrienos, LTC4. Fóra da célula, o LTC4 pode converterse encimaticamente formando sucesivamente LTD4 e LTE4, os cales seguen tendo actividade biolóxica.
+Os cisteinil leucotrienos actúan sobre os seus receptores da superficie celular CysLT1 e CysLT2 de células diana orixinando a contracción do músculo liso bronquial e vascular, o que incrementa a permeabilidade dos pequenos vasos sanguíneos, aumenta a secreción de mucus nas vías aéreas e tracto gastrointestinal, e recruta os leucocitos no sitio da inflamación.
+Tanto o LTB4 coma os cisteinil leucotrienos (LTC4, LTD4, LTE4) son parcialmente degradados nos tecidos locais, e finalmente convértense en metabolitos inactivos no fígado.
+
+
+=== Función ===
+Os leucotrienos actúan principalmente sobre unha subfamilia de receptores acoplados á proteína G. Poden actuar tamén sobre os receptores activados polo proliferador do peroxisoma. Os leucotrienos están implicados nas reaccións asmáticas e alérxicas e actúan axudando ás reaccións inflamatorias. Varios antagonistas dos receptores do leucotrieno como montelukast e zafirlukast utilízanse para tratar o asma. Investigacións recentes apuntan a que a 5-lipoxixenase exerce un papel en doenzas cardiovasculares e neuropsiquiátricas.Os leucotrienos son axentes moi importantes na resposta inflamatoria. Algúns como o LTB4 teñen un efecto quimiotáctico na migración dos neutrófilos, e axudan a atraeer as células necesarias aos tecidos. Os leucotrienos tamén teñen un poderoso efecto na broncoconstrición e incrementan a permeabilidade vascular.
+
+
+== Os leucotrienos e a asma ==
+Os leucotrienos contribúen á fisiopatoloxía da asma, causando ou potenciando os seguintes síntomas:
+
+obstrución das vías aéreas
+incremento da secreción de mucus
+acumulación mucosa
+broncoconstrición
+infiltración de células inflamatorias nas paredes da vía aérea.
+
+
+=== Función dos cisteinil leucotrienos ===
+Os receptores dos cisteinil leucotrienos CysLT1 e CysLT2 están presentes nas células mastoides, eosinófilos, e células endoteliais. Durante a interacción dos cisteinil leucotrienos, estes receptores poden estimular actividades proinflamatorias como a adherencia das células endoteliais e produción de quimioquinas polas células mastoides. Ao mediaren na inflamación, inducen a asma e outros trastornos inflamatorios, reducindo dese modo o fluxo de aire nos alvéolos.
+En exceso, os cisteinil leucotrienos poden inducir un choque anafiláctico.
+
+
+=== Antagonistas dos leucotrienos ===
+Un antagonista dos leucotrienos (ás veces denominado leukast) é unha substancia que inhibe os leucotrienos.
+Os inhibidores (ou modificadores) dos leucotrienos, como o montelukast, zafirlukast e zileuton, utilízanse para tratar a asma e a bronquite. Son menos efectivos ca os corticoesteroides, polo que non son os preferidos para o tratamento da asma.Para bloquear a acción dos leucotrienos a inhibición pode facerse de dúas maneiras:
+
+
+==== Inhibición da vía da 5-lipoxixenase ====
+Os fármacos como o zileuton bloquean a 5-lipoxixenase, inhibindo a vía de síntese dos leucotrienos. Outros fármacos como o MK-886 bloquean a proteína activadora da 5-lipoxixenase (FLAP) e poden ser útiles no tratamento da aterosclerose.
+
+
+==== Antagonismo cos receoptores tipo 1 dos cisteinil leucotrienos ====
+Axentes como o montelukast e o zafirlukast bloquean as accións dos cisteinil leucotrienos no receptor CysLT1 en células diana como as do músculo liso bronquial.
+Estes modificadores melloran os síntomas da asma, reducen os ataques de asma e limitan os indicadores de inflamación como a cantidade de eosinófilos no sangue periférico e fluído broncoalveolar. Isto demostra as súas propiedades antiinflamatorias.
+
+
+== Notas ==
+
+
+== Véxase tamén ==
+
+
+=== Outros artigos ===
+Reacción de Wittig
+Eicosanoide
+Eoxina
+Lipoxina
+
+
+=== Ligazóns externas ===
+Lipid Library Leukotrienes and lipoxines
+
+
+=== Bibliografía ===
+Lipkowitz, Myron A. and Navarra, Tova (2001) The Encyclopedia of Allergies (2nd ed.) Facts on File, New York, p. 167, ISBN 0-8160-4404-X
+Samuelsson, Bengt (ed.) (2001) Advances in prostaglandin and leukotriene research: basic science and new clinical applications: 11th International Conference on Advances in Prostaglandin and Leukotriene Research: Basic Science and New Clinical Applications, Florence, Italy, June 4–8, 2000 Kluwer Academic Publishers, Dordrecht, ISBN 1-4020-0146-0
+Bailey, J. Martyn (1985) Prostaglandins, leukotrienes, and lipoxins: biochemistry, mechanism of action, and clinical applications Plenum Press, New York, ISBN 0-306-41980-7

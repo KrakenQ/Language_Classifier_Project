@@ -1,0 +1,43 @@
+Metanogeneza ili biometanacija je proces formiranje metana aktivnošću mikroba poznatik  kao metanogeni. Organizmi koji mogu proizvesti metana su identificiranai samo u domeni Archaea, grupi koja se filogenetski razlikuje i od  eukariota i  od bakterija, iako mnoge žive u bliskoj vezi s anaerobnim bakterijama. Proizvodnja metana je važan i rasprostranjen oblik  metabolizma  mikroorganizama uvećini okruženja, što je završni korak u razgradnje biomase.
+
+
+== Biohemija metanogeneze ==
+
+Metanogeneza mikrobi je oblik anaerobnog disanja.  Metanogeni, za disanje ne koriste kisik; u stvari, kisik inhibira rast metanogena. Terminalni akceptor elektrona u metanogenezi nije kisik, već ugljik. Ugljik se može javiti u malom broju organskih spojeva, svi sa niskom molekulskim težinama. Dva najbolje opisana puta uključuju upotrebu ugljendioksida i etanska kiseline kao terminalnog  elektrona akceptorima:
+
+CO2 + 4 H2  → CH4  + 2H2O
+CH3COOH → CH4 + CO2.Međutim, ovisno o pH i temperature, dokazano je da metanogeneza koristi  ugljik drugih malih organskih spojeva, kao što su mravlja kiselina (formate), metanol, metilamin, dimetil sulfid  i metanetiol. 
+
+
+=== Mehanizam metanogeneze ===
+Biohemija  metanogeneza je relativno složena, uključujući slijedeće koenzime i kofaktore: 
+
+F420,
+koenzim B,
+koenzim M,
+metanofuran, i
+metanopterin.Mehanizam za konverziju CH3 -S veze u metan uključuje trojni kompleks metil koenzima M i koenzima B koji se uklapaju u kanal prekinut od aksijalnog mjesta na niklu kofaktora  F430. Jedan od predloženih mehanizama  podrazumijeva  transfer elektrona  iz Ni (I) (u Ni (II), koj inicira formiranje CH4 veze  na koenzimu M tiol radikala(RS). HS koenzimom B oslobađa se  proton i ponovno reducira  Ni (II) po jednim  elektronom, regeneracijući  Ni (I).
+
+
+=== Reverzna  metanogeneza ===
+U obrnutoj  metanogenezi, metan reagira s disulfidom koenzima M i daje  koenzima M i njegove  metilne derivate: 
+RS-SR + CH4 → RS-H + RS-CH3 
+Supstanca  organizama koji promoviraju ovu  izvanrednu reakciju sadrže 7% F430. 
+
+
+=== Značaj u ciklusu ugljika ===
+Metanogeneza je završni korak u raspadanja organske materije. Tokom procesa truljenja, akceptori elektrona,  kao što su kisik, željezo, sulfat i nitrat,  postaju osiromašeni, dok se vodik (H2) i ugljendioksid akumuliraju. Tokom napredovanja raspadanja organskih tvari, svi  akceptori  elektrona postaju siromašniji,  osim ugljendioksida. Ugljični On je  produkt većine kataboličkih procesa, tako da se ne istroši kao drugi potencijalni akceptori elektrona.Metanogeneza i fermentacija se odvijaju samo  u odsustvu  akceptorskih  elektrona, osim ugljika. Fermentacija samo omogućava razlaganje većih organskih spojeva, a proizvodi male organske spojeve. Metanogeneza učinkovito uklanja polugotove proizvode razlaganj: vodik, male organske molekule i ugljendioksid. Bez metanogeneze, mnogo ugljika (u obliku fermentacijskih proizvoda)  bi se  akumuliralo u anaerobnim sredinama.
+
+
+== Također pogledajte ==
+Metan
+Metanotrof
+Fermentacija
+Donor elektrona
+Akceptor elektrona
+
+
+== Reference ==
+
+
+== Vanjski linkovi ==

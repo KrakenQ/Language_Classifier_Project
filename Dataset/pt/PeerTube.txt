@@ -1,0 +1,23 @@
+PeerTube é uma plataforma de vídeo livre, descentralizada e federada operada por ActivityPub e WebTorrent que usa tecnologia peer-to-peer para reduzir o estresse em servidores individuais ao assistir vídeos.
+Iniciada em 2015 por um programador conhecido como Chocobozzz, o desenvolvimento do PeerTube é agora apoiado pela organização não lucrativa francesa Framasoft. O objetivo é prover uma alternativa de plataformas centralizadas, tais como YouTube, Vimeo e Dailymotion.
+
+
+== Origem e história ==
+PeerTube foi criado por um desenvolvedor web conhecido como Chocobozzz com o objetivo de ser uma alternaviva peer to peer ao YouTube, usando o protocolo WebTorrent para compartilhar vídeos. Ele foi contatado em 2017 por Framasoft, que tinha uma campanha chamada Contributopia, com o objetivo de criar alternativas de plataformas centralizadas. Com o objetivo de apoiar ele e seu trabalho, notavelmente melhorando o design e usabilidade, Framasoft contratou o desenvolvedor.
+Em 2019, Framasoft lançou uma campanha de financiamento coletivo no KissKissBankBank (fr) que juntou mais de €53,100—mais que o dobro do objetivo original de €20,000.O primeiro beta do PeerTube foi lançado em março de 2018 e a primeira versão estável em outubro do mesmo ano. Em junho de 2018, apenas alguns meses após o primeiro beta, 113 instâncias já estavam publicamente disponíveis na web e juntas haviam mais de 10,000 vídeos.Em junho de 2018, como resultado de seus vídeos desaparecendo no meio de mudanças da monetização de canais do YouTube, a Blender Foundation começou a experimentar a armazenar uma instância do PeerTube para distribuir cópias gratuitas dos vídeos da fundação.
+
+
+== Tecnologia ==
+
+PeerTube usa tecnologia WebTorrent. Cada servidor armazena um tracker torrent e cada browser assistindo o vídeo também o compartilha. Isso permite dividir a carga entre o servidor e seus clientes, além de dividir a banda larga usada através da tecnologia P2P.
+O sistema funciona através de uma federação de instâncias operadas por entidades independentes. Cada servidor PeerTube pode armazenar qualquer número de vídeos e, adicionalmente, federar com outros servidores para deixar os usuários assistirem seus vídeos na mesma interface de usuário. Essa federação permite armazenar coletivamente um grande número de vídeos numa plataforma unificada, sem ter de criar uma infraestrutura comparável aos gigantes da Internet. Cada servidor é operado e fica pela administração de cada entidade.
+PeerTube usa o protocolo ActivityPub, um novo padrão web W3C, com o objetivo de permitir a descentralização e compatibilidade com outros serviços, tais como Hubzilla, Mastodon ou Diaspora*. Por exemplo, é possível comentar em um vídeo a partir de uma conta no Mastodon. Isso pode criar um "ecossistema" inteiro, ao contrário de plataformas fechadas do Big Four tech companies. Esse ecossistema procura ser resistente contra censura e DDoS. O Big Four é um exemplo de ponto único de falha.
+O software confia em PostgreSQL DBMS e é integrado com plataformas de vídeos populares tais como Reddit e Kodi.
+
+
+== Ver também ==
+MediaGoblin
+ZeroNet
+
+
+== Referências ==

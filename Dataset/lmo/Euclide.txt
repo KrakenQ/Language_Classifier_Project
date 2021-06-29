@@ -1,0 +1,42 @@
+Euclide (en gréco: Εὐκλείδης/Eukleídēs; vivìt entùren al 300 prìma del Signùr; ...) l'è stat en matemàtich gréco, che l'è vivìt se pènsa sóta 'l régn de Tolomèo I (367 a.C. ca. - 283 a.C.). L'è sènsa döbe 'l matemàtich piö 'mportànte de la stória antìca, e giü dei piö 'mportàncc e recunusìcc de ògna tép e pòst.
+Euclide l'è cunusìt suratöt come autùr dei Elemèncc, l'òpera de geometria piö 'mportànte de l'antichità. Però de lü se sà póch fés: l'è mensiunàt endèn scrìt de Pappo de Alessandria, ma la testemognànsa piö 'mportànta sö la quàla se fónda la storiografìa la vé de Proclo, che 'l la cóloca 'ntra i piö zùegn discèpoi de Platone:
+
+Significatìva l'è la circostànss che 'l la mèt en bànda a Tolomeo I, perchè la ghe pórta a colocàn l'atività principàl. al prensépe del sècol III prìma de Crìsto e 'l ghe fà pensà che Tolomeo el l'hape ciamàt a stüdià 'ndèla Bibliotéca di Alesàndria e 'ndèl Muzèo tacàt. 
+Gh'è mìa acórde 'nvéce sö la quistiù se l'ìa 'n platònich cunvìnto o nò. Al dé d'encö l'è piö 'n vóga la tendènsa a cunsiderà chèsto giödése come sènsa fondamènt (Heat (1956), Enriques, Neugebauer, Russo (1997)(1998), Migliorato-Gentile, Migliorato) e detàt de la òia de de Proclo de colocà 'l piö brào matemàtich de l'antichità endèla scöla dei neoplatònich a la quàla apartignìa apò 'l Proclo stès.
+
+
+== I sò contribuu a la matematica ==
+In del sò liber Element l'è staa el primm che l'ha mettuu giò i regol de la geometria, tanto che l'ha daa el nòmm a la geometria euclidea. segond la maggior part di studios però l'era minga tutta ròbba soa, ma per scriv 'sti liber l'ha cattaa foeura anca in gir, tra tucc i matematich e fisich dek sò temp.
+Quell liber chì l'è rivaa fina a adess grazie a la traduzion de on matematich arab, ciamaa Alhazen.
+I sò scovert pusse famos hinn i duu Teorema, che riguarden i proppietà del triangol rettangol:
+
+Primm teorema: in d'on triangol rettangol, on quadraa costruii su l'ipotenusa l'è equivalent al rettangol che 'l gh'ha per dimension l'ipotenusa e la sò proiezion su l'ipotenusa.
+Segond teorema: in d'on triangol rettangol, on quadraa costruii su l'altezza relativa a l'ipotenusa l'è equivalent al rettangol che 'l gh'ha come per dimension i proiezion di catet su l'ipotenusa.
+
+
+== Bibliografìa ==
+
+Boyer, C. B. (1968), A history of Mathematics, Edizione italiana: Storia della matematica, ISEDI, Milano 1976.
+Heath, T. L. (1931), A history of Greek mathematics, 1, Oxford, 1931.
+Heath, T. L. (1956), The Thirteen Books of Euclid's Elements (3 Volumes), New York, 1956.
+Incardona, F. (1998). (a cura di), Euclide: Ottica. Immagini di una teoria della visione, Roma, Di Renzo, 1996.
+Kline, M., (1972), Mathematical Thought from Ancient to Modern Times, Edizione Italiana: Storia del pensiero matematico, Vol I, Torino: Einaudi, 1991.
+Loria G. (1914), Le scienze esatte nell'antichità, Milano, 1914.
+Migliorato, R., Gentile, G, (2005) Euclid and the scientific thought in the third century B.C., Ratio Mathematica, n. 15, (2005), pp. 37-64; disponibile versione italiana on line: Euclide e il pensiero scientifico nel III secolo a.C.[1].
+Migliorato, R. (2005) La rivoluzione euclidea e i paradigmi scientifici nei regni ellenistici, Incontri Mediterranei, n.15, 2005, pp. 3-24. Disponibile on line : [2]
+Neugebauer, O. (1951) The exact sciences in antiquity . Edizione italiana: Le scienze esatte nell’antichità, Milano, 1974.
+Proclo Diadoco, Commento al 1o libro degli Elementi di Euclide, a cura di M. Timpanaro Cardini, Pisa, 1978.
+Russo, L. (1997), La rivoluzione dimenticata: il pensiero scientifico greco e la scienza moderna, Milano: Feltrinelli, 1997.
+Russo, L. (1998), The definitions of fundamental geometric entities contained in book I of Euclid's Elements, Arch. Hist. Exact. Sci., 52, No.3, 1998, pp.195-219.
+Saccheri G., Euclide liberato da ogni macchia, Saggio introduttivo di I. Toth e E. Cattanei; Traduzione e apparati di P. Frigerio, 2001
+
+
+== Colegamèncc estèrni ==
+http://matematica.uni-bocconi.it/galeazzi/capitolo6.htm
+http://ww2.unime.it/alefzero/pubblicazioni/Euclideparadigma.pdf
+http://www.matematicadivertente.com/euclide.htm
+http://web.unife.it/altro/tesi/A.Montanari/Euclide.htm
+http://www.ac-orleans-tours.fr/hist-geo-grece/grandegrece/euclide/P2.htm
+http://aleph0.clarku.edu/~djoyce/java/elements/elements.html
+http://www.cs.unm.edu/~joel/NonEuclid/Italian/assiomi.html
+http://www-history.mcs.st-and.ac.uk/history/Mathematicians/Euclid.html

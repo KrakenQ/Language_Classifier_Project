@@ -1,0 +1,55 @@
+Lu'hertz (simmùlu: Hz) eni la unitati di misura dû Sistema 'ntirnazziunali di unitati di misura di la friquenza, e pigghìa u sò nomu da lu fisicu tidiscu Heinrich Rudolf Hertz cà purtò mpurtanti cuntribbuti a la scienza, nto campu di l'elettrumagnetismu.
+
+Hz [=] 1/sOppuri:
+
+Hz [=] s-1Tali unitati di misura pò essìri applicata a qualsiasi eventu pìriodicu. Pì esempiu, si pò diri di nu rulòggiu ca ticchittìa a 1 Hz. Chistu però vali pi lì rulòggi a pennulu, nnè mudelli da pusu mìccanici, u ticchittìu ca si senti eni datu da lu bilanceri, ca si movi a friquenzi maggiuri.
+Nte vecchie pubbricazioni si trova l'unitati equivalenti cicli pì secunnu (cps).
+
+
+== Multipli ==
+1 decahertz  (simmùlu daHz) = 101 Hz  = 10 Hz
+1 ettohertz  (simmùlu hHz)  = 102 Hz  = 100 Hz
+1 kiluhertz  (simmùlu kHz)  = 103 Hz  = 1 000 Hz
+1 megahertz  (simmùlu MHz)  = 106 Hz  = 1 000 000 Hz
+1 gigahertz  (simmùlu GHz)  = 109 Hz  = 1 000 000 000 Hz
+1 terahertz  (simmùlu THz)  = 1012 Hz = 1 000 000 000 000 Hz
+1 petahertz  (simmùlu PHz)  = 1015 Hz = 1 000 000 000 000 000 Hz
+1 exahertz   (simmùlu EHz)  = 1018 Hz = 1 000 000 000 000 000 000 Hz
+1 zettahertz (simmùlu ZHz)  = 1021 Hz = 1 000 000 000 000 000 000 000 Hz
+1 yottahertz (simmmùlu YHz)  = 1024 Hz = 1 000 000 000 000 000 000 000 000 Hz
+
+
+== Isempi ==
+
+
+=== Acustica ===
+25 e 150 Hz: li fusa di li jatti o puru da 1,5 a 6 kHz.
+20 Hz: frìquenza minima udibbili da l'omu
+261,626 Hz: a nota musicali DO cintrali nto timpiramentu equabili.
+256,869 Hz: a nota musicali DO cintrali nto timpiramentu equabili virdianu.
+440 Hz: U LA usatu pì accurdari li strumenti musicali (Diapason).
+432 Hz: U LA di diapason scientificu.
+16 ÷ 20 kHz: limiti supìriuri di li friquenzi udibdili da l'omu.
+
+
+=== Alittrònica ===
+44,1, 48, 96 e 192 kHz: frìquenzi tipichi di campiunamentu usati nte Compact-disc, DVD e DVD-Audiu.
+740 kHz: a velocitati di clock dû primu micruprucissuri cummìrciali, l'Intel 4004 (1971).
+da 1 a 8 MHz: a velocitati di clock ddì primi personal computer (fini anni sittanta, iniziu anni ottanta).
+da 1 a 2 GHz: a velocitati di clock di li prucissuri di li smartphone (da lu 2010 a ùoggi).
+da 2 a 5 GHz: a velocitati di clock di li ultimi micruprucissuri singili (anni 2000-ùoggi).
+
+
+=== Elettrumagnetismu ===
+50 o 60 Hz: currenti alternata furnita da li presi elettriche.
+400 Hz: currenti alternata usata in aviazzioni, gìnirata e usata ncapu li aeroplani.
+da 88 a 108 MHz: radiu 'n FM. Subitu oltri si trovanu li VHF e UHF 'n usi 'n aeronautica e pì la tilivisioni.
+da 800 a 2200 MHz: telecomunicazioni – GSM 900, UMTS 2100, LTE 800, DCS e LTE1800 sunnu i friquenzi usati pì la trasmissioni e ricezzioni dì signali nnè SRB e antinni pì la rito di telefunia mobbili cellulari.
+460 THz: luci russa.
+30 PHz: raggi X.
+300 YHz: raggi gamma - raggi prudutti da lu Suli e da na reazioni nucliari.
+
+
+== Talìa puru ==
+Heinrich Rudolf Hertz
+Elettrumagnetismu

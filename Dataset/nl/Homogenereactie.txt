@@ -1,0 +1,89 @@
+Een homogene reactie is een chemische reactie waarbij er tussen de reactanten zich geen grensvlakken bevinden. Een reactie tussen gassen of tussen vloeistoffen onderling zijn dus homogene reacties.
+Reacties tussen vaste stoffen zijn heterogeen, evenals reacties tussen een gas en een vloeistof, een gas en een vaste stof of een vloeistof en een vaste stof.
+
+
+== Voorbeelden van homogene reacties ==
+De redoxreactie tussen Fe3+ en Sn2+ in een waterige oplossing is homogeen:
+
+  
+    
+      
+        
+          2
+          
+          
+            Fe
+            
+              3
+              +
+            
+          
+          +
+          
+            Sn
+            
+              2
+              +
+            
+          
+          ⟶
+          2
+          
+          
+            Fe
+            
+              2
+              +
+            
+          
+          +
+          
+            Sn
+            
+              4
+              +
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {2Fe^3+ + Sn^2+ -> 2Fe^2+ + Sn^4+}}}
+  Een voorbeeld van een homogene reactie in de gasfase is de reactie tussen joodtrichloride en dichloor tot joodpentachloride:
+
+  
+    
+      
+        
+          
+            ICl
+            
+              3
+            
+            
+              
+            
+          
+          +
+          
+            Cl
+            
+              2
+            
+            
+              
+            
+          
+          ⟶
+          
+            ICl
+            
+              5
+            
+            
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {ICl3 + Cl2 -> ICl5}}}

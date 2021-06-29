@@ -1,0 +1,1 @@
+GStreamer je otevřený multiplatformní multimediální framework se strukturou založenou na grafu filtrů. Je napsán nad objektovým systémem GLib 2.0 a primárně jej využívají aplikace pro desktopové prostředí GNOME. Framework je napsán v jazyce C, ale existují napojení (binding) pro několik dalších programovacích jazyků. GStreamer je uvolněn pod licencí LGPL.

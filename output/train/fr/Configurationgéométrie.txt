@@ -1,0 +1,3 @@
+En géométrie, une configuration est la donnée de plusieurs éléments géométriques (points, droites, cercles, plans, angles, vecteurs…) munis de relations associées (appartenance ou incidence, parallélisme, orthogonalité…)
+Le terme est présent dans l’enseignement des mathématiques en France depuis 1990 en remplacement parfois du mot « figure » mais en distinguant plus spécifiquement le rôle des éléments. Ainsi, on peut considérer par exemple la configuration du théorème de Thalès ou la configuration de Möbius.
+Il généralise aussi la notion de structure d’incidence.

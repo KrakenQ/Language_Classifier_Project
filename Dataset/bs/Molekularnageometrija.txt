@@ -1,0 +1,49 @@
+Molekularna geometrija ili molekularna struktura je tri-dimenzijska  struktura atoma u  molekuli. Ona određuje  niz osobina supstance,  među kojima su reaktivnost, polarnost, faza materije, boja, magnetizam  i biološka aktivnost.
+
+
+== Eksperimentalni metodi ==
+
+Čak  ni najbolji elektronski mikroskopi nemaju moć razdvajanja  da pokažu izgled molekula, nego  samo obrise i to samo ogromnih makromolekula,  kao što su proteini. Ipak postoje metodi putem  kojih se može odrediti , tj. predvidjeti geometrija molekula, pomoć strukturne formule. Najjednostavniji način  predviđanja prostornog oblika hemijskih spojeva je  primjenom pravila o odbijanju valentnih elektronskih parova. Po ovom  metodu,  raspored elektronskih parova u najvišem elektronskom nivou oko centralnog atoma određuje prostorni oblik molekula. Elektroni  su negativno naelektrisane čestice, što određuje njihov  raspored u kojem  su  međusobno najudaljeniji. Kad  je rastojanje  najveće, odbijanje  je najmanje, pa  su tada molekule najstabilnije. Raspored valentnih elektronskih parova o visi o njihovom  broju. Naprimjer,  kod metana (CH4) četiri elektronska para najmanje  se odbijaju ako se nalaze na rubovima pravilnog tetraedra.
+Kod jedinjenja sa tri elektronska para (naprimjer  BF3),  molekula  je najstabilniji onda kada se parovi nalaze pod uglovima od 120°, sa  rasporedom  u jednoj ravni. Ako je centralni atom okružen velikim brojem valentnih elektronskih parova,  data molekula može imati veoma različite oblike. Određivanje  prostornog rasporeda atoma u molekuli je vrlo kompleksan dio hemije, koji prestavlja  njenu posebnu discipline, pd nazivom stereohemija. Dinamička stereohemija, dobijene podatke o prostornom rasporedu,  koristi za predviđanje ponašanja tih molekula u hemijskim reakcijama, što je od posebnog značaja za organske reakcije u organzmu koje su visoko stereospecifične.
+Molekulska geometrija može biti određena raznim spektroskopskim i difrakcionim metodima. IR, mikrotalasna i Ramanova spektroskopija mogu pribaviti  informacije o molekulskoj geometriji, na osnovu  detalja detektiranih vibracijskih i rotacijskih apsorbanci. Kristalografija, neutronska difrakcija i elektronska difrakcija mogu da odrediti molekularnu strukturu kristala na bazi rastojanja između jezgra i koncentracije elektronske gustine. Plinska  elektronska difrakcija se može primijeniti za analizu malih  molekula  u plinovitoj fazi. NMR i FRET metodi su upotrebljivi za određivanje komplementarnih informacija kao što su relativna rastojanja, diedralni uglovi, uglovi veza  i povezanost. Za određivanje molekularne geometrije, podesnije su  niže temperature,  zato što su na višim temperaturama one srednje vrijednosti dostupnih geometrija. Veće molekule se često javljaju u više stabilnih geometrija (konformacijski izomerizam) sa sličnim energetskim razinama na površini potencijalne energije. Do visoke preciznosti,  geometrije se također  mogu izračunati korištenjem  ‘’ab initio kvantum’’  hemijskog metoda. Molekulska geometrija može ovisiti o agregatnom stanju, odnosno  biti  različita u čvrstoj, tečnoj i plinovitoj fazi.
+
+
+== Izomeri ==
+Izomeri su tipovi molekula koji imaju istu hemijsku strukturu,  ali različite geometrije,  što uvjetuje njihove veoma različite osobine:
+
+Čista supstanca se sastoji od samo jednog tipa izomera.
+Strukturni izomeri imaju istu hemijsku formulu ali različita fizička uređenja, jer  često formiraju alternativne molekulske e geometrije sa veoma različitim osobinama. Atomi nisu vezani u istom redu.
+Funkcijski izomeri su poseban vid  strukturnih izomera, gdje pojedine grupe atoma ispoljavaju specijalne načine ponašanja, kao  eter ili alcohol, naprimjer.
+Stereoizomeri mogu imati  mnoge slične fizičko-hemijske osobine (tačka topljenja, tačka ključanja), a istovremeno veoma različite biohemijske aktivnosti. To se javlja zbog toga što oni ispoljavaju hiralnost,  koja se često sreće kod živih sistema. Jedna manifestacija hiralnosti je njihova sposobnost rotiranja polarizirane svjetlosti u različitim smjerovima.
+Proteinsko sklapanje je proces formiranja molekula kompleksne geometrije i različitih izomera koje mogu imati proteini.
+
+
+== Tipovi molekulske strukture ==
+Postoji šest  glavnih  tipova molekula.
+
+Linearne:  U linearnom modelu, atomi su vezan u pravoj liniji. Uglovi veza iznose  180°, kao kod  ugljik-dioksida, naprimjer.
+Trigonalno planarne:  Ovakve molecule  su trouglaste  i leže u jednoj ravni. Uglovi veza sui m  120°. Primjer molekula iz ove grupe je bor trifluorid.
+Tetraedne: :  Takve molekule  imaju četiri površine, sa četiri veze na centralnom atomu bez dodatnih slobodnih elektronskih parova. Uglovi veza između elektronskih veza su lučne (−1/3) = 109.47°. Primjer tetraednih  molekula je metan (CH4).
+Oktaedarne: : One imaju osam površina i ugao veza od  90° stepeni. Primjer oktaedne molekule je sumpor heksafluorid (SF6).
+Piramidne : Ovako oblikovane  molekule  imaju tri para vezanih elektrona i slobodni elektronski par. Odbijanje slobodnog para i vezanih parova mijenja ugao od tetraedralnog do nešto manje uglovne vrijednosti. Primjer je NH3 (amonijak).
+Povijene: Povijene ili ugaone molekule  su nelinearno oblikovane. Primjer takve  molekule je voda (H2O), koja ima ugao veza od oko 106°.  Molekula vode ima dva para vezanih elektrona i dva slobodna para.
+
+
+=== VSEPR tabela ===
+Uglovi veza u donjoj  tabeli su idealni , prema jednostavnoj  VSEPR teoriji. Uz njih su prikazani  stvarni uglovi za date primjere, ukoliko se oni  međusobno razlikuju. U mnogim slučajevima oblika molekula, kao što je trigonalni piramidni i povijeni, stvarni ugao navedenih  primjera se razlikuje od idealnog. Ugao u H2S (92°) se razlikuje od tetraedrnog ugla mnogo više, nego što je to slučaj za ugao H2O (104.5°).
+
+
+== 3D prezentacije ==
+Linija ili štap - atomska jezgra nisu predstavljena. Kao i kod 2D molekularnih struktura ovog tipa, atomi se podrazumevaju na temenima.’Grafikon  elektronske gustine'’'  prikazuje elektronsku gustinu koja je određena  kristalografski ili koristeći kvantnu mehaniku Kugla i štap – atomska jezgra su predstavljena kao sfere (kugle), a veze kao štapoviProstorno popunjavajući modeli ili CPK modeli – molekula  je prikazana  preklapajućim sferama koje predstavljaju atome.Dijagramski prikaz’’  proteina gdje se petlje, beta ravni i alfa heliksi prikazuju dijagramom. Atomi ili veze nisu neposredno prikazani, već samo proteinska osnova kao glatka cijev.
+
+
+== Reference ==
+
+
+== Dopunska literatura ==
+
+
+== Vanjski linkovi ==
+http://www.tutor-homework.com/Chemistry_Help/Molecular_Geometry/Polar_Or_Nonpolar.html
+Molecular Geometry & Polarity Tutorial 3D visualization of molecules to determine polarity.
+Molecular Geometry using Crystals 3D structure visualization of molecules using Crystallography.

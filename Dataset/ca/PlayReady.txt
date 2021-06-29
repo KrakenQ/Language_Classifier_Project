@@ -1,0 +1,51 @@
+El PlayReady és una tecnologia d'accés a continguts optimitzada per a ajudar als operadors mòbils, proveïdors de serveis, fabricants i venedors independents de software a crear productes i serveis per a l'entreteniment digital i el comerç.
+Aquesta tecnologia ha sigut desenvolupada per Microsoft i pretén ser l'evolució del Windows Media DRM. L'objectiu de tots dos sistemes és de restringir l'accés a dades i continguts multimèdia (bàsicament àudio i video), això no obstant, el PlayReady permet més flexibilitat als usuaris a l'hora d'accedir a aquests continguts, i a les empreses, ja que permet diferents tipus de models de negoci.
+
+
+== Evolució ==
+La tecnologia de Microsoft "Windows Media® DRM" ha tingut una exponencial evolució des de la seva aparició el 1999, afegint suport per a un ampli rang de models de negoci. En conseqüència s'ha desplegat enormement en la indústria dels computadors i l'electrònica de consum fent que els principals líders en telefonia mòbil com Nokia, Motorola, Verizon Wireless., i NTT DoCoMo. adoptin aquest sistema. Microsoft, seguint les petjades del PlaysForSure. i mantenint la compatibilitat amb el Windows Media® DRM, ha volgut desenvolupar un nou sistema que satisfaci les noves necessitats i requeriments dels operadors i fabricants. En conseqüència, Microsoft ha aconseguit crear una nova tecnologia d'accés a continguts específicament optimitzada per a la indústria de la telefonia mòbil i dissenyada per al lliurement de qualsevol arxiu digital a dispositius mòbils.
+
+
+== Funcionament ==
+El sistema PlayReady protegeix els arxius encriptant les dades. D'aquesta manera no hi ha cap necessitat d'utilitzar uns canals de transmissió d'alta seguretat o fent els arxius inaccessibles. Com que els arxius estant encriptats les dades estan protegides, per tant, es poden copiar, transmetre i compartir lliurement. PlayReady funciona amb un sistema de dominis i llicències. Aquestes llicències defineixen com es podrà utilitzar un arxiu i sota quines condicions. També és possible aconseguir múltiples llicències per a un sol arxiu. Mentre una d'aquestes llicències garanteixi el dret necessari, l'usuari podrà accedir a les dades. Copiant contingut protegit i compartint-lo amb algú no permet necessàriament que aquesta persona pugui utilitzar-lo fins que no obtingui la llicència apropiada. Això no obstant, PlayReady suporta llicències que garanteixin que el contingut sigui utilitzat en una sola màquina o com a membre d'un domini. Els dominis són entitats virtuals formades per usuaris. Dintre d'aquest domini es garanteix la lliure utilització dels continguts que hi estiguin registrats. Això s'aconsegueix lligant les llicències al domini en general i no a un dispositiu físic (com seria un reproductor MP4). Com a contraexemple podem utilitzar el sistema d'Apple, l'iTunes, que només permet la reproducció de les cançons i videos descarregats en l'iPod associat a la llibreria on s'ha comprat l'arxiu. Aquest conglomerat de dominis, llicències i usuaris forma part del que Microsoft anomena l'"Ecosistema de PlayReady".
+
+
+== L'Ecosistema del PlayReady de Microsoft ==
+Els principals elements de l'ecosistema són els clients de pc, els dispositius i els servidors. Els Dispositius i els Clients de PC PlayReady són capaços d'adquirir contingut protegit, interpretar la llicència i forçar les regles contingudes en ella.
+Els Servidors PlayReady inclouen:
+
+Servidors d'Empaquetament de Continguts: Recullen contingut sense protecció i l'empaqueten per a la seva distribució. Quan el contingut s'empaqueta, el contingut protegit es copia a un Servidor de Distribució i la informació de la llicència es transfereix a un Servidor de Llicències.Servidors de Distribució: Emmagatzemen i distribueixen els continguts.Servidors de Llicència: Emmagatzemen la informació de protecció i els drets d'utilització dels continguts. Abans de reproduir un arxiu protegit primer s'ha d'adquirir la llicència, típicament en aquests servidors (pot ser que la llicència es trobi en el mateix arxiu).Controladors de Domini: Determinen què representa cada domini (usuaris, famílies, o grups d'usuari, per exemple) i manté una llista de les entitats associades a cada domini. Defineixen quants dispositius o PCs es poden registrar a un domini.Servidors Comptadors: Aquests servidors compten la quantitat de vegades que un arxiu és reproduït. No afecten al comportament del sistema ni registren dades dels usuaris, només mantenen el còmput de les reproduccions per a poder avaluar acuradament els royalties (drets d'autor). Cada cop que un dispositiu es connecta a un ordinador o a Internet, aquest comptador és transmès al servidor.
+
+
+== Característiques ==
+Suporta qualsevol tipus de continguts, essencialment multimèdia com són jocs, imatges, música, vídeos i melodies per mòbils. Per àudio i vídeo suporta els codecs WMA, WMV, AAC, AAC+, enhanced AAC+, H.263, i H.264
+Registre a múltiples Dominis. Beneficiant als usuaris i als proveïdors de continguts
+Llicències incrustades en els arxius, no adquirides per separat
+Retrocompatibilitat amb el Windows Media® DRM
+Microsoft proveeix moltes eines per a desenvolupadors (SDK., Porting Kit, SSDK.)
+Suporta múltiples models de negoci i opcions de distribució
+
+
+=== Models de negoci ===
+Subscripció
+Compra
+Pay Per View
+Lloguer
+Gifting(comprar drets per a un altre usuari)
+
+
+=== Opcions de distribució ===
+Descàrrega bàsica i progressiva: A diferència de la bàsica, la progressiva no requereix que l'arxiu s'hagi descarregat totalment per a ser reproduït
+Streaming
+Sincronització d'un PC amb un mòbil: Permet reproduir arxius descarregats a un PC i transferir-los a un telèfon mòbil
+Distribució Wireless en xarxes d'operadors mòbils
+Super-Distribució: Intercanvi d'arxius entre usuaris
+
+
+== Referències ==
+
+
+== Enllaços externs ==
+PlayReady - Lloc web oficial
+Sky Player Tv & PlayReady Arxivat 2015-12-22 a Wayback Machine.
+Genbeta 3GSM: PlayReady

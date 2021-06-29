@@ -1,0 +1,21 @@
+Метан — гас (при стандардни услови) со хемиска формула CH4 и претставува најпростиот јаглеводород. Чистиот метан е без мирис, но во комерцијалната употреба тој се меша со мали количини на мириси, како што е сулфурното соединение етил меркаптан за да се детектираат шуплини во одредени материјали.
+Како главна состојка на земниот гас, метанот е значајно гориво. Со согорувањето на еден молекул на метан во присуство на кислород се ослободува еден молекул на јаглерод диоксид и две молекули на H2O (вода):
+
+CH4 + 2O2 → CO2 + 2H2OМетанот е гас кој учествува во феноменот на стаклена градина. За преку 100 години, тој има глобален затоплувачки потенцијал 23 (IPCC Third Assessment Report), т.е. преку 100 години секој kg од CH4 ја загрева Земјата 23 пати како истата маса на CO2.
+Земјиниот плашт содржи големи количества на метан и е негов главен резервоар. Големи количини на метан се емитуваат во атмосферата преку вулканите кои се поврзани со подлабоките слоеви на Земјата или се создаваат по пат на анаеробното дишење (биогас).
+Метанот има голема вредност на термодинамичката стабилност. На собна температура и притисок тој е безбоен, безмирисен гас. Има точка на вриење −162°C на притисок од 1 атмосфера и е запалив.
+
+
+== Надворешни врски ==
+
+Gavin Schmidt, Methane: A Scientific Journey from Obscurity to Climate Super-Stardom, NASA Goddard
+Methane thermodynamics
+International Chemical Safety Card 0291
+Methane Hydrates
+Computational Chemistry Wiki
+Safety data for methane
+Dynamic Viscosity of Methane
+Thermal Conductivity of Methane
+METHANE-EATING BUG HOLDS PROMISE FOR CUTTING GREENHOUSE GAS. Media Release, GNS Science, New Zealand]
+Catalytic conversion of methane to more useful chemicals and fuels
+Methane as a Savior of the Dairy Industry

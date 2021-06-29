@@ -1,0 +1,3 @@
+For alternative betydninger, se Bg. (Se også artikler, som begynder med Bg)bg (forkortelse af engelsk background; baggrund) er en jobstyringskommando i UNIX og UNIX-lignende styresystemer som genoptager udførsel af en suspenderet proces uden at bringe den til forgrunden; 
+den genoptagne proces fortsætter med at blive udført i baggrunden uden at modtage brugerindtastninger fra dataterminalen.
+bg kræves at være inkluderet i styresystemer som skal være POSIX-kompatible.

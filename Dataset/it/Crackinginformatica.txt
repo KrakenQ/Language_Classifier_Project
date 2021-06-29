@@ -1,0 +1,39 @@
+Con cracking si intende la modifica di un software per rimuovere la protezione dalla copia, oppure per ottenere accesso ad un'area altrimenti riservata. 
+
+
+== Storia ==
+La distribuzione di software reso privo di protezione, detto warez, è generalmente un'azione illegale a causa della violazione di un copyright. Il crack viene spesso ottenuto tramite il reverse engineering, tecnica che permette di capire la logica del software analizzando il suo funzionamento e le risposte a determinati input.
+La pratica del cracking esiste da quando esiste il software, ma la modifica del software si è evoluta soprattutto nei primi anni ottanta con la diffusione degli home computer come l'Apple II, l'Atari 80 e il Commodore 64. Con l'evolversi dei computer e dei software, i creatori di crack (detti cracker) hanno cominciato a raggrupparsi in squadre, conosciute col nome di "cracking crews". Con la nascita delle crew è aumentata notevolmente la competizione già presente tra i crackers, inducendo negli anni una lunga serie di attacchi ai sistemi e lo sviluppo di software come virus e spyware utilizzati per il crack di grandi sistemi informatici.
+Per cracking si intende anche la violazione di sistemi informatici collegati ad Internet o ad un'altra rete, allo scopo di danneggiarli, di rubare informazioni oppure di sfruttare i servizi telematici della vittima (connessione ad Internet, traffico voce, sms, accesso a database etc..) senza la sua autorizzazione (thiefing).
+Il termine si contrappone in realtà ad hacking, ma nell'uso comune il termine hacking viene spesso erroneamente utilizzato con il significato di cracking.
+
+
+== Categorie di crack ==
+Esistono diversi tipi di crack:
+
+Patch, quando si modifica il software per non richiedere l'attivazione.
+Loader (o memory loader). Si tratta di un programma che modifica il software durante il caricamento per superare  i controlli CRC.
+Dropper, sono dei file  modificati che vengono sostituiti a quelli originali.
+API-Bridge,sono un tipo di crack usato solo per le librerie DLL, sostituendo a una DLL un  file che funzionerà come la DLL, segnalando però che il software è stato registrato.
+No-CD/DVD, è un tipo di crack  che evita di dover inserire il CD o DVD originale nel lettore.
+NoLimit sono crack che modificano la data di sistema per allungare all'infinito il periodo di prova di un software.
+
+
+== Crackme ==
+Un crackme è un programma ideato per testare e migliorare le abilità dei programmatori nell'ingegneria inversa. Il loro utilizzo è legale perché sono creati appositamente per aggirarne le protezioni e senza l'utilizzo di protezioni commerciali per non violare le leggi sul copyright.
+
+
+== Note ==
+
+
+== Voci correlate ==
+Crack (informatica)
+Cracker (informatica)
+Reverse engineering
+Sicurezza informatica
+Programmazione (informatica)
+Decompilazione
+Warez
+Hexedit
+Assembly
+Debugger

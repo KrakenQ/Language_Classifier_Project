@@ -1,0 +1,733 @@
+Grupa nilpotentna – grupa „prawie” abelowa. Grupy nilpotentne pojawiają się w teorii Galois, a także w zagadnieniach związanych z klasyfikacją grup, również grup Liego.
+
+
+== Definicja ==
+Grupę 
+  
+    
+      
+        G
+      
+    
+    {\displaystyle G}
+   nazywamy nilpotentną, jeżeli istnieje ciąg podgrup normalnych 
+  
+    
+      
+        {
+        e
+        }
+        =
+        
+          G
+          
+            0
+          
+        
+        ⩽
+        
+          G
+          
+            1
+          
+        
+        ⩽
+        
+          G
+          
+            2
+          
+        
+        …
+        ⩽
+        
+          G
+          
+            n
+          
+        
+        =
+        G
+        ,
+      
+    
+    {\displaystyle \{e\}=G_{0}\leqslant G_{1}\leqslant G_{2}\ldots \leqslant G_{n}=G,}
+   że:
+
+  
+    
+      
+        
+          G
+          
+            i
+          
+        
+        ◃
+        G
+        ,
+        
+        i
+        =
+        0
+        ,
+        …
+        ,
+        n
+      
+    
+    {\displaystyle G_{i}\triangleleft G,\;i=0,\dots ,n}
+  
+grupy ilorazowe 
+  
+    
+      
+        
+          G
+          
+            i
+            +
+            1
+          
+        
+        
+          /
+        
+        
+          G
+          
+            i
+          
+        
+      
+    
+    {\displaystyle G_{i+1}/G_{i}}
+   są podgrupami centrum 
+  
+    
+      
+        Z
+        (
+        G
+        
+          /
+        
+        
+          G
+          
+            i
+          
+        
+        )
+      
+    
+    {\displaystyle Z(G/G_{i})}
+   dla 
+  
+    
+      
+        i
+        =
+        0
+        ,
+        1
+        ,
+        2
+        ,
+        …
+        ,
+        n
+        −
+        1.
+      
+    
+    {\displaystyle i=0,1,2,\dots ,n-1.}
+  Jeśli istnieje ciąg o tej własności to nazywamy go ciągiem centralnym grupy 
+  
+    
+      
+        G
+        .
+      
+    
+    {\displaystyle G.}
+   Najmniejsze 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+   dla którego grupa 
+  
+    
+      
+        G
+      
+    
+    {\displaystyle G}
+   jest nilpotentna, nazywamy stopniem nilpotentności i oznacza 
+  
+    
+      
+        nil
+        
+        G
+        .
+      
+    
+    {\displaystyle \operatorname {nil} \;G.}
+  
+
+
+=== Uwaga ===
+Następujące warunki są równoważne:
+
+Ciąg 
+  
+    
+      
+        {
+        e
+        }
+        =
+        
+          G
+          
+            0
+          
+        
+        ⩽
+        
+          G
+          
+            1
+          
+        
+        ⩽
+        
+          G
+          
+            2
+          
+        
+        …
+        ⩽
+        
+          G
+          
+            n
+          
+        
+        =
+        G
+      
+    
+    {\displaystyle \{e\}=G_{0}\leqslant G_{1}\leqslant G_{2}\ldots \leqslant G_{n}=G}
+   jest centralny.
+Ciąg 
+  
+    
+      
+        {
+        e
+        }
+        =
+        
+          G
+          
+            0
+          
+        
+        ⩽
+        
+          G
+          
+            1
+          
+        
+        ⩽
+        
+          G
+          
+            2
+          
+        
+        …
+        ⩽
+        
+          G
+          
+            n
+          
+        
+        =
+        G
+      
+    
+    {\displaystyle \{e\}=G_{0}\leqslant G_{1}\leqslant G_{2}\ldots \leqslant G_{n}=G}
+   jest normalny oraz 
+  
+    
+      
+        [
+        
+          G
+          
+            i
+            +
+            1
+          
+        
+        ,
+        G
+        ]
+        ⩽
+        
+          G
+          
+            i
+          
+        
+        ,
+        
+        i
+        =
+        0
+        ,
+        1
+        ,
+        …
+        ,
+        n
+        −
+        1.
+      
+    
+    {\displaystyle [G_{i+1},G]\leqslant G_{i},\;i=0,1,\dots ,n-1.}
+  
+
+  
+    
+      
+        [
+        
+          G
+          
+            i
+            +
+            1
+          
+        
+        ,
+        G
+        ]
+        ⩽
+        
+          G
+          
+            i
+          
+        
+        ,
+        
+        i
+        =
+        0
+        ,
+        1
+        ,
+        …
+        ,
+        n
+        −
+        1.
+      
+    
+    {\displaystyle [G_{i+1},G]\leqslant G_{i},\;i=0,1,\dots ,n-1.}
+  
+
+
+== Przykłady ==
+Grupą nilpotentną jest na przykład:
+
+dowolna grupa przemienna,
+grupa multiplikatywna macierzy postaci 
+  
+    
+      
+        
+          
+            [
+            
+              
+                
+                  1
+                
+                
+                  a
+                
+                
+                  b
+                
+              
+              
+                
+                  0
+                
+                
+                  1
+                
+                
+                  c
+                
+              
+              
+                
+                  0
+                
+                
+                  0
+                
+                
+                  1
+                
+              
+            
+            ]
+          
+        
+        ,
+      
+    
+    {\displaystyle {\begin{bmatrix}1&a&b\\0&1&c\\0&0&1\end{bmatrix}},}
+   gdzie 
+  
+    
+      
+        a
+        ,
+        b
+        ,
+        c
+      
+    
+    {\displaystyle a,b,c}
+   są elementami pewnego ciała,
+grupa kwaternionów 
+  
+    
+      
+        
+          Q
+          
+            8
+          
+        
+        ,
+      
+    
+    {\displaystyle Q_{8},}
+   ma centrum rzędu 2 
+  
+    
+      
+        (
+        Z
+        (
+        
+          Q
+          
+            8
+          
+        
+        )
+        =
+        {
+        1
+        ,
+        −
+        1
+        }
+        )
+        ;
+      
+    
+    {\displaystyle (Z(Q_{8})=\{1,-1\});}
+   ciąg centralny tej grupy to 
+  
+    
+      
+        {
+        1
+        }
+        ,
+        
+        {
+        1
+        ,
+        −
+        1
+        }
+        ,
+        
+          Q
+          
+            8
+          
+        
+        ,
+      
+    
+    {\displaystyle \{1\},\;\{1,-1\},Q_{8},}
+   zatem jest to grupa nilpotentna drugiego stopnia nilpotentności,
+każdy produkt prosty skończonej liczby p-grup,
+dyskretna grupa Heisenberga.
+każda grupa 
+  
+    
+      
+        G
+      
+    
+    {\displaystyle G}
+   rzędu 
+  
+    
+      
+        
+          p
+          
+            k
+          
+        
+        ,
+      
+    
+    {\displaystyle p^{k},}
+   gdzie 
+  
+    
+      
+        p
+      
+    
+    {\displaystyle p}
+   jest liczbą pierwszą jest nilpotentna oraz 
+  
+    
+      
+        nil
+        ⁡
+        G
+        ⩽
+        k
+        .
+      
+    
+    {\displaystyle \operatorname {nil} G\leqslant k.}
+  
+
+
+== Własności ==
+Każda grupa nilpotentna jest rozwiązalna.
+Jeżeli komutant grupy 
+  
+    
+      
+        G
+      
+    
+    {\displaystyle G}
+   jest zawarty w jej centrum, to grupa jest nilpotentna.
+grupy permutacji 
+  
+    
+      
+        
+          S
+          
+            n
+          
+        
+      
+    
+    {\displaystyle S_{n}}
+   nie są nilpotentne dla 
+  
+    
+      
+        n
+        >
+        2.
+      
+    
+    {\displaystyle n>2.}
+  
+Każda podgrupa grupy nilpotentnej klasy 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+   jest grupą nilpotentną klasy co najwyżej 
+  
+    
+      
+        n
+        ,
+      
+    
+    {\displaystyle n,}
+   co więcej to samo dotyczy obrazu homomorficznego grupy nilpotentnej.
+Następujące zdania są równoważne dla grup skończonych:
+
+  
+    
+      
+        G
+      
+    
+    {\displaystyle G}
+   jest nilpotentna.
+Jeżeli 
+  
+    
+      
+        H
+      
+    
+    {\displaystyle H}
+   jest właściwą podgrupą 
+  
+    
+      
+        G
+        ,
+      
+    
+    {\displaystyle G,}
+   to 
+  
+    
+      
+        H
+      
+    
+    {\displaystyle H}
+   jest właściwą podgrupą normalną normalizatora 
+  
+    
+      
+        N
+        (
+        H
+        )
+        .
+      
+    
+    {\displaystyle N(H).}
+  
+Każda maksymalna podgrupa właściwa 
+  
+    
+      
+        G
+      
+    
+    {\displaystyle G}
+   jest normalna.
+G jest sumą prostą swoich podgrup Sylowa.
+Ostatnie stwierdzenie może być uogólnione na grupy nieskończone: jeżeli 
+  
+    
+      
+        G
+      
+    
+    {\displaystyle G}
+   jest nilpotentna, to każda podgrupa Sylowa 
+  
+    
+      
+        
+          G
+          
+            p
+          
+        
+      
+    
+    {\displaystyle G_{p}}
+   grupy 
+  
+    
+      
+        G
+      
+    
+    {\displaystyle G}
+   jest normalna, a suma prosta tych podgrup Sylowa jest podgrupą wszystkich elementów skończonego rzędu w 
+  
+    
+      
+        G
+      
+    
+    {\displaystyle G}
+   (zob. podgrupa torsyjna).
+Jeśli grupa 
+  
+    
+      
+        G
+        
+          /
+        
+        Z
+        (
+        G
+        )
+      
+    
+    {\displaystyle G/Z(G)}
+   jest nilpotentna stopnia 
+  
+    
+      
+        n
+        ,
+      
+    
+    {\displaystyle n,}
+   to 
+  
+    
+      
+        G
+      
+    
+    {\displaystyle G}
+   jest nilpotentna stopnia 
+  
+    
+      
+        n
+        +
+        1.
+      
+    
+    {\displaystyle n+1.}
+  
+
+
+== Zobacz też ==
+grupa
+
+
+== Bibliografia ==
+Czesław Bagiński: Wstęp do teorii grup. Warszawa: Script, 2002. ISBN 83-904564-9-4. (pol.)
+M. Bryński, J. Jurkiewicz, Zbiór zadań z algebry, PWN, Warszawa 1978

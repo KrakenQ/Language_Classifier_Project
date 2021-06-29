@@ -1,0 +1,41 @@
+Curtiss SC Seahawk oli yhdysvaltalainen tiedustelu- ja sukellusveneentorjuntalentokone. Konetyypin suunnittelija ja valmistaja oli Curtiss Aeroplane and Motor Company, joka tuotti prototyyppikoneet mukaan lukien 577 Seahawkia.
+
+
+== Historia ==
+Curtiss SC Seahawkin suunnittelu aloitettiin kesäkuussa 1942 vastaamaan yhdysvaltain laivasaton esittämiin vaatimuksiin Curtiss SO3C Seamew ja Vought  OS2U-3 Kingfisher -konetyyppien korvaajasta. Vaatimuksiin kuuluivat helposti kellukkeisiin vaihdettavat laskutelineet, minkä ansiosta konetyyppiä voitaisiin operoida paitsi lentotukialuksilta ja maatukikohdista, mutta myös muilta sota-aluksilta höyrykatapultilla laukaistavana. Curtiss Aeroplane and Motor Company lähetti Seahawkin suunnitelmat arvioitavaksi 1. elokuuta 1942, mutta ensimmäinen prototyypikone lensi ensilentonsa vasta 16. helmikuuta 1944. Jo ennen ensilentoa oli kuitenkin kesäkuussa 1943 asetettu tilaus 500 SC-1 tuotantokoneelle. Näiden jälkeen laivasto tilasi lokakuussa 1944 450 SC-1 lisää, mutta vain 66 niistä toimitettiin ennen toisen maailmansodan päättymistä, jolloin toimittamattomat koneet peruttiin.SC-1 lisäksi tuotettiin kymmenen kappaletta paranneltua SC-2 versiota.
+
+
+== Rakenne ==
+
+Curtiss SC Seahawk oli rakenteeltaan kokometallinen, yksipaikkainen ja yksimoottorineen alatasolenkone. Seahawkin voimanlähteenä oli Wright R-1820-62 Cyclone 9 -tähtimoottori. Koneen siivet voitiin taittaa varastoinnin helpottamiseksi.Kaikki Seahawkit toimitettiin varustettuna laskutelineillä, jotka tarpeen vaatiessa vaihdettiin kellukkeisiin. Sama kiinnike toimi sekä kellukeversion Edo Aircraft Corporationin valmistaman keskikellukeen, että maaversion päälaskutelineiden ripustuskohtana. Keskikellukkeen sisällä voitiin tarvittaessa kuljettaa lisäpolttoainetta. Kellukkeisiin kuului keskikellukkeen lisäksi kaksi pientä siivenkärkien alapintaan kiinnitettävää vakainkelluketta.
+
+
+== Tekniset tiedot ==
+Lähde: lähde?
+Yleiset ominaisuudet
+
+Pituus: &&&&&&&&&&&&&011.09000011,09 m
+Kärkiväli: &&&&&&&&&&&&&012.050000012,50 m
+Korkeus: &&&&&&&&&&&&&&03.08900003,89 m
+Siipipinta-ala: &&&&&&&&&&&&&026.01000026,01 m²
+Tyhjäpaino: &&&&&&&&&&&02867.&&&&002 867 kg
+Suurin lentoonlähtöpaino: &&&&&&&&&&&04082.&&&&004 082 kg
+Voimalaite: &&&&&&&&&&&&&&01.&&&&001 × Wright R-1820-62 Cyclone 9 -yhdeksänsylinterinen tähtimoottori; &&&&&&&&&&&01007.&&&&001 007 kW (&&&&&&&&&&&01350.&&&&001 350 hv)Suoritusarvot
+
+Suurin nopeus: &&&&&&&&&&&&0504.&&&&00504 km/h 8 715 metrissä
+Matkalentonopeus: &&&&&&&&&&&&0210.&&&&00210 km/h
+Lentomatka: &&&&&&&&&&&01006.&&&&001 006 km
+Lakikorkeus: &&&&&&&&&&011370.&&&&0011 370 mAseistus2 × 12,7 millimetrin konekivääriä siivissä
+295 kg pommeja kahdessa siipien alle asennetussa pommiripustimessa
+
+
+== Lähteet ==
+Donald, David: American warplanes of world war II, s. 85.    Aerospace Publishing, 1995.  ISBN 1-84013-392-9.   (englanniksi)
+Mondey, David: American Aircraft of World War II, s. 94.    Aerospace Publishing, 1982.  ISBN 1-84013-392-9.   (englanniksi)
+
+
+=== Viitteet ===
+
+
+== Aiheesta muualla ==
+ Kuvia tai muita tiedostoja aiheesta Curtiss SC Seahawk Wikimedia Commonsissa

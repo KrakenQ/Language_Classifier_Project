@@ -1,0 +1,5890 @@
+En matemàtiques, els grups clàssics es defineixen com els grups lineals especials sobre els reals R, els complexos C i els quaternions H, juntament amb automorfismes de grups especials de formes bilineals simètriques o antisimètriques i de formes sesquilineals hermítiques o antihermítiques definides sobre espais vectorials de dimensió finita reals, complexos o quaterniònics. D'aquests, els grups de Lie clàssics complexos són quatre famílies infinites de grups de Lie que, juntament amb els grups excepcionals, formen la totalitat dels grups de Lie simples. Els grups clàssics compactes són formes reals compactes dels grups clàssics complexos. Els anàlegs finits dels grups clàssics són els grups de tipus Lie clàssics. El terme grup clàssic fou creat per Hermann Weyl, a la seva monografia de 1939 The Classical Groups.
+
+
+== Els grups clàssics ==
+Els grups clàssics són exactament els grups lineals generals sobre R, C i H juntament amb els grups d'automorfismes tractats més endavant. A continuació es detallen els grups clàssics amb determinant 1:
+
+Els grups clàssics complexos són SL(n, C), SO(n, C) i Sp(m, C). Un grup és complex si la seva àlgebra de Lie és complexa. El terme grups clàssics reals es refereix a tots els grups clàssics, ja que tota àlgebra de Lie és una àlgebra real. Els grups clàssics compactes són les formes reals compactes dels grups clàssics complexos. Aquests són, al seu torn, SU(n), SO(n) i Sp(m). Una caracterització de la forma real compacta és en termes de l'àlgebra de Lie 
+  
+    
+      
+        
+          
+            g
+          
+        
+      
+    
+    {\displaystyle {\mathfrak {g}}}
+  . Si 
+  
+    
+      
+        
+          
+            g
+          
+        
+        =
+        
+          
+            u
+          
+        
+        +
+        i
+        
+          
+            u
+          
+        
+      
+    
+    {\displaystyle {\mathfrak {g}}={\mathfrak {u}}+i{\mathfrak {u}}}
+  , la complexificació de 
+  
+    
+      
+        
+          
+            u
+          
+        
+      
+    
+    {\displaystyle {\mathfrak {u}}}
+  , llavors si el grup connex K generat per 
+  
+    
+      
+        exp
+        ⁡
+        (
+        X
+        )
+        :
+        X
+        ∈
+        
+          
+            u
+          
+        
+      
+    
+    {\displaystyle \exp(X)\colon X\in {\mathfrak {u}}}
+   és un conjunt compacte, K és una forma real compacta.Els grups clàssics es poden caracteritzar d'una altra manera utilitzant formes reals. Els grups clàssics (aquí, amb la condició addicional de tenir determinant igual a 1, però això no és necessari) són:
+
+Per exemple, SO∗(2n) és una forma real de SO(2n, C), SU(p, q) és una forma real de Sl(n, C), i Sl(n, H) és una forma real de SO(2n, C). Sense la condició que el determinant sigui 1, cal reemplaçar a la caracterització els grups lineals especials pels corresponents grups lineals generals. Els grups algebraics en qüestió són grups de Lie, però cal parlar d'"algebraics" per tenir la noció correcta de "forma real".
+
+
+== Formes bilineals i sesquilineals ==
+Els grups clàssics es defineixen en termes de formes definides sobre Rn, Cn i Hn, on R i C són els cossos dels nombres reals i complexos. Els quaternions, H, no formen un cos perquè la multiplicació no és commutativa; formen un anell de divisió o cos no commutatiu. No obstant això, encara és possible definir grups quaterniònics de matrius. Per aquest motiu, es pot definir un espai vectorial V sobre R o C, així com sobre H. En el cas de H, V és un espai vectorial per la dreta, per tal de fer possible la representació de l'acció de grup des de l'esquerra, de la mateixa manera que per R i C.Una forma φ: V × V → F sobre un espai vectorial per la dreta de dimensió finita sobre F = R, C, o H és bilineal si
+
+  
+    
+      
+        φ
+        (
+        x
+        α
+        ,
+        y
+        β
+        )
+        =
+        α
+        φ
+        (
+        x
+        ,
+        y
+        )
+        β
+        ,
+        
+        ∀
+        x
+        ,
+        y
+        ∈
+        V
+        ,
+        ∀
+        α
+        ,
+        β
+        ∈
+        F
+      
+    
+    {\displaystyle \varphi (x\alpha ,y\beta )=\alpha \varphi (x,y)\beta ,\quad \forall x,y\in V,\forall \alpha ,\beta \in F}
+  .Hom diu que és sesquilineal si 
+
+  
+    
+      
+        φ
+        (
+        x
+        α
+        ,
+        y
+        β
+        )
+        =
+        
+          
+            
+              α
+              ¯
+            
+          
+        
+        φ
+        (
+        x
+        ,
+        y
+        )
+        β
+        ,
+        
+        ∀
+        x
+        ,
+        y
+        ∈
+        V
+        ,
+        ∀
+        α
+        ,
+        β
+        ∈
+        F
+      
+    
+    {\displaystyle \varphi (x\alpha ,y\beta )={\bar {\alpha }}\varphi (x,y)\beta ,\quad \forall x,y\in V,\forall \alpha ,\beta \in F}
+  .Un automorfisme de φ és una aplicació Α en el conjunt dels operadors lineals sobre V tal que
+
+El conjunt de tots els automorfismes de φ forma un grup, anomenat grup d'automorfismes de φ, i denotat per Aut(φ). Això porta a una definició preliminar d'un grup clàssic:
+
+Aquesta definició té alguns problemes perquè posseeix una redundància innecessària: en el cas de F = R, bilineal és equivalent a sesquilineal; en el cas de F = H, no existeixen formes bilineals tret de la forma nul·la.
+
+
+=== Formes simètriques, antisimètriques, hermítiques i antihermítiques ===
+Una forma és simètrica si
+
+  
+    
+      
+        φ
+        (
+        x
+        ,
+        y
+        )
+        =
+        φ
+        (
+        y
+        ,
+        x
+        )
+      
+    
+    {\displaystyle \varphi (x,y)=\varphi (y,x)}
+  .És antisimètrica si
+
+  
+    
+      
+        φ
+        (
+        x
+        ,
+        y
+        )
+        =
+        −
+        φ
+        (
+        y
+        ,
+        x
+        )
+      
+    
+    {\displaystyle \varphi (x,y)=-\varphi (y,x)}
+  .És hermítica si
+
+  
+    
+      
+        φ
+        (
+        x
+        ,
+        y
+        )
+        =
+        
+          
+            
+              φ
+              (
+              y
+              ,
+              x
+              )
+            
+            ¯
+          
+        
+      
+    
+    {\displaystyle \varphi (x,y)={\overline {\varphi (y,x)}}}
+  .Finalment, és antihermítica si
+
+  
+    
+      
+        φ
+        (
+        x
+        ,
+        y
+        )
+        =
+        −
+        
+          
+            
+              φ
+              (
+              y
+              ,
+              x
+              )
+            
+            ¯
+          
+        
+      
+    
+    {\displaystyle \varphi (x,y)=-{\overline {\varphi (y,x)}}}
+  .Una forma bilineal φ es pot descompondre unívocament com a suma d'una forma simètrica i una d'antisimètrica. Una transformació que preservi φ preserva ambdues parts de manera separada. Per tant, es poden estudiar per separat els grups que preserven les formes simètriques i les antisimètriques. El mateix és cert, mutatis mutandis, per a formes hermítiques i antihermítiques. Per aquest motiu, i per qüestions de classificació, només considerarem formes purament simètriques, antisimètriques, hermítiques o antihermítiques. Les formes normals de les formes corresponen a eleccions adequades de bases. Aquestes són bases que donen les següents formes normals en coordenades:
+
+El factor j de la forma antihermítica és el tercer element de la base (1, i, j, k) de H. A Rossmann (2002) o Goodman & Wallach (2009) es pot trobar una demostració de l'existència d'aquestes bases, de la Llei d'inèrcia de Sylvester, de la independència del nombre de signes positius i negatius, de p i q, en les formes simètriquesni hermítiques, així com de la presència o absència dels cossos en cada expressió. Hom anomena signatura de la forma al parell (p, q) o de vegades a p − q.
+Explicació de l'aparició dels cossos R, C, H: No existeixen formes bilineals no trivials sobre H. En el cas bilineal simètric, només tenen signatura les formes sobre R. En altres paraules, una forma complexa bilineal amb "signatura" (p, q) es pot reduir, mitjançant un canvi de base, a una forma on tots els signes són "+" en l'expressió anterior, mentre que això és impossibke en el cas real, on p − q és independent de la base escollida. No obstant això, les formes hermítiques tenen una signatura independent de la base tant en el cas complex com en el cas quaterniònic (el cas real es redueix al cas simètric). Una forma antihermítica sobre un espai vectorial complex pren forma hermítica per multiplicació per i, de tal manera que, en aquest cas, només interessa considerar H.
+
+
+== Grups d'automorfismes ==
+
+La primera secció presenta l'entorn general de treball. Les altres seccions tracten els diferents casos que sorgeixen com a grups d'automorfismes de formes bilineals i sesquilineals en espais vectorials de dimensió finita sobre R, C i H.
+
+
+=== Aut(φ) – el grup d'automorfismes ===
+Suposem que φ és una forma no degenerada en un espai vectorial de dimensió finita V sobre R, C o H. El grup d'automorfismes es defineix, basant-se en la condició (1), com
+
+  
+    
+      
+        
+          A
+          u
+          t
+        
+        (
+        φ
+        )
+        =
+        {
+        A
+        ∈
+        
+          G
+          L
+        
+        (
+        V
+        )
+        :
+        φ
+        (
+        A
+        u
+        ,
+        A
+        v
+        )
+        =
+        φ
+        (
+        x
+        ,
+        y
+        )
+        ,
+        
+        ∀
+        x
+        ,
+        y
+        ∈
+        V
+        }
+      
+    
+    {\displaystyle \mathrm {Aut} (\varphi )=\{A\in \mathrm {GL} (V):\varphi (Au,Av)=\varphi (x,y),\quad \forall x,y\in V\}}
+  .Tot A ∈ Mn(V) té un adjunt Aφ respecte a φ definit per
+
+Emprant aquesta definició a la condició (1), hom pot veure que el grup d'automorfismes es pot expressar com
+
+Fixem una base de V. En termes d'aquesta base, escrivim
+
+  
+    
+      
+        φ
+        (
+        x
+        ,
+        y
+        )
+        =
+        ∑
+        
+          ξ
+          
+            i
+          
+        
+        
+          φ
+          
+            i
+            j
+          
+        
+        
+          η
+          
+            j
+          
+        
+      
+    
+    {\displaystyle \varphi (x,y)=\sum \xi _{i}\varphi _{ij}\eta _{j}}
+  on ξi, ηj són les components de x, y. Aquesta expressió és convenient per a formes bilineals (les formes sesquilineals tenen expressions similars i es tracten més endavant). En notació matricial, tenim
+
+  
+    
+      
+        φ
+        (
+        x
+        ,
+        y
+        )
+        =
+        
+          x
+          
+            
+              T
+            
+          
+        
+        Φ
+        y
+      
+    
+    {\displaystyle \varphi (x,y)=x^{\mathrm {T} }\Phi y}
+  i
+
+de (2) on Φ és la matriu (φij). La condició de no ser degenerada significa que Φ és invertible, i per tant sempre existeix l'adjunt. Amb aquesta observació, podem escriure
+
+  
+    
+      
+        Aut
+        ⁡
+        (
+        φ
+        )
+        =
+        {
+        A
+        ∈
+        GL
+        ⁡
+        (
+        V
+        )
+        :
+        
+          Φ
+          
+            −
+            1
+          
+        
+        
+          A
+          
+            
+              T
+            
+          
+        
+        Φ
+        A
+        =
+        1
+        }
+      
+    
+    {\displaystyle \operatorname {Aut} (\varphi )=\{A\in \operatorname {GL} (V):\Phi ^{-1}A^{\mathrm {T} }\Phi A=1\}}
+  .L'àlgebra de Lie 
+  
+    
+      
+        
+          
+            a
+            u
+            t
+          
+        
+        (
+        φ
+        )
+      
+    
+    {\displaystyle {\mathfrak {aut}}(\varphi )}
+   dels grups d'automorfismes es pot escriure immediatament. De manera abstracta, 
+  
+    
+      
+        X
+        ∈
+        
+          
+            a
+            u
+            t
+          
+        
+        (
+        φ
+        )
+      
+    
+    {\displaystyle X\in {\mathfrak {aut}}(\varphi )}
+   si i només si
+
+  
+    
+      
+        (
+        
+          e
+          
+            t
+            X
+          
+        
+        
+          )
+          
+            φ
+          
+        
+        
+          e
+          
+            t
+            X
+          
+        
+        =
+        1
+      
+    
+    {\displaystyle (e^{tX})^{\varphi }e^{tX}=1}
+  per a tot t, corresponent a la condició de (3) sota l'aplicació exponencial d'àlgebres de Lie, de tal manera que
+
+  
+    
+      
+        
+          
+            a
+            u
+            t
+          
+        
+        (
+        φ
+        )
+        =
+        {
+        X
+        ∈
+        
+          M
+          
+            n
+          
+        
+        (
+        V
+        )
+        :
+        
+          X
+          
+            φ
+          
+        
+        =
+        −
+        X
+        }
+      
+    
+    {\displaystyle {\mathfrak {aut}}(\varphi )=\{X\in M_{n}(V):X^{\varphi }=-X\}}
+  ,o en una base
+
+vista com a expansió en sèrie de potències de l'aplicació exponencial i la linealitat de les operacions. Recíprocament, suposem que 
+  
+    
+      
+        X
+        ∈
+        
+          
+            a
+            u
+            t
+          
+        
+        (
+        φ
+        )
+      
+    
+    {\displaystyle X\in {\mathfrak {aut}}(\varphi )}
+  . Llavors, emprant el resultat anterior, φ(Xx, y) = φ(x, Xφy) = -φ(x, Xy). Per tant, l'àlgebra de Lie es pot caracteritzar sense referència a una base, o l'adjunt, com
+
+  
+    
+      
+        
+          
+            a
+            u
+            t
+          
+        
+        (
+        φ
+        )
+        =
+        {
+        X
+        ∈
+        
+          M
+          
+            n
+          
+        
+        (
+        V
+        )
+        :
+        φ
+        (
+        X
+        x
+        ,
+        y
+        )
+        =
+        −
+        φ
+        (
+        x
+        ,
+        X
+        y
+        )
+        ,
+        
+        ∀
+        x
+        ,
+        y
+        ∈
+        V
+        }
+      
+    
+    {\displaystyle {\mathfrak {aut}}(\varphi )=\{X\in M_{n}(V):\varphi (Xx,y)=-\varphi (x,Xy),\quad \forall x,y\in V\}}
+  .A continuació es proporcionen les formes normals de φ per a cada grup clàssic. A partir d'aquesta forma normal, hom pot determinar directament la matriu Φ. En conseqüència, les expressions (4) i (5) proporcionen expressions per a l'adjunt i per a les àlgebres de Lie. Això es demostra més endavant en la majoria de casos no trivials.
+
+
+=== Cas bilineal ===
+Quan la forma és simètrica, hom diu que Aut(φ) és O(φ). Quan és antisimètrica, hom diu que Aut(φ) és Sp(φ). Això aplica tant al cas real com al cas complex. En el cas quaterniònic, Aut(φ) és nul, ja que no existeixen formes bilineals no nul·les en els espais vectorials quaterniònics.
+
+
+==== Cas real ====
+El cas real se subdivideix en dos casos: les formes simètriques i les formes antisimètriques, que cal tractar-les dd manera separada.
+
+
+===== O(p, q) i O(n) – els grups ortogonals =====
+Si φ és simètrica i l'espai vectorial és real, es pot escollir una base de manera que
+
+  
+    
+      
+        φ
+        (
+        x
+        ,
+        y
+        )
+        =
+        ±
+        
+          ξ
+          
+            1
+          
+        
+        
+          η
+          
+            1
+          
+        
+        ±
+        
+          ξ
+          
+            2
+          
+        
+        
+          η
+          
+            2
+          
+        
+        ⋯
+        ±
+        
+          ξ
+          
+            n
+          
+        
+        
+          η
+          
+            n
+          
+        
+      
+    
+    {\displaystyle \varphi (x,y)=\pm \xi _{1}\eta _{1}\pm \xi _{2}\eta _{2}\cdots \pm \xi _{n}\eta _{n}}
+  .El nombre de signes positius i negatius és independent de la base escollida. En el cas V = Rn hom pot escriure O(φ) = O(p, q), on p és el nombre de signes positius i q és el nombre de signes negatius, amb p + q = n. Si q = 0, hom denota O(n). En aquest cas, la matriu Φ és
+
+  
+    
+      
+        Φ
+        =
+        
+          (
+          
+            
+              
+                
+                  
+                    I
+                    
+                      p
+                    
+                  
+                
+                
+                  0
+                
+              
+              
+                
+                  0
+                
+                
+                  −
+                  
+                    I
+                    
+                      q
+                    
+                  
+                
+              
+            
+          
+          )
+        
+        ≡
+        
+          I
+          
+            p
+            ,
+            q
+          
+        
+      
+    
+    {\displaystyle \Phi =\left({\begin{matrix}I_{p}&0\\0&-I_{q}\end{matrix}}\right)\equiv I_{p,q}}
+  reordenant, si cal, els elements de la base. Llavors l'operació adjunt (4) esdevé
+
+  
+    
+      
+        
+          A
+          
+            φ
+          
+        
+        =
+        
+          (
+          
+            
+              
+                
+                  
+                    I
+                    
+                      p
+                    
+                  
+                
+                
+                  0
+                
+              
+              
+                
+                  0
+                
+                
+                  −
+                  
+                    I
+                    
+                      q
+                    
+                  
+                
+              
+            
+          
+          )
+        
+        
+          
+            (
+            
+              
+                
+                  
+                    
+                      A
+                      
+                        11
+                      
+                    
+                  
+                  
+                    ⋯
+                  
+                
+                
+                  
+                    ⋯
+                  
+                  
+                    
+                      A
+                      
+                        n
+                        n
+                      
+                    
+                  
+                
+              
+            
+            )
+          
+          
+            
+              T
+            
+          
+        
+        
+          (
+          
+            
+              
+                
+                  
+                    I
+                    
+                      p
+                    
+                  
+                
+                
+                  0
+                
+              
+              
+                
+                  0
+                
+                
+                  −
+                  
+                    I
+                    
+                      q
+                    
+                  
+                
+              
+            
+          
+          )
+        
+      
+    
+    {\displaystyle A^{\varphi }=\left({\begin{matrix}I_{p}&0\\0&-I_{q}\end{matrix}}\right)\left({\begin{matrix}A_{11}&\cdots \\\cdots &A_{nn}\end{matrix}}\right)^{\mathrm {T} }\left({\begin{matrix}I_{p}&0\\0&-I_{q}\end{matrix}}\right)}
+  ,la qual es redueix a la transposada habitual quan p o q is 0. Hom pot trobar l'àlgebra de Lie utilitzant l'equació (5) (a continuació es detalla el cas de Sp(m, R)),
+
+  
+    
+      
+        
+          
+            o
+          
+        
+        (
+        p
+        ,
+        q
+        )
+        =
+        
+          {
+          
+            
+              
+              
+                (
+                
+                  
+                    
+                      
+                        
+                          X
+                          
+                            p
+                            ×
+                            p
+                          
+                        
+                      
+                      
+                        
+                          Y
+                          
+                            p
+                            ×
+                            q
+                          
+                        
+                      
+                    
+                    
+                      
+                        
+                          Y
+                          
+                            
+                              T
+                            
+                          
+                        
+                      
+                      
+                        
+                          W
+                          
+                            q
+                            ×
+                            q
+                          
+                        
+                      
+                    
+                  
+                
+                )
+              
+              |
+            
+            
+              X
+              
+                
+                  T
+                
+              
+            
+            =
+            −
+            X
+            ,
+            
+            
+              W
+              
+                
+                  T
+                
+              
+            
+            =
+            −
+            W
+          
+          }
+        
+      
+    
+    {\displaystyle {\mathfrak {o}}(p,q)=\left\{\left.\left({\begin{matrix}X_{p\times p}&Y_{p\times q}\\Y^{\mathrm {T} }&W_{q\times q}\end{matrix}}\right)\right|X^{\mathrm {T} }=-X,\quad W^{\mathrm {T} }=-W\right\}}
+  ,i el grup d'acord amb (3) ve donat per
+
+  
+    
+      
+        
+          O
+        
+        (
+        p
+        ,
+        q
+        )
+        =
+        {
+        g
+        ∈
+        
+          G
+          L
+        
+        (
+        n
+        ,
+        
+          R
+        
+        )
+        
+          |
+        
+        
+          I
+          
+            p
+            ,
+            q
+          
+          
+            −
+            1
+          
+        
+        
+          g
+          
+            
+              T
+            
+          
+        
+        
+          I
+          
+            p
+            ,
+            q
+          
+        
+        g
+        =
+        I
+        }
+      
+    
+    {\displaystyle \mathrm {O} (p,q)=\{g\in \mathrm {GL} (n,\mathbb {R} )|I_{p,q}^{-1}g^{\mathrm {T} }I_{p,q}g=I\}}
+  .Els grups O(p, q) i O(q, p) són isomorfs per l'aplicació
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  O
+                
+                (
+                p
+                ,
+                q
+                )
+              
+              
+                →
+              
+              
+                
+                  O
+                
+                (
+                q
+                ,
+                p
+                )
+              
+            
+            
+              
+                g
+              
+              
+                ↦
+              
+              
+                σ
+                g
+                
+                  σ
+                  
+                    −
+                    1
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{array}{ccc}\mathrm {O} (p,q)&\to &\mathrm {O} (q,p)\\g&\mapsto &\sigma g\sigma ^{-1}\end{array}}}
+  on 
+  
+    
+      
+        σ
+        =
+        
+          (
+          
+            
+              
+                
+                  
+                    0
+                  
+                  
+                    0
+                  
+                  
+                    ⋯
+                  
+                  
+                    1
+                  
+                
+                
+                  
+                    ⋮
+                  
+                  
+                    ⋮
+                  
+                  
+                    ⋱
+                  
+                  
+                    ⋮
+                  
+                
+                
+                  
+                    0
+                  
+                  
+                    1
+                  
+                  
+                    ⋯
+                  
+                  
+                    0
+                  
+                
+                
+                  
+                    1
+                  
+                  
+                    0
+                  
+                  
+                    ⋯
+                  
+                  
+                    0
+                  
+                
+              
+            
+          
+          )
+        
+      
+    
+    {\displaystyle \sigma =\left({\begin{smallmatrix}0&0&\cdots &1\\\vdots &\vdots &\ddots &\vdots \\0&1&\cdots &0\\1&0&\cdots &0\end{smallmatrix}}\right)}
+  .
+Per exemple, l'àlgebra de Lie del grup de Lorentz es pot escriure com
+
+  
+    
+      
+        
+          
+            o
+          
+        
+        (
+        3
+        ,
+        1
+        )
+        =
+        
+          ⟨
+          
+            
+              (
+              
+                
+                  
+                    
+                      
+                        0
+                      
+                      
+                        1
+                      
+                      
+                        0
+                      
+                      
+                        0
+                      
+                    
+                    
+                      
+                        −
+                        1
+                      
+                      
+                        0
+                      
+                      
+                        0
+                      
+                      
+                        0
+                      
+                    
+                    
+                      
+                        0
+                      
+                      
+                        0
+                      
+                      
+                        0
+                      
+                      
+                        0
+                      
+                    
+                    
+                      
+                        0
+                      
+                      
+                        0
+                      
+                      
+                        0
+                      
+                      
+                        0
+                      
+                    
+                  
+                
+              
+              )
+            
+            ,
+            
+              (
+              
+                
+                  
+                    
+                      
+                        0
+                      
+                      
+                        0
+                      
+                      
+                        −
+                        1
+                      
+                      
+                        0
+                      
+                    
+                    
+                      
+                        0
+                      
+                      
+                        0
+                      
+                      
+                        0
+                      
+                      
+                        0
+                      
+                    
+                    
+                      
+                        1
+                      
+                      
+                        0
+                      
+                      
+                        0
+                      
+                      
+                        0
+                      
+                    
+                    
+                      
+                        0
+                      
+                      
+                        0
+                      
+                      
+                        0
+                      
+                      
+                        0
+                      
+                    
+                  
+                
+              
+              )
+            
+            ,
+            
+              (
+              
+                
+                  
+                    
+                      
+                        0
+                      
+                      
+                        0
+                      
+                      
+                        0
+                      
+                      
+                        0
+                      
+                    
+                    
+                      
+                        0
+                      
+                      
+                        0
+                      
+                      
+                        1
+                      
+                      
+                        0
+                      
+                    
+                    
+                      
+                        0
+                      
+                      
+                        −
+                        1
+                      
+                      
+                        0
+                      
+                      
+                        0
+                      
+                    
+                    
+                      
+                        0
+                      
+                      
+                        0
+                      
+                      
+                        0
+                      
+                      
+                        0
+                      
+                    
+                  
+                
+              
+              )
+            
+            ,
+            
+              (
+              
+                
+                  
+                    
+                      
+                        0
+                      
+                      
+                        0
+                      
+                      
+                        0
+                      
+                      
+                        1
+                      
+                    
+                    
+                      
+                        0
+                      
+                      
+                        0
+                      
+                      
+                        0
+                      
+                      
+                        0
+                      
+                    
+                    
+                      
+                        0
+                      
+                      
+                        0
+                      
+                      
+                        0
+                      
+                      
+                        0
+                      
+                    
+                    
+                      
+                        1
+                      
+                      
+                        0
+                      
+                      
+                        0
+                      
+                      
+                        0
+                      
+                    
+                  
+                
+              
+              )
+            
+            ,
+            
+              (
+              
+                
+                  
+                    
+                      
+                        0
+                      
+                      
+                        0
+                      
+                      
+                        0
+                      
+                      
+                        0
+                      
+                    
+                    
+                      
+                        0
+                      
+                      
+                        0
+                      
+                      
+                        0
+                      
+                      
+                        1
+                      
+                    
+                    
+                      
+                        0
+                      
+                      
+                        0
+                      
+                      
+                        0
+                      
+                      
+                        0
+                      
+                    
+                    
+                      
+                        0
+                      
+                      
+                        1
+                      
+                      
+                        0
+                      
+                      
+                        0
+                      
+                    
+                  
+                
+              
+              )
+            
+            ,
+            
+              (
+              
+                
+                  
+                    
+                      
+                        0
+                      
+                      
+                        0
+                      
+                      
+                        0
+                      
+                      
+                        0
+                      
+                    
+                    
+                      
+                        0
+                      
+                      
+                        0
+                      
+                      
+                        0
+                      
+                      
+                        0
+                      
+                    
+                    
+                      
+                        0
+                      
+                      
+                        0
+                      
+                      
+                        0
+                      
+                      
+                        1
+                      
+                    
+                    
+                      
+                        0
+                      
+                      
+                        0
+                      
+                      
+                        1
+                      
+                      
+                        0
+                      
+                    
+                  
+                
+              
+              )
+            
+          
+          ⟩
+        
+      
+    
+    {\displaystyle {\mathfrak {o}}(3,1)=\left\langle \left({\begin{smallmatrix}0&1&0&0\\-1&0&0&0\\0&0&0&0\\0&0&0&0\end{smallmatrix}}\right),\left({\begin{smallmatrix}0&0&-1&0\\0&0&0&0\\1&0&0&0\\0&0&0&0\end{smallmatrix}}\right),\left({\begin{smallmatrix}0&0&0&0\\0&0&1&0\\0&-1&0&0\\0&0&0&0\end{smallmatrix}}\right),\left({\begin{smallmatrix}0&0&0&1\\0&0&0&0\\0&0&0&0\\1&0&0&0\end{smallmatrix}}\right),\left({\begin{smallmatrix}0&0&0&0\\0&0&0&1\\0&0&0&0\\0&1&0&0\end{smallmatrix}}\right),\left({\begin{smallmatrix}0&0&0&0\\0&0&0&0\\0&0&0&1\\0&0&1&0\end{smallmatrix}}\right)\right\rangle }
+  .Naturalment, és possible una reordenació de tal manera que el bloc q sigui el superior esquerre (o qualsevol altre bloc). Aquí, la "component de temps" apareix com a quarta coordenada en una interpretació física, i no com a primera, com podria ser més comú.
+
+
+===== Sp(m, R) – el grup simplèctic real =====
+Si φ és antisimètrica i l'espai vectorial és real, existeix una base on
+
+  
+    
+      
+        φ
+        (
+        x
+        ,
+        y
+        )
+        =
+        
+          ξ
+          
+            1
+          
+        
+        
+          η
+          
+            m
+            +
+            1
+          
+        
+        +
+        
+          ξ
+          
+            2
+          
+        
+        
+          η
+          
+            m
+            +
+            2
+          
+        
+        ⋯
+        +
+        
+          ξ
+          
+            m
+          
+        
+        
+          η
+          
+            2
+            m
+            =
+            n
+          
+        
+        −
+        
+          ξ
+          
+            m
+            +
+            1
+          
+        
+        
+          η
+          
+            1
+          
+        
+        −
+        
+          ξ
+          
+            m
+            +
+            2
+          
+        
+        
+          η
+          
+            2
+          
+        
+        ⋯
+        −
+        
+          ξ
+          
+            2
+            m
+            =
+            n
+          
+        
+        
+          η
+          
+            m
+          
+        
+      
+    
+    {\displaystyle \varphi (x,y)=\xi _{1}\eta _{m+1}+\xi _{2}\eta _{m+2}\cdots +\xi _{m}\eta _{2m=n}-\xi _{m+1}\eta _{1}-\xi _{m+2}\eta _{2}\cdots -\xi _{2m=n}\eta _{m}}
+  ,amb n = 2m. Per Aut(φ) hom escriu Sp(φ) = Sp(V) En el cas V = Rn = R2m hom escriu Sp(m, R) o Sp(2m, R). A partir de la forma normal, hom pot trobar
+
+  
+    
+      
+        Φ
+        =
+        
+          (
+          
+            
+              
+                
+                  
+                    0
+                    
+                      m
+                    
+                  
+                
+                
+                  
+                    I
+                    
+                      m
+                    
+                  
+                
+              
+              
+                
+                  −
+                  
+                    I
+                    
+                      m
+                    
+                  
+                
+                
+                  
+                    0
+                    
+                      m
+                    
+                  
+                
+              
+            
+          
+          )
+        
+        =
+        
+          J
+          
+            m
+          
+        
+      
+    
+    {\displaystyle \Phi =\left({\begin{matrix}0_{m}&I_{m}\\-I_{m}&0_{m}\end{matrix}}\right)=J_{m}}
+  .Si escrivim
+
+  
+    
+      
+        V
+        =
+        
+          (
+          
+            
+              
+                
+                  X
+                
+                
+                  Y
+                
+              
+              
+                
+                  Z
+                
+                
+                  W
+                
+              
+            
+          
+          )
+        
+      
+    
+    {\displaystyle V=\left({\begin{matrix}X&Y\\Z&W\end{matrix}}\right)}
+  ,on X, Y, Z, W són matrius de dimensió m, i es considera (5),
+
+  
+    
+      
+        
+          (
+          
+            
+              
+                
+                  
+                    0
+                    
+                      m
+                    
+                  
+                
+                
+                  −
+                  
+                    I
+                    
+                      m
+                    
+                  
+                
+              
+              
+                
+                  
+                    I
+                    
+                      m
+                    
+                  
+                
+                
+                  
+                    0
+                    
+                      m
+                    
+                  
+                
+              
+            
+          
+          )
+        
+        
+          
+            (
+            
+              
+                
+                  
+                    X
+                  
+                  
+                    Y
+                  
+                
+                
+                  
+                    Z
+                  
+                  
+                    W
+                  
+                
+              
+            
+            )
+          
+          
+            
+              T
+            
+          
+        
+        
+          (
+          
+            
+              
+                
+                  
+                    0
+                    
+                      m
+                    
+                  
+                
+                
+                  
+                    I
+                    
+                      m
+                    
+                  
+                
+              
+              
+                
+                  −
+                  
+                    I
+                    
+                      m
+                    
+                  
+                
+                
+                  
+                    0
+                    
+                      m
+                    
+                  
+                
+              
+            
+          
+          )
+        
+        =
+        −
+        
+          (
+          
+            
+              
+                
+                  X
+                
+                
+                  Y
+                
+              
+              
+                
+                  Z
+                
+                
+                  W
+                
+              
+            
+          
+          )
+        
+      
+    
+    {\displaystyle \left({\begin{matrix}0_{m}&-I_{m}\\I_{m}&0_{m}\end{matrix}}\right)\left({\begin{matrix}X&Y\\Z&W\end{matrix}}\right)^{\mathrm {T} }\left({\begin{matrix}0_{m}&I_{m}\\-I_{m}&0_{m}\end{matrix}}\right)=-\left({\begin{matrix}X&Y\\Z&W\end{matrix}}\right)}
+  hom troba l'àlgebra de Lie de Sp(m, R),
+
+  
+    
+      
+        
+          
+            s
+            p
+          
+        
+        (
+        m
+        ,
+        
+          R
+        
+        )
+        =
+        {
+        X
+        ∈
+        
+          M
+          
+            n
+          
+        
+        (
+        
+          R
+        
+        )
+        :
+        
+          J
+          
+            m
+          
+        
+        X
+        +
+        
+          X
+          
+            
+              T
+            
+          
+        
+        
+          J
+          
+            m
+          
+        
+        =
+        0
+        }
+        =
+        
+          {
+          
+            
+              
+              
+                (
+                
+                  
+                    
+                      
+                        X
+                      
+                      
+                        Y
+                      
+                    
+                    
+                      
+                        Z
+                      
+                      
+                        −
+                        
+                          X
+                          
+                            
+                              T
+                            
+                          
+                        
+                      
+                    
+                  
+                
+                )
+              
+              |
+            
+            
+              Y
+              
+                
+                  T
+                
+              
+            
+            =
+            Y
+            ,
+            
+              Z
+              
+                
+                  T
+                
+              
+            
+            =
+            Z
+          
+          }
+        
+      
+    
+    {\displaystyle {\mathfrak {sp}}(m,\mathbb {R} )=\{X\in M_{n}(\mathbb {R} ):J_{m}X+X^{\mathrm {T} }J_{m}=0\}=\left\{\left.\left({\begin{matrix}X&Y\\Z&-X^{\mathrm {T} }\end{matrix}}\right)\right|Y^{\mathrm {T} }=Y,Z^{\mathrm {T} }=Z\right\}}
+  ,i el grup ve donat per
+
+  
+    
+      
+        
+          S
+          p
+        
+        (
+        m
+        ,
+        
+          R
+        
+        )
+        =
+        {
+        g
+        ∈
+        
+          M
+          
+            n
+          
+        
+        (
+        
+          R
+        
+        )
+        
+          |
+        
+        
+          g
+          
+            
+              T
+            
+          
+        
+        
+          J
+          
+            m
+          
+        
+        g
+        =
+        
+          J
+          
+            m
+          
+        
+        }
+      
+    
+    {\displaystyle \mathrm {Sp} (m,\mathbb {R} )=\{g\in M_{n}(\mathbb {R} )|g^{\mathrm {T} }J_{m}g=J_{m}\}}
+  .
+
+
+==== Cas complex ====
+Anàlogament al cas real, cal distingir dos subcasos: el cas simètric i el cas antisimètric; cadascun proporciona una família de grups clàssics.
+
+
+===== O(n, C) – el grup ortogonal complex =====
+Si φ és simètrica i l'espai vectorial és complex, hom pot seleccionar una base on
+
+  
+    
+      
+        φ
+        (
+        x
+        ,
+        y
+        )
+        =
+        
+          ξ
+          
+            1
+          
+        
+        
+          η
+          
+            1
+          
+        
+        +
+        
+          ξ
+          
+            2
+          
+        
+        
+          η
+          
+            2
+          
+        
+        ⋯
+        +
+        
+          ξ
+          
+            n
+          
+        
+        
+          η
+          
+            n
+          
+        
+      
+    
+    {\displaystyle \varphi (x,y)=\xi _{1}\eta _{1}+\xi _{2}\eta _{2}\cdots +\xi _{n}\eta _{n}}
+  i tots els signes són positius. En el cas V = Cn, hom diu que el grup d'automorfismes és O(n, C). L'àlgebra de Lie és un cas especial de 
+  
+    
+      
+        
+          
+            o
+          
+        
+        (
+        p
+        ,
+        q
+        )
+      
+    
+    {\displaystyle {\mathfrak {o}}(p,q)}
+  :
+
+  
+    
+      
+        
+          
+            o
+          
+        
+        (
+        n
+        ,
+        
+          C
+        
+        )
+        =
+        
+          
+            s
+            o
+          
+        
+        (
+        n
+        ,
+        
+          C
+        
+        )
+        =
+        {
+        X
+        
+          |
+        
+        
+          X
+          
+            
+              T
+            
+          
+        
+        =
+        −
+        X
+        }
+      
+    
+    {\displaystyle {\mathfrak {o}}(n,\mathbb {C} )={\mathfrak {so}}(n,\mathbb {C} )=\{X|X^{\mathrm {T} }=-X\}}
+  ,i el grup ve donat per
+
+  
+    
+      
+        
+          O
+        
+        (
+        n
+        ,
+        
+          C
+        
+        )
+        =
+        {
+        g
+        
+          |
+        
+        
+          g
+          
+            
+              T
+            
+          
+        
+        g
+        =
+        
+          I
+          
+            n
+          
+        
+        }
+      
+    
+    {\displaystyle \mathrm {O} (n,\mathbb {C} )=\{g|g^{\mathrm {T} }g=I_{n}\}}
+  .En termes de classificació d'àlgebres de Lie simples, cal considerar dos casos per 
+  
+    
+      
+        
+          
+            s
+            o
+          
+        
+        (
+        n
+        )
+      
+    
+    {\displaystyle {\mathfrak {so}}(n)}
+  : si n és senar, el sistema d'arrels és Bn; si n és parell, el sistema d'arrels és Dn.
+
+
+===== Sp(m, C) – el grup simplèctic complex =====
+Per a φ antisimètrica i un espai vectorial complex, és certa la mateixa fórmula
+
+  
+    
+      
+        φ
+        (
+        x
+        ,
+        y
+        )
+        =
+        
+          ξ
+          
+            1
+          
+        
+        
+          η
+          
+            m
+            +
+            1
+          
+        
+        +
+        
+          ξ
+          
+            2
+          
+        
+        
+          η
+          
+            m
+            +
+            2
+          
+        
+        ⋯
+        +
+        
+          ξ
+          
+            m
+          
+        
+        
+          η
+          
+            2
+            m
+            =
+            n
+          
+        
+        −
+        
+          ξ
+          
+            m
+            +
+            1
+          
+        
+        
+          η
+          
+            1
+          
+        
+        −
+        
+          ξ
+          
+            m
+            +
+            2
+          
+        
+        
+          η
+          
+            2
+          
+        
+        ⋯
+        −
+        
+          ξ
+          
+            2
+            m
+            =
+            n
+          
+        
+        
+          η
+          
+            m
+          
+        
+        ,
+      
+    
+    {\displaystyle \varphi (x,y)=\xi _{1}\eta _{m+1}+\xi _{2}\eta _{m+2}\cdots +\xi _{m}\eta _{2m=n}-\xi _{m+1}\eta _{1}-\xi _{m+2}\eta _{2}\cdots -\xi _{2m=n}\eta _{m},}
+  que pel cas real. Per a Aut(φ) hom escriu Sp(φ) = Sp(V). En el cas V = Cn = C2m hom escriu Sp(m, C) o Sp(2m, C). L'àlgebra de Lie és anàloga a la de 
+  
+    
+      
+        
+          
+            s
+            p
+          
+        
+        (
+        m
+        ,
+        
+          R
+        
+        )
+      
+    
+    {\displaystyle {\mathfrak {sp}}(m,\mathbb {R} )}
+  ,
+
+  
+    
+      
+        
+          
+            s
+            p
+          
+        
+        (
+        m
+        ,
+        
+          C
+        
+        )
+        =
+        {
+        X
+        ∈
+        
+          M
+          
+            n
+          
+        
+        (
+        
+          C
+        
+        )
+        :
+        
+          J
+          
+            m
+          
+        
+        X
+        +
+        
+          X
+          
+            
+              T
+            
+          
+        
+        
+          J
+          
+            m
+          
+        
+        =
+        0
+        }
+        =
+        
+          {
+          
+            
+              
+              
+                (
+                
+                  
+                    
+                      
+                        X
+                      
+                      
+                        Y
+                      
+                    
+                    
+                      
+                        Z
+                      
+                      
+                        −
+                        
+                          X
+                          
+                            
+                              T
+                            
+                          
+                        
+                      
+                    
+                  
+                
+                )
+              
+              |
+            
+            
+              Y
+              
+                
+                  T
+                
+              
+            
+            =
+            Y
+            ,
+            
+              Z
+              
+                
+                  T
+                
+              
+            
+            =
+            Z
+          
+          }
+        
+      
+    
+    {\displaystyle {\mathfrak {sp}}(m,\mathbb {C} )=\{X\in M_{n}(\mathbb {C} ):J_{m}X+X^{\mathrm {T} }J_{m}=0\}=\left\{\left.\left({\begin{matrix}X&Y\\Z&-X^{\mathrm {T} }\end{matrix}}\right)\right|Y^{\mathrm {T} }=Y,Z^{\mathrm {T} }=Z\right\}}
+  ,i el grup està donat per
+
+  
+    
+      
+        
+          S
+          p
+        
+        (
+        m
+        ,
+        
+          C
+        
+        )
+        =
+        {
+        g
+        ∈
+        
+          M
+          
+            n
+          
+        
+        (
+        
+          C
+        
+        )
+        
+          |
+        
+        
+          g
+          
+            
+              T
+            
+          
+        
+        
+          J
+          
+            m
+          
+        
+        g
+        =
+        
+          J
+          
+            m
+          
+        
+        }
+      
+    
+    {\displaystyle \mathrm {Sp} (m,\mathbb {C} )=\{g\in M_{n}(\mathbb {C} )|g^{\mathrm {T} }J_{m}g=J_{m}\}}
+  .
+
+
+=== Cas sesquilineal ===
+En el cas sesquilineal, hom estableix un punt d'estudi inicial lleugerament diferent en termes d'una base,
+
+  
+    
+      
+        φ
+        (
+        x
+        ,
+        y
+        )
+        =
+        ∑
+        
+          
+            
+              
+                ξ
+                ¯
+              
+            
+          
+          
+            i
+          
+        
+        
+          φ
+          
+            i
+            j
+          
+        
+        
+          η
+          
+            j
+          
+        
+      
+    
+    {\displaystyle \varphi (x,y)=\sum {\bar {\xi }}_{i}\varphi _{ij}\eta _{j}}
+  .Les altres expressions que queden modificades són
+
+  
+    
+      
+        φ
+        (
+        x
+        ,
+        y
+        )
+        =
+        
+          x
+          
+            ∗
+          
+        
+        Φ
+        y
+        ,
+        
+        
+          A
+          
+            φ
+          
+        
+        =
+        
+          Φ
+          
+            −
+            1
+          
+        
+        
+          A
+          
+            ∗
+          
+        
+        Φ
+      
+    
+    {\displaystyle \varphi (x,y)=x^{*}\Phi y,\qquad A^{\varphi }=\Phi ^{-1}A^{*}\Phi }
+  ,
+
+  
+    
+      
+        Aut
+        ⁡
+        (
+        φ
+        )
+        =
+        {
+        A
+        ∈
+        GL
+        ⁡
+        (
+        V
+        )
+        :
+        
+          Φ
+          
+            −
+            1
+          
+        
+        
+          A
+          
+            ∗
+          
+        
+        Φ
+        A
+        =
+        1
+        }
+      
+    
+    {\displaystyle \operatorname {Aut} (\varphi )=\{A\in \operatorname {GL} (V):\Phi ^{-1}A^{*}\Phi A=1\}}
+  ,
+El cas real, clarament, no proporciona res de nou. Els casos complex i quaterniònic es tracten a continuació.
+
+
+==== Cas complex ====
+Des d'un punt de vista qualitatiu, el fet de considerar formes antihermítiques (llevat d'isomorfisme) no proporciona grups addicionals; la multiplicació per i fa que una forma antihermítica esdevingui hermítica, i viceversa. Per tant, només cal considerar el cas hermític.
+
+
+===== U(p, q) i U(n) – els grups unitaris =====
+Una forma hermítica no degenerada admet la següent forma normal:
+
+  
+    
+      
+        φ
+        (
+        x
+        ,
+        y
+        )
+        =
+        ±
+        
+          
+            
+              
+                ξ
+                
+                  1
+                
+              
+              ¯
+            
+          
+        
+        
+          η
+          
+            1
+          
+        
+        ±
+        
+          
+            
+              
+                ξ
+                
+                  2
+                
+              
+              ¯
+            
+          
+        
+        
+          η
+          
+            2
+          
+        
+        ⋯
+        ±
+        
+          
+            
+              
+                ξ
+                
+                  n
+                
+              
+              ¯
+            
+          
+        
+        
+          η
+          
+            n
+          
+        
+      
+    
+    {\displaystyle \varphi (x,y)=\pm {\bar {\xi _{1}}}\eta _{1}\pm {\bar {\xi _{2}}}\eta _{2}\cdots \pm {\bar {\xi _{n}}}\eta _{n}}
+  .Com en el cas bilineal, la signatura (p, q) és independent de la base. El grup d'automorfismes es denota U(V), o, en el cas de V = Cn, U(p, q). Si q = 0 la notació esdevé U(n). En aquest cas, Φ pren la forma
+
+  
+    
+      
+        Φ
+        =
+        
+          (
+          
+            
+              
+                
+                  
+                    1
+                    
+                      p
+                    
+                  
+                
+                
+                  0
+                
+              
+              
+                
+                  0
+                
+                
+                  −
+                  
+                    1
+                    
+                      q
+                    
+                  
+                
+              
+            
+          
+          )
+        
+        =
+        
+          I
+          
+            p
+            ,
+            q
+          
+        
+      
+    
+    {\displaystyle \Phi =\left({\begin{matrix}1_{p}&0\\0&-1_{q}\end{matrix}}\right)=I_{p,q}}
+  ,i l'àlgebra de Lie ve donada per
+
+  
+    
+      
+        
+          
+            u
+          
+        
+        (
+        p
+        ,
+        q
+        )
+        =
+        
+          {
+          
+            
+              
+              
+                (
+                
+                  
+                    
+                      
+                        
+                          X
+                          
+                            p
+                            ×
+                            p
+                          
+                        
+                      
+                      
+                        
+                          Z
+                          
+                            p
+                            ×
+                            q
+                          
+                        
+                      
+                    
+                    
+                      
+                        
+                          
+                            
+                              Z
+                              ¯
+                            
+                          
+                          
+                            
+                              T
+                            
+                          
+                        
+                      
+                      
+                        
+                          Y
+                          
+                            q
+                            ×
+                            q
+                          
+                        
+                      
+                    
+                  
+                
+                )
+              
+              |
+            
+            
+              
+                
+                  X
+                  ¯
+                
+              
+              
+                
+                  T
+                
+              
+            
+            =
+            −
+            X
+            ,
+            
+            
+              
+                
+                  Y
+                  ¯
+                
+              
+              
+                
+                  T
+                
+              
+            
+            =
+            −
+            Y
+          
+          }
+        
+      
+    
+    {\displaystyle {\mathfrak {u}}(p,q)=\left\{\left.\left({\begin{matrix}X_{p\times p}&Z_{p\times q}\\{\overline {Z}}^{\mathrm {T} }&Y_{q\times q}\end{matrix}}\right)\right|{\overline {X}}^{\mathrm {T} }=-X,\quad {\overline {Y}}^{\mathrm {T} }=-Y\right\}}
+  .El grup està definit com
+
+  
+    
+      
+        
+          U
+        
+        (
+        p
+        ,
+        q
+        )
+        =
+        {
+        g
+        
+          |
+        
+        
+          I
+          
+            p
+            ,
+            q
+          
+          
+            −
+            1
+          
+        
+        
+          g
+          
+            ∗
+          
+        
+        
+          I
+          
+            p
+            ,
+            q
+          
+        
+        g
+        =
+        I
+        }
+      
+    
+    {\displaystyle \mathrm {U} (p,q)=\{g|I_{p,q}^{-1}g^{*}I_{p,q}g=I\}}
+  .
+
+
+==== Cas quaterniònic ====
+L'espai Hn es considera com a espai vectorial per la dreta sobre H. D'aquesta manera, A(vh) = (Av)h per a un quaternió h, un vector columna de quaternions v i una matriu de quaternions A. Si Hn fos un espai vectorial per l'esquerra H, llavors seria un requisit que la multiplicació de matrius per la dreta sobre vectors fila conservés la linealitat. Notem que això no correspon a l'operació lineal habitual d'un grup sobre un espai vectorial donada una base, que és la multiplicació per l'esquerra sobre vectors columna. Així, V és un espai vectorial per la dreta sobre H. Tot i això, cal tenir cura amb les operacions que s'hi realitzen, a causa de la naturalesa no commutativa de H.
+Quan hom treballa amb grups quaterniònics, és convenient representar els quaternions mitjançant matrius complexes 2×2:
+
+Si q és un quaternió, 
+  
+    
+      
+        q
+        ∈
+        
+          H
+        
+      
+    
+    {\displaystyle q\in \mathbb {H} }
+  , es pot escriure de la forma 
+  
+    
+      
+        q
+        =
+        a
+        1
+        +
+        b
+        
+          i
+        
+        +
+        c
+        
+          j
+        
+        +
+        d
+        
+          k
+        
+      
+    
+    {\displaystyle q=a1+b\mathrm {i} +c\mathrm {j} +d\mathrm {k} }
+   amb 
+  
+    
+      
+        a
+        ,
+        b
+        ,
+        c
+        ,
+        d
+        ∈
+        
+          R
+        
+      
+    
+    {\displaystyle a,b,c,d\in \mathbb {R} }
+  ; hom pot prendre 
+  
+    
+      
+        α
+        ,
+        β
+        ∈
+        
+          C
+        
+      
+    
+    {\displaystyle \alpha ,\beta \in \mathbb {C} }
+   tals que 
+  
+    
+      
+        q
+        =
+        α
+        +
+        j
+        β
+      
+    
+    {\displaystyle q=\alpha +j\beta }
+  . Llavors hom pot representar q mitjançant una matriu 
+  
+    
+      
+        
+          
+            (
+            
+              
+                
+                  α
+                
+                
+                  −
+                  
+                    
+                      β
+                      ¯
+                    
+                  
+                
+              
+              
+                
+                  β
+                
+                
+                  
+                    
+                      α
+                      ¯
+                    
+                  
+                
+              
+            
+            )
+          
+        
+        =
+        Q
+      
+    
+    {\displaystyle {\begin{pmatrix}\alpha &-{\overline {\beta }}\\\beta &{\overline {\alpha }}\end{pmatrix}}=Q}
+  .Amb aquesta representació, la multiplicació de quaternions esdevé una multiplicació de matrius, i la conjugació de quaternions esdevé prendre el conjugat hermític. Addicionalment, si un quaternió expressat en forma complexa q = x + jy (x, y ∈ C) ve donat com un vector columna (x, y)T, llavors la multiplicació per l'esquerra per la representació matricial d'un quaternió produeix un nou vector columna que representa el quaternió de forma adequada. Aquesta representació difereix lleugerament de la representació més comuna que es pot veure a l'article Quaternió. La convenció habitual forçaria a què la multiplicació fos per la dreta sobre un vector fila.
+Com a corol·lari, la representació anterior posa de manifest que el grup de quaternions unitaris (αα + ββ = 1 = det Q) és isomorf a SU(2).
+Les matrius quaterniòniques n×n es poden representar, amb una extensió simple, mitjançant matrius per blocs complexes 2n×2n de nombres complexos. Si hom segueix la convenció de representar un vector columna quaterniònic n×1 mitjançant un vector columna complex 2n×1, segons la codificació anterior, on els n nombres superiors són els αi i els n inferiors els βi, llavors una matriu quaterniònica n×n esdevé una matriu complexa 2n×2n exactament de la forma assenyalada anteriorment, però on ara α i β són matrius n×n. Formalment,
+
+Una matriu T ∈ GL(2n, C) té la forma de (7) si i només si JnT = TJn. Amb aquestes identificacions,
+
+  
+    
+      
+        
+          
+            H
+          
+          
+            n
+          
+        
+        ≈
+        
+          
+            C
+          
+          
+            2
+            n
+          
+        
+        ,
+        
+          M
+          
+            n
+          
+        
+        (
+        
+          H
+        
+        )
+        ≈
+        
+          {
+          
+            
+              
+              
+                T
+                ∈
+                
+                  M
+                  
+                    2
+                    n
+                  
+                
+                (
+                
+                  C
+                
+                )
+              
+              |
+            
+            
+              J
+              
+                n
+              
+            
+            T
+            =
+            
+              
+                T
+                ¯
+              
+            
+            
+              J
+              
+                n
+              
+            
+            ,
+            
+            
+              J
+              
+                n
+              
+            
+            =
+            
+              (
+              
+                
+                  
+                    
+                      0
+                    
+                    
+                      
+                        I
+                        
+                          n
+                        
+                      
+                    
+                  
+                  
+                    
+                      −
+                      
+                        I
+                        
+                          n
+                        
+                      
+                    
+                    
+                      0
+                    
+                  
+                
+              
+              )
+            
+          
+          }
+        
+      
+    
+    {\displaystyle \mathbb {H} ^{n}\approx \mathbb {C} ^{2n},M_{n}(\mathbb {H} )\approx \left\{\left.T\in M_{2n}(\mathbb {C} )\right|J_{n}T={\overline {T}}J_{n},\quad J_{n}=\left({\begin{matrix}0&I_{n}\\-I_{n}&0\end{matrix}}\right)\right\}}
+  .L'espai Mn(H) ⊂ M2n(C) és una àlgebra real, però no és un subespai complex de M2n(C). La multiplicació (per l'esquerra) per i a Mn(H) utilitzant la multiplicació de quaternions entrada a entrada, seguida de l'aplicació a la imatge de M2n(C), proporciona un resultat diferent que multiplicar entrada a entrada per i directament a M2n(C). Les regles de la multiplicació de quaternions donen i(X + jY) = (iX) + j(-iY) on les noves X i Y són dins els parèntesis.
+L'acció de les matrius quaterniòniques sobre els vectors quaterniònics està ara representada per quantitats complexes, però a part d'això és el mateix que el cas de matrius i vectors "ordinaris". Així, els grups quaterniònics estan immersos dins M2n(C), on n és la dimensió de les matrius quaterniòniques.
+El determinant d'una matriu quaterniònica en aquesta representació es defineix com el determinant complex ordinari de la matriu complexa que la representa. La naturalesa no commutativa de la multiplicació de quaternions podria fer pensar, a priori, que el determinant no està ben definit. El mecanisme d'immersió de Mn(H) dins M2n(C) no és únic, però totes aquestes immersions estan relacionades per g ↦ AgA−1, g ∈ GL(2n, C) on A ∈ O(2n, C), la qual cosa deixa el determinant invariant. El nom de SL(n, H) amb aquesta representació complexa és SU∗(2n).
+Al contrari que el cas de C, tant el cas hermític com l'antihermític proporcionen grups nous per a H, amb la qual cosa cal considerar aquests casos per separat.
+
+
+===== GL(n, H) i SL(n, H) =====
+Amb la identificació anterior,
+
+  
+    
+      
+        
+          G
+          L
+        
+        (
+        n
+        ,
+        
+          H
+        
+        )
+        =
+        {
+        g
+        ∈
+        
+          G
+          L
+        
+        (
+        2
+        n
+        ,
+        
+          C
+        
+        )
+        
+          |
+        
+        J
+        g
+        =
+        
+          
+            g
+            ¯
+          
+        
+        J
+        ,
+        
+        
+          d
+          e
+          t
+        
+         
+        g
+        ≠
+        0
+        }
+        ≡
+        
+          
+            U
+          
+          
+            ∗
+          
+        
+        (
+        2
+        n
+        )
+      
+    
+    {\displaystyle \mathrm {GL} (n,\mathbb {H} )=\{g\in \mathrm {GL} (2n,\mathbb {C} )|Jg={\overline {g}}J,\quad \mathrm {det} \ g\neq 0\}\equiv \mathrm {U} ^{*}(2n)}
+  .La seva àlgebra de Lie 
+  
+    
+      
+        
+          
+            g
+            l
+          
+        
+        (
+        n
+        ,
+        
+          H
+        
+        )
+      
+    
+    {\displaystyle {\mathfrak {gl}}(n,\mathbb {H} )}
+   és el conjunt de totes les matrius de la imatge de l'aplicació Mn(H) ↔ M2n(C) d'abans,
+
+  
+    
+      
+        
+          
+            g
+            l
+          
+        
+        (
+        n
+        ,
+        
+          H
+        
+        )
+        =
+        
+          {
+          
+            
+              
+              
+                (
+                
+                  
+                    
+                      
+                        X
+                      
+                      
+                        −
+                        
+                          
+                            Y
+                            ¯
+                          
+                        
+                      
+                    
+                    
+                      
+                        Y
+                      
+                      
+                        
+                          
+                            X
+                            ¯
+                          
+                        
+                      
+                    
+                  
+                
+                )
+              
+              |
+            
+            X
+            ,
+            Y
+            ∈
+            
+              
+                g
+                l
+              
+            
+            (
+            n
+            ,
+            
+              C
+            
+            )
+          
+          }
+        
+        ≡
+        
+          
+            
+              u
+            
+          
+          
+            ∗
+          
+        
+        (
+        2
+        n
+        )
+      
+    
+    {\displaystyle {\mathfrak {gl}}(n,\mathbb {H} )=\left\{\left.\left({\begin{matrix}X&-{\overline {Y}}\\Y&{\overline {X}}\end{matrix}}\right)\right|X,Y\in {\mathfrak {gl}}(n,\mathbb {C} )\right\}\equiv {\mathfrak {u}}^{*}(2n)}
+  .El grup lineal especial quaterniònic ve donat per
+
+  
+    
+      
+        
+          S
+          L
+        
+        (
+        n
+        ,
+        
+          H
+        
+        )
+        =
+        {
+        g
+        ∈
+        
+          G
+          L
+        
+        (
+        n
+        ,
+        
+          H
+        
+        )
+        
+          |
+        
+        
+          d
+          e
+          t
+        
+         
+        g
+        =
+        1
+        }
+        ≡
+        
+          
+            S
+            U
+          
+          
+            ∗
+          
+        
+        (
+        2
+        n
+        )
+      
+    
+    {\displaystyle \mathrm {SL} (n,\mathbb {H} )=\{g\in \mathrm {GL} (n,\mathbb {H} )|\mathrm {det} \ g=1\}\equiv \mathrm {SU} ^{*}(2n)}
+  ,on el determinant es pren sobre les matrius de C2n. L'àlgebra de Lie és
+
+  
+    
+      
+        
+          
+            s
+            l
+          
+        
+        (
+        n
+        ,
+        
+          H
+        
+        )
+        =
+        
+          {
+          
+            
+              
+              
+                (
+                
+                  
+                    
+                      
+                        X
+                      
+                      
+                        −
+                        
+                          
+                            Y
+                            ¯
+                          
+                        
+                      
+                    
+                    
+                      
+                        Y
+                      
+                      
+                        
+                          
+                            X
+                            ¯
+                          
+                        
+                      
+                    
+                  
+                
+                )
+              
+              |
+            
+            Tr
+            ⁡
+            X
+            =
+            0
+          
+          }
+        
+        ≡
+        
+          
+            
+              s
+              u
+            
+          
+          
+            ∗
+          
+        
+        (
+        2
+        n
+        )
+      
+    
+    {\displaystyle {\mathfrak {sl}}(n,\mathbb {H} )=\left\{\left.\left({\begin{matrix}X&-{\overline {Y}}\\Y&{\overline {X}}\end{matrix}}\right)\right|\operatorname {Tr} X=0\right\}\equiv {\mathfrak {su}}^{*}(2n)}
+  .
+
+
+===== Sp(p, q) – el grup unitari quaterniònic =====
+Com en el cas complex, la forma normal és
+
+  
+    
+      
+        φ
+        (
+        x
+        ,
+        y
+        )
+        =
+        ±
+        
+          
+            
+              
+                ξ
+                
+                  1
+                
+              
+              ¯
+            
+          
+        
+        
+          η
+          
+            1
+          
+        
+        ±
+        
+          
+            
+              
+                ξ
+                
+                  2
+                
+              
+              ¯
+            
+          
+        
+        
+          η
+          
+            2
+          
+        
+        ⋯
+        ±
+        
+          
+            
+              
+                ξ
+                
+                  n
+                
+              
+              ¯
+            
+          
+        
+        
+          η
+          
+            n
+          
+        
+      
+    
+    {\displaystyle \varphi (x,y)=\pm {\bar {\xi _{1}}}\eta _{1}\pm {\bar {\xi _{2}}}\eta _{2}\cdots \pm {\bar {\xi _{n}}}\eta _{n}}
+  i el nombre de signes positius és independent de la base. Quan V = Hn amb aquesta forma, Sp(φ) = Sp(p, q). La raó per a aquesta notació és que el grup es pot representar com a un subgrup de Sp(n, C) que preserva la forma complexa-hermítica de signatura (2p, 2q). Si p = 0 o q = 0, el grup es denota per U(n, H). De vegades se l'anomena el grup hiperunitari.
+En notació de quaternions, podem escriure
+
+  
+    
+      
+        Φ
+        =
+        
+          (
+          
+            
+              
+                
+                  
+                    I
+                    
+                      p
+                    
+                  
+                
+                
+                  0
+                
+              
+              
+                
+                  0
+                
+                
+                  −
+                  
+                    I
+                    
+                      q
+                    
+                  
+                
+              
+            
+          
+          )
+        
+        =
+        
+          I
+          
+            p
+            ,
+            q
+          
+        
+      
+    
+    {\displaystyle \Phi =\left({\begin{matrix}I_{p}&0\\0&-I_{q}\end{matrix}}\right)=I_{p,q}}
+  en el sentit que les matrius quaterniòniques de la forma
+
+satisfan
+
+  
+    
+      
+        
+          Φ
+          
+            −
+            1
+          
+        
+        
+          
+            
+              Q
+            
+          
+          
+            ∗
+          
+        
+        Φ
+        =
+        −
+        
+          
+            Q
+          
+        
+      
+    
+    {\displaystyle \Phi ^{-1}{\mathcal {Q}}^{*}\Phi =-{\mathcal {Q}}}
+  ,vegeu la secció sobre 
+  
+    
+      
+        
+          
+            u
+          
+        
+        (
+        p
+        ,
+        q
+        )
+      
+    
+    {\displaystyle {\mathfrak {u}}(p,q)}
+  . Cal manipular amb compte les operacions de multiplicació sobre matrius quaterniòniques, però aquí només intervenen I i -I, que commuten amb qualsevol matriu de quaternions. Apliquem ara la condició (7) a cada bloc,
+
+  
+    
+      
+        
+          
+            X
+          
+        
+        =
+        
+          (
+          
+            
+              
+                
+                  
+                    X
+                    
+                      1
+                      (
+                      p
+                      ×
+                      p
+                      )
+                    
+                  
+                
+                
+                  −
+                  
+                    
+                      
+                        X
+                        ¯
+                      
+                    
+                    
+                      2
+                    
+                  
+                
+              
+              
+                
+                  
+                    X
+                    
+                      2
+                    
+                  
+                
+                
+                  
+                    
+                      
+                        X
+                        ¯
+                      
+                    
+                    
+                      1
+                    
+                  
+                
+              
+            
+          
+          )
+        
+        ,
+        
+          
+            Y
+          
+        
+        =
+        
+          (
+          
+            
+              
+                
+                  
+                    Y
+                    
+                      1
+                      (
+                      q
+                      ×
+                      q
+                      )
+                    
+                  
+                
+                
+                  −
+                  
+                    
+                      
+                        Y
+                        ¯
+                      
+                    
+                    
+                      2
+                    
+                  
+                
+              
+              
+                
+                  
+                    Y
+                    
+                      2
+                    
+                  
+                
+                
+                  
+                    
+                      
+                        Y
+                        ¯
+                      
+                    
+                    
+                      1
+                    
+                  
+                
+              
+            
+          
+          )
+        
+        ,
+        
+          
+            Z
+          
+        
+        =
+        
+          (
+          
+            
+              
+                
+                  
+                    Z
+                    
+                      1
+                      (
+                      p
+                      ×
+                      q
+                      )
+                    
+                  
+                
+                
+                  −
+                  
+                    
+                      
+                        Z
+                        ¯
+                      
+                    
+                    
+                      2
+                    
+                  
+                
+              
+              
+                
+                  
+                    Z
+                    
+                      2
+                    
+                  
+                
+                
+                  
+                    
+                      
+                        Z
+                        ¯
+                      
+                    
+                    
+                      1
+                    
+                  
+                
+              
+            
+          
+          )
+        
+      
+    
+    {\displaystyle {\mathcal {X}}=\left({\begin{matrix}X_{1(p\times p)}&-{\overline {X}}_{2}\\X_{2}&{\overline {X}}_{1}\end{matrix}}\right),{\mathcal {Y}}=\left({\begin{matrix}Y_{1(q\times q)}&-{\overline {Y}}_{2}\\Y_{2}&{\overline {Y}}_{1}\end{matrix}}\right),{\mathcal {Z}}=\left({\begin{matrix}Z_{1(p\times q)}&-{\overline {Z}}_{2}\\Z_{2}&{\overline {Z}}_{1}\end{matrix}}\right)}
+  ,i les relacions de (8) se satisfan si
+
+  
+    
+      
+        
+          X
+          
+            1
+          
+          
+            ∗
+          
+        
+        =
+        −
+        X
+        ,
+        
+          Y
+          
+            1
+          
+          
+            ∗
+          
+        
+        =
+        −
+        Y
+      
+    
+    {\displaystyle X_{1}^{*}=-X,Y_{1}^{*}=-Y}
+  .L'àlgebra de Lie esdevé
+
+  
+    
+      
+        
+          
+            s
+            p
+          
+        
+        (
+        p
+        ,
+        q
+        )
+        =
+        
+          {
+          
+            
+              (
+              
+                
+                
+                  
+                    
+                      
+                        
+                          
+                            [
+                            
+                              
+                                
+                                  
+                                    X
+                                    
+                                      1
+                                      (
+                                      p
+                                      ×
+                                      p
+                                      )
+                                    
+                                  
+                                
+                                
+                                  −
+                                  
+                                    
+                                      
+                                        X
+                                        ¯
+                                      
+                                    
+                                    
+                                      2
+                                    
+                                  
+                                
+                              
+                              
+                                
+                                  
+                                    X
+                                    
+                                      2
+                                    
+                                  
+                                
+                                
+                                  
+                                    
+                                      
+                                        X
+                                        ¯
+                                      
+                                    
+                                    
+                                      1
+                                    
+                                  
+                                
+                              
+                            
+                            ]
+                          
+                        
+                      
+                      
+                        
+                          
+                            [
+                            
+                              
+                                
+                                  
+                                    Z
+                                    
+                                      1
+                                      (
+                                      p
+                                      ×
+                                      q
+                                      )
+                                    
+                                  
+                                
+                                
+                                  −
+                                  
+                                    
+                                      
+                                        Z
+                                        ¯
+                                      
+                                    
+                                    
+                                      2
+                                    
+                                  
+                                
+                              
+                              
+                                
+                                  
+                                    Z
+                                    
+                                      2
+                                    
+                                  
+                                
+                                
+                                  
+                                    
+                                      
+                                        Z
+                                        ¯
+                                      
+                                    
+                                    
+                                      1
+                                    
+                                  
+                                
+                              
+                            
+                            ]
+                          
+                        
+                      
+                    
+                    
+                      
+                        
+                          
+                            
+                              [
+                              
+                                
+                                  
+                                    
+                                      Z
+                                      
+                                        1
+                                        (
+                                        p
+                                        ×
+                                        q
+                                        )
+                                      
+                                    
+                                  
+                                  
+                                    −
+                                    
+                                      
+                                        
+                                          Z
+                                          ¯
+                                        
+                                      
+                                      
+                                        2
+                                      
+                                    
+                                  
+                                
+                                
+                                  
+                                    
+                                      Z
+                                      
+                                        2
+                                      
+                                    
+                                  
+                                  
+                                    
+                                      
+                                        
+                                          Z
+                                          ¯
+                                        
+                                      
+                                      
+                                        1
+                                      
+                                    
+                                  
+                                
+                              
+                              ]
+                            
+                          
+                          
+                            ∗
+                          
+                        
+                      
+                      
+                        
+                          
+                            [
+                            
+                              
+                                
+                                  
+                                    Y
+                                    
+                                      1
+                                      (
+                                      q
+                                      ×
+                                      q
+                                      )
+                                    
+                                  
+                                
+                                
+                                  −
+                                  
+                                    
+                                      
+                                        Y
+                                        ¯
+                                      
+                                    
+                                    
+                                      2
+                                    
+                                  
+                                
+                              
+                              
+                                
+                                  
+                                    Y
+                                    
+                                      2
+                                    
+                                  
+                                
+                                
+                                  
+                                    
+                                      
+                                        Y
+                                        ¯
+                                      
+                                    
+                                    
+                                      1
+                                    
+                                  
+                                
+                              
+                            
+                            ]
+                          
+                        
+                      
+                    
+                  
+                
+                )
+              
+              |
+            
+            
+              X
+              
+                1
+              
+              
+                ∗
+              
+            
+            =
+            −
+            X
+            ,
+            
+              Y
+              
+                1
+              
+              
+                ∗
+              
+            
+            =
+            −
+            Y
+          
+          }
+        
+      
+    
+    {\displaystyle {\mathfrak {sp}}(p,q)=\left\{\left(\left.{\begin{matrix}{\begin{bmatrix}X_{1(p\times p)}&-{\overline {X}}_{2}\\X_{2}&{\overline {X}}_{1}\end{bmatrix}}&{\begin{bmatrix}Z_{1(p\times q)}&-{\overline {Z}}_{2}\\Z_{2}&{\overline {Z}}_{1}\end{bmatrix}}\\{\begin{bmatrix}Z_{1(p\times q)}&-{\overline {Z}}_{2}\\Z_{2}&{\overline {Z}}_{1}\end{bmatrix}}^{*}&{\begin{bmatrix}Y_{1(q\times q)}&-{\overline {Y}}_{2}\\Y_{2}&{\overline {Y}}_{1}\end{bmatrix}}\end{matrix}}\right)\right|X_{1}^{*}=-X,Y_{1}^{*}=-Y\right\}}
+  .El grup ve donat per
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  S
+                  p
+                
+                (
+                p
+                ,
+                q
+                )
+              
+              
+                
+                =
+                {
+                g
+                ∈
+                
+                  G
+                  L
+                
+                (
+                n
+                ,
+                
+                  H
+                
+                )
+                
+                  |
+                
+                
+                  I
+                  
+                    p
+                    ,
+                    q
+                  
+                  
+                    −
+                    1
+                  
+                
+                
+                  g
+                  
+                    ∗
+                  
+                
+                
+                  I
+                  
+                    p
+                    ,
+                    q
+                  
+                
+                g
+                =
+                
+                  I
+                  
+                    p
+                    +
+                    q
+                  
+                
+                }
+                =
+              
+            
+            
+              
+              
+                
+                =
+                {
+                g
+                ∈
+                
+                  G
+                  L
+                
+                (
+                2
+                n
+                ,
+                
+                  C
+                
+                )
+                
+                  |
+                
+                
+                  K
+                  
+                    p
+                    ,
+                    q
+                  
+                  
+                    −
+                    1
+                  
+                
+                
+                  g
+                  
+                    ∗
+                  
+                
+                
+                  K
+                  
+                    p
+                    ,
+                    q
+                  
+                
+                g
+                =
+                
+                  I
+                  
+                    2
+                    (
+                    p
+                    +
+                    q
+                    )
+                  
+                
+                ,
+                
+                K
+                =
+                
+                  d
+                  i
+                  a
+                  g
+                
+                (
+                
+                  I
+                  
+                    p
+                    ,
+                    q
+                  
+                
+                ,
+                
+                  I
+                  
+                    p
+                    ,
+                    q
+                  
+                
+                )
+                }
+                .
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}\mathrm {Sp} (p,q)&=\{g\in \mathrm {GL} (n,\mathbb {H} )|I_{p,q}^{-1}g^{*}I_{p,q}g=I_{p+q}\}=\\&=\{g\in \mathrm {GL} (2n,\mathbb {C} )|K_{p,q}^{-1}g^{*}K_{p,q}g=I_{2(p+q)},\quad K=\mathrm {diag} (I_{p,q},I_{p,q})\}.\end{aligned}}}
+  Tornant a la forma normal de φ(w, z) per Sp(p, q), substituïm w → u + jv i z → x + jy amb u, v, x, y ∈ Cn. Llavors
+
+  
+    
+      
+        φ
+        (
+        w
+        ,
+        z
+        )
+        =
+        
+          
+            [
+            
+              
+                
+                  
+                    u
+                    
+                      ∗
+                    
+                  
+                
+                
+                  
+                    v
+                    
+                      ∗
+                    
+                  
+                
+              
+            
+            ]
+          
+        
+        
+          K
+          
+            p
+            ,
+            q
+          
+        
+        
+          
+            [
+            
+              
+                
+                  x
+                
+              
+              
+                
+                  y
+                
+              
+            
+            ]
+          
+        
+        +
+        j
+        
+          
+            [
+            
+              
+                
+                  u
+                
+                
+                  −
+                  v
+                
+              
+            
+            ]
+          
+        
+        
+          K
+          
+            p
+            ,
+            q
+          
+        
+        
+          
+            [
+            
+              
+                
+                  y
+                
+              
+              
+                
+                  x
+                
+              
+            
+            ]
+          
+        
+        =
+        
+          φ
+          
+            1
+          
+        
+        (
+        w
+        ,
+        z
+        )
+        +
+        
+          j
+        
+        
+          φ
+          
+            2
+          
+        
+        (
+        w
+        ,
+        z
+        )
+        ,
+        
+        
+          K
+          
+            p
+            ,
+            q
+          
+        
+        =
+        
+          d
+          i
+          a
+          g
+        
+        (
+        
+          I
+          
+            p
+            ,
+            q
+          
+        
+        ,
+        
+          I
+          
+            p
+            ,
+            q
+          
+        
+        )
+      
+    
+    {\displaystyle \varphi (w,z)={\begin{bmatrix}u^{*}&v^{*}\end{bmatrix}}K_{p,q}{\begin{bmatrix}x\\y\end{bmatrix}}+j{\begin{bmatrix}u&-v\end{bmatrix}}K_{p,q}{\begin{bmatrix}y\\x\end{bmatrix}}=\varphi _{1}(w,z)+\mathbf {j} \varphi _{2}(w,z),\qquad K_{p,q}=\mathrm {diag} (I_{p,q},I_{p,q})}
+  vista com una forma H-valuada sobre C2n. Així, els elements de Sp(p, q), vistos com a transformacions lineals de C2n, preserven tant una forma hermítica amb signatura (2p, 2q) com una forma antisimètrica no degenerada. Totes dues formes prenen valors purament complexos i, a causa del prefactor j de la segona forma, es conserven per separat. Això significa que
+
+  
+    
+      
+        
+          S
+          p
+        
+        (
+        p
+        ,
+        q
+        )
+        =
+        
+          U
+        
+        (
+        
+          
+            C
+          
+          
+            2
+            n
+          
+        
+        ,
+        
+          φ
+          
+            1
+          
+        
+        )
+        ∩
+        
+          S
+          p
+        
+        (
+        
+          
+            C
+          
+          
+            2
+            n
+          
+        
+        ,
+        
+          φ
+          
+            2
+          
+        
+        )
+      
+    
+    {\displaystyle \mathrm {Sp} (p,q)=\mathrm {U} (\mathbb {C} ^{2n},\varphi _{1})\cap \mathrm {Sp} (\mathbb {C} ^{2n},\varphi _{2})}
+  la qual cosa explica tant el nom del grup com la notació.
+
+
+===== O∗(2n)= O(n, H)- grup ortogonal quaterniònic =====
+La forma normal per a una forma antihermítica ve donada per
+
+  
+    
+      
+        φ
+        (
+        x
+        ,
+        y
+        )
+        =
+        
+          
+            
+              
+                ξ
+                
+                  1
+                
+              
+              ¯
+            
+          
+        
+        
+          j
+        
+        
+          η
+          
+            1
+          
+        
+        +
+        
+          
+            
+              
+                ξ
+                
+                  2
+                
+              
+              ¯
+            
+          
+        
+        
+          j
+        
+        
+          η
+          
+            2
+          
+        
+        ⋯
+        +
+        
+          
+            
+              
+                ξ
+                
+                  n
+                
+              
+              ¯
+            
+          
+        
+        
+          j
+        
+        
+          η
+          
+            n
+          
+        
+      
+    
+    {\displaystyle \varphi (x,y)={\bar {\xi _{1}}}\mathbf {j} \eta _{1}+{\bar {\xi _{2}}}\mathbf {j} \eta _{2}\cdots +{\bar {\xi _{n}}}\mathbf {j} \eta _{n}}
+  ,on j és el tercer quaternió base de la llista ordenada (1, i, j, k). En aquest cas, Aut(φ) = O∗(2n) es pot interpretar, utilitzant la codificació de matrius complexes anterior, com a un subgrup de O(2n, C) que preserva una forma antihermítica complexa no degenerada de signatura (n, n). A partir de la forma normal, hom pot veure que, en notació quaterniònica,
+
+  
+    
+      
+        Φ
+        =
+        
+          (
+          
+            
+              
+                
+                  
+                    
+                      j
+                    
+                  
+                  
+                    0
+                  
+                  
+                    ⋯
+                  
+                  
+                    0
+                  
+                
+                
+                  
+                    0
+                  
+                  
+                    
+                      j
+                    
+                  
+                  
+                    ⋯
+                  
+                  
+                    ⋮
+                  
+                
+                
+                  
+                    ⋮
+                  
+                  
+                  
+                    ⋱
+                  
+                  
+                  
+                
+                
+                  
+                    0
+                  
+                  
+                    ⋯
+                  
+                  
+                    0
+                  
+                  
+                    
+                      j
+                    
+                  
+                
+              
+            
+          
+          )
+        
+        ≡
+        
+          
+            j
+          
+          
+            n
+          
+        
+      
+    
+    {\displaystyle \Phi =\left({\begin{smallmatrix}\mathbf {j} &0&\cdots &0\\0&\mathbf {j} &\cdots &\vdots \\\vdots &&\ddots &&\\0&\cdots &0&\mathbf {j} \end{smallmatrix}}\right)\equiv \mathrm {j} _{n}}
+  i de (6) se segueix que
+
+per 
+  
+    
+      
+        V
+        ∈
+        
+          
+            o
+          
+        
+        (
+        2
+        n
+        )
+      
+    
+    {\displaystyle V\in {\mathfrak {o}}(2n)}
+  . Ara escrivim
+
+  
+    
+      
+        V
+        =
+        X
+        +
+        
+          j
+        
+        Y
+        ↔
+        
+          (
+          
+            
+              
+                
+                  X
+                
+                
+                  −
+                  
+                    
+                      Y
+                      ¯
+                    
+                  
+                
+              
+              
+                
+                  Y
+                
+                
+                  
+                    
+                      X
+                      ¯
+                    
+                  
+                
+              
+            
+          
+          )
+        
+      
+    
+    {\displaystyle V=X+\mathbf {j} Y\leftrightarrow \left({\begin{matrix}X&-{\overline {Y}}\\Y&{\overline {X}}\end{matrix}}\right)}
+  d'acord amb la condició (8). Hom obté la mateixa expressió per a Φ,
+
+  
+    
+      
+        Φ
+        ↔
+        
+          (
+          
+            
+              
+                
+                  0
+                
+                
+                  −
+                  
+                    I
+                    
+                      n
+                    
+                  
+                
+              
+              
+                
+                  
+                    I
+                    
+                      n
+                    
+                  
+                
+                
+                  0
+                
+              
+            
+          
+          )
+        
+        ≡
+        
+          J
+          
+            n
+          
+        
+      
+    
+    {\displaystyle \Phi \leftrightarrow \left({\begin{matrix}0&-I_{n}\\I_{n}&0\end{matrix}}\right)\equiv J_{n}}
+  .Ara, la darrera condició de (8), expressada en notació complexa, es llegeix com
+
+  
+    
+      
+        
+          
+            (
+            
+              
+                
+                  
+                    X
+                  
+                  
+                    −
+                    
+                      
+                        Y
+                        ¯
+                      
+                    
+                  
+                
+                
+                  
+                    Y
+                  
+                  
+                    
+                      
+                        X
+                        ¯
+                      
+                    
+                  
+                
+              
+            
+            )
+          
+          
+            ∗
+          
+        
+        =
+        
+          (
+          
+            
+              
+                
+                  0
+                
+                
+                  −
+                  
+                    I
+                    
+                      n
+                    
+                  
+                
+              
+              
+                
+                  
+                    I
+                    
+                      n
+                    
+                  
+                
+                
+                  0
+                
+              
+            
+          
+          )
+        
+        
+          (
+          
+            
+              
+                
+                  X
+                
+                
+                  −
+                  
+                    
+                      Y
+                      ¯
+                    
+                  
+                
+              
+              
+                
+                  Y
+                
+                
+                  
+                    
+                      X
+                      ¯
+                    
+                  
+                
+              
+            
+          
+          )
+        
+        
+          (
+          
+            
+              
+                
+                  0
+                
+                
+                  −
+                  
+                    I
+                    
+                      n
+                    
+                  
+                
+              
+              
+                
+                  
+                    I
+                    
+                      n
+                    
+                  
+                
+                
+                  0
+                
+              
+            
+          
+          )
+        
+        ⇔
+        
+          X
+          
+            
+              T
+            
+          
+        
+        =
+        −
+        X
+        ,
+        
+        
+          
+            
+              Y
+              ¯
+            
+          
+          
+            
+              T
+            
+          
+        
+        =
+        Y
+      
+    
+    {\displaystyle \left({\begin{matrix}X&-{\overline {Y}}\\Y&{\overline {X}}\end{matrix}}\right)^{*}=\left({\begin{matrix}0&-I_{n}\\I_{n}&0\end{matrix}}\right)\left({\begin{matrix}X&-{\overline {Y}}\\Y&{\overline {X}}\end{matrix}}\right)\left({\begin{matrix}0&-I_{n}\\I_{n}&0\end{matrix}}\right)\Leftrightarrow X^{\mathrm {T} }=-X,\quad {\overline {Y}}^{\mathrm {T} }=Y}
+  .L'àlgebra de Lie esdevé
+
+  
+    
+      
+        
+          
+            
+              o
+            
+          
+          
+            ∗
+          
+        
+        (
+        2
+        n
+        )
+        =
+        
+          {
+          
+            
+              
+              
+                (
+                
+                  
+                    
+                      
+                        X
+                      
+                      
+                        −
+                        
+                          
+                            Y
+                            ¯
+                          
+                        
+                      
+                    
+                    
+                      
+                        Y
+                      
+                      
+                        
+                          
+                            X
+                            ¯
+                          
+                        
+                      
+                    
+                  
+                
+                )
+              
+              |
+            
+            
+              X
+              
+                
+                  T
+                
+              
+            
+            =
+            −
+            X
+            ,
+            
+            
+              
+                
+                  Y
+                  ¯
+                
+              
+              
+                
+                  T
+                
+              
+            
+            =
+            Y
+          
+          }
+        
+      
+    
+    {\displaystyle {\mathfrak {o}}^{*}(2n)=\left\{\left.\left({\begin{matrix}X&-{\overline {Y}}\\Y&{\overline {X}}\end{matrix}}\right)\right|X^{\mathrm {T} }=-X,\quad {\overline {Y}}^{\mathrm {T} }=Y\right\}}
+  ,i el grup ve donat per
+
+  
+    
+      
+        
+          
+            O
+          
+          
+            ∗
+          
+        
+        (
+        2
+        n
+        )
+        =
+        {
+        g
+        ∈
+        
+          G
+          L
+        
+        (
+        n
+        ,
+        
+          H
+        
+        )
+        
+          |
+        
+        
+          
+            j
+          
+          
+            n
+          
+          
+            −
+            1
+          
+        
+        
+          g
+          
+            ∗
+          
+        
+        
+          
+            j
+          
+          
+            n
+          
+        
+        g
+        =
+        
+          I
+          
+            n
+          
+        
+        }
+        =
+        {
+        g
+        ∈
+        
+          G
+          L
+        
+        (
+        2
+        n
+        ,
+        
+          C
+        
+        )
+        
+          |
+        
+        
+          J
+          
+            n
+          
+          
+            −
+            1
+          
+        
+        
+          g
+          
+            ∗
+          
+        
+        
+          J
+          
+            n
+          
+        
+        g
+        =
+        
+          I
+          
+            2
+            n
+          
+        
+        }
+      
+    
+    {\displaystyle \mathrm {O} ^{*}(2n)=\{g\in \mathrm {GL} (n,\mathbb {H} )|\mathrm {j} _{n}^{-1}g^{*}\mathrm {j} _{n}g=I_{n}\}=\{g\in \mathrm {GL} (2n,\mathbb {C} )|J_{n}^{-1}g^{*}J_{n}g=I_{2n}\}}
+  .El grup SO∗(2n) es pot caracteritzar com
+
+  
+    
+      
+        
+          
+            O
+          
+          
+            ∗
+          
+        
+        (
+        2
+        n
+        )
+        =
+        {
+        g
+        ∈
+        
+          O
+        
+        (
+        2
+        n
+        ,
+        
+          C
+        
+        )
+        
+          |
+        
+        θ
+        (
+        
+          
+            g
+            ¯
+          
+        
+        )
+        =
+        g
+        }
+      
+    
+    {\displaystyle \mathrm {O} ^{*}(2n)=\{g\in \mathrm {O} (2n,\mathbb {C} )|\theta ({\overline {g}})=g\}}
+  ,on l'aplicació θ: GL(2n, C) → GL(2n, C) està definida com g ↦ −J2ngJ2n.
+Addicionalmemt, la forma que determina el grup es pot visualitzar com a una forma H-valuada sobre C2n. Substituïm x → w1 + iw2 i y → z1 + iz2 en l'expressió de la forma. Llavors
+
+  
+    
+      
+        φ
+        (
+        x
+        ,
+        y
+        )
+        =
+        
+          
+            
+              w
+              ¯
+            
+          
+          
+            2
+          
+        
+        
+          I
+          
+            n
+          
+        
+        
+          z
+          
+            1
+          
+        
+        −
+        
+          
+            
+              w
+              ¯
+            
+          
+          
+            1
+          
+        
+        
+          I
+          
+            n
+          
+        
+        
+          z
+          
+            2
+          
+        
+        +
+        
+          j
+        
+        (
+        
+          w
+          
+            1
+          
+        
+        
+          I
+          
+            n
+          
+        
+        
+          z
+          
+            1
+          
+        
+        +
+        
+          w
+          
+            2
+          
+        
+        
+          I
+          
+            n
+          
+        
+        
+          z
+          
+            2
+          
+        
+        )
+        =
+        
+          
+            
+              
+                φ
+                
+                  1
+                
+              
+              (
+              w
+              ,
+              z
+              )
+            
+            ¯
+          
+        
+        +
+        
+          j
+        
+        
+          φ
+          
+            2
+          
+        
+        (
+        w
+        ,
+        z
+        )
+      
+    
+    {\displaystyle \varphi (x,y)={\overline {w}}_{2}I_{n}z_{1}-{\overline {w}}_{1}I_{n}z_{2}+\mathbf {j} (w_{1}I_{n}z_{1}+w_{2}I_{n}z_{2})={\overline {\varphi _{1}(w,z)}}+\mathbf {j} \varphi _{2}(w,z)}
+  .La forma φ1 és hermítica (mentre que la primera forma del primer terme és antihermítica) de signatura (n, n). El càlcul de la signatura és evident mitjançant un canvi de base de (e, f) a ((e + if)/√2, (e − if)/√2) on e, f són els primers i últims n vectors base, respectivament. La segona forma, φ2 és simètrica i definida positiva. Per tant, a causa del factor j, O∗(2n) preserva les dues formes de manera separada, i es pot concloure que
+
+  
+    
+      
+        
+          
+            O
+          
+          
+            ∗
+          
+        
+        (
+        2
+        n
+        )
+        =
+        
+          O
+        
+        (
+        2
+        n
+        ,
+        
+          C
+        
+        )
+        ∩
+        
+          U
+        
+        (
+        
+          
+            C
+          
+          
+            2
+            n
+          
+        
+        ,
+        
+          φ
+          
+            1
+          
+        
+        )
+      
+    
+    {\displaystyle \mathrm {O} ^{*}(2n)=\mathrm {O} (2n,\mathbb {C} )\cap \mathrm {U} (\mathbb {C} ^{2n},\varphi _{1})}
+  ,la qual cos explica la notació "O".
+
+
+== Grups clàssics sobre cossos generals o àlgebres ==
+Els grups clàssics, en un àmbit algebraic més ampli, proporcionen grups de matrius particularment interessants. Quan el cos F de coeficients del grup de matrius és o bé els reals o bé els complexos, aquests grups són precisament els grups de Lie clàssics. Quan el cos base és un cos finit, llavors els grups vlàssics són els grups de tipus Lie. Aquests grups juguen un rol important en la classificació dels grups simples finits. Addicionalment, hom pot considerar grups clàssics sobre una àlgebra associativa unitària R sobre F; quan R = H (una àlgebra sobre els reals), hom en té un cas important. Per motius de generalitat, aquest article tracta de grups sobre R, on R pot ser el propi cos base F.
+Considerant la teoria abstracta de grups, molts grups lineals tenen un subgrup "especial", que habitualment consisteix dels elements amb determinant 1 sobre el cos base, i la majoria tenen associats quocients "projectius", que són els quocients pel centre del grup. Per a grups ortogonals en característica 2, la nomenclatura "S" té un significat diferent.
+L'adjectiu "general" aplicat al nom d'un grup acostuma a significar que es permet que el grup multipliqui algun tipus de forma per una constant, en comptes de deixar-la invariant. El subíndex n acostuma a indicar la dimensió del mòdul sobre el qual actua el grup; és un espai vectorial si R = F.
+
+
+=== Grups lineals general i especial ===
+El grup lineal general GLn(R) és el grup de tots els automorfismes R-lineals de Rn. Existeix un subgrup: el grup lineal especial SLn(R), i els seus quocients: el grup lineal general projectiu PGLn(R) = GLn(R)/Z(GLn(R)) i el grup lineal especial projectiu PSLn(R) = SLn(R)/Z(SLn(R)). El grup lineal especial projectiu PSLn(F) sobre un cos F és simple per n ≥ 2, excepte en el cas n = 2, i quan el cos té ordre 2 o 3.
+
+
+=== Grups unitaris ===
+El grup unitari Un(R) és un grup que conserva una forma sesquilineal sobre un mòdul. Existeix un subgrup, el subgrup unitari especial SUn(R) i els seus quocients, el grup unitari projectiu PUn(R) = Un(R)/Z(Un(R)) i el grup unitari especial projectiu PSUn(R) = SUn(R)/Z(SUn(R)).
+
+
+=== Grups simplèctics ===
+El grup simplèctic Sp2n(R) conserva una forma antisimètrica sobre un mòdul. Té un quocient, el grup simplèctic projectiu PSp2n(R). El grup simplèctic general GSp2n(R)  consisteix dels automorfismes d'un mòdul multiplicant una forma antisimètrica per algun escalar invertible. El grup simplèctic projectiu PSp2n(Fq) sobre un cos finit és simple per n ≥ 1, excepte en els casos de PSp2 sobre els cossos de 2 i 3 elements.
+
+
+=== Grups ortogonals ===
+El grup ortogonal On(R) conserva una forma quadràtica no degenerada sobre un mòdul. Existeix un subgrup, el grup ortogonal especial SOn(R) i quocients, el grup ortogonal projectiu POn(R), i el grup ortogonal especial projectiu PSOn(R). En característica 2, el determinant sempre és 1, de tal manera que s'acostuma a definir el grup ortogonal especial com el subgrup d'elements amb invariant de Dickson 1.
+Existeix un grup sense nom, denotat per Ωn(R), que consisteix dels elements del grup ortogonal que tenen norma espinorial 1, amb els corresponents subgrup i grups quocient SΩn(R), PΩn(R) i PSΩn(R) (en el cas de formes quadràtiques definides positives sobre els reals, el grup Ω resulta ser exactament el grup ortogonal, però en general és més petit). El grup ortogonal general GOn(R) consisteix dels automorfismes d'un mòdul que multipliquen una forma quadràtica per algun escalar invertible.
+
+
+== Contrast amb els grups de Lie excepcionals ==
+En contrast amb els grups de Lie clàssics, existeixen els grups de Lie excepcionals, G2,  F4,  E6,  E7,  E8, que comparteixen les seves propietats exactes, però no la seva familiaritat. Aquests grups van ser descoberts per Wilhelm Killing i Élie Cartan al voltant de 1890 en el procés de classificació de les àlgebres de Lie simples sobre els nombres complexos.
+
+
+== Aplicacions ==
+Els grups clàssics formen la part més útil de l'estudi dels grups de Lie lineals. La majoria dels tipus de grups clàssics tenen aplicació en la física clàssica i moderna. A continuació es presenten alguns exemples: el grup de rotació SO(3) és una simetria de l'espai euclidià i de totes les lleis fonamentals de la física; el grup de Lorentz O(3,1) és un grup de simetria de l'espai-temps de la relativitat especial. El grup unitari especial SU(3) és el grup de simetria de la cromodinàmica quàntica, i el grup simplèctic Sp(m) té aplicacions en la mecànica hamiltoniana i en les seves versions de la mecànica quàntica.
+
+
+== Notes ==
+
+
+== Referències ==
+
+
+== Bibliografia ==
+Artin, Emil. Geometric algebra.  Interscience, 1957. DOI 10.1002/9781118164518. ISBN 9780471608394. 
+Dieudonné, Jean. La géométrie des groupes classiques.  Berlín, Nova York: Springer-Verlag, 1955 (Ergebnisse der Mathematik und ihrer Grenzgebiete (N.F.), Heft 5). ISBN 978-0-387-05391-2. 
+Goodman, Roe; Wallach, Nolan R. Symmetry, Representations, and Invariants. 255.  Springer-Verlag, 2009 (Graduate texts in mathematics). ISBN 978-0-387-79851-6. 
+Knapp, A. W.. Lie groups beyond an introduction. 120. 2a edició.  Boston, Basilea, Berlín: Birkhäuser, 2002 (Progress in Mathematics). ISBN 0-8176-4259-5. 
+Popov, Vladimir L. Michiel Hazewinkel (ed.). Classical group. Encyclopedia of Mathematics (en anglès).  Springer, 2001. ISBN 978-1-55608-010-4. 
+Rossmann, Wulf. Lie Groups - An Introduction Through Linear Groups.  Oxford Science Publications, 2002 (Oxford Graduate Texts in Mathematics). ISBN 0-19-859683-9. 
+Weyl, Hermann. The Classical Groups. Their Invariants and Representations.  Princeton University Press, 1939. ISBN 978-0-691-05756-9.

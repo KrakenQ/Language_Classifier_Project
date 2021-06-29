@@ -1,0 +1,28 @@
+Pioneer 6 (również Pioneer A) – amerykańska sonda kosmiczna wprowadzona na orbitę heliocentryczną w ramach programu Pioneer.
+Sondy kosmiczne programu Pionier przeznaczone były do badania przestrzeni międzyplanetarnej. Zadaniem pierwszej serii sond Pionier od 1 do 5, wystrzelonych do 1960 roku, było badanie przestrzeni kosmicznej między Księżycem i Ziemią oraz przestrzeni międzyplanetarnej.
+Druga seria zapoczątkowana w 1965 przeznaczona była do prowadzenia badań głębokiego kosmosu. Sondy wyposażone były w aparaturę do pomiarów: pola magnetycznego, plazmy słonecznej, promieniowania kosmicznego, propagacji fal radiowych oraz pyłu kosmicznego.
+
+
+== Misja ==
+Pionier 6 został wystrzelony 16 grudnia 1965 roku za pomocą rakiety Thor Delta E. Został wprowadzony na orbitę między Ziemią i Wenus. Peryhelium znajdowało się około 121 milionów kilometrów od Słońca. Okres obiegu próbnika wokół Słońca wynosił około 310 dni. Przewidywano, że aparatura będzie działać przez co najmniej pół roku. W rzeczywistości okres działania okazał się znacznie dłuższy i łączność z sondą utrzymywano sporadycznie aż do roku 2000. 
+Badania przeprowadzone przez sondę ujawniły łukowaty przebieg linii sił pola magnetycznego w przestrzeni międzyplanetarnej od Słońca w kierunku na zewnątrz. 
+Pionier 6 dokonał pierwszego pomiaru przeciętnej zawartości elektronów w przestrzeni międzyplanetarnej (5-10 w 1 cm3). Próbnik wykrył również obecność naładowanych jonów helu w wietrze słonecznym oraz obecność wielu wyraźnie określonych strumieni promieni kosmicznych pochodzenia słonecznego. 
+W 1974 roku sonda wykonała pomiary przejścia przez warkocz komety Kohoutka.
+8 grudnia 2000 roku po raz ostatni pomyślnie nawiązano kontakt telemetryczny z sondą w celu uczczenia 35. rocznicy jej wystrzelenia.
+
+
+== Budowa i działanie ==
+Statek miał kształt walca o średnicy 92,5 cm i wysokości 87,5 cm. Jego masa, wraz z całym wyposażeniem, wynosiła 62,14 kg. Była to „najczystsza” pod względem magnetycznym ze wszystkich budowanych wówczas amerykańskich sond kosmicznych. Wykonana została z takich materiałów, by łączne natężenie pola magnetycznego całego próbnika było znikome. Wynosiło ono mniej niż 10-5 wartości natężenia pola magnetycznego Ziemi przy jej powierzchni. Dzięki temu pole własne Pioniera 6 tylko w niewielkim stopniu wpływało na wyniki czułych pomiarów słabych pól magnetycznych, jakie występują w przestrzeni międzyplanetarnej. Źródłem energii elektrycznej była bateria 10 368 ogniw słonecznych. Ich moc w odległości jednej j.a. od Słońca wynosiła 80 W. 
+
+
+=== Aparatura ===
+Dwa magnetometry:
+indukcyjny – wykonujący pomiary natężenia pola magnetycznego w trzech wzajemnie do siebie prostopadłych kierunkach, odznaczał się czułością 10-6 ersteda. Jednocześnie jego zakres pomiarowy zawarty był w przedziale ± 64 gamma.
+magnetometr jądrowy, helowy. Jego czułość wynosiła 0,5 gamma, ale zdolny był do rejestracji pól o natężeniu od +360 do –360 gamma.
+Dwa teleskopy licznikowe do badania cząstek wysokoenergetycznych. Jeden z nich, scyntylacyjny, umożliwiał wyznaczanie kierunku ruchu i energii protonów promieniowania kosmicznego w przedziale 5-90 MeV, a cząstek alfa w przedziale 130-360 MeV.
+Dwa przyrządy przeznaczone były do obserwacji cząstek o małych energiach, wchodzących w skład wiatru słonecznego i obłoków plazmy w przestrzeni międzyplanetarnej.
+Analizator plazmy służył do badania elektronów o energiach 3-1000 eV, a także protonów 0,1-15 keV. Takie same protony mierzono przyrządem działającym na zasadzie puszki Faradaya.
+Do badania rozchodzenia się fal radiowych była przeznaczona oddzielna aparatura. Chodziło jednak ostatecznie nie tylko o same fale radiowe, a o wyznaczenie koncentracji elektronów w obszarze między próbnikiem a Ziemią oraz zmian tej koncentracji z upływem czasu, w zależności od przejawów aktywności słonecznej.
+
+
+== Przypisy ==

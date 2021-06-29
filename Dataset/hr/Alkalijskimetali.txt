@@ -1,0 +1,28 @@
+Alkalijski metali kemijski su elementi 1. skupine periodnog sustava: litij, natrij, kalij, rubidij, cezij i francij.
+
+
+== Svojstva ==
+Zbog samo jednog elektrona u zadnjoj ljusci elektronskog omotača njihovih atoma, imaju najmanju energiju ionizacije od svih ostalih metala, što znači da su kemijski vrlo reaktivni (reaktivnost im raste porastom relativne atomske mase).
+Zbog toga se u prirodi nalaze samo u spojevima, dok se u elementarnom stanju moraju čuvati u posebnim uvjetima: litij, natrij i kalij se, da ne bi reagirali s tvarima iz zraka, čuvaju u petroleju ili mineralnim uljima, dok za rubidij i cezij ni to nije dovoljno – oni se moraju čuvati u vakuumu ili u atmosferi plemenitog plina.
+Alkalijski metali vrlo lako oksidiraju, što ih čini najjačim reducensima. Od svih alkalijskih metala, najjači reducens je litij.
+Reakcije tih metala s vodom vrlo su burne, pri čemu se stvaraju jake lužine:
+
+2 M(s) + 2H2O(l) → 2 M+ + 2 OH- + H2(g)Litij se lagano grije i ispušta vodik, natrij se rastali i zapali vodik ako miruje na mjestu, kalij se rastali i zapali, rubidij detonira, a cezij detonira još jače.
+Francij, zbog kratkog vremena poluraspada, nije sintetiziran u makroskopskim količinama, no za očekivati je da bi reagirao slično ceziju.
+U svim spojevima dolaze u stupnju oksidacije +1, a najčešće u obliku klorida, od kojih je najrasprostranjeniji natrijev klorid. Svi spojevi su im ionski, a njihovi kationi ne hidroliziraju ili hidroliziraju vrlo malo.
+Dobivaju se elektrolizom talina njihovih soli (najčešće klorida), a ne vodenih otopina jer imaju vrlo negativne redukcijske elektrodne potencijale, zbog čega se na katodi vrši redukcija vode u vodik.
+Zbog slabe metalne veze kojoj je uzrok samo jedan elektron u zadnjoj elektronskoj ljusci, najmekši su metali. Svi se mogu lako rezati nožem, s izuzetkom litija, koji je nešto tvrđi.
+Tališta su im vrlo niska, kao i gustoće.
+Kristalna rešetka alkalijskih metala je volumno centrirana kocka.
+Svi boje plamen: litij crveno, natrij intenzivno žuto, kalij blago ljubičasto, rubidij crveno-ljubičasto, a cezij nebesko plavo.
+
+
+== Uporaba ==
+Kao elementarne tvari, alkalijski metali koriste se za razne teške redukcije, u organskim sintezama, kao rashladni mediji u nekim sustavima i slično. Imaju vrlo malenu ulogu u metalurgiji. Spojevi su im vrlo široke uporabe.
+
+
+== Etimologija ==
+Naziv "alkalijski" potječe od arapske riječi al-qili, što znači biljni pepeo (pepeo biljaka sadržava znatne količine natrijeva i kalijeva karbonata). Vodena otopina pepela vrlo je lužnata pa se naziv "alkalijski" daje i svim drugim tvarima izrazito lužnatih svojstava.
+
+
+== Izvori ==
