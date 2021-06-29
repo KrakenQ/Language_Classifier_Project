@@ -1,0 +1,30 @@
+"Super I/O" é uma classe de CIs controladores de E/S que começaram a ser usados em placas-mãe de PCs em fins da década de 1980, originalmente em placas de expansão, e posteriormente, agregadas às próprias placas-mãe. Um chip Super I/O combina interfaces para uma ampla variedade de dispositivos de largura de banda baixa.
+
+
+== Funcionalidades ==
+Os principais dispositivos contidos numa Super I/O são:
+
+Um controlador de disquete.
+Uma porta paralela (geralmente usada para impressoras)
+Uma ou mais portas seriais.
+Uma interface de teclado e mouse.Um chip Super I/O pode também conter outras interfaces, como uma porta de joystick ou porta infravermelha, por exemplo. Ao combinar muitas funções num único chip, a quantidade de partes necessárias numa placa-mãe é diminuída, reduzindo também o custo.
+
+
+== Evolução ==
+Os chips originais de Super I/O comunicavam-se com a UCP através duma conexão com o barramento ISA. Como o uso crescente do barramento PCI, o chip Super I/O é frequentemente a maior razão remanescente para que o barramento ISA continue ainda a ter utilidade em placas-mãe.
+Chips Super I/O modernos usam o barramento Low Pin Count (LPC) em vez do ISA para comunicação com a UCP. Isto normalmente ocorre através da interface LPC no chip southbridge da placa-mãe.
+
+
+== Fabricantes de controladores Super I/O ==
+Fintek
+ITE
+SMSC
+UMC
+WinbondA National Semiconductor fabricava controladores Super I/O, mas vendeu sua unidade de produção para a Winbond Electronics Corporation em 2005.
+
+
+== Ligações externas ==
+«Lista de chips Super I/O» (em inglês) 
+«Superiotool (ferramenta de identificação de controladores Super I/O para Linux)» (em inglês) 
+«Super I/O Controller Functions» (em inglês) 
+TORRES, Gabriel. Sensores da Placa-mãe in Clube do Hardware, 25 de julho de 2001. Acessado em 16 de junho de 2008.

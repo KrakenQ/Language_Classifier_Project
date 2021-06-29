@@ -1,0 +1,9 @@
+Adobe InDesign on Adobe Systemsin kehittämä julkaisuohjelma. Monien muiden Adoben sovellusten tavoin InDesign on saatavilla macOS:lle ja Windowsille. Ohjelman ensisijainen kilpailija on QuarkXPress. InDesignin käyttäjiä ovat ennen kaikkea sanoma- ja aikakauslehtien sekä esitteiden ja julisteiden tekijät. Valmiit julkaisut voidaan tallentaa mm. PDF-muodossa.
+
+
+== Historia ==
+InDesignin edeltäjä on Adobe PageMaker, jonka Adobe hankki ostamalla Aldusin vuonna 1994. Vuoteen 1998 mennessä kilpailija QuarkXPress oli noussut selkeään markkinajohtajan asemaan ja lähes kaikki ammattikäyttäjät olivat siirtyneet pois PageMakerilta. Seuraavana vuonna Adobe laski InDesign 1.0:n markkinoille. Kolmannen version (Adobe CS) myötä se saavutti suuremman levinneisyyden osana Creative Suite -kokonaisuutta, johon kuuluvat InDesignin lisäksi Photoshop, Illustrator ja Acrobat.
+
+
+== Aiheesta muualla ==
+InDesign Adoben sivuilla

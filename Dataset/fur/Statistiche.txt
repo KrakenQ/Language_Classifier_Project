@@ -1,0 +1,6 @@
+La statistiche e je une sience di derivazion matematiche che si ocupe di studiâ e descrivi la realtât fenomeniche intai siei aspiets di rilevazion numeriche. La statisiche e derive partant lis sôs regulis e lis sôs valutazions cualitativis traviers de analisi di rilevaments cuantitatîfs oportunementri selezionâts.
+La metodologjie statistiche e ven sudividude tradizionalmentri in doi ramaçs, a strent leâts:
+
+statistiche descritive
+statistiche inferenziâlLa prime e rivuarde indicadôrs statistics (indicadôrs di posizion, di variazion, di concentrazion, di corelazion, ecc.) par riassumi cun pôcs numars (medie, variance, ecc.) realtâts ancje complessis.
+La statistiche inferenziâl e à l'obietîf di fâ afermazions consistents ancje par fenomens che no son stâts osservâts, gjeneralizant i risultâts a partî dal dât empiric; al studie cun di plui la verifiche di ipotesi. Par fâ chest e dopre i struments de teorie de probabilitât.

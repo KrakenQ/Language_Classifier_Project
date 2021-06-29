@@ -1,0 +1,44 @@
+NGC 1875 (također poznat kao Arp 327, MCG 1-14-31 i PGC 17171) je eliptična galaksija koja je udaljena oko 413 miliona sg od Zemlje i nalazi se u sazviježđu Orion. Najveći prečnik je 0,80 (96 hiljada sg) a najmanji 0,7 uglovnih minuta (84 hiljade sg). Prvo otkriće je napravio Albert Marth 18. novembra 1863. godine.
+
+
+== Najbliži NGC/IC objekti ==
+Sljedeći spisak sadrži deset najbližih NGC/IC objekata.
+
+
+== Također pogledajte ==
+Novi opći katalog
+Spisak NGC objekata
+Spisak galaksija
+
+
+== Bilješke ==
+a  Prividna magnituda od 13,7 – Apsolutna magnituda: M = m - 5 ((log10 DL) - 1), gdje je m=13,7 i DL=126,7 * 106.
+b  0,80 uglovnih minuta – S = A * D * 0,000291 * P, gdje je A=0,80, D=126,7 i P = 3,2616.
+c  Bazirano na euklidsku udaljenost.
+
+
+== Reference ==
+
+
+== Literatura ==
+(en) Steinicke, Wolfgang (2007),  Jakiel, Richard (ured.), Galaxies and How to Observe Them, Springer, ISBN 978-1852337520
+(en) R. J. Buta, H. G. Corwin, Jr., S. C. Odewahn (2007). The de Vaucouleurs Atlas of Galaxies. Cambridge: Cambridge University. ISBN 978-0521820486.CS1 održavanje: više imena: authors list (link)
+(en) Sinnott, R. W. (1988). NGC 2000.0: The Complete New General Catalogue and Index Catalogues of Nebulae and Star Clusters. Sky Publishing. ISBN 978-0-933346-51-2.
+
+
+== Vanjski linkovi ==
+
+
+=== NGC 1875 ===
+NGC 1875 na WikiSky stranici: DSS2, SDSS, GALEX, IRAS, Hydrogen α, X-Ray, Astrophoto, Sky Map, Članci i slike
+(en) NGC 1875 na Aladin pregledaču
+
+
+=== NGC katalog ===
+(en) Interaktivni NGC Online Katalog
+(en) Astronomska baza podataka SIMBAD
+(en) NGC katalog na Messier45.com
+(en) NGC/IC projekt
+(en) NGC2000 na NASA sajtu
+(en) NGC na The Night Sky Atlas sajtu
+Nedovršeni članak NGC 1875 koji govori o svemiru treba dopuniti. Dopunite ga prema pravilima Wikipedije.

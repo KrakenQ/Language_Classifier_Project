@@ -1,0 +1,819 @@
+Id-diżugwaljanza ta' Čebyšëv  
+jew teorema ta' Čebyšëv  hi diżugwaljanza użata l-iżjed fit-teorija tal-probabbiltà.
+Id-diżugwaljanza kienet ippubblikata għall-ewwel darba fl-1853 minn Irenée-Jules Bienaymé u riskoperta indipendentement minn Pafnutij Čebyšëv xi ftit snin wara (għalhekk jgħidulha wkoll id-diżugwaljanza ta' Bienaymé-Čebyšëv ).
+Id-diżugwaljanza ta' Čebyšëv tgħid li jekk il-varjabbli każwali (v.k.) 
+  
+    
+      
+         
+        X
+      
+    
+    {\displaystyle \ X}
+   għandha medja (aritmetika) 
+  
+    
+      
+         
+        μ
+      
+    
+    {\displaystyle \ \mu }
+   u varjanza 
+  
+    
+      
+         
+        
+          σ
+          
+            2
+          
+        
+      
+    
+    {\displaystyle \ \sigma ^{2}}
+  
+u 
+  
+    
+      
+         
+        λ
+      
+    
+    {\displaystyle \ \lambda }
+   hu numru reali pożittiv, imbagħad il-probabbiltà li 
+  
+    
+      
+         
+        X
+      
+    
+    {\displaystyle \ X}
+   tieħu valur bejn 
+  
+    
+      
+         
+        μ
+        −
+        λ
+        σ
+      
+    
+    {\displaystyle \ \mu -\lambda \sigma }
+   u 
+  
+    
+      
+         
+        μ
+        +
+        λ
+        σ
+      
+    
+    {\displaystyle \ \mu +\lambda \sigma }
+  
+hi ikbar minn 
+  
+    
+      
+         
+        1
+        −
+        1
+        
+          /
+        
+        
+          λ
+          
+            2
+          
+        
+      
+    
+    {\displaystyle \ 1-1/\lambda ^{2}}
+  :
+
+  
+    
+      
+        P
+        ⁡
+        (
+        μ
+        −
+        λ
+        σ
+        ≤
+        X
+        ≤
+        μ
+        +
+        λ
+        σ
+        )
+        ≥
+         
+        1
+        −
+        
+          
+            1
+            
+              λ
+              
+                2
+              
+            
+          
+        
+        .
+      
+    
+    {\displaystyle \operatorname {P} (\mu -\lambda \sigma \leq X\leq \mu +\lambda \sigma )\geq \ 1-{\frac {1}{\lambda ^{2}}}.}
+  F'termini oħra din id-diżugwaljanza tiżgura li, indipendentement mid-distribuzzjoni tal-v.k., l-iżjed li tista' tkun il-probabbiltà li din
+tieħu valuri 'l bogħod mill-medja iżjed minn 
+  
+    
+      
+         
+        λ
+      
+    
+    {\displaystyle \ \lambda }
+   darbiet id-devjazzjoni standard, hi 
+  
+    
+      
+         
+        1
+        
+          /
+        
+        
+          λ
+          
+            2
+          
+        
+      
+    
+    {\displaystyle \ 1/\lambda ^{2}}
+  :
+
+  
+    
+      
+        P
+        ⁡
+        
+          (
+          
+            
+              |
+            
+            X
+            −
+            μ
+            
+              |
+            
+            ≥
+            λ
+            σ
+          
+          )
+        
+        ≤
+        
+          
+            1
+            
+              λ
+              
+                2
+              
+            
+          
+        
+        .
+      
+    
+    {\displaystyle \operatorname {P} \left(|X-\mu |\geq \lambda \sigma \right)\leq {\frac {1}{\lambda ^{2}}}.}
+  Pereżempju jekk nieħdu 
+  
+    
+      
+         
+        λ
+        =
+        
+          
+            2
+          
+        
+      
+    
+    {\displaystyle \ \lambda ={\sqrt {2}}}
+   naraw li mill-inqas nofs il-valuri huma fl-intervall 
+  
+    
+      
+         
+        (
+        μ
+        −
+        
+          
+            2
+          
+        
+        σ
+        ,
+        μ
+        +
+        
+          
+            2
+          
+        
+        σ
+        )
+      
+    
+    {\displaystyle \ (\mu -{\sqrt {2}}\sigma ,\mu +{\sqrt {2}}\sigma )}
+  . 
+Ninnotaw li fil-każ 
+  
+    
+      
+         
+        λ
+        >
+        1
+      
+    
+    {\displaystyle \ \lambda >1}
+   biss ikollna informazzjoni utli.
+Tipikament, id-diżugwaljanza tagħtina limiti wiesa'. Imma in ġenerali (jiġifieri għal v.k. b'distribuzzjoni arbitrarja) ma nistgħux intejbuha. Pereżempju, għal kull 
+  
+    
+      
+         
+        λ
+        >
+        1
+      
+    
+    {\displaystyle \ \lambda >1}
+  , dan l-eżempju (fejn 
+  
+    
+      
+         
+        σ
+        =
+        1
+        
+          /
+        
+        λ
+      
+    
+    {\displaystyle \ \sigma =1/\lambda }
+  ) jilħaq il-limiti eżattament.
+
+  
+    
+      
+        
+          
+            
+              
+                P
+                ⁡
+                (
+                X
+                =
+                −
+                1
+                )
+              
+              
+                
+                =
+                1
+                
+                  /
+                
+                (
+                2
+                
+                  λ
+                  
+                    2
+                  
+                
+                )
+                ,
+              
+            
+            
+              
+                P
+                ⁡
+                (
+                X
+                =
+                0
+                )
+              
+              
+                
+                =
+                1
+                −
+                1
+                
+                  /
+                
+                
+                  λ
+                  
+                    2
+                  
+                
+                ,
+              
+            
+            
+              
+                P
+                ⁡
+                (
+                X
+                =
+                1
+                )
+              
+              
+                
+                =
+                1
+                
+                  /
+                
+                (
+                2
+                
+                  λ
+                  
+                    2
+                  
+                
+                )
+                .
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}\operatorname {P} (X=-1)&=1/(2\lambda ^{2}),\\\operatorname {P} (X=0)&=1-1/\lambda ^{2},\\\operatorname {P} (X=1)&=1/(2\lambda ^{2}).\end{aligned}}}
+  Għal din id-distribużżjoni,
+
+  
+    
+      
+        P
+        ⁡
+        
+          (
+          
+            
+              |
+              
+                X
+                −
+                μ
+              
+              |
+            
+            ≥
+            λ
+            σ
+          
+          )
+        
+        =
+        1
+        
+          /
+        
+        
+          λ
+          
+            2
+          
+        
+        .
+        
+      
+    
+    {\displaystyle \operatorname {P} \left(\left|X-\mu \right|\geq \lambda \sigma \right)=1/\lambda ^{2}.\,}
+  Għandna ugwaljanza għal kull distribuzzjoni li hi trasformata linjari ta' din u diżugwaljanza għal kull waħda li mhijiex.
+Fl-ambitu tal-istatistika deskrittiva id-diżugwaljanza tgħid li
+mill-inqas 
+  
+    
+      
+         
+        100
+        (
+        1
+        −
+        1
+        
+          /
+        
+        
+          λ
+          
+            2
+          
+        
+        )
+      
+    
+    {\displaystyle \ 100(1-1/\lambda ^{2})}
+   fil-mija tal-valuri
+huma bejn 
+  
+    
+      
+         
+        μ
+        −
+        λ
+        σ
+      
+    
+    {\displaystyle \ \mu -\lambda \sigma }
+   u 
+  
+    
+      
+         
+        μ
+        +
+        λ
+        σ
+      
+    
+    {\displaystyle \ \mu +\lambda \sigma }
+  .
+Minna nistgħu niddeduċu li indipendentement minn kif il-valuri huma distribwiti
+
+mill-inqas 75% tal-valuri huma bejn 
+  
+    
+      
+         
+        μ
+        −
+        2
+        σ
+      
+    
+    {\displaystyle \ \mu -2\sigma }
+   u 
+  
+    
+      
+         
+        μ
+        +
+        2
+        σ
+        ,
+      
+    
+    {\displaystyle \ \mu +2\sigma ,}
+  
+mill-inqas 88% tal-valuri huma bejn 
+  
+    
+      
+         
+        μ
+        −
+        3
+        σ
+      
+    
+    {\displaystyle \ \mu -3\sigma }
+   u 
+  
+    
+      
+         
+        μ
+        +
+        3
+        σ
+        ,
+      
+    
+    {\displaystyle \ \mu +3\sigma ,}
+  
+mill-inqas 93% tal-valuri huma bejn 
+  
+    
+      
+         
+        μ
+        −
+        4
+        σ
+      
+    
+    {\displaystyle \ \mu -4\sigma }
+   u 
+  
+    
+      
+         
+        μ
+        +
+        4
+        σ
+        .
+      
+    
+    {\displaystyle \ \mu +4\sigma .}
+  Prova
+Għal kull ġrajja 
+  
+    
+      
+         
+        A
+      
+    
+    {\displaystyle \ A}
+  , ħalli 
+  
+    
+      
+         
+        
+          I
+          
+            A
+          
+        
+      
+    
+    {\displaystyle \ I_{A}}
+   tkun il-v.k. indikatriċi ta' 
+  
+    
+      
+         
+        A
+      
+    
+    {\displaystyle \ A}
+  , jiġifieri 
+  
+    
+      
+         
+        
+          I
+          
+            A
+          
+        
+      
+    
+    {\displaystyle \ I_{A}}
+   tiswa 1 jekk 
+  
+    
+      
+         
+        A
+      
+    
+    {\displaystyle \ A}
+   tiġri u 0 jekk ma' tiġriex. Imbagħad
+
+  
+    
+      
+        
+          
+            
+              
+                P
+                ⁡
+                (
+                
+                  |
+                
+                X
+                −
+                μ
+                
+                  |
+                
+                ≥
+                k
+                σ
+                )
+              
+              
+                
+                =
+                E
+                ⁡
+                (
+                
+                  I
+                  
+                    
+                      |
+                    
+                    X
+                    −
+                    μ
+                    
+                      |
+                    
+                    ≥
+                    k
+                    σ
+                  
+                
+                )
+                =
+                E
+                ⁡
+                (
+                
+                  I
+                  
+                    [
+                    (
+                    X
+                    −
+                    μ
+                    )
+                    
+                      /
+                    
+                    (
+                    k
+                    σ
+                    )
+                    
+                      ]
+                      
+                        2
+                      
+                    
+                    ≥
+                    1
+                  
+                
+                )
+              
+            
+            
+              
+              
+                
+                ≤
+                E
+                ⁡
+                
+                  (
+                  
+                    
+                      (
+                      
+                        
+                          
+                            X
+                            −
+                            μ
+                          
+                          
+                            k
+                            σ
+                          
+                        
+                      
+                      )
+                    
+                    
+                      2
+                    
+                  
+                  )
+                
+                =
+                
+                  
+                    1
+                    
+                      k
+                      
+                        2
+                      
+                    
+                  
+                
+                
+                  
+                    
+                      E
+                      ⁡
+                      (
+                      (
+                      X
+                      −
+                      μ
+                      
+                        )
+                        
+                          2
+                        
+                      
+                      )
+                    
+                    
+                      σ
+                      
+                        2
+                      
+                    
+                  
+                
+                =
+                
+                  
+                    1
+                    
+                      k
+                      
+                        2
+                      
+                    
+                  
+                
+                .
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}\operatorname {P} (|X-\mu |\geq k\sigma )&=\operatorname {E} (I_{|X-\mu |\geq k\sigma })=\operatorname {E} (I_{[(X-\mu )/(k\sigma )]^{2}\geq 1})\\&\leq \operatorname {E} \left(\left({X-\mu  \over k\sigma }\right)^{2}\right)={1 \over k^{2}}{\operatorname {E} ((X-\mu )^{2}) \over \sigma ^{2}}={1 \over k^{2}}.\end{aligned}}}
+  Din il-prova turi għaliex il-limiti jistgħu ikunu wisgħin: in-numbru 1 hu sostitwit b' 
+  
+    
+      
+         
+        [
+        (
+        X
+        −
+        μ
+        )
+        
+          /
+        
+        (
+        k
+        σ
+        )
+        
+          ]
+          
+            2
+          
+        
+      
+    
+    {\displaystyle \ [(X-\mu )/(k\sigma )]^{2}}
+   meta dan hu ikbar minn 1. Imma f'xi każi hu ħafna ikbar minn 1.
+
+
+== Noti ==

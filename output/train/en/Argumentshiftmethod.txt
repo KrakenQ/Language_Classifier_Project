@@ -1,0 +1,1 @@
+In mathematics, the argument shift method is a method for constructing functions in involution with respect to Poisson–Lie brackets, introduced by Mishchenko and Fomenko (1978). They used it to prove that the Poisson algebra of a finite-dimensional semisimple Lie algebra contains a complete commuting set of polynomials.

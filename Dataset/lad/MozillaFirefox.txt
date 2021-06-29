@@ -1,0 +1,5 @@
+Mozilla Firefox es un navegador de la Internet, ke tyene interfas grafika de uzuario, dezvelopado por la Korporasyon Mozilla i un grande numero de voluntarios eksternos. Firefox, ofisyalmente yamado komo Fx o fx, i komunmente komo FF, iva empesar komo un derivado del Mozilla Application Suite, ke akabo por reemplasarlo komo el produkto bandeira del proyekto Mozilla, basho la direksyon de la Fundasyon Mozilla.
+El programa es multiplataforma i está disponible en versiyones para Microsoft Windows, Mac OS X i GNU/Linux. El kodigo a sido trokado por treseros a FreeBSD, OS/2, Solaris, SkyOS, BeOS i má resyentemente, Windows XP Professional x64 Edition.El kodigo huente de Firefox esta disponible livremente basho la triple lisensya de Mozilla komo un programa livre i de kodigo avyerto. La versiyon aktual es la 90.0a1, 89.0beta, 78.10.1, 88.0.1.
+
+
+== Referensias ==

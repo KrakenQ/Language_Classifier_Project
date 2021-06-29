@@ -1,0 +1,10 @@
+XSL-FO (lyhenne sanoista Extensible Stylesheet Language Formatting Objects) on W3C:n suosituksiin kuuluva XML-pohjainen merkintäkieli, jolla kuvataan XML-dokumentin sivumuotoinen esitystapa yhdessä sisällön kanssa. XSL-FO on osa XSL-perhettä, joka kokonaisuudessaan on tarkoitettu XML-muotoisen tiedon käsittelyyn ja esittämiseen. Suositusperheeseen kuuluvat muut osat ovat XSLT ja XPath, joita voidaan käyttää hyväksi XSL-FO dokumentin luonnissa. Sovellusten näkökulmasta XSL-FO toimii välimuotona luotaessa XML-muotoisesta tiedosta lopullinen esitysmuoto, yleensä PDF-dokumentti.
+XSL-FO:n kehittäminen on lopetettu. Sen viimeinen työstettävä luonnos julkaistiin tammikuussa 2012 ja työryhmä lopetettiin marraskuussa 2013.
+
+
+== Lähteet ==
+
+
+== Aiheesta muualla ==
+XSL-FO-ja XSLT Johdanto ja Tutorials (saksaksi)
+XSLT käyttöönotto (saksaksi)

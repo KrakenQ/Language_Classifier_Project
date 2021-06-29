@@ -1,0 +1,17 @@
+A dureza Rockwell é un método para determinar a dureza, é dicir, a resistencia dun material a ser penetrado. O ensaio de dureza Rockwell constitúe o método máis usado para medir a dureza debido a que é moi simple de levar a cabo e non require coñecementos especiais.
+
+
+== Características ==
+Pódense utilizar diferentes escalas que proveñen da utilización de distintas combinacións de penetradores e cargas, o cal permite ensaiar practicamente calquera metal ou aliaxe.
+O ensaio consiste en dispor un material cunha superficie plana na base da máquina. Aplícaselle unha precarga menor de 10 kg, basicamente para eliminar a deformación elástica e obter un resultado moito máis preciso. Logo aplícaselle durante uns 15 segundos un esforzo que varía desde 60 a 150 kg a compresión. Desaplícase a carga, e mediante un durómetro Rockwell obtense o valor da dureza directamente na pantalla, o cal varía de forma proporcional co tipo de material que se utilice. Tamén se pode atopar a profundidade da penetración cos valores obtidos do durómetro se se coñece o material.
+
+
+== Véxase tamén ==
+
+
+=== Outros artigos ===
+Escala de Mohs
+
+
+=== Ligazóns externas ===
+Rockwell scale conversion chart (en inglés)

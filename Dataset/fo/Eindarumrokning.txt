@@ -1,0 +1,24 @@
+Eindarumrokning verður brúkt, tá  tøl í einari eind verða roknað um til eina aðra eind. Hetta er ofta neyðugt m.a. orsakað av, at siðvenja er at brúka ávísar eindir í ymsum londum. T.d. eru nógvir formlar knýttir at ávísum eindum. Har verða nýttar altjóða eindirnar (SI-eindir). T.d. er SI-eindin fyri longd metur, fyri kraft newton, o.s.fr.
+
+
+== Umrokningarhættir ==
+Einfaldasti hátturin at umbroyta eina eind til aðra er at viðgera eindirnar støddfrøðiliga. Sí dømini fyri at síggja gongdina.
+Tú ynskir at broyta 6 føtur til metrar. Við uppslagi hevur tú funnið út av, at ein fótur er 0,3048 metrar. Nú fært tú umbroytt støddfrøðiliga:
+
+6 ft x 0,3048 m/ft = 1,8288 m
+Legg til merkis, at fótaeindin dettur burtur, og letur metrarnar standa einsamallar eftir. (Av tí at bæði 6 føtur og 0,3048 metrar til hvønn fót eru fullkomiliga neyv tøl, er svarið við 5 týðandi talteknum fullkomiliga rætt.)
+Latið okkum siga, at hæddin á tær er 182,88 sentimetrar, og at tú ynskir at umbroyta hetta til tummar:
+
+182,88 cm / (2,54 cm/tumma) = 72 tummar
+Tað eru 12 tummar í einum fóti, tískil eru 72 tummar tað sama sum 6 føtur.
+72/12 = 6 ft
+
+Fleiri eindir kunnu verða viðgjørdar á sama hátt:
+7 míl/s x 1,609344 km/míl x 3600 s/t = 40 000 km/t
+Tí er ferðin á heiminum umleið 7 míl um sekundið ella 40 000 kilometrar um tíman. Legg merki til, at av tí, at útrokningin byrjaði við einum týðandi taltekni (7-talinum), hevur úrslitið eisini eitt týðandi taltekn (4-talið í 40 000).
+Um faldast ella býtast skal, verður avgjørt við at hyggja at eindunum og við at gera av, hvør skal burtur. Um vit høvdu býtt við 3600 s/t í umbroytingini omanfyri í staðin fyri at falda, hevði úrslitið verið í kilometurtímum fyri fersekundið, sum eyðsýnt er skeivt og høpisleyst úrslit.
+
+
+== Avrunding ==
+Týdningarmikið er at minnast, at umbroytingargongdin ikki kann geva neyvari tøl enn tey, sum vóru frammanundan. Meðan fleiri av umbroytingartættunum í uppslagstalvunum eru neyvir og aðrir óneyvir, tó at teir hava mong, týðandi taltekn, eru øll talteknini, tú fært við roknimaskinu ella blýanti og pappíri, ikki týðandi.
+Ansa eftir at runda av hóskandi eftir útrokning.

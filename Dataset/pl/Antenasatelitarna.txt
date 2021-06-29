@@ -1,0 +1,44 @@
+Antena satelitarna – antena służąca do odbioru lub nadawania sygnału z kosmosu, często z satelitów telekomunikacyjnych. Takowe stosowane są w zwykłych gospodarstwach domowych do telewizji satelitarnej. O wiele większe anteny służą do komunikacji z sondami i badań radioastronomicznych. Wtedy nazywane są radioteleskopami.
+Anteny satelitarne wykonywane są jako: paraboliczne, offsetowe, panelowe lub wieloogniskowe w układzie pojedynczego, podwójnego zwierciadła lub bezzwierciadłowym.
+Najpopularniejsze obecnie anteny przydomowe mają czasze o średnicach od 45,72 cm (18") do 90 cm (35") i są ustawiane na jednego satelitę. Jest to tak zwany DBS (direct broadcast satellite). Większe czasze pozwalają uzyskać mocniejszy sygnał kompensując część sygnału zasłoniętego przez drzewa, zapewnić odbiór przy złych warunkach atmosferycznych czy umożliwić instalację więcej niż jednego konwertera (odbiór sygnału kilku satelitów).
+W przeszłości instalowane były anteny z siłownikiem (tzw. obrotnicą), pozwalającym automatycznie obracać anteną w celu zmiany odbieranego satelity. Obecnie układy takie są rzadko spotykane w zastosowaniach domowych. Zostały wyparte przez układy anten z dwoma (lub więcej) konwerterami.
+Większość anten przydomowych to anteny offsetowe, w których konwerter i elementy mocujące go nie zasłaniają sygnału. Skupienie promieni poza obszarem promieni padających na antenę uzyskuje się poprzez ukośne ustawienie anteny do padającego promieniowania. Skośne ustawienie anteny zmniejsza powierzchnię, z której antena skupia promienie. W przypadku dużych anten, powierzchnia utracona przez skośne ustawienie jest większa niż zasłonięta przez konwerter, dlatego anteny o dużych rozmiarach konstruuje się w dalszym ciągu głównie z centralnie położonym konwerterem lub kolejnym zwierciadłem.
+
+
+== Instalacja ==
+Elementy potrzebne do odbioru telewizji satelitarnej to:
+
+antena satelitarna,
+uchwyt mocujący antenę,
+konwerter (LNB – Low Noise Block converter):
+o osobnym paśmie C, paśmie Ku, paśmie Ka lub dwupasmowe.
+kabel koncentryczny o odpowiedniej rezystancji falowej oraz wtyczki typu F,
+odbiornik satelitarnyPrzy odbiorze więcej, niż jednego satelity potrzebny jest dodatkowy uchwyt, tzw. „zez” oraz przełącznik DiSEqC. Najpopularniejsze są układy typu zez z satelitów Hot Bird oraz Astra. Można również dostawić konwertery na satelity Astra 2, czy Siriusa.
+
+
+== Typy anten ==
+
+Płaskie (panelowe) — typ anteny wywodzący się ze wcześniejszego zastosowania w sprzęcie wojskowym. Na początku lat '90 weszły do stosowania w indywidualnych instalacjach odbiorczych telewizji satelitarnej. Antena składa się z płytki drukowanej, na której umieszczono regularnie rozmieszczone elementy dipolowe. Poszczególne dipole są połączone specjalnie zaprojektowanymi pod względem kształtu, długości i szerokości ścieżkami, będącymi liniami mikropaskowymi umożliwiającymi prawidłowe zsumowanie sygnału. Z tyłu anteny przymocowany jest konwerter satelitarny. Anteny płaskie charakteryzują się mniejszą czułością (ze względu na mniejszą powierzchnię skuteczną) i wrażliwością na zakłócenia pochodzące od innych satelitów.
+Z soczewką Fresnela — antena ma postać płyty wykonanej z tworzywa sztucznego na którą naniesiono metalizowane pierścienie. Za soczewką umieszczony jest konwerter satelitarny. Konstrukcja umożliwia wkomponowanie soczewki w konstrukcję budynku. Wadą anteny jest mniejsza sprawność, gdyż pierścienie w soczewce wprowadzają tłumienie fal mikrofalowych.
+Paraboliczne — starszy typ anten, skierowanych wprost na satelitę. Konstrukcja symetrycznej anteny parabolicznej jest bardzo prosta, lecz ma jedną istotną wadę. Część powierzchni reflektora zostaje wyeliminowana z odbioru fal elektromagnetycznych przez promiennik i konwerter który "rzuca cień", zmniejszając powierzchnię skuteczną anteny.
+Paraboliczne dwureflektorowe — zastosowanie drugiego mniejszego reflektora umożliwia umieszczenie promiennika i konwertera w innym dogodnym miejscu. Tym sposobem unika się blokowania apertury. Spotykane odmiany to:
+Układ Cassegraina (naśladujące przypisywaną mu konstrukcję teleskopu zwierciadlanego) – antena wykorzystująca podwójne odbicie (dwureflektorowa) – układ wykorzystywany przy dużych czaszach, a zastosowany w celu wyeliminowania osadzaniu się śniegu w czaszy anteny, co ma wpływ na fazę fal padających, a tym samym zysk anteny. Antena układu Cassegraina posiada reflektor główny (paraboliczny) i reflektor pomocniczy(hiperboliczny). Posiada dwa ogniska: rzeczywiste, w którym umieszczony jest promiennik, oraz pozorne, które pokrywa się z ogniskiem rzeczywistym reflektora parabolicznego.
+Układ Gregory’ego – podobnie, jak w układzie Cassegraina, antena wykorzystująca dwukrotne odbicie (dwureflektorowa). Różnica polega na tym, że zastosowano reflektor pomocniczy o kształcie eliptyczym, posiadający dwa ogniska rzeczywiste (pierwsze pokrywa się z ogniskiem rzeczywistym reflektora głównego, w drugim umieszczony jest promiennik).
+Offsetowa (podświetlona) — antena w której punkt skupienia fal jest przesunięta od geometrycznego środka reflektora parabolicznego (typowo o kąt 23°). Reflektor ma kształt owalny, a jego powierzchnia jest asymetryczna i pozostaje niezasłonięta przez promiennik, konwerter i wsporniki. Przy odbiorze telewizji z europejskich satelitów reflektor pozostaje ustawiony prawie pionowo, dzięki czemu nie gromadzi się na nim woda i śnieg. Anteny o średnicy większej niż 1,2 m są rzadko produkowane. Anteny podświetlone mogą być produkowane jako dwureflektorowe.
+Wielowiązkowe (toroidalne) — typ anten przeznaczonych do odbioru sygnałów z różnych kierunków. Reflektor w przekroju pionowym ma kształt paraboliczny, natomiast w przekroju poziomym zbliżony do wycinka okręgu. Antena jest ustawiona na stałe, zmiana kierunku odbioru odbywa się przez przesuwanie konwertera po szynie umieszczonej na wsporniku.
+
+
+== Zobacz też ==
+Telewizja satelitarna
+Konwerter satelitarny
+Odbiornik satelitarny
+Astra, Hot Bird, DiSEqC, FTA
+
+
+== Przypisy ==
+
+
+== Linki zewnętrzne ==
+Rodzaje anten satelitarnych
+Popularnonaukowy portal na temat łączności satelitarnej
+Ustawienie anteny satelitarnej

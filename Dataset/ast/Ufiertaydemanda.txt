@@ -1,0 +1,165 @@
+La llei de la ufierta y demanda ye un modelu económicu básicu postuláu pa la formación de precio de mercáu de los bienes dientro de la escuela neoclásica y otres allegaes, usándose pa esplicar una gran variedá de fenómenos y procesos tantu macro como microeconómicos. Amás, sirve como base pa otres teoríes y modelos económicos.
+
+
+== Formulación básica ==
+El modelu na so versión más senciella basar na rellación ente'l preciu d'un bien y les vientes del mesmu, y asume que nun mercáu de competencia perfecta, el preciu de mercáu va establecer nun puntu llamáu puntu d'equilibriupreciu— nel cual produzse un vaciamiento del mercáu, esto ye, tou lo producío viéndese y non queda demanda non satisfecha. El postuláu de la ufierta y la demanda implica tres ley:
+Cuando, al preciu corriente, la demanda entepasa la ufierta, aumenta'l preciu. Inversamente, cuando la ufierta entepasa la demanda, mengua'l preciu.
+Un aumentu nel preciu mengua, primero o más tarde, la demanda y aumenta la ufierta. Inversamente, un amenorgamientu nel preciu aumenta, primero o más tarde, la demanda y mengua la ufierta.
+El preciu tiende al nivel nel cual la demanda iguala la ufierta.N'economía'l modelu xeneralmente úsase en xunto col tantéu walrasiano.Naturalmente cuando falla dalgunes de les asunciones el comportamientu reparáu y el predichu resulten daqué discrepantes, intentáronse versiones más complicaes del modelu substituyendo los supuestos básicos por otres asunciones lóxicamente menos restrictives, pero nesos casos el modelu puede aportar a notoriamente más complicáu. Como asocede na teoría del oligopolio, por casu.
+
+
+=== Oríxenes del modelu ===
+A pesar de que'l modelu ye xeneralmente atribuyíu a Alfred Marshall (por cuenta de que esi autor formalizó, analizó y estendió la so aplicación), l'orixe del conceutu ye anterior.
+La espresión ‘ufierta y demanda’ foi acuñada por James Steuart Denham na so obra Estudiu de los principios de la economía política, publicada en 1767. Adam Smith usó esta frase nel so llibru de 1776 La riqueza de les naciones, y David Ricardo, nel so llibru Principios de política económica ya impositiva de 1817, tituló un capítulu "Influencia de la demanda y l'ufierta nel preciu".Foi esplicada en 1730 pol economista Irlandés Richard Cantillón, nel so "Ensayo sobre la naturaleza del comerciu polo xeneral" nel capítulu II de la segunda parte.
+En La riqueza de les naciones, Smith asume, polo xeneral, que la demanda ye relativamente afita nel plazu curtiu y medianu (dependiendo últimamente de la cantidá de persones), y que, consecuentemente, ye namái la ufierta la que fai que'l preciu xuba o baxe. Convien recordar que naquellos tiempos les empreses yeren pequeñes, y solo podíen contribuyir, caúna, fraccionalmente a satisfaer la demanda. Esto, xunto a la esistencia de llibre competencia, escontra que los precios de mercaos menguaren al máximu posible, tendiendo al costo de producción, el que, de la mesma, depende de considerancies téuniques, non de la demanda.
+David Ricardo va entá más llueñe afirmando: «Por abondosu que sía la demanda, nunca puede alzar permanentemente el preciu d'una mercancía sobre los gastos de la so producción, incluyendo nesi gastu la ganancia de los productores. Paez natural polo tanto buscar la causa de la variación del preciu permanente nos gastos de producción. Diminuyase esos y (el preciu de) la mercadería debe finalmente aparrar, aumentar y de xuru van xubir. ¿Qué tien tou eso que ver cola demanda?».-Mientres los últimos años del sieglu XIX surdió la escuela de pensamientu marxinal. Esti campu foi empecipiáu por Stanley Jevons, Carl Menger y Léon Walras. La idea principal ye que'l preciu establecer a partir de la demanda: el consumidores solo paguen lo que consideren fayadizu pola utilidá que perciben van recibir de los bienes, cualesquier sía'l costo de producción. Esto foi un cambéu sustancial al respeutive de les idees de Adam Smith sobre la determinación del preciu de vienta.
+
+Esti modelu foi criticáu más tarde por Alfred Marshall nel so Principios d'economía. Marshall re-introduz a la visión marginalista, al traviés de la metáfora conocida como les tisories de Marshall, la considerancia del efeutu de la ufierta, formalizando'l modelu de la ufierta y la demanda.
+
+Podríamos cola mesma sensatez aldericar alrodiu de si ye la fueya cimera o la inferior d'una tisoria la que corta un cachu de papel que si'l valor ta controláu pola utilidá o pol costo de producción.Dende finales del sieglu XIX, esta teoría de la ufierta y la demanda caltúvose práuticamente inamovible. La mayoría de los estudios posteriores centráronse en buscar afaer el modelu a situaciones más reales, incorporando aspeutos tales como los costos de transaición, la racionalidá llindada o inclusive'l principiu de non racionalidá, etc. basaos na perceición que ye'l casu que la situación real del mercáu correspuende a una de competencia imperfecta.
+Por casu –dende les primeres décades del sieglu XX– una variedá d'autores, tales como Joan Robinson, Edward Hastings Chamberlin; Heinrich Freiherr von Stackelberg, Jan Tinbergen, Wassily Leontief, etc., introducieron una serie d'adecuaciones o cambeos parciales a la formalización de Marshall. (ver oligopolio y oligopsonio, Teoría de la Competencia monopolística, Competencia de Stackelberg; Teorema de la telaraña, etc.)
+
+
+== Teoría fundamental ==
+
+El modelu establez que nun mercáu llibre, la cantidá de productos ufiertaos polos productores y la cantidá de productos demandaos polos consumidores dependen del preciu de mercáu del productu.
+La llei de la ufierta indica que la ufierta ye direutamente proporcional al preciu; cuanto más altu sía'l preciu del productu, más unidaes van ufiertar a la vienta.
+Otra manera, la llei de la demanda indica que la demanda ye inversamente proporcional al preciu; cuanto más altu sía'l preciu, menos van demandar el consumidores.
+Poro, la ufierta y la demanda faen variar el preciu del bien.
+Según la llei de la ufierta y la demanda, y asumiendo esa competencia perfecta, el preciu d'un bien s'asitia na interseición de les curves d'ufierta y demanda. Si'l preciu d'un bien ta demasiáu baxu y el consumidores demanden más de lo que los productores pueden poner nel mercáu, produzse una situación d'escasez, y por tantu los consumidores van tar dispuestos a pagar más. Los productores van xubir los precios hasta que s'algamar el nivel al cual el consumidores nun tean dispuestos a mercar más si sigue xubiendo'l preciu. Na situación inversa, si'l preciu d'un bien ye demasiáu altu y el consumidores nun tán dispuestos a pagalo, l'enclín va ser a que baxe'l preciu, hasta que se llegue al nivel al cual el consumidores acepten el preciu y pueda vendese tou lo que se produz.
+
+
+=== La curva d'ufierta ===
+
+La segunda llei enunciada (ver II enriba) establez que, ante un aumentu nel preciu d'un bien, y asumiendo un mercáu competitivu, la cantidá ufiertada d'esi bien va ser mayor; esto ye, los productores de bienes y servicios van aumentar la producción. Esto ye xeneralmente referíu como “Llei de la ufierta”.
+
+Lo anterior ye conceptualizado na curva d'ufierta, que ye la representación gráfica de la rellación –o elasticidá– esistente ente'l preciu d'un bien y la cantidá ufiertada del mesmu.La pendiente d'esta curva determina cómo aumenta o mengua la cantidá ufiertada d'un bien ante un amenorgamientu o un aumentu del preciu del mesmu. Denominar elasticidá aprecio de la ufierta al grau de variación de la cantidá ufiertada a un cambéu nel preciu. Esta va dende una respuesta totalmente inelástica (llinia vertical) significando que la producción nun respuende a cambeos en precios a una totalmente elástica (llinia horizontal), significando qué cambeos na producción son mayores qué cambeos nos precios.
+Les determinantes d'esa elasticidá inclúin: facilidá o non d'adquirir Insumos. Esistencia o non de capacidá escesiva de producción y/o inventarios acumulaos. Complexidá del procesu de producción, o relativa dificultá d'implementar estensiones o cambeos a esi procesu, incluyendo'l tiempu y costo necesariu pa implementar esos cambeos. Considerancies más xenerales alrodiu de la posición de la empresa en rellación al mercáu, incluyendo posible conveniencia d'a cencielles tomar ventaya del aumentu de precios, etc.
+Por cuenta de que la ufierta ye proporcional al preciu, les curves d'ufierta son, xeneralmente pero non siempres, crecientes.Amás, y por cuenta de la llei de los rendimientos decrecientes, la rimada d'una curva d'ufierta puede ser decreciente (esto ye, sueli ser una función cóncavu), anque non necesariamente. Un exemplu ye la curva d'ufierta del mercáu llaboral. Xeneralmente, cuando'l salariu d'un trabayador aumenta, ésti ta dispuestu a ufiertar un mayor númberu d'hores de trabayu, por cuenta de que un sueldu más eleváu amonta la utilidá marxinal del trabayu (y amonta el costu d'oportunidá de nun trabayar). Pero cuando felicidá remuneración algama ciertos niveles, el trabayador puede esperimentar la llei de los rendimientos decrecientes en rellación cola so paga. La cantidá de dineru que ta ganando va faer qu'otru aumentu de sueldu tenga pocu valor pa él. Por tanto, a partir d'esi puntu podría dedicar menos hores al trabayu a midida que aumente'l salariu, decidiendo invertir el so tiempu n'ociu. Atopamos un exemplu d'esto nos sueldos de los miembros de los Conseyu d'alministración. Mientres ye relativamente fácil motivar a trabayadores manuales o profesionales a trabayar hores extras, ye difícil motivar a los miembros d'esos conseyos, que les sos “hores de trabayu” xeneralmente van dende una xunta (mañanera o de tarde) una vegada al mes a cinco o seis, o inclusive una o dos veces al añu con salarios que van dende, pa empreses pequeñes, “un salariu de retención” d'ente 5000 a 10 000 dólares añales y “bonos d'asistencia” ente 500 y 2000 per cada xunta que s'asista, más “reembolsamiento” por "gastos de viaxe", etc, a salarios tales los 250 000 llibres esterlines añales (el menor ente'l direutores del grupu bancariu Barclays), que, sicasí, ye aumentáu por pagu de bon manexu” (performance related pay) a 10,7 millones de llibres esterlines añales, eso, ensin cuntar una variedá de bonus por "llograr oxetivos", ganancies en "opciones" d'aiciones, etc. Ye fácil ver como remuneraciones a esi nivel nun producen la motivación necesaria pa desempeñar funciones cola debida atención, lo que terminó na Crisis económica de 2008-2011.
+Esti tipu de curves d'ufierta foi reparáu tamién n'otros mercaos, como'l del petroleu: dempués del récor del preciu provocáu pola crisis de 1973, los EE. UU. menguaron la so producción de petroleu.
+
+
+=== La curva de la demanda ===
+
+La curva de demanda representa la rellación ente la cantidá d'un bien o conxuntu de bienes y servicios que los consumidores deseyen y tán dispuestos a mercar en rellación al preciu del mesmu, suponiendo que'l restu de los factores caltiénense constantes. La curva de demanda ye polo xeneral decreciente, esto ye, a mayor preciu, el consumidores van mercar menos. Esto ye xeneralmente conocíu como la llei de la demanda”.
+
+Los determinantes de la demanda d'un individuu son el preciu del bien, el nivel de renta, los gustos personales, el preciu de los bienes sustitutivos, y el preciu de los bienes complementarios.
+La rimada y forma de la curva de la demanda representa la Elasticidá aprecio de la demanda, con estremos nuna llinia vertical (demanda inelástica, representando'l casu nel cual el cambéu na demanda ye menor que'l cambéu nos precios) y una llinia horizontal, o demanda elástica, con cambeos en demanda cimeres a los cambeos nos precios (por casu, nun mercáu perfectamente competitivu, l'aumentu de precios por una empresa puede llevar a qu'esa empresa pierda tou les sos vientes)
+Como se dixo antes, la curva de demanda ye casi siempres decreciente. Pero hai dellos exemplos de bienes que tienen curves de demanda crecientes. Un bien que la so curva de demanda ye creciente conozse yá sía como un bien de Veblen o bien de luxu; o como un bien de Giffen o un bien inferior. L'exemplu clásicu d'estos postreros, aprovíu por Alfred Marshall son los alimentos básicos, que la so demanda vien definida pola probeza, que nun dexa a los sos consumidores consumir comida de meyor calidá. Según aumenta los precios yá sía d'alimentos o xenerales, el consumidores non pueden dexase adquirir otros tipos d'alimentos, polo que tienen qu'aumentar el so consumu d'alimentos básicos.
+
+
+=== Cambeos na demanda y cantidá demandada ===
+
+El preciu d'un productu del mercáu ta determináu por un equilibriu ente la ufierta (lo que se ta dispuestu a producir a un preciu determináu) y la demanda (lo que se deseya mercar a un preciu determináu). El gráficu amuesa una medría de la demanda dende D1 hasta D2, provocando un aumentu del preciu y de la cantidá producida relatives.
+Cuando más xente deseya daqué, la cantidá esixida en tolos precios va tender a aumentar. Esto ye un aumentu na demanda.
+La demanda creciente puede representase nel gráficu como la curva a la derecha, porque en cada puntu del preciu, esíxese una mayor cantidá.
+Esti aumentu en demanda fai que la curva inicial D1 mover a la nueva curva D2. Esto xube'l preciu d'equilibriu de P1 al P2.
+Esto llevanta la cantidá del equilibriu de Q1 a Q2. Inversamente, si la demanda mengua, pasa lo contrario, dir de la curva D2 a D1.
+La demanda ye lo que deseya'l consumidor, cuando xube la demanda aumenten los precios. EJ: la demanda de xelaos nun día común y corriente pue ser 40 unidaes, pero en día de calor la demanda de xelaos puede ser 100, esto ye porque hai más persones que deseyen consumir xelaos debíu al calor, entá cuando'l preciu del xeláu nun varió. Pero como aumenta la demanda de xelaos lo más probable ye qu'esti xuba'l so preciu.
+La cantidá demandada ye lo que se ta dispuestu a consumir a un preciu determináu EJ: si tiénense 30 dólares y el xeláu vale 15 dólares, la cantidá demandada a esi preciu va ser de dos xelaos, pero, si'l preciu del xeláu mengua a 10 dólares agora va haber un aumentu na cantidá demandada yá que agora podrán consumise trés xelaos (unu más qu'antes): la cantidá demanda aumentó porque menguó'l preciu.
+Resumiendo: si baxa la demanda, baxen los precios y, polo tanto aumenta la cantidá demandada. De forma contraria, si aumenta la demanda xuben los precios y mengua la cantidá demandada.
+
+
+=== Exemplu: ufierta y demanda nuna economía de 6 persones ===
+El modelu d'ufierta y demanda puede estudiase por aciu individuos que interactúan nun mercáu. Supóngase una economía simplificada na que participen los seis individuos siguientes:
+
+Alicia ta dispuesta a pagar 10 euros per una habitación.
+Fernando ta dispuestu a pagar 20 euros per una habitación.
+Cristina ta dispuesta a pagar 30 euros per una habitación.
+La nuesa empresa ta dispuesta a ufiertar una habitación por 5 euros
+Hoteles Place ta dispuesta a ufiertar una habitación por 15 euros
+Hoteles Master ta dispuestu a ufiertar una habitación por 25 euros.Hai munches transaiciones posibles que prestaríen a los dos persones implicaes, pero non toes elles van asoceder. Por casu, hoteles Place y Master taríen interesaos en faer el so negociu a cualquier preciu ente 25 y 30. Si'l preciu fuera cimeru a 30, Cristina nun taría interesada, yá que ye un preciu demasiáu altu. Si'l preciu baxara de 25, entós sería Hoteles Master al que nun-y satisfadría la transaición. Sicasí, Cristina va afayar qu'hai otru productores nel mercáu que tán dispuestos a vender per debaxo de 25, colo cual nun va axustar con Fernando. Nun mercáu eficiente, cada vendedor va percibir el preciu más altu posible, y cada comprador va pagar el preciu más baxu posible.
+Imaxínese que Cristina y hoteles Master tán aldericando sobre'l preciu. Hoteles Master ufierta un arriendu por 25. Primero que Cristina aceptar, hoteles Place ufiertar por 24. Fernando nun ta dispuestu a vender a 24, asina que se retira. Nesi intre, la nuesa empresa ufiertar por 12. Place obviamente nun va vender a esi preciu, colo que paez que la vienta ta decidida. Sicasí, apaez Fernando y ufierta 14, pero namái una persona ta dispuesta a vender a esi preciu (nuesa empresa). Cristina entérase y como nun quier perder esta gran oportunidá, ufierta 16 a la nuesa empresa per habitación. Agora Place tamién ta dispuesta a vender, colo cual tenemos dos compradores y dos vendedores a esi preciu (nótese que podría establecese cualquier preciu ente 15 y 20). Equí paez que los cuatro tán d'alcuerdu. Pero ¿qué asocede con Hoteles Master y Alicia? Dambos nun tán dispuestos a axustar ente ellos, por cuenta de qu'Alicia namái ta dispuesta a pagar 10 y hoteles Master nun deseya aceptar nada per debaxo de 25. Alicia nun puede ameyorar les ufiertes de Fernando y Cristina pa mercar a la nuesa empresa, colo cual Alicia nun puede axustar con ellos. Master nun puede rebaxar el preciu de vienta tanto como la nuesa empresa o hoteles Place, colo cual agora yá nun puede axustar con Cristina. N'otres pallabres, llogróse un puntu d'equilibriu.
+
+Puede dibuxase un gráficu con dos tales curves d'ufierta y demanda a partir d'estos datos.
+La demanda sería:
+
+Una persona ta dispuesta a pagar 30 euros (Cristina).
+Dos persones tán dispuestes a pagar 20 euros (Cristina y Fernando).
+Trés persones tán dispuestes a pagar 10 euros (Cristina, Fernando y Alicia).La ufierta sería:
+
+Una persona ta dispuesta a arrendar por 5 euros (nuesa empresa).
+Dos persones tán dispuestes a arrendar por 15 euros (nuesa empresa y hoteles Place).
+Trés persones tán dispuestes a arrendar por 25 euros (nuesa empresa, hoteles Place y hoteles Master).La ufierta y la demanda coinciden cuando la cantidá negociada son dos habitaciones y el preciu establecer ente 15 y 20. Tanto si la nuesa empresa viende a Cristina, y Place a Fernando, o bien si la nuesa empresa viende a Fernando, y Place viende a Cristina, podrá llegase a un alcuerdu. Sicasí'l preciu esactu alcordáu nun puede determinase. Esta ye la única llimitación d'esti modelu simplificáu. Si treslládase esti exemplu a un mercáu de competencia perfecta, con suficientes participantes, entós el preciu sí que podría establecese de forma esacta. Por casu, si la última transaición facer ente daquién que taba dispuestu a vender a 15.50 y daquién dispuestu a pagar 15.51, entós el preciu podría determinase con una precisión d'un céntimu. Cuantos más participantes entren nel mercáu, más probable va ser que s'atope un preciu lo más cercano al puntu d'equilibriu.
+Esta simplificación amuesa cómo'l preciu d'equilibriu y la cantidá pueden determinase fácilmente por aciu una situación fácil d'entender. Les resultancies son similares a los que se llogren cuando se considera que'l númberu de participantes ye ilimitáu y otros supuestos establecíos polos mercaos de competencia perfecta.
+
+
+== Xeneralizaciones ==
+El modelu enantes descritu namái describe un mercáu perfectamente competitivu con un únicu productu. Nuna economía real esisten numberosos productos dalgunos de los cualos son bienes completarios ente sigo, otros son bienes sustitutivos ente sigo, etc. Amás ye necesariu incorporar al modelu la renta disponible de los consumidores. Nun modelu con n productos nun esiste una curva de demanda sinón que tien de falase d'una hipersuperficie (2n-1)-dimensional que representa la demanda conxunta de bienes y los posibles conxuntos d'indiferencia. Per otra parte tendrán d'esistir n hipersuperficies que representen les ufiertes de cada unu de los productos. Toes estes hipersuperficies so hipótesis similares a les plantegaes pa un mercáu d'un productu se intersecarían nun únicu puntu, que dexaría predicir los precios de los n productos y les cantidaes consumíes de cada unu.
+Esisten modelos qu'incorporen el tiempu y asumen que nun esiste axuste instantáneu de la ufierta y la demanda, dependiendo del modelu los precios pueden fluctuar pero nun ta claro que so cualquier condición converxan a unos precios estables.
+
+
+== Crítiques y llimitaciones del modelu ==
+El modelu de Marshall sofitar en dellos supuestos ensin los cualos, suxúrese, escarez de validez. Estos supuestos pueden ser resumíos de la siguiente manera:
+
+Esistencia de "curves" de demanda. Asumir qu'esiste una curva de demanda definida que se caltién estable mientres un periodu más o menos llargu. Esto rique por casu que'l consumidor planie de mano como va distribuyir el so ingresu ente distintos productos y que tenga unes prefrencias o necesidaes estables. Si'l consumidor merca ciertos productos namái si atopar por casualidá nun comerciu o por imitación caprichosa d'otros, entós nun esiste planificación nin maximización de la utilidá y por tantu nun hai una curva definida de mano. Conductes psicolóxiques como'l consumu compulsivu anulen la posibilidá de qu'un consumidor tenga una curva de demanda bien definida.
+Esistencia de "curves" d'ufierta, que la so deducción sofitar básicamente en costos medios y costos marxinales, asumir por tantu que la ufierta ye constreñida namái pola esistencia (cantidá) de recursos económicos. Si la producción rique de ciertos recursos que pueden tar temporalmente non disponible, esisten tiempos llargos de producción o nun se conocen con precisión les demandes previstes puede haber escedentes temporales o escaseces que de toes formes nun alterien el preciu (al curtiu plazu).
+Esistencia d'equilibriu xeneral, asumir la esistencia d'un estáu d'equilibriu económicu o una situación bien cercana al equilibriu. Asumir que nun esisten torgues pa l'alquisición o distribución de productos y acéptase que'l factor tiempu ye pocu importante reaccionando la cantidá ufiertada de manera casi instantánea a la cantidá demandada.
+Conocencia perfecta, asumir que ye posible llograr los datos económicos necesarios pa efeutuar el cálculu riquíu tantu pa suxurir a nivel teóricu'l modelu como pa derivar a nivel práuticu suxerencies d'aición.
+Competencia perfecta, asumir un mercáu en competencia perfecta, con accesu xeneral a información.
+Independencia de la ufierta y la demanda, asumir que tanto la demanda como la ufierta son variables independientes ente sigo.Ye bien senciellu dar exemplos de mercaos y situaciones nes que dalgún o dellos d'estos supuestos nun se cumplen nin en parte nin na so totalidá. El fechu de que nel mundu real dalguna de les condiciones necesaries por que'l modelu d'ufierta y demanda sía válidu, llevaron a crítiques globales que cuestionen la esistencia mesma d'una posible llei de la ufierta y la demanda a les que crítiques parciales, que namái cuestionen dalgunes de los sos supuestos y, consecuentemente, adecuan l'aplicación y o estensión del modelu.
+
+Hai una variedá de crítiques parciales, que se basen na perceición que la condición xeneral del mercáu nun ye la de competencia perfecta sinón una de competencia imperfecta. Autores tales como Joan Robinson y otros introducieron l'analís en condiciones d'oligopolio y oligopsionio, con teoríes y modelos tales como la Teoría de la Competencia monopolística, la Competencia de Stackelberg y el Teorema de la telaraña, etc.
+En adición, hai tamién una variedá de crítiques más xenerales. Asina, por casu, el filósofu y sociólogu positivista Émile Durkheim, nel so llibru 'Les regles del métodu sociolóxicu', nel capítulu trés, fala de la creación de lleis nes ciencies sociales y critica l'algame empíricu que se-y dio a la llei de la ufierta y la demanda. Durkheim va tan llueñe como a suxurir que la ufierta y la demanda escarez de validez cuidao que “la celebrada llei de la ufierta y la demanda nunca foi establecida inductivamente como una espresión de la realidá económica.Otru aproximamientu que cuestiona la validez de la propuesta provien de la escuela austriaca. Dende esti puntu de vista escribióse: “Para Mises, y acordies cola cita qu'encabeza esti artículu, nun tien sentíu la construcción de la Ciencia Económica basada nel modelu d'equilibriu y nel que se supón que tola información relevante pa construyir les correspondientes funciones d'ufierta y demanda considérase "dada". y “pa los austriacos n'economía, y a diferencia de lo qu'asocede nel mundu de la física y de les ciencies naturales, nun esisten rellaciones funcionales (nin, por tanto, funciones d'ufierta, nin de demanda nin de costos nin de nengún otru tipu).Dende un puntu de vista económicu, Piero Srafa (1926) criticó la inconsistencia (sacante en circunstancies escepcionales, tales como la de competencia perfecta) de la suxerencia d'un equilibriu económicu y la lóxica que lleva a la suxerencia que la curva d'ufierta tendría una rimada ascendente nun mercáu pa bienes de consumu. Esta crítica entá se considera valida dende'l puntu de vista de la lóxica económica. Paul Samuelson, revisando los argumentos, nota:
+
+Lo qu'una versión modernizada o simplificada del argumentu de Piero Sraffa (1926) establez ye cuan casi totalmente vacíes tán toles categoríes (boxes, nel orixinal) del equilibriu parcial de Marshall. Pa un purista lóxicu de la clase de Wittgenstein y Sraffa, la categoría del equilibriu parcial marshalliano de costos constantes ta entá más balera que la categoría de costos incrementales.El puntu central d'esta crítica puede resumise de la siguiente manera: nel modelu “estándar” (marshalliano) d'ufierta y demanda, les llinies d'ufierta y demanda crúciense y crúciense nun solu puntu. Sicasí'l Teorema de Sonnenschein-Mantel-Debreu amuesa qu'eso nun ye necesariamente la tema. Sigue amás que'l modelu d'ufierta y demanda mesmu non puede derivase con rigurosidad del modelu xeneral del equilibriu económicu.Sicasí, Goodwin, Nelson, Ackerman y Weissskopf suxuren que: “Ye importante nun poner demasiao enfotu en regalices aparentemente precisión de gráficos d'ufierta y demanda. L'analís de la ufierta y la demanda ye una ferramienta conceptual preséu y precisa que xente intelixente crearon p'ayudar a ganar una comprensión astracta d'un mundu complexu. Nun nos da -y nun se debería esperar que nos diera- en adición una descripción fiel y completo de cualquier mercáu del mundu real.”.Un modelu alternativu posible d'establecimientu de precios de mercáu atopar nel del tantéu walrasiano, que, a diferencia del de la ufierta y demanda, afai fácilmente un rangu de precios.
+
+
+== Ufierta y demanda empresariales ==
+
+
+=== La ufierta de la empresa ===
+El segundu elementu constitutivu de la fixación de los precios ye la ufierta d'un bien. La ufierta ye la cantidá d'un bien económicu que los productores van poner nel mercáu (dáu'l nivel de precios y los sos costos de producción). Na mesma lóxica de la demanda, puede asumise que los productores van ufiertar mayor o menor cantidá de productu en función del so preciu: a mayor preciu van ufiertar más cantidá y menos a un preciu más amenorgáu.
+La elasticidá de la ufierta indica'l grau de respuesta de la cantidá ufiertada ante cambio nel preciu. El so factor condicionante más significativu ye'l tiempu, del cual establécense trés variantes:
+
+Nel curtiu plazu, la empresa nun va poder reaccionar aumentando la so producción ante les xubíes de los precios, una y bones lo normal va ser que nun disponga de los recursos necesarios.
+Nel mediu plazu, quiciabes nun va poder modificar la so dimensión, pero sí consiguir un usu más intensivu de los recursos disponibles.
+Al llargu plazu va poder modificar la so dimensión, lo que-y dexará responder con mayores producciones a los aumentos de precios.Poro, a mayor periodu de tiempu, mayor va ser la elasticidá de la ufierta.
+Amás del preciu esisten otros factores qu'inflúin sobre la cantidá ufiertada: los precios de los factores granibles, los costos de producción, el nivel teunolóxicu, la esistencia de productos sustitutivos, la organización del mercáu, etc.
+
+
+=== La demanda de la empresa ===
+El conceutu de demanda espresa qué cantidaes d'un bien ta dispuestu a adquirir un consumidor a los distintos precios del mesmu. En términos xenerales puede establecese que, a menor preciu, la cantidá demandada va aumentar.
+Esisten dos esceición a esti supuestu: los bienes de primera necesidá, que la so demanda ver bien pocu afeutada pol aumentu del preciu, y los bienes de luxu, que se demanden ensin tener en cuenta'l so preciu. Puede afirmase que, pa los bienes normales, la cantidá demandada guarda una rellación específica col so preciu: aumenta cuando ésti mengua, y mengua cuando'l preciu aumenta.
+
+
+=== La elasticidá de la demanda ===
+
+La cantidá demandada d'un bien non siempres respuende de forma igual a los cambeos nos precios. Nunos casos, un pequeñu cambéu nel preciu da llugar a una alteración significativa na cantidá demandada, ente que n'otres ocasiones apenes si afectar.
+El conceutu d'elasticidá-aprecio de la demanda fai referencia a la sensibilidá de la cantidá demandada ante les variaciones nel preciu. Arriendes d'ello, la demanda ye elástica si un cambéu porcentual nel preciu da llugar a un cambéu porcentual mayor na cantidá demandada, inelástica si ye menor y unitaria cuando dambes son iguales. 
+La recta de la demanda nel gráficu 2 ye bien elástica, yá que, como queda espresáu gráficamente, un llixeru aumentu de preciu (de p' a p'’) da llugar a un amenorgamientu significativu de la demanda (de q’ a q’’).
+Otra manera, la recta de la demanda B ye bien inelástica, una y bones el mesmu aumentu nel preciu apenes modifica la cantidá demandada.
+La elasticidá-aprecio de la demanda depende de les siguientes circunstancies:
+
+Del tipu de bien del que se trate. Un bien de primera necesidá va tener una demanda bien inelástica.
+De la esistencia de bienes sustitutivos. La esistencia d'otros munchos bienes similares va faer a la demanda más elástica con rellación al so preciu.
+De la parte que representa'l consumu d'un bien nel total de la renta: la demanda d'un bien va ser más elástica cuanto mayor sía la so participación na renta.
+De la elasticidá-aprecio de la demanda, que nun ye igual en tolos puntos de la recta de la demanda, sinón que depende de la naturaleza del bien.
+Del tiempu consideráu: cuanto mayor sía ésti, mayor va ser la respuesta de la cantidá demandada a los cambeos nel preciu.La cantidá demandada d'un determináu bien nun depende namái del so preciu. Van Haber de tenese en cuenta otros factores que lu condicionen, como'l preciu de los demás bienes, la renta y riqueza del consumidor, los gustos y modes qu'afecten a los sos deseos, los vezos de consumu y enforma otros factores coyunturales o suxetivos de distinta naturaleza.
+
+
+== Ver tamién ==
+Sistema de precios
+Equilibriu parcial
+Barreres d'entrada
+Llei de Say
+Elasticidá
+Hestoria del pensamientu económicu
+Microeconomía
+Proteicionismu
+Beneficios
+Curva de la demanda
+La Riqueza de les Naciones
+Economía
+
+
+== Referencies ==
+
+
+== Enllaces esternos ==
+Nobelpricewinner Prof. William Vickrey: 15 fatal fallacies of financial fundamentalism-A Disquisition on Demand Side Economics
+L'equilibriu del mercáu
+Les curves d'ufierta y demanda de Fleeming Jenkin
+ufierta-y-la demanda.htm Interacción d'Ufierta y demanda
+La Mala Educación: la Teoría de la Ufierta
+Aspeutos Críticos de la Teoría de la Demanda

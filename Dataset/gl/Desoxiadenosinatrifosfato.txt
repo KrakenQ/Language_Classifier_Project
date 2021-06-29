@@ -1,0 +1,11 @@
+A desoxiadenosina trifosfato ou trifosfato de desoxiadenosina, abreviado como dATP, é un nucleósido trifosfato formado polo nucleósido desoxiadenosina esterificado cun grupo de tres fosfatos. A molécula está formada polo azucre desoxirribosa enlazada coa base nitroxenada adenina por enlace N-glicosídico entre o carbono 1' do azucre e o nitróxeno en posición 9 da base, e un grupo de tres fosfatos esterificado no carbono 5' cos fosfatos unidos entre si por enlace anhidro.
+A dATP intervén na síntese do ADN. O dATP chega á zona onde se está producindo a replicación do ADN, perde dous fosfatos en forma de pirofosfato, e únese á cadea de ADN en formación como dAMP.
+A dATP orixínase por fosforilación do dADP cun fosfato cedido polo GTP en reacción catalizada por unha nucleósido difosfoquinase .
+
+GTP + dADP → GDP + dATP  
+Ou tamén do ATP en reaccións como esta:
+
+ATP + dADP → ADP + dATP
+
+
+== Notas ==

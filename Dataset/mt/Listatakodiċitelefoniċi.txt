@@ -1,0 +1,355 @@
+Din hija lista ta' kodiċi telefoniċi, magħrufa wkoll bħala international direct dialing (IDD) codes, li jiġu wżati biex wieħed ikollu aċċess għal servizz internazzjonali tat-telefon. In-numru huma assenjati mill-Unjoni Internazzjonali tat-Telekomunikazzjoni fi standard E.164.
+In-numri huma kodiċi prefiss sabiex l-ebda numru ma jkollu l-parti inizzjali li tkun numru ieħor eżistenti. Il-kodiċi jiġi wżat biex wieħed iċempel fil-pajjiż speċifikat; kull pajjiż għandu wkoll prefiss internazzjonali li jiġi wżat biex wieħed ikun jista' jċempel barra l-pajjiż.
+
+
+== Interazzjoni mal-kodiċi nazzjonali ==
+Ċerti pajjiżi (per eżempju, il-Ġermanja u r-Renju Unit) jirrikjedu li min iċempel ma jużax iż-"0" li jkun fil-bidu tal-kodiċi nazzjonali meta użat internazzjonalment. Dan għaliex iż-żero huwa indikazzjoni li warajh hemm prefiss nazzjonali u mhux sempliċi numru lokali. Dan huwa simili għal użu ta' trunk code f'pajjiżi bħall-Istati Uniti, li tuża' l-"1" fil-bidu biex tindika li warajh hemm kodiċi nazzjonali. Għal telefonati internazzjonali, il-prefiss nazzjonali huwa dejjem użat allura t-trunk code m'għandux użu. Per eżempju, biex iċempel lil xi ħadd il-Ġermanja bin-numru nazzjonali tat-telefon 089 123456, xi ħadd minn barra l-Ġermanja jkollu iċempel +49 89 123456, fejn il-+ ifisser il-prefiss internazzjonali. Din iżda, ma tappellax għal kull pajjiż (e.ż. l-Italja).
+
+
+== Ħarsa ġenerali ==
+
+
+== F'iktar dettal ==
+
+
+=== Żona 1 – Amerika ta' Fuq ===
+Stati Uniti tal-Amerika
+Inklużi t-territorji Amerikani fil-Gżejjer Paċifiċi:
+Gwam (671)
+Gżejjer Marjani ta' Fuq (670)
+Samoa Amerikana (684)
+Kanada
+Ħafna, imma mhux kull stat tal-Karibew. Kull wieħed minn dawn l-istati għandu prefiss taż-żona differenti (area code bl-Ingliż):
+Angwilla (264)
+Antigwa u Barbuda (268)
+Baħamas (242)
+Barbados (246)
+Bermuda (441)
+Gżejjer Verġni Brittaniċi (284)
+Gżejjer Kajman (345)
+Dominika (767)
+Repubblika Dominikana (809, 829)
+Grenada (473)
+Ġamajka (876)
+Montserrat (664)
+Porto Riko (787)/(939)
+San Kitts u Nevis (869)
+Santa Luċija (758)
+San Vinċenz u l-Grenadini (784)
+Trinidad u Tobago (868)
+Gżejjer Turks u Kajkos (649)
+Gżejjer Verġni Amerikani (340)
+
+
+=== Żona 2 – Parti kbira tal-Afrika ===
+20 – Eġittu
+210 – mhux assenjat
+211 – mhux assenjat
+212 – Marokk
+213 – Alġerija
+214 – mhux assenjat
+215 – mhux assenjat
+216 – Tuneżija
+217 – mhux assenjat
+218 – Libja
+219 – mhux assenjat
+220 – Gambja
+221 – Senegal222 – Mawritanja
+223 – Mali
+224 – Gwinea
+225 – Kosta tal-Avorju
+226 – Burkina Faso
+227 – Niġer
+228 – Togo
+229 – Benin
+230 – Mawrizji
+231 – Liberja
+232 – Sierra Leone
+233 – Gana
+234 – Niġerja
+235 – Ċad
+236 – Repubblika Afrikana Ċentrali
+237 – Kamerun
+238 – Kape Verde
+239 – São Tomé u Príncipe
+240 – Gwinea Ekwatorjali
+241 – Gabon
+242 – Repubblika tal-Kongo (Brazzaville)
+243 – Repubblika Demokratika tal-Kongo (Kinshasa, kienet magħrufa bħala ż-Żajr)
+244 – Angola
+245 – Gwinea-Bissaw
+246 – Diego Garcia
+247 – Ascension Island
+248 – Seychelles
+249 – Sudan
+250 – Rwanda
+251 – Etjopja
+252 – Somalja
+253 – Dġibuwti
+254 – Kenja
+255 – Tanżanija
+256 – Uganda
+257 – Burundi
+258 – Możambikk
+259 – Żanżibar - qatt ma ġie implimentat - ara 255 Tanżanija
+260 – Żambja
+261 – Madagaskar
+262 – Réunion
+263 – Żimbabwe
+264 – Namibja
+265 – Malawi
+266 – Lesoto
+267 – Botswana
+268 – Sważiland
+269 – Komoros u Mayotte
+27 – Afrika t'Isfel
+28x – mhux assenjat
+290 – Sant'Elena
+291 – Eritrea
+292 – mhux assenjat
+293 – mhux assenjat
+294 – mhux assenjat
+295 – m'għadux użat (kien assenjat lil San Marino, ara +378)
+296 – mhux assenjat
+297 – Aruba
+298 – Gżejjer Faroe
+299 – Groenlandja
+
+
+=== Żona 3 – Ewropa ===
+3 – mhux assenjat (propost fl-1996 bħala l-kodiċi tal-Unjoni Ewropea)
+30 – Greċja
+31 – Olanda
+32 – Belġju
+33 – Franza
+34 – Spanja
+350 – Ġibiltà
+351 – Portugall
+352 – Lussemburgu
+353 – Repubblika tal-Irlanda
+354 – Iżlanda
+355 – Albanija
+356 – Malta
+357 – Ċipru
+358 – Finlandja
+359 – Bulgarija
+36 – Ungerija
+37 – m'għadux użat (kien assenjat lill-Ġermanja tal-Lvant, li illum f'dawn ir-reġjunijiet jużaw il-kodiċi +49 tal-Ġermanja unita)
+370 – Litwanja
+371 – Latvja
+372 – Estonja
+373 – Moldova
+374 – Armenja
+375 – Belarus
+376 – Andorra
+377 – Monako
+378 – San Marino
+379 – Belt tal-Vatikan
+38 – kien assenjat lill-Jugożlavja qabel ma sseparat
+380 – Ukrajna
+381 – Serbja u Montenegro
+382 – mhux assenjat
+383 – mhux assenjat
+384 – mhux assenjat
+385 – Kroazja
+386 – Slovenja
+387 – Bożnija u Ħerżegovina
+388 – Spazju ta' numerazzjoni telefonika Ewropea - Servizzi Ewropej
+389 – Repubblika tal-Maċedonja ta' Fuq
+39 – Italja
+
+
+=== Żona 4 – Ewropa ===
+40 – Rumanija
+41 – Żvizzera
+42 – kien użat miċ-Ċekoslovakkja qabel ma nqasmet
+420 – Repubblika Ċeka
+421 – Slovakkja
+422 – mhux assenjat
+423 – Liechtenstein
+424 – mhux assenjat
+425 – mhux assenjat
+426 – mhux assenjat
+427 – mhux assenjat
+428 – mhux assenjat
+429 – mhux assenjat
+43 – Awstrija
+44 – Renju Unit
+45 – Danimarka
+46 – Żvezja
+47 – Norveġja
+48 – Polonja
+49 – Ġermanja
+
+
+=== Żona 5 – Messiku, Amerika Ċentrali u Amerika t'Isfel, Karibew ===
+500 – Gżejjer Falkland
+501 – Beliże
+502 – Gwatemala
+503 – El Salvador
+504 – Ħonduras
+505 – Nikaragwa
+506 – Kosta Rika
+507 – Panama
+508 – Saint-Pierre u Miquelon
+509 – Ħaiti
+51 – Peru
+52 – Messiku
+53 – Kuba
+54 – Arġentina
+55 – Brażil
+56 – Ċili
+57 – Kolombja
+58 – Veneżwela
+590 – Gwadalup
+591 – Bolivja
+592 – Gujana
+593 – Ekwador
+594 – Gujana Franċiża
+595 – Paragwaj
+596 – Martinika
+597 – Surinam
+598 – Urugwaj
+599 – Antilli Olandiżi
+
+
+=== Żona 6 – Paċifiku t'Isfel u Oċeanja ===
+60 – Malażja
+61 – Awstralja
+62 – Indoneżja
+63 – Filippini
+64 – New Zealand
+65 – Singapor
+66 – Tajlandja
+670 – Timor-Leste - kien użat mill-Gżejjer Marjani ta' Fuq li illum jużaw il-prefiss +1
+671 – kien assenjat lil Gwam, li illum tuża' l-prefiss +1
+672 – Territorji Esterni Awstraljani: Antartika, Gżejjer tal-Milied, Gżejjer tal-Kokos u Gżira Norfolk
+673 – Brunej
+674 – Nawru
+675 – Papwa Gwinea l-Ġdida
+676 – Tonga
+677 – Gżejjer Solomon
+678 – Vanwatu
+679 – Fiġi
+680 – Palaw
+681 – Wallis u Futuna
+682 – Gżejjer Cook
+683 – Niue
+684 – Samoa Amerikana
+685 – Samoa tal-Punent
+686 – Kiribati, Gżejjer Gilbert
+687 – Kaledonja l-Ġdida
+688 – Tuvalu, Gżejjer Ellice
+689 – Polineżja Franċiża
+690 – Tokelaw
+691 – Stati Federali tal-Mikroneżja
+692 – Gżejjer Marshall
+693 – mhux assenjat
+694 – mhux assenjat
+695 – mhux assenjat
+696 – mhux assenjat
+697 – mhux assenjat
+698 – mhux assenjat
+699 – mhux assenjat
+
+
+=== Żona 7 – Russja u l-Asja Ċentrali (eks-Unjoni Sovjetika) ===
+7 – Russja, Każakistan
+
+
+=== Żona 8 – Asja tal-Lvant u Servizzi Speċjali ===
+800 – International Freephone (UIFN)
+801 – mhux assenjat
+802 – mhux assenjat
+803 – mhux assenjat
+804 – mhux assenjat
+805 – mhux assenjat
+806 – mhux assenjat
+807 – mhux assenjat
+808 – riservat għal Shared Cost Services
+809 – mhux assenjat
+81 – Ġappun
+82 – Korea t'Isfel
+83x – mhux assenjat
+84 – Vjetnam
+850 – Korea ta' Fuq
+851 – mhux assenjat
+852 – Ħong Kong
+853 – Makaw
+854 – mhux assenjat
+855 – Kambodja
+856 – Laos
+857 – mhux assenjat
+858 – mhux assenjat
+859 – mhux assenjat
+86 – Repubblika taċ-Ċina
+870 – Servizz Inmarsat "SNAC"
+875 – riservat għas-Servizz Mobbli Marittimu
+876 – riservat għas-Servizz Mobbli Marittimu
+877 – riservat għas-Servizz Mobbli Marittimu
+878 – Universal Personal Telecommunications services
+879 – riservat għas-Servizz Mobbli Marittimu
+880 – Bangladexx
+881 – Mobile Satellite System
+882 – International Networks
+883 – mhux assenjat
+884 – mhux assenjat
+885 – mhux assenjat
+886 – Tajwan
+887 – mhux assenjat
+888 – mhux assenjat
+889 – mhux assenjat
+89x – mhux assenjat
+
+
+=== Żona 9 – Asja tal-Punent u Nofsinhar, Lvant Nofsani ===
+90 – Turkija
+91 – Indja
+92 – Pakistan
+93 – Afganistan
+94 – Sri Lanka
+95 – Burma (Mjanmar)
+960 – Maldivi
+961 – Libanu
+962 – Ġordan
+963 – Sirja
+964 – Iraq
+965 – Kuwajt
+966 – Arabja Sawdija
+967 – Jemen
+968 – Oman
+969 – kien użat mir-Repubblika Demokratika tal-Jemen, illum magħquda mal-Jemen (967)
+970 – Palestina
+971 – Emirati Għarab Magħquda
+972 – Iżrael
+973 – Baħrejn
+974 – Qatar
+975 – Butan
+976 – Mongolj
+977 – Nepal
+978 – mhux assenjat
+979 – International Premium Rate Service
+98 – Iran
+990 – mhux assenjat
+991 – International Telecommunications Public Correspondence Service trial (ITPCS)
+992 – Taġikistan
+993 – Turkmenistan
+994 – Ażerbajġan
+995 – Ġeorġja
+996 – Kirġiżistan
+997 – mhux assenjat
+998 – Użbekistan
+999 – mhux assenjatŻero (0) mhux assenjat.
+
+
+== Ara wkoll ==
+E.164
+Kodiċi tal-Pajjiżi
+Numru Telefoniku
+
+
+== Ħoloq esterni ==
+http://www.itu.int/dms_pub/itu-t/opb/sp/T-SP-E.164D-2016-PDF-E.pdf
+http://www.itu.int/dms_pub/itu-t/opb/sp/T-SP-LT.1-2015-PDF-E.pdf
+http://web.archive.org/20101010184652/www.itu.int/dms_pub/itu-t/opb/sp/T-SP-E.164C-2010-PDF-E.pdf
+http://www.wtng.info/

@@ -1,0 +1,26 @@
+İndeks(göstərici, en. index ~ ru. индекс, указатель ~ tr. dizin) – 1. Daha dolğun informasiyanın yerləşdiyi yeri göstərən açar sözlərin və ya onlarla əlaqəli verilənlərin siyahısı. Göstərici oxucuya kitabda lazım olan fraqmenti tapmağa yardım edir. O, kitabın bir hissəsi, yaxud çoxcildlik nəşrdə ayrıca cild ola bilər. Kitabda, adətən, aşağıdakı göstəricilər olur:
+• ad göstəricisi, 
+• coğrafi göstərici,
+• müəlliflər göstəricisi (əgər məqalələr müəlliflərin adlarına görə düzülməyibsə),
+• sitatlar göstəricisi,
+• atalar sözləri və zərbi-məsəllər göstəricisi,
+• xronoloji göstərici,
+• əsərlər göstəricisi (çoxcildlik üçün).
+2. Obyektin yerləşmə yerinin göstəricisi; məsələn: kataloqun indeksi faylın diskdə yerləşmə yerini göstərir, yazının indeksi açar sahələrin yerləşmə yerini müəyyənləşdirir. 
+3. Şəhadət barmağı açılmış yumruğun piktoqramı.
+4. Proqramlaşdırmada: mürəkkəb verilənlər strukturuna (məsələn, massivə) birbaşa erişməni təmin edən skalyar kəmiyyət. Belə indeks proqramçıya istədiyi elementi almaq üçün elementlər çoxluğunda ardıcıl axtarış aparmadan həmin elementin yerləşdiyi yeri hesablamağa və ya başqa yolla əldə etməyə imkan verir. 
+
+adlar siyahısı;
+siyahı, cədvəl;
+iqtisadiyyatda hər hansı bir iqtisadi hadisənin ardıcıl dəyişməsini faizlə ifadə edən rəqəm;
+riyazi ifadələri bir-birindən fərqləndirmək üçün hərfi və ya ədədi göstərici;
+müəyyən dövr ərzində iqtisadi və sosial proseslərin göstəricilərinin dəyişməsini nisbi şəkildə səciyyələndirən iqtisadi və statistik göstərici;
+indeksləşdirmə: əmək haqqı indeksi;
+adlar, sərlövhələr və s. göstəricisi, siyahısı; hərflərdən, rəqəmlərdən, yaxud hər ikisinin qarışığından alınan şərti işarələr sistemi (məs., kitabxana – biblioqrafiya nəşriyyatı indeksi, kitab ticarəti indeksi, poçt indeksi və s.);
+statistikada statistik göstəricinin mövcud (hesabat) səviyyəsinin müqayisə üçün əsas qəbul edilmiş digər səviyyəsinə nisbəti kimi hesablanan nisbi kəmiyyətlər;
+riyazi ifadəyə daxil olan hərfin sağ tərəfində (adətən altında) yazılan rəqəm və ya hərf; Məsələn, A2 Xp.
+
+
+== Ədəbiyyat ==
+İsmayıl Calallı (Sadıqov), “İnformatika terminlərinin izahlı lüğəti”, 2017, “Bakı” nəşriyyatı, 996 s.
+Əliquliyev R.. Şükürlü S., Kazımova S. Elmi fəaliyyətdə istifadə olunan terminlər. Bakı, İnformasiya Texnologiyaları, 2009, 201 s.

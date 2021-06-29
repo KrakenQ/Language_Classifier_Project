@@ -1,0 +1,38 @@
+SYN Cookies es una técnica usada para defensa del ataque inundación SYN. 
+Daniel J. Bernstein, inventor inicial de la técnica,[1]​ define a SYN Cookies como "una particular selección de números de secuencia para servidores TCP ". En particular, el uso de SYN Cookies, permite al servidor, evitar el rechazo de nuevas conexiones cuando la cola SYN se llena. En su lugar, el servidor se comporta como si la cola SYN, hubiera sido extendida. El servidor responde el correspondiente paquete SYN+ACK al cliente, pero descartando la entrada SYN en su cola. El servidor entonces recibe el correspondiente ACK desde el cliente, estando en condiciones de reconstruir la entrada SYN en la cola, usando la información codificada en el número de secuencia TCP elegido.
+
+
+== Implementación ==
+Con el fin de iniciar una conexión TCP, el cliente envía un paquete TCP SYN, al servidor. En respuesta, el servidor responde un paquete TCP SYN+ACK al cliente. Uno de los valores en este paquete, es el número de secuencia, el cual es usado por el protocolo TCP, para reensamblar el flujo de datos. De acuerdo a la especificación TCP, ese primer número de secuencia enviado, puede ser decidido por cada parte.
+La técnica SYN Cookie, elige un número de secuencia cuidadosamente construido, sobre la base de las siguientes reglas:
+
+t = Un Timestamp con crecimiento retardado (típicamente time() desplazado a la derecha 6 posiciones, dando una resolución de 64 segundos)
+m = El valor de tamaño máximo de segmento que el servidor podría haber grabado en la entrada SYN de la cola
+s = El resultado de una función secreta de cifrado, calculada sobre la base de dirección IP del servidor, y su número de puerto, dirección IP del cliente y su número de puerto, y el valor t. El valor retornado s, debe ser de 24 bits de longitud.El número de secuencia TCP inicial en SYN Cookie, se calcula como sigue:
+
+Primeros 5 bits: t Módulo 32
+Próximos 3 bits: un valor codificado representando m
+Finales 24 bits: s(Nota: debido a que m debe ser codificado usando 3 bits, el servidor está restringido a enviar hasta 8 posibles valores cuando SYN Cookies es usado.)
+Cuando el cliente envía un paquete TCP ACK al servidor, en respuesta al paquete SYN+ACK, el cliente DEBE (acordando la especificación TCP), usar n+1 en el número de reconocimiento, donde n es el número de secuencia inicial enviado por el servidor. El servidor substrae 1 del número de reconocimiento para obtener el número enviado al cliente usando SYN Cookie.
+El servidor entonces realiza las siguientes operaciones:
+
+Chequea el valor t respecto del tiempo actual, para ver si la conexión ha expirado.
+Recalcula s para determinar si este es un SYN cookie válido.
+Decodifica el valor m de los 3 bits codificados en SYN Cookie, el cual puede usar para reconstruir la entrada en la cola SYN.A partir de este punto en adelante, la conexión continúa normalmente.
+
+
+== Desventajas ==
+El uso de SYN Cookies, no está en desacuerdo con la especificación de algún protocolo, por lo tanto debe ser compatible con todas las implementaciones de TCP. Hay sin embargo, 3 advertencias que deben ser consideradas cuando se implementa SYN Cookies.
+
+El servidor está limitado a solo 8 únicos valores de MSS, limitado a la codificación de 3 bits.
+El servidor debe rechazar todas las opciones de TCP (tales como tamaño de ventanas), a causa de descartar la entrada en la cola SYN, donde esta información podría ser grabada.
+Una conexión puede estropearse cuando el ACK final de los tres pasos de establecimientos de conexión de TCP, se pierde, y el cliente espera datos desde el servidor (Ej: el cliente ha completado los tres pasos de conexión, el servidor no recibe el ACK del cliente, y no abre la conexión).[2]​Mientras estas restricciones necesariamente llevarían a una pobre implementación, sus efectos son raramente notados por los clientes. Además, estas restricciones necesitan sólo aplicarse cuando el servidor está bajo ataque, y la conexión podría de otro modo haber sido denegada. En tal situación la pérdida de algunas opciones con el fin de asegurar la conexión, suelen ser un compromiso razonable. La versión 2.6.26 del núcleo Linux, añade un soporte limitado de opciones de TCP, codificándolas en una estama de tiempo.[3]​
+El estándar TCPCT, (tcp cookie transaction) está diseñada para superar estas deficiencias de SYN cookies, y mejorarla en algunos otros aspectos.
+Diferente a SYN Cookies, TCPCT es una extensión TCP, y requiere que ambas puntas que integran la conexión, la soporten.[4]​
+
+
+== Historia ==
+La técnica fue creada por Daniel J. Bernstein y Eric Schenk en septiembre de 1996. La primera implementación para SunOS fue liberada por Jeff Weisberg un mes después, y Eric Schenk liberó su implementación Linux en febrero de 1997 (la actual implementación usa net.ipv4.tcp_syncookies).
+
+
+== Referencias ==

@@ -1,0 +1,13 @@
+Socket 8 je pätica procesora x86 kompatibilná, ktorá sa spájkuje na základné dosky osobných počítačov.
+Táto pätica sa používala výhradne pre procesory Pentium Pro, Pentium II OverDrive. Jej nástupcom je Slot 1.
+
+
+== Technické vlastnosti ==
+Je to unikátna obdĺžniková pätica so 387 pinmi.
+Má priepustnosť 60 až 66 MHz.
+Podporované napätie je 3,1 alebo 3,3 V.
+Podporované procesory sú len Pentium Pro a Pentium II OverDrive.
+
+
+== Zdroj ==
+Tento článok je čiastočný alebo úplný preklad článku Socket 8 na českej Wikipédii.

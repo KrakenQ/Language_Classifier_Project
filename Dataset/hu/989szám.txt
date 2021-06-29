@@ -1,0 +1,7 @@
+A 989 (római számmal: CMLXXXIX) egy természetes szám, félprím, a 23 és a 43 szorzata.
+
+
+== A szám a matematikában ==
+A tízes számrendszerbeli 989-es a kettes számrendszerben 1111011101, a nyolcas számrendszerben 1735, a tizenhatos számrendszerben 3DD alakban írható fel.
+A 989 páratlan szám, összetett szám, azon belül félprím, kanonikus alakban a 231 · 431 szorzattal, normálalakban a 9,89 · 102 szorzattal írható fel. Négy osztója van a természetes számok halmazán, ezek növekvő sorrendben: 1, 23, 43 és 989.
+A 989 négyzete 978 121, köbe 967 361 669, négyzetgyöke 31,44837, köbgyöke 9,96320, reciproka 0,0010111. A 989 egység sugarú kör kerülete 6214,07027 egység, területe 3 072 857,748 területegység; a 989 egység sugarú gömb térfogata 4 052 075 083,6 térfogategység.

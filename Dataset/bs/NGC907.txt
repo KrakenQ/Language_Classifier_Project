@@ -1,0 +1,44 @@
+NGC 907 (također poznat kao ESO 545-10, IRAS 02207-2056, MCG -4-6-34, PGC 9054 i UGCA 28) je prečkasta spiralna galaksija koja je udaljena oko 76 miliona sg od Zemlje i nalazi se u sazviježđu Kit. Najveći prečnik je 1,80 (40 hiljada sg) a najmanji 0,6 uglovnih minuta (13 hiljade sg). Prvo otkriće je napravio John Frederick William Herschel 20. oktobra 1784. godine.
+
+
+== Najbliži NGC/IC objekti ==
+Sljedeći spisak sadrži deset najbližih NGC/IC objekata.
+
+
+== Također pogledajte ==
+Novi opći katalog
+Spisak NGC objekata
+Spisak galaksija
+
+
+== Bilješke ==
+a  Prividna magnituda od 12,6 – Apsolutna magnituda: M = m - 5 ((log10 DL) - 1), gdje je m=12,6 i DL=23,3 * 106.
+b  1,80 uglovnih minuta – S = A * D * 0,000291 * P, gdje je A=1,80, D=23,3 i P = 3,2616.
+c  Bazirano na euklidsku udaljenost.
+
+
+== Reference ==
+
+
+== Literatura ==
+(en) Steinicke, Wolfgang (2007),  Jakiel, Richard (ured.), Galaxies and How to Observe Them, Springer, ISBN 978-1852337520
+(en) R. J. Buta, H. G. Corwin, Jr., S. C. Odewahn (2007). The de Vaucouleurs Atlas of Galaxies. Cambridge: Cambridge University. ISBN 978-0521820486.CS1 održavanje: više imena: authors list (link)
+(en) Sinnott, R. W. (1988). NGC 2000.0: The Complete New General Catalogue and Index Catalogues of Nebulae and Star Clusters. Sky Publishing. ISBN 978-0-933346-51-2.
+
+
+== Vanjski linkovi ==
+
+
+=== NGC 907 ===
+NGC 907 na WikiSky stranici: DSS2, SDSS, GALEX, IRAS, Hydrogen α, X-Ray, Astrophoto, Sky Map, Članci i slike
+(en) NGC 907 na Aladin pregledaču
+
+
+=== NGC katalog ===
+(en) Interaktivni NGC Online Katalog
+(en) Astronomska baza podataka SIMBAD
+(en) NGC katalog na Messier45.com
+(en) NGC/IC projekt
+(en) NGC2000 na NASA sajtu
+(en) NGC na The Night Sky Atlas sajtu
+Nedovršeni članak NGC 907 koji govori o svemiru treba dopuniti. Dopunite ga prema pravilima Wikipedije.

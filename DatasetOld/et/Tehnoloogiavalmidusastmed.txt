@@ -1,0 +1,13 @@
+Tehnoloogia valmidusastmed (inglise keeles technology readiness levels või TRL) on kontseptsioon, mis võimaldab hinnata arendatava tehnoloogia küpsust ja seda, kui kaugel on tehnoloogia turuvalmidusest.
+Mõiste võttis esmakordselt kasutusele 1980-tel NASA. Hiljem on tehnoloogia valmidusastmete kontseptsiooni kasutusele võtnud mitmed teisedki organisatsioonid, sealhulgas Euroopa Komisjon. Kõige levinum on üheksa-astmelise skaala kasutamine.
+Euroopa Komisjoni defineeritud tehnoloogia valmidusastmed on:
+
+tehnoloogia valmidusaste – uuritakse tehnoloogia põhiprintsiipe (näiteks alusuuringud ja kirjanduse ülevaated)
+tehnoloogia valmidusaste – tehnoloogiline kontseptsioon on sõnastatud (näiteks sõnastatakse vajalikud analüütilised uuringud ja katsed või nende läbiviimise metoodika)
+tehnoloogia valmidusaste – oluliste näitajate ja kontseptsiooni katseline tõestus (näiteks analüütilised ja laboratoorsed uuringud)
+tehnoloogia valmidusaste – tehnoloogia komponentide töö on kontrollitud laboris (näiteks tehnoloogia komponentide projekteerimine, arendamine ja laboris testimine)
+tehnoloogia valmidusaste – tehnoloogia on kontrollitud asjakohases keskkonnas (näiteks testimine simuleeritud keskkonnas, valmis prototüüp)
+tehnoloogia valmidusaste – tehnoloogia on demonstreeritud asjakohases keskkonnas (näiteks tehnoloogia toimimine tõendatud asjakohases simuleeritud keskkonnas)
+tehnoloogia valmidusaste – tehnoloogia (prototüüp) on testitud ja demonstreeritud töökeskkonnas (näiteks tehnoloogia on töökeskkonnas peaaegu täielikult toimiv)
+tehnoloogia valmidusaste – tehnoloogia on valmis ja kontrollitud (näiteks tehnoloogia arendamine on lõpetatud ja integreeritud muude seotud süsteemidega)
+tehnoloogia valmidusaste – tehnoloogia toimib töökeskkonnas (näiteks tehnoloogia on põhjalikult testitud töökeskkonnas ja täielikult integreeritud)Tehnoloogia valmidusastmeid kasutatakse näiteks tehnoloogia arendamisel juhtimisotsuste tegemiseks, riskide hindamisel ning teadus- ja arendustegevuse rahastamisel.

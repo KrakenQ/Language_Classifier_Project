@@ -1,0 +1,127 @@
+Sveinbergeita silikato motako minerala da eta devitoita taldearen kidea da. 
+
+
+== Ezaugarriak ==
+Sveinbergeita silikato mineralaren formula kimikoa hau da: 
+  
+    
+      
+        
+          Ca
+          
+            (
+            
+              Fe
+              
+                6
+              
+              
+                2
+                
+                +
+              
+            
+            
+              Fe
+              
+                3
+                
+                +
+              
+            
+            )
+          
+          
+            Ti
+            
+              2
+            
+            
+              
+            
+          
+          
+            
+              (
+              
+                Si
+                
+                  4
+                
+                
+                  
+                
+              
+              
+                O
+                
+                  12
+                
+                
+                  
+                
+              
+              )
+            
+            
+              2
+            
+            
+              
+            
+          
+          
+            O
+            
+              2
+            
+            
+              
+            
+          
+          
+            
+              (
+              OH
+              )
+            
+            
+              5
+            
+            
+              
+            
+          
+          
+            
+              (
+              
+                H
+                
+                  2
+                
+                
+                  
+                
+              
+              O
+              )
+            
+            
+              4
+            
+            
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {Ca(Fe^{2+}6Fe^{3+})Ti2(Si4O12)2O2(OH)5(H2O)4}}}
+  . Sistema triklinikoaren arabera sortzen ditu kristalak. Mohs eskalaren arabera duen gogortasunaren balioa 3 da.
+
+
+== Eraketa eta meatokiak ==
+
+
+== Erreferentziak ==

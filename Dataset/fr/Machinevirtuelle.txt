@@ -1,0 +1,125 @@
+En informatique, une machine virtuelle (anglais virtual machine, abr. VM) est une illusion d'un appareil informatique créée par un logiciel d'émulation ou instanciée sur un hyperviseur. Le logiciel d'émulation simule la présence de ressources matérielles et logicielles telles que la mémoire, le processeur, le disque dur, voire le système d'exploitation et les pilotes, permettant d'exécuter des programmes dans les mêmes conditions que celles de la machine simulée.
+Un des intérêts des machines virtuelles est de pouvoir s'abstraire des caractéristiques de la machine physique utilisée (matérielles et logicielles — notamment système d'exploitation), permettant une forte portabilité des logiciels et la gestion de systèmes hérités étant parfois conçus pour des machines ou des environnements logiciels anciens et plus disponibles.
+Les machines virtuelles sont également utilisées pour isoler des applications pour des raisons de sécurité, pour augmenter la robustesse d'un serveur en limitant l'impact des erreurs système ou pour émuler plusieurs machines sur une seule machine physique (virtualisation).
+Les inconvénients des machines virtuelles sont d'une part des performances brutes sensiblement inférieures à une exécution sur le matériel en natif (ce qui peut rendre malaisé le test de jeux 3D), d'autre part de consommer une petite partie de la mémoire réelle pour leur propre fonctionnement. Leurs avantages sont de permettre des tests de variantes d'installation sur des machines simulées possédant des tailles de RAM, de mémoire graphique et des nombres de processeurs très divers. 
+L'usage de machines virtuelles est l'un des principes fondamentaux de la technologie Java. 
+
+
+== Histoire ==
+La notion de machine virtuelle a commencé à faire surface dès 1936 dans le domaine de la logique, lorsque Turing invente la machine de Turing universelle. Celle-ci permet de simuler le comportement d'une machine, avec pour entrée un certain programme dont on aimerait simuler l'exécution.
+Le produit VM/370, créé par IBM dans les années 1970, permettait à plusieurs usagers d'utiliser en temps partagé un ordinateur qui exécute le système d'exploitation DOS/VSE (en) qui tout seul n'offrait pas la possibilité d'utilisation en temps partagé.
+VM/370 a été l'un des premiers systèmes de virtualisation en informatique et le premier à être diffusé à l'échelle industrielle. Il fonctionnait sur les ordinateurs IBM 370, bien qu'une version destinée aux universités ait fonctionné sur le modèle 67 sous le nom de Control program (CP). Il a évolué depuis en z/VM aux capacités d'adressage plus étendues, toujours utilisé en 2016. 
+En 1989, les logiciels Desqview, Omniview, VM/386 et Windows/386 permettent de simuler des machines virtuelles qui exécutent le système d'exploitation MS-DOS. Les logiciels Desqview et Windows/386 offrent en plus une interface graphique permettant de voir sur un même écran les différentes machines virtuelles en fonctionnement.
+La machine virtuelle Java a été créée en 1995 par Sun Microsystems. Elle était destinée à exécuter des logiciels téléchargés depuis un serveur Web, ceci quelles que fussent les caractéristiques techniques de l'appareil qui télécharge et exécute le logiciel. Le produit est accompagné du langage de programmation Java, inspiré de C++ et promis à devenir un standard de facto.
+Windows NT et ses successeurs incorporent une machine virtuelle pour simuler une machine qui exécute MS-DOS ; Windows Server 2008 propose un hyperviseur intégré. Linux possède lui aussi un environnement de virtualisation Open Source nommé Xen.
+Créé en 1999, VMware est un logiciel qui permet d'exécuter simultanément plusieurs systèmes d'exploitation sur une même machine (voir plus loin, la section Virtualisation). Une version simplifiée de ce produit de la société VMware, rachetée par EMC Corporation en 2004, a été rendue gratuite par cet éditeur en 2006.
+
+
+== Utilisations ==
+
+
+=== Émulation ===
+
+L'émulation est le fait de mettre en œuvre les fonctionnalités d'un appareil en utilisant un autre appareil offrant des fonctionnalités différentes. Une des utilisations consiste à mettre en œuvre le jeu d'instructions d'un processeur en utilisant un autre processeur. Ceci permet par exemple d'utiliser un ordinateur récent pour exécuter des programmes destinés à un ordinateur ou une console de jeu qui n'existent plus dans le commerce. La simulation s'accompagne d'une baisse significative de la puissance de calcul : la puissance du processeur simulé sera une fraction de celle du processeur simulateur,.
+
+
+=== Multitâches ===
+
+Les machines virtuelles sont utilisées depuis les années 1970 pour mettre en œuvre du multitâches, c'est-à-dire permettre à l'ordinateur de réaliser plusieurs opérations simultanément au service de plusieurs utilisateurs. Une machine virtuelle est affectée à chaque utilisateur, lui donnant l'illusion qu'il est le seul à utiliser l'ordinateur. Cette fonctionnalité est maintenant incluse dans tous les systèmes d'exploitation.
+
+
+=== Machine virtuelle de haut niveau ===
+Dans la technique de la machine virtuelle de haut niveau, le code source des programmes est traduit par un compilateur en un code objet intermédiaire, qui sera traduit plus tard en un code machine utilisant le jeu d'instructions spécifique du processeur qui va simuler la machine. Les programmes sont distribués sur le marché sous forme de bytecode – du code intermédiaire – et peuvent être exécutés par tout appareil informatique qui possède le logiciel nécessaire pour simuler cette machine. 
+Le bytecode utilise un jeu d'instruction d'une machine fictive, qui n'existe pas dans le commerce et il est conçu pour faire abstraction du jeu d'instruction final qui sera utilisé pour exécuter le programme. Cette technique a été utilisée la première fois pour le langage de programmation Pascal en 1980.
+La CLI exploitée par Microsoft .NET et la machine virtuelle Java de Sun Microsystems sont des machines virtuelles de haut niveau.
+
+
+==== Machine virtuelle Java ====
+La spécification technique de la machine virtuelle Java ou JVM, définie en 1995 par la société Sun Microsystems, mentionne le jeu d'instructions du processeur, le format des fichiers exécutables et l'interface de programmation de la bibliothèque standard. La machine virtuelle Java est simulée par un logiciel tel que le Java Runtime Environment. Le slogan de cette technologie est « write once, run anywhere » (« écrire une fois, utiliser n'importe où ») : que le logiciel écrit une seule fois peut être utilisé sur une large palette de machines (qui va du téléphone portable jusqu'au superordinateur).
+Il existe plusieurs implémentations de la JVM, dont la plus utilisée est HotSpot de l'entreprise Oracle Corporation.
+
+
+=== Virtualisation ===
+
+Au sens large, la virtualisation consiste à simuler l'existence de plusieurs machines informatiques en utilisant une seule. Ceci permet en particulier de diminuer les coûts d'achat de matériel informatique et de rentabiliser leur utilisation. Les technologies de 2008 sont si puissantes qu'en condition ordinaire un serveur n'utilise que 10 % des capacités du matériel. La virtualisation permet également de gagner du temps : une courte procédure de modification de la configuration de l'émulateur remplace une longue procédure d'acquisition de matériel informatique.
+KVM, QEMU, VMware, VirtualBox, VirtualPC, Xen et Bochs sont quelques logiciels de virtualisation.
+
+
+==== Serveur dédié virtuel ====
+
+Un serveur dédié virtuel (anglais : virtual private server, abr. VPS) est une machine virtuelle qui simule un serveur informatique destiné à un consommateur en particulier. La machine utilisée pour la simulation sert plusieurs consommateurs simultanément. Chaque serveur dédié virtuel a son propre espace disque et son propre système d'exploitation, qui peut être installé et redémarré par le consommateur.
+
+
+=== Machine virtuelle parallèle ===
+Une machine virtuelle parallèle est un dispositif qui crée l'illusion d'un seul ordinateur alors que les ressources de plusieurs ordinateurs sont utilisées, permettant ainsi d'augmenter la concurrence des calculs. PVM est un ensemble de bibliothèques logicielles et outils de communication pour les réseaux d'ordinateurs qui permet d’agréger un réseau d'ordinateurs en un seul ordinateur virtuel.
+
+
+=== Programmation ===
+Une machine virtuelle est un environnement confiné et contrôlé, abrité contre l'utilisation abusive des ressources matérielles. Ceci en fait un environnement de choix pour l'exécution de programmes qui ne sont pas dignes de confiance, tels que des logiciels en cours de mise au point, et tout particulièrement des systèmes d'exploitation ou encore pour l'analyse de malware. De plus, l'utilisation pour la programmation de systèmes d'exploitation résout un problème circulaire : les logiciels qui servent au développement et à la mise au point du système d'exploitation ont besoin d'un système d'exploitation.
+
+
+== Techniques ==
+L'hyperviseur est le logiciel qui contrôle l'utilisation, par les différentes machines virtuelles, du matériel de l'appareil simulateur. Un hyperviseur de Type 2 utilise le système d'exploitation de l'ordinateur simulateur, tandis qu'un hyperviseur de Type 1 n'a pas besoin de ce système d'exploitation sur l'appareil simulateur.
+Une des fonctionnalités courantes des logiciels hyperviseurs ainsi que des systèmes d'exploitation est de simuler la présence de mémoire centrale par de la mémoire virtuelle. Le mécanisme permet également de simuler la présence de 4 Go de mémoire dans une machine réellement équipée de 1 Go, l'overbooking est mis en œuvre en copiant le contenu inutilisé de la mémoire vers le disque dur.
+
+
+=== Le juste à temps ===
+La compilation juste-à-temps (anglais just-in-time, abr. JIT) est une technique utilisée soit pour simuler un processeur soit pour accélérer l’exécution d'un programme écrit en bytecode.
+Dans le premier cas, le code machine prévu pour le processeur à simuler est traduit en vue de devenir du code machine pour le processeur qui simule.
+Dans le second cas, le programme met un peu plus de temps à se lancer, mais son exécution est plus rapide. L'opération de traduction est réalisée par un logiciel semblable à un compilateur immédiatement avant que le code traduit soit exécuté. Cette technique a été implantée pour le Lisp pour la première fois à la fin des années 1960. La JVM d'Oracle utilise cette technique depuis sa version 1.2 pour des raisons d'efficacité tandis que la machine Dalvik d'Android ne l'utilise pas.
+
+
+=== Machine virtuelle à pile ===
+
+La JVM d'Oracle fonctionne sur ce principe. 
+
+
+=== Machine virtuelle à registre ===
+
+La machine virtuelle Dalvik est basée sur cette technique.
+
+
+== Machine virtuelle de haut niveau ==
+Le logiciel ou l'interpréteur qui met en œuvre une machine virtuelle de haut niveau isole l'application utilisée par l'utilisateur des spécificités de l'ordinateur, c’est-à-dire de celles de son architecture ou de son système d'exploitation. Cette indirection permet au concepteur d'une application de la rendre disponible sur un grand nombre d'ordinateurs sans les contraintes habituelles à la rédaction d'un logiciel portable tournant directement sur l'ordinateur. La compilation juste-à-temps permet dans bien des cas à l'application d'avoir des performances comparables à une application native.
+Windows XP et similaires tournent également dans un environnement virtualisé, qui est créé par la couche HAL. En cas de changement de machine physique, on peut en principe ne changer que le HAL sans toucher au reste de son installation Windows.
+
+
+=== .NET vs. Java et Java EE ===
+La CLI et C# ont plusieurs similarités avec la JVM de Sun et Java. Les deux sont basés sur une machine virtuelle qui cache les détails matériels de l'ordinateur sur lequel leurs programmes s'exécutent. Les deux utilisent leur propre langage intermédiaire bytecode Common Intermediate Language (CIL, anciennement MSIL) pour Microsoft et Java byte-code pour Sun. Avec .NET, le byte-code est toujours compilé avant l'exécution, soit à la volée (JIT, just-in-time) ou en avance en utilisant l'utilitaire ngen.exe. Avec Java, le byte-code est soit interprété soit compilé en avance ou encore compilé juste-à-temps. Les deux fournissent des bibliothèques de classes extensibles qui résolvent plein de problèmes de programmation courants. Ils résolvent  tous deux beaucoup de problèmes de sécurités par la même approche. Les espaces de noms fournis par le .NET Framework ressemblent beaucoup au package de l'API Java EE aussi bien dans le style que dans l'invocation.
+.NET dans sa forme complète (à savoir l'implémentation Microsoft) est actuellement disponible entièrement pour Windows et partiellement pour Linux et Mac, alors que Java est entièrement disponible sur presque toutes les plate-formes. Depuis le début, .NET supporte plusieurs langages et demeure indépendant de la plate-forme de telle sorte que n'importe qui peut le ré-implémenter sur d'autres plate-formes (l'implémentation Microsoft cible uniquement Windows, Windows CE et la Xbox360). La plate-forme Java a été initialement construite pour supporter uniquement le langage Java, mais sur plusieurs systèmes d'exploitation avec le slogan « Write once, run anywhere » (« Écrire une fois, exécuter partout »). D'autres langages ont été développés pour la machine virtuelle java, mais ils ne sont pas très utilisés. L'implémentation Java de Sun est open source (ce qui inclut la bibliothèque de classes, le compilateur, la JVM ainsi que quelques autres outils associés à la plate-forme Java) sous la licence GNU GPL.
+
+
+=== RIA-RDA ===
+De plus en plus de technologies se rejoignent actuellement pour fonctionner côté web et OS. Elles se différencient plus par les outils de production, maintenance que par les technologies utilisées qui se résument en l'utilisation d'un langage de compilation et d'exécution (machine virtuelle) / interprétation et un formalisme xml (xaml, xmm, xul). Ces technologies se retrouvent selon les cas sur des ordinateurs, des téléphones, des pdaphones ou des périphériques multimédias (récepteurs satellite).
+Les RIA sont basées sur une machine virtuelle fonctionnant dans un navigateur web. Les RDA sont basées sur une machine virtuelle fonctionnant sur le système d'exploitation. Les RIA et RDA en évoluant sont de plus en plus multi-langage (C#, javascript, java, C#), multi-interface (swing, wpf, flash, AJAX-ui-widgets), multi OS (Mac, Window, unix), multi-matériel (PC, pda, téléphone).
+
+
+==== Exemples ====
+La Machine virtuelle Java permet d'exécuter du code binaire Java
+CLR, DLR dans la plateforme .NET
+Projet Tamarin, SpiderMonkey : supporte l'exécution du JavaScript à l'intérieur d'un navigateur web
+Flash supportant l'exécution d'ActionScript
+Parrot
+Low Level Virtual Machine
+Rich Internet Application
+Dalvik, incorporée dans le système d'exploitation Android.
+Une machine virtuelle pour OCaml (écrite en JavaScript) permet de retrouver le langage OCaml à l'intérieur d'un navigateur web. Pour essayer : http://try.ocamlpro.com/.
+
+
+== Voir aussi ==
+
+
+=== Articles connexes ===
+Émulateur
+Hyperviseur
+Hyperviseur de stockage
+Machine virtuelle Java
+Interpréteur
+Conversation Monitor System
+VMware (concept similaire adapté à l'architecture x86)
+Open Virtual Machine Format
+
+
+== Notes et références ==
+
+ Portail de l’informatique

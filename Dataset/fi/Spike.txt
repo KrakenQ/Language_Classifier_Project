@@ -1,0 +1,44 @@
+Spike on kolmannen sukupolven ohjusjärjestelmä josta on meri- ja panssarintorjuntaversiot. Sen on kehittänyt israelilainen Rafael Advanced Defense Systems Ltd. Ohjus on kehitetty vuonna 1987 ja se otettiin palvelukseen 1997. PSTOHJ 2000 tai PSTOHJ 2000M on Suomen puolustusvoimien käyttämä nimitys hankkimastaan Euro-Spike panssarintorjuntaohjusjärjestelmästä - M-versiossa on uudempi ja kehittyneempi ampumalaite. Se on saksalaisen Röthenbachissa sijaitsevan EuroSpike GmbH valmistama. Suomen lisäksi se on käytössä 11:ssä muussa maassa. PstOhj 2000 on käytettävissä joko ammu-ja-unohda tai ammu-ja-tarkkaile periaatteella. Edellä mainitussa ampuja lukitsee maalin ja ohjus hakeutuu maaliin itsenäisesti, jälkimmäisessä ohjus välittää valokuidun välityksellä kuvan ampujalle joka voi vaikuttaa ohjuksen lentoon vielä laukaisun jälkeen. Ampumaetäisyys on 2 500 m. Rannikko-ohjus 06 on merivoimien käyttämä Spike-ER versio pinta-alusten torjuntaan.
+
+
+== Spike-ohjuksen versiot ==
+Mini-Spike on Spike-perheen uusin ja pienin tulokas. Sen kantama on 1 300 metriä, eli pitempi kun vanhemman SR-version kantama.
+Spike-SR on lyhyen kantaman ohjus. Sen ampumaetäisyys ulottuu 800 metriin ja on tarkoitettu jalkaväkikäyttöön.
+Spike-MR (tunnetaan myös nimellä Gil) on keskimatkan ohjus. Sen ampumaetäisyys on enimmillään 2 500 metriä ja on tarkoitettu jalkaväen ja erikoisjoukkojen käyttöön. Tämä versio on nimetty Suomessa PSTOHJ 2000:ksi.
+Spike-LR on pitkänmatkan versio. Sen kantama on 4 000 metriä ja on tarkoitettu kevyisiin taisteluajoneuvoihin. Suomessa tätä versiota kutsutaan nimellä PSTOHJ 2000M. Sekä MR- että LR-ohjukset voivat käyttää samaa ampumalaitetta.
+Spike-ER on pidennetyn kantaman versio, se tunnettiin aiemmin nimellä NT-Dandy tai NT-D. Sen kantama on 8 000 metriä ja se on asennettu yleensä kevyisiin taisteluajoneuvoihin ja helikoptereihin. Suomessa tämä versio tunnetaan nimellä Rannikko-ohjus 06 ja merivoimat käyttää sitä vihollisen pinta-aluksia vastaan.
+Spike NLOS (Non Line Of Sight, suom. näkökentän ulkopuolella) on erittäin pitkän matkan versio, jonka kantaman on ilmoitettu olevan jopa 25 km. Ohjuksen kokonaispaino on 70 kg ja se on laukaistavissa maalta tai helikopterista. Se kehitettiin Jom kippur -sodassa saatujen kokemusten pohjalta, mutta se esiteltiin julkisesti vasta vuonna 2011.
+
+
+== Spike taisteluissa ==
+Spike on ollut käytössä sotatoimissa Toisen intifadan aikana (vuodesta 2000 lähtien), Afganistanin sodassa (vuodesta 2001 lähtien), Libanonin konfliktissa 2006 ja Gazan sodassa vuonna 2009.
+
+
+== Käyttäjät ==
+ Alankomaat  2 400 kpl Spike-MR, 297 laukaisulaitetta
+ Azerbaidžan 100 kpl Spike-LR
+ Belgia 66 kpl Spike-MR tilattu
+ Chile 2 200 kpl Spike-MR/LR
+ Ecuador 244 kpl Spike-ohjuksia
+ Espanja 2 800 kpl, joista 2 600 Spike-LR, loput Spike-ER
+ Etelä-Korea
+ Israel
+ Italia 1 155 kpl Spike-MR/LR
+ Kolumbia 15 kpl Spike-ER
+ Kroatia, Kroatian on kerrottu hankkineen 30–60 Spike-laukaisinta Patria AMV -ajoneuvoihinsa
+ Latvia 12 kpl Spike-LR
+ Peru 516 kpl Spike-LR, 48 laukaisulaitetta
+ Portugali 20 kpl Spike-MR/LR
+ Puola  2 675 kpl Spike-LR, 264 laukaisulaitetta
+ Romania 1  950 kpl, joista 1 000 kpl Spike-ER, loput Spike-LR
+ Saksa 6 000 kpl Spike-LR, 311 laukaisulaitetta
+ Singapore 1 000 kpl Spike-LR
+ Slovenia 75 kpl Spike MR/LR
+ Suomi Yhteensä 700 kpl Spike-ohjusta, joista 300 kpl Spike-MR -versiota, loput 400 kpl Spike-ER. Käytössä 100 kpl MR-version (PstOhj 2000) laukaisulaitteita ja 18 kpl ER-version (Rannikko-ohjus 06) laukaisulaitetta. Uudempana hankintana myös Spike-LR -ohjuksia.
+
+
+== Lähteet ==
+
+
+== Aiheesta muualla ==
+ Kuvia tai muita tiedostoja aiheesta Spike Wikimedia Commonsissa

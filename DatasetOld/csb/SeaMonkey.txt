@@ -1,0 +1,3 @@
+SeaMonkey je wieloplafòrmòwim paczétã programów, zamëkô w se internetowi przezérnik, e-mailową programã ë jinszi wòlné programë jaczé są rozwijóné wedle  licencëjów: Mozilla Public License, GNU General Public License (GPL) ë GNU Lesser General Public License (LGPL).
+SeaMonkey je dalszim rozwijã Mozillë Fùndacëji Mozilla. Czej fùndacëjô ju nie chca dali robic nad Mozillą, tej nalézle sã dobrowòlnicë jaczé przejąlë dalszi rozwij paczéta programów. Òficjalnym mionã òstało slédné rozwijowé miono Mozillë.
+30 stëcznika 2006 rokù ùkôza sã wersëjô 1.0.

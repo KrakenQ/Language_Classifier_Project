@@ -1,0 +1,57 @@
+Entgeltdifferenzierung (traditionell auch: Lohndifferenzierung oder Gehaltsdifferenzierung) steht in der Arbeitswissenschaft und im Personalwesen für die innere Struktur und Aufgliederung des Arbeitsentgelts.
+
+
+== Allgemeines ==
+Die wichtigsten Differenzierungsfaktoren sind die Zahl der Vergütungsgruppen, absolute und relative Abstände der Gruppen, Staffelung der einzelnen Vergütungsgruppen nach verschiedenen Kriterien (Lebensalter, Berufserfahrung) oder zusätzliche Vergütungsbestandteile unter bestimmten Voraussetzungen (etwa  Leistungszulagen). Im engeren Sinn meint Lohn-/Gehalts-/Entgeltdifferenzierung die Methode der inhaltlichen Definition der Vergütungsgruppen. (Arbeitsbewertung). Als Teil des Arbeits- oder Tarifrechts bezieht sich Entgeltdifferenzierung auf das Einkommen der Arbeitnehmer aus unselbständiger Tätigkeit (Arbeitsentgelt). Die Entgeltdifferenzierung besteht darin, eine Abhängigkeit zwischen der relativen Höhe des Arbeitsentgelts zu Anforderungen, Qualifikationen, Arbeitsleistung und Erfolg herzustellen. Durch diese Abhängigkeit kommt es zu unterschiedlichen Arbeitsentgelten selbst für identische Tätigkeiten.
+Ziel der Entgeltdifferenzierung ist ein von allen Beteiligten als gerecht empfundenes Entgelt für geleistete Arbeit zu finden. Die Forderung nach Entgeltgerechtigkeit insbesondere Diskriminierungsfreiheit steht dabei im Vordergrund. Dabei soll die Entgeltsumme eines Arbeitgebers so niedrig wie möglich bleiben.
+Der gesellschaftliche Diskurs zur Frage, inwieweit Unterschiede in der Höhe der Entgelte aufgrund Qualifikation oder Arbeitsbelastungen oder Unannehmlichkeiten volkswirtschaftlich sinnvoll, gerecht oder erstrebenswert seien, wird in der Gesellschaft unter anderem unter den Stichworten der Lohnspreizung, der Lohngerechtigkeit oder auch der sozialen Ungleichheit geführt.
+Die Festlegung der Entgelthöhe obliegt in Deutschland den Tarifparteien (siehe: Tarifautonomie). Wo keine tariflichen Regelungen vorliegen, erfolgt die Regelung im Arbeitsvertrag. Entgelt ist der Oberbegriff für die juristisch nicht mehr bedeutsamen Bezeichnungen Lohn und Gehalt (siehe Entgeltabrechnung).
+
+
+== Arten ==
+Es gibt anforderungsabhängige, qualifikationsabhängige sowie leistungs- und erfolgsabhängige Entgeltdifferenzierung. Die anforderungsabhängige Entgeltdifferenzierung berücksichtigt die Arbeitsbewertung zur Erfassung der Anforderungen eines Arbeitssystems an die Arbeitskraft in der Gesamtheit. Die abgeforderte Qualifikation ergibt sich aus den Anforderungen an die Mitarbeiter bei der Ausführung einer Tätigkeit, die verwertbare Qualifikation wird aus der Summe aller Anforderungen abgeleitet. Die angebotene Qualifikation ist auf die Arbeitsperson bezogen. Die Leistungs- und erfolgsabhängige Entgeltdifferenzierung ergibt sich aus der Anwendung von Leistungsentgelten jeder Art.  
+Allgemein werden dabei die Komponenten Grundentgelt und Leistungsentgelt unterschieden. Oft kommt noch eine dritte Komponente hinzu: die Zulage (Siehe auch: Leistungszulage, Zulage). Die Prinzipien, nach denen das Entgelt festgelegt wird, wird traditionell als Entlohnungsgrundsatz bezeichnet. Art und Weise, wie ein Entlohnungsgrundsatz durchgeführt wird und die Daten dazu entwickelt werden ist die Entlohnungsmethode.
+
+
+== Grundentgelt ==
+Das Grundentgelt soll nicht aus einer konkreten Situation oder kurzfristigem Verhalten von Personen herrühren, sondern sich aus der Organisation ergeben. Gleichwohl sind zwei Ansätze im Umlauf, das qualifikationsorientierte Entgelt und das anforderungsgerechte Entgelt.
+
+
+=== Qualifikationsorientiertes Entgelt ===
+Stellenbeschreibungen enthalten oft nicht nur Beschreibungen der auf der Stelle zu erledigenden Aufgaben, sondern auch Angaben, über welche Qualifikationen der Stelleninhaber verfügen muss. Derartige Angaben erleichtern die Personalsuche und -auswahl.
+Der Gedanke liegt nahe, nach den Qualifikationsanforderungen die Entgelthöhe zu differenzieren: Der Ingenieur verdient mehr als ein Meister, aber weniger als ein Doktor.
+Von Gewerkschaften wird diese Art der Entgeltdifferenzierung gelegentlich propagiert und in einzelnen Tarifverträgen mitunter eingeflochten. Das gewerkschaftliche Interesse ist, Fehlbesetzungen zu vermeiden. In schwierigen Zeiten besteht eine Tendenz, dass Arbeitssuchende sich auch auf unterqualifizierte Stellen bewerben. Bis zu einem gewissen Rahmen kann das für Arbeitgeber interessant sein, da sie dann ein Potenzial beherbergen, was unentgeltlich zu Nutzen führen kann. Dadurch werden aber die richtig Qualifizierten nach unten verdrängt, die Arbeitslosigkeit verschiebt sich auf gering qualifizierte Bevölkerungsschichten.
+Qualifikationsorientierte Entgeltdifferenzierung hat sich bisher in Deutschland so gut wie nicht durchgesetzt.
+
+
+=== Anforderungsgerechtes Entgelt ===
+Anforderungsgerechte Entgeltdifferenzierung ist die Methode der Entgeltdifferenzierung, die sich in nahezu allen Tarifverträgen findet. Sie ist so verbreitet, dass sie in den meisten Lehrbüchern beim Thema Entgeltdifferenzierung als einzige erwähnt wird.
+Die Höhe des Grundentgeltes wird in diesem Fall nach den Anforderungen bemessen (siehe: Anforderungsermittlung), die der Arbeitsplatz an die ihn innehabende Person stellt.
+
+
+== Leistungsentgelt ==
+
+Das Leistungsentgelt gilt der Person, welche eine Stelle einnimmt. Es ist also ein persönlicher Entgeltbestandteil. Es werden zwei Situationen unterschieden:
+
+Eine Prämie, welche eine Person erhält, weil sie generell mehr leistet, als normalerweise erwartet werden kann. Eine solche Prämie wird oft bereits als Bestandteil des Arbeitsvertrages gewährt, beispielsweise um eine bestimmte Person anzuziehen, ist aber separat kündbar, wenn die Person die Erwartungen nicht erfüllt. Eine solche Prämie wird somit vorschüssig gezahlt.
+Es wird eine spezifische Einzelleistung belohnt. Sei es durch Akkordlohn, Bonus, Prämie oder Leistungszulage. Mit Ausnahme des Vertragslohns (oder Programmlohns) wird diese Art des Leistungsentgelts nachschüssig, also erst nach  erbrachter Leistung bezahlt. Die Nachschüssigkeit birgt das Risiko, dass der Beschäftigte diese Art des Leistungsentgelt als (motivationsminderndes) Misstrauen interpretiert.
+
+
+== Zulage ==
+Eine Zulage ist ein an den persönlichen Umständen eines Beschäftigten orientierte Aufstockung des Entgeltes. Bis auf die Leistungszulage orientiert sie sich normalerweise nicht am persönlichen Verhalten des Beschäftigten in einer Periode, sondern an dessen Situation. Zulagen können alle möglichen Begründungen haben. Typische Zulagen sind:
+
+Entfernungszulage (siehe Entfernungspauschale),
+Erschwerniszulage (siehe Erschwerniszulagenverordnung),
+Schmutzzulage und Infektionszulage.
+Wochenendzulage,
+Zuschlag für Sonntags-, Feiertags- und Nachtarbeit,
+Schichtzulage,
+Geriatriezulage.
+
+
+== Literatur ==
+Literatur über Entgeltdifferenzierung im Katalog der Deutschen Nationalbibliothek
+REFA Verband für Arbeitsstudien und Betriebsorganisation e. V. (Hrsg.): Methodenlehre der Betriebsorganisation: Entgeltdifferenzierung. 3. Aufl., Hanser, München 1991, ISBN 3-446-16227-5.
+
+
+== Einzelnachweise ==

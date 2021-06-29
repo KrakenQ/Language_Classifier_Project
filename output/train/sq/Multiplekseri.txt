@@ -1,0 +1,3 @@
+Multiplekseri (ang. multiplexer) është qark digjital, i cili, duke shfrytëzuar   n- sinjale seleksionuese, informatat nga 2n-hyrjet e tij i përcjell në daljen d, sipas një radhe të caktuar. Skematikisht multiplekseri mund të paraqitet kështu:
+Përmes multiplekserit mundësohet përdorimi i një kanali transmetues të
+informatave nga më shumë shfrytëzues njëkohësisht. Gjithashtu, gjatë përdorimit të njëkohëshëm të një kompjuteri nga më shumë shfrytëzues, në regjimin e punës me ndarje kohe (ang. time-sharing), qasja në kompjuter bëhet me ndërmjetësimin e multiplekserit adekuat.

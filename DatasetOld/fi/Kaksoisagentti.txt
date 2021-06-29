@@ -1,0 +1,2 @@
+Kaksoisagentti on vakooja, joka toimii vakoilun kohteen eduksi varsinaista toimeksiantajaansa vastaan.
+Kolmoisagentti on kaksoisagentti, jonka vakoilun kohde luulee toimivan kaksoisagenttina, mutta vakooja toimiikin alkuperäisen toimeksiantajansa etujen mukaisesti. Luonnollisesti kolmoisagentti voi muuttua vielä nelosagentiksi jne.

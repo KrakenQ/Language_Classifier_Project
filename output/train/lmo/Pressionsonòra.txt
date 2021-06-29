@@ -1,0 +1,129 @@
+La pressión sonóra (o pression acustica) l’è la vastitaa de l’onda de pression, o onda sonòra. 
+
+La pressión sonóra la pò vèss misurada doprànd el  micròfon (quand che la ven misurada in de l'aria), on idròfon (se la ven misurada in de l'acqua) o on catodofòn. L'unitaa de misura de la pression sonóra l’è el Pascal (sìmbol Pa = N/m2), impunemanch despèss se dopera la scala logaritmica (che la gh’hà come unitaa de misura el dB) che inveci l’esprimm puttòst el livèll de la pression sonòra (varda de sòta). La pression sonòra istantànea l’è la variazion de la pressión  
+  
+    
+      
+        
+          p
+          
+            0
+          
+        
+      
+    
+    {\displaystyle p_{0}}
+   causada d’on onda sonòra ind on cèrt momènt e ind on cèrt pont del spazzi. La pression sonòra capazz l’è el valor capazz de l'onda:
+
+  
+    
+      
+        
+          p
+          
+            
+              r
+              m
+              s
+            
+          
+        
+        =
+        
+          
+            
+              
+                1
+                T
+              
+            
+            
+              ∫
+              
+                0
+              
+              
+                T
+              
+            
+            
+              p
+              
+                2
+              
+            
+            (
+            t
+            )
+            
+            d
+            t
+          
+        
+      
+    
+    {\displaystyle p_{\mathrm {rms} }={\sqrt {{1 \over T}\int _{0}^{T}p^{2}(t)\,dt}}}
+  .Quant a on'onda sonora, la grandèzza accessoria de la pressión sonòra l’è la velocità di particol. Per di segnàj piscinìtt, la pressión sonòra l'è proprozionàl la velocità di partìcol (leg de l’Ohm acustica: Δ p = ρ0 c v), e el  rappòrt infra de lor el ven ciamàa impedenza acustica. L'impedenza acustica la dipénd di caratteristich de l’onda e del mèzz de propagazión. El prodòtt de la pressión sonòra e de la velocità di partìcol el ciapa el nòmm de intensità sonòra istantànea.
+La pressión sonòra totàl l’è
+
+  
+    
+      
+        
+          p
+          
+            t
+            o
+            t
+          
+        
+        =
+        
+          p
+          
+            0
+          
+        
+        +
+        (
+        
+          p
+          
+            m
+            a
+            x
+          
+        
+        −
+        
+          p
+          
+            0
+          
+        
+        )
+        sin
+        ⁡
+        (
+        
+          ω
+          
+            p
+          
+        
+        t
+        +
+        
+          θ
+          
+            0
+          
+        
+        )
+      
+    
+    {\displaystyle p_{tot}=p_{0}+(p_{max}-p_{0})\sin(\omega _{p}t+\theta _{0})}
+  con
+
+p0 pressión de l'ambiénte,
+pmax-p0 vastitàa de la pressión sonòra.

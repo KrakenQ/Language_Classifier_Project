@@ -1,0 +1,20 @@
+Na Xeometría, os puntos non posúen volume, área, lonxitude ou calquera dimensión semellante. Así, un punto é un obxecto de dimensión 0 (cero). Un punto tamén pode ser definido coma unha esfera de diámetro cero.
+
+
+== Xeometría euclidiana ==
+Nos Elementos de Euclides, un punto é definido coma "o que non ten partes". Isto significa que o que caracteriza un punto é a súa posición no espazo. Co xurdimento da xeometría analítica, pasou a ser posíbel referirse a esa posición a través de coordenadas.
+
+
+== Xeometría proxectiva ==
+Na xeometría proxectiva, un punto é un elemento dun espazo proxectivo, ou sexa, é unha recta.
+
+
+== Topoloxía ==
+En topoloxía, un espazo topolóxico é un conxunto de puntos, aos cales está asociada unha noción de proximidade. Porén, existe unha abordaxe recente da topoloxía, chamada a topoloxía sen puntos, que estuda os espazos topolóxicos sen se referir aos puntos que os constitúen. Esta abordaxe encádrase na teoría das categorías.
+
+
+== Véxase tamén ==
+
+
+=== Outros artigos ===
+Punto impropio

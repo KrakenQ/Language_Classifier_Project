@@ -1,0 +1,43 @@
+Reynoldstall, eller Reynolds konstant er den vanligst forekommende dimensjonsløse størrelsen innen strømningsmekanikken, og beskriver om fluiden strømmer laminært eller turbulent. Den kan også ses på som et dimensjonsløst mål på viskositeten og skrives som:
+
+  
+    
+      
+        
+          
+            R
+            e
+          
+        
+        =
+        
+          
+            
+              ρ
+              V
+              L
+            
+            μ
+          
+        
+        =
+        
+          
+            
+              V
+              L
+            
+            ν
+          
+        
+        
+      
+    
+    {\displaystyle {\mathit {Re}}={\rho VL \over \mu }={VL \over \nu }\;}
+  ρ = densitet
+μ = dynamisk viskositet
+ν = kinematisk viskositet. I luft er verdien 1,5*10-5m2s.
+L = typisk lengde - for et rør er diameteren den typiske lengden
+V = typisk hastighetVed rørstrømning (strømning i et rør) inntreffer endringen når Reynoldstallet, Re, nærmer seg 2 300. Under denne verdien regnes væsken å strømme laminært, og over 2 300 turbulent. Reynolds tall kan sees som forholdet mellom treghetskrefter og friksjonskrefter. Ved turbulent strømning dominerer treghetskreftene.
+For vind som strømmer mot utsiden av et rør brukes Reynoldstallet til å forutsi når en får virvelinduserte tverrsvingninger.
+Reynoldstall er oppkalt etter Osborne Reynolds som fremsatte begrepet i 1883.

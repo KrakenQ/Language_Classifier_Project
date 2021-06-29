@@ -1,0 +1,36 @@
+A cheometría (d'o griego γεωμετρία; γη = tierra, μετρώ = mesurar) ye a branca d'o conoiximiento que s'ocupa d'os obchectos u figuras y d'as suyas relacions en o espacio, ye dicir: distancia, posición, superficie, volumen, forma, desplazamiento, prochección, representación, etc. Estió un d'os dos campos d'as matematicas clasicas, estando l'atro campo, l'aritmetica u estudio d'os numeros.
+En a Edat Moderna, o filosofo Descartes reformuló o concepto de coordenatas cartesianas, dando paso a la cheometría analitica que introdució os metodos de calculo alchebraicos en a cheometria. Actualment, os conceptos cheometricos s'han cheneralizato dica plegar a un alto grau d'abstracción y complexidat, conseqüentment podemos parlar d'una cheometría tradicional u clasica, que ye la que totz conoixemos, ya que s'amuestra en as escuelas primarias. As atras cheometrías, por un regular, son disciplinas que se basan, en parti, en os conceptos en bella traza intuitivos d'a cheometría clasica, a partir d'os qualos se formulan atras hipotesis, se desembolican metodos alternativos u s'estableixen vinculacions con atras disciplinas u matematicas.
+A cheometría clasica s'ocupa d'as figuras y obchectos que existen u podemos imachinar, tanto en o plan como en o espacio, asinas como d'as suyas prencipals relacions, aplicacions, extensions, etc., como son:
+
+A forma d'as figuras, a suya cheneración y parametros.Por eixemplo: a circumferencia se define como una curva zarrata y plana, os puntos d'a quala equidistan d'un punto dito centro.As mesuras sobre u d'as figuras como son a superficie, o volumen u atras.Como eixemplo tenemos o volumen d'a esfera seguntes a sigüient expresión:
+
+  
+    
+      
+        
+          Volum
+        
+        =
+        
+          
+            4
+            3
+          
+        
+        
+        π
+        
+        
+          r
+          
+            3
+          
+        
+      
+    
+    {\displaystyle {\text{Volum}}={\frac {4}{3}}\,\pi \,r^{3}}
+  As relacions entre as figuras como: distancia, proporcions, igualdat u pareixito, puntos meyos, bisectriz, etc.As operacions entre figuras u a partir d'as figuras como: paralelismo, perpendicularidat, simetría, homolochía, unión, intersección, etc.As aplicacions a la resolución de problemas entre figuras u a partir d'as figuras como: trobar tanchents comuns a dos circumferencias, trobar a prochección sobre un plan, etc.Entre as aplicacions notables se troba a resolución de trianglos, a on a partir d'un costato y dos anglos, dos costatos y un anglo u d'os tres costatos, se pueden deducir os atros costatos y anglos. Ista aplicación ye a base d'a cheodesia y d'a topografía.A cheometría clasica ye euclidiana, dita asinas en honor d'o matematico griego Euclides, qui formuló o famoso cinqueno postulato u postulato d'Euclides, en que se basa ista sciencia.
+
+
+== Etimolochía ==
+A parola "cheometría" viene d'o griego "geo" (tierra) y "metrón" (mesura). En aragonés se puet leyer en o "Libro d'el Trasoro", a on que dicen:

@@ -1,0 +1,15 @@
+WPA (Wi-Fi Protected Access) je algoritam za sigurnu komunikaciju putem IEEE 802.11 bežičnih mreža koje su veoma ranjive na prisluškivanje pošto koriste radio signal za prenošenje podataka. 
+WPA je napravljen i uveden u upotrebu od strane Wi-Fi Alijanse nakon što je uočena ranjivost starijeg WEP algoritma. Bitna karakteristika WPA algoritma je da radi na uređajima koji mogu koristiti WEP.
+Poboljšanja koja su uvedena u WPA tiču se enkripcije komunikacije i autentikacije korisnika.
+Enkripcija kouminkacije je poboljšana korištenjem TKIP protokola (Temporal Key Integrity Protocol). 
+Za autentikacijaju se koristi EAP (Extensible Authentication Protocol). 
+WPA je privremeni algoritam koji bi trebao biti zamijenjen kada bude dovršen posao na 802.11i standardu.
+Prva verzija WPA ima svoje poboljšanje koje se ogleda u WPA2 protokolu čije se poboljšanje ogleda u uvođenju novog algoritma koji se bazira na AES-u.
+
+
+== Također pogledajte ==
+WEP
+
+
+== Vanjski linkovi ==
+https://web.archive.org/web/20140823080032/http://www.dmoz.org/Computers/Data_Communications/Wireless/802.11/

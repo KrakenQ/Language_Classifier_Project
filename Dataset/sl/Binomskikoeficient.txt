@@ -1,0 +1,1143 @@
+Binómski koeficiènt naravnega števila n in celoštevilčnega k je v matematiki koeficient, ki nastopa v razčlenjeni obliki binoma (x +  y)n. Zapiše se ga z zapisom 
+  
+    
+      
+        
+          
+            
+              (
+            
+            
+              n
+              k
+            
+            
+              )
+            
+          
+        
+      
+    
+    {\displaystyle {n \choose k}}
+  , ki se imenuje binomski simbol:
+
+  
+    
+      
+        
+          
+            
+              (
+            
+            
+              n
+              k
+            
+            
+              )
+            
+          
+        
+        =
+        
+          
+            
+              n
+              !
+            
+            
+              k
+              !
+              (
+              n
+              −
+              k
+              )
+              !
+            
+          
+        
+        ,
+        
+        (
+        n
+        ≥
+        k
+        ≥
+        0
+        )
+        
+        (
+        1
+        )
+      
+    
+    {\displaystyle {n \choose k}={\frac {n!}{k!(n-k)!}},\quad (n\geq k\geq 0)\qquad (1)}
+  in
+
+  
+    
+      
+        
+          
+            
+              (
+            
+            
+              n
+              k
+            
+            
+              )
+            
+          
+        
+        =
+        0
+        ,
+        
+        (
+        k
+        <
+        0
+        )
+        
+          
+             ali 
+          
+        
+        (
+        k
+        >
+        n
+        )
+        .
+      
+    
+    {\displaystyle {n \choose k}=0,\quad (k<0){\mbox{ ali }}(k>n).}
+  Tukaj je z m! označena fakulteta m. Binomski koeficient n in k se zapiše tudi kot C(n,k) ali kot nCk.
+Na primer:
+
+  
+    
+      
+        
+          
+            
+              (
+            
+            
+              7
+              3
+            
+            
+              )
+            
+          
+        
+        =
+        
+          
+            
+              7
+              ⋅
+              6
+              ⋅
+              5
+            
+            
+              3
+              ⋅
+              2
+              ⋅
+              1
+            
+          
+        
+        =
+        35.
+      
+    
+    {\displaystyle {7 \choose 3}={\frac {7\cdot 6\cdot 5}{3\cdot 2\cdot 1}}=35.}
+  Binomski koeficienti so koeficienti razvitja binoma (dvočlenika) (x + y)n:
+
+  
+    
+      
+        (
+        x
+        +
+        y
+        
+          )
+          
+            n
+          
+        
+        =
+        
+          ∑
+          
+            k
+            =
+            0
+          
+          
+            n
+          
+        
+        
+          
+            
+              (
+            
+            
+              n
+              k
+            
+            
+              )
+            
+          
+        
+        
+          x
+          
+            n
+            −
+            k
+          
+        
+        
+          y
+          
+            k
+          
+        
+        
+        (
+        2
+        )
+      
+    
+    {\displaystyle (x+y)^{n}=\sum _{k=0}^{n}{n \choose k}x^{n-k}y^{k}\qquad (2)}
+  To se posploši z binomskim izrekom, ki dovoljuje, da je eksponent n negativen ali neceloštevilski.
+Pomembna rekurenčna enačba:
+
+  
+    
+      
+        
+          
+            
+              (
+            
+            
+              n
+              k
+            
+            
+              )
+            
+          
+        
+        +
+        
+          
+            
+              (
+            
+            
+              n
+              
+                k
+                +
+                1
+              
+            
+            
+              )
+            
+          
+        
+        =
+        
+          
+            
+              (
+            
+            
+              
+                n
+                +
+                1
+              
+              
+                k
+                +
+                1
+              
+            
+            
+              )
+            
+          
+        
+        
+        (
+        3
+        )
+        
+        
+      
+    
+    {\displaystyle {n \choose k}+{n \choose k+1}={n+1 \choose k+1}\qquad (3)\!\,}
+  izhaja neposredno iz definicije. Uporabi se jo lahko skupaj z matematično indukcijo pri dokazu, da je C(n, k) naravno število za vse n in k, kar ni povsem razvidno iz definicije. Enačba da znani Pascalov aritmetični trikotnik binomskih koeficientov:
+
+    n
+    0                       1
+    1                     1   1
+    2                   1   2   1
+    3                 1   3   3   1
+    4               1   4   6   4   1
+    5             1   5   10  10   5   1
+    6           1   6   15  20  15   6   1
+    7         1   7   21  35  35   21  7   1
+    8       1   8  28   56  70  56   28  8   1
+    9     1   9  36  84  126  126  84  36  9   1
+   10   1  10  45 120  210  252  210 120 45  10  1
+
+Vsaka vrstica, ki jo določa n vsebuje števila C(n, k) za k = 0,...,n. Trikotnik nastane, če se v vsaki vrstici od zunaj začne z enicami in se sešteva sosednji števili, vsoto pa se napiše pod njima. Na ta način se lahko hitro izračuna binomske koeficiente brez uporabe ulomkov ali množenj. Na primer, če se pogleda vrstico z n = 5, se lahko hitro prebere:
+
+(x + y)5 = 1x5 + 5 x4y + 10 x3y2 + 10 x2y3 + 5 x y4 + 1y5.Trikotnik je opisal Džu Šidžje leta 1303 v svoji knjigi Dragoceno ogledalo štirih elementov. V svoji knjigi je Ču omenil, da so trikotnik uporabljali že davno, približno 200 let pred njim, za reševanje binomskih koeficientov. To nakazuje, da so metodo poznali kitajski matematiki že 5. stoletij pred Pascalom. 
+Če se v trikotniku obarva vsa soda števila in se pusti liha neobarvana, se dobi trikotnik Sierpińskega. Pascalov trikotnik se lahko zapiše tudi kot kvadratno Pascalovo matriko, kjer binomski koeficienti nastopajo po njenih diagonalah:
+
+  
+    
+      
+        
+          A
+          
+            10
+            ,
+            10
+          
+        
+        =
+        
+          
+            [
+            
+              
+                
+                  1
+                
+                
+                  1
+                
+                
+                  1
+                
+                
+                  1
+                
+                
+                  1
+                
+                
+                  1
+                
+                
+                  1
+                
+                
+                  1
+                
+                
+                  1
+                
+                
+                  1
+                
+              
+              
+                
+                  1
+                
+                
+                  2
+                
+                
+                  3
+                
+                
+                  4
+                
+                
+                  5
+                
+                
+                  6
+                
+                
+                  7
+                
+                
+                  8
+                
+                
+                  9
+                
+                
+                  10
+                
+              
+              
+                
+                  1
+                
+                
+                  3
+                
+                
+                  6
+                
+                
+                  10
+                
+                
+                  15
+                
+                
+                  21
+                
+                
+                  28
+                
+                
+                  36
+                
+                
+                  45
+                
+                
+                  55
+                
+              
+              
+                
+                  1
+                
+                
+                  4
+                
+                
+                  10
+                
+                
+                  20
+                
+                
+                  35
+                
+                
+                  56
+                
+                
+                  84
+                
+                
+                  120
+                
+                
+                  165
+                
+                
+                  220
+                
+              
+              
+                
+                  1
+                
+                
+                  5
+                
+                
+                  15
+                
+                
+                  35
+                
+                
+                  70
+                
+                
+                  126
+                
+                
+                  210
+                
+                
+                  330
+                
+                
+                  495
+                
+                
+                  715
+                
+              
+              
+                
+                  1
+                
+                
+                  6
+                
+                
+                  21
+                
+                
+                  56
+                
+                
+                  126
+                
+                
+                  252
+                
+                
+                  462
+                
+                
+                  792
+                
+                
+                  1287
+                
+                
+                  2002
+                
+              
+              
+                
+                  1
+                
+                
+                  7
+                
+                
+                  28
+                
+                
+                  84
+                
+                
+                  210
+                
+                
+                  462
+                
+                
+                  924
+                
+                
+                  1716
+                
+                
+                  3003
+                
+                
+                  5005
+                
+              
+              
+                
+                  1
+                
+                
+                  8
+                
+                
+                  36
+                
+                
+                  120
+                
+                
+                  330
+                
+                
+                  792
+                
+                
+                  1716
+                
+                
+                  3432
+                
+                
+                  6435
+                
+                
+                  11440
+                
+              
+              
+                
+                  1
+                
+                
+                  9
+                
+                
+                  45
+                
+                
+                  165
+                
+                
+                  495
+                
+                
+                  1287
+                
+                
+                  3003
+                
+                
+                  6435
+                
+                
+                  12870
+                
+                
+                  24310
+                
+              
+              
+                
+                  1
+                
+                
+                  10
+                
+                
+                  55
+                
+                
+                  220
+                
+                
+                  715
+                
+                
+                  2002
+                
+                
+                  5005
+                
+                
+                  11440
+                
+                
+                  24310
+                
+                
+                  48620
+                
+              
+            
+            ]
+          
+        
+        
+        ,
+      
+    
+    {\displaystyle A_{10,10}={\begin{bmatrix}1&1&1&1&1&1&1&1&1&1\\1&2&3&4&5&6&7&8&9&10\\1&3&6&10&15&21&28&36&45&55\\1&4&10&20&35&56&84&120&165&220\\1&5&15&35&70&126&210&330&495&715\\1&6&21&56&126&252&462&792&1287&2002\\1&7&28&84&210&462&924&1716&3003&5005\\1&8&36&120&330&792&1716&3432&6435&11440\\1&9&45&165&495&1287&3003&6435&12870&24310\\1&10&55&220&715&2002&5005&11440&24310&48620\end{bmatrix}}\;,}
+  določeno kot:
+
+  
+    
+      
+        
+          A
+          
+            1
+            ,
+            i
+          
+        
+        =
+        
+          A
+          
+            i
+            ,
+            1
+          
+        
+        =
+        1
+        
+      
+    
+    {\displaystyle A_{1,i}=A_{i,1}=1\;}
+   za i = 1..n
+
+  
+    
+      
+        
+          A
+          
+            i
+            ,
+            j
+          
+        
+        =
+        
+          A
+          
+            i
+            −
+            1
+            ,
+            j
+          
+        
+        +
+        
+          A
+          
+            i
+            ,
+            j
+            −
+            1
+          
+        
+        
+      
+    
+    {\displaystyle A_{i,j}=A_{i-1,j}+A_{i,j-1}\;}
+   drugače.Simetrična matrika ima precej zanimivih značilnosti in zanimivih razcepitev. Njena determinanta je 1, saj je njen inverz celoštevilskna matrika. Lastne vrednosti so vse realne in pozitivne. Matrika je strogo pozitivno definitna.
+
+
+=== Kombinatorika in statistika ===
+Binomski koeficienti so pomembni v kombinatoriki, ker priskrbijo enačbe za določene pogoste probleme pri preštevanju:
+
+vsaka množica z n elementi ima C(n, k) različnih podmnožic, vsaka s k elementi. To so k-kombinacije,
+število znakovnih nizov dolžine n, ki vsebuje k enic in n-k ničel je C(n, k),
+število znakovnih nizov s k enicami in n ničlami, kjer noben ni drugemu soseden je C(n+1, k),
+število zaporedij, ki vsebuje n naravnih števil, katerih vsota je enaka k je C(n+k-1, k); to je tudi število načinov izbire k elementov iz množice n, če se lahko ponavljajo,
+Catalanova števila imajo enostavno enačbo z binomskimi koeficienti. Z njimi se lahko prešteva različne strukture, kot so drevesa ali izrazi z oklepaji.Binomski koeficienti nastopajo tudi v enačbi za binomsko porazdelitev v statistiki in v enačbi za Bézierovo krivuljo.
+
+
+=== Enačbe z binomskimi koeficienti ===
+Včasih pridejo prav naslednje enačbe:
+
+  
+    
+      
+        C
+        (
+        n
+        ,
+        k
+        )
+        =
+        
+          C
+        
+        (
+        n
+        ,
+        n
+        −
+        k
+        )
+        .
+        
+        (
+        4
+        )
+      
+    
+    {\displaystyle C(n,k)=\mathrm {C} (n,n-k).\qquad (4)}
+  To sledi, če se pri razvoju binoma uporabi (x + y)n = (y + x)n.
+
+  
+    
+      
+        
+          ∑
+          
+            k
+            =
+            0
+          
+          
+            n
+          
+        
+        
+          C
+        
+        (
+        n
+        ,
+        k
+        )
+        =
+        
+          2
+          
+            n
+          
+        
+        .
+        
+        (
+        5
+        )
+      
+    
+    {\displaystyle \sum _{k=0}^{n}\mathrm {C} (n,k)=2^{n}.\qquad (5)}
+  Če se pri razvoju binoma uporabi x = y = 1, sledi:
+
+  
+    
+      
+        
+          ∑
+          
+            k
+            =
+            1
+          
+          
+            n
+          
+        
+        k
+        
+          C
+        
+        (
+        n
+        ,
+        k
+        )
+        =
+        n
+        
+          2
+          
+            n
+            −
+            1
+          
+        
+        .
+        
+        (
+        6
+        )
+      
+    
+    {\displaystyle \sum _{k=1}^{n}k\mathrm {C} (n,k)=n2^{n-1}.\qquad (6)}
+  Iz razvoja binoma, po odvajanju in zamenjavi x = y = 1, sledi:
+
+  
+    
+      
+        
+          ∑
+          
+            j
+            =
+            0
+          
+          
+            k
+          
+        
+        
+          C
+        
+        (
+        m
+        ,
+        j
+        )
+        
+          C
+        
+        (
+        n
+        ,
+        k
+        −
+        j
+        )
+        =
+        
+          C
+        
+        (
+        m
+        +
+        n
+        ,
+        k
+        )
+        .
+        
+        (
+        7
+        )
+      
+    
+    {\displaystyle \sum _{j=0}^{k}\mathrm {C} (m,j)\mathrm {C} (n,k-j)=\mathrm {C} (m+n,k).\qquad (7)}
+  Če se razvije (x + y)n (x + y)m = (x + y)m+n z binomom (tukaj je C(n, k) nič, če je k > n). S to enačbo se posplošimo zgornjo rekurenčno enačbo (3):
+
+  
+    
+      
+        
+          ∑
+          
+            k
+            =
+            0
+          
+          
+            n
+          
+        
+        
+          C
+        
+        (
+        n
+        ,
+        k
+        
+          )
+          
+            2
+          
+        
+        =
+        
+          C
+        
+        (
+        2
+        n
+        ,
+        n
+        )
+        .
+        
+        (
+        8
+        )
+      
+    
+    {\displaystyle \sum _{k=0}^{n}\mathrm {C} (n,k)^{2}=\mathrm {C} (2n,n).\qquad (8)}
+  Iz predhodnje enačbe (7) z razvojem m = k = n in C(n, k) = C(n, n-k), sledi:
+
+  
+    
+      
+        
+          ∑
+          
+            k
+            =
+            0
+          
+          
+            n
+          
+        
+        
+          C
+        
+        (
+        n
+        −
+        k
+        ,
+        k
+        )
+        =
+        
+          F
+        
+        (
+        n
+        +
+        1
+        )
+        .
+        
+        (
+        9
+        )
+      
+    
+    {\displaystyle \sum _{k=0}^{n}\mathrm {C} (n-k,k)=\mathrm {F} (n+1).\qquad (9)}
+  Tukaj F(n+1) označuje Fibonaccijeva števila. To enačbo za diagonale Pascalovega trikotnika se lahko dokaže z matematično indukcijo za n v zgornji rekurenčni enačbi (3):
+
+  
+    
+      
+        
+          ∑
+          
+            j
+            =
+            k
+          
+          
+            n
+          
+        
+        
+          C
+        
+        (
+        j
+        ,
+        k
+        )
+        =
+        
+          C
+        
+        (
+        n
+        +
+        1
+        ,
+        k
+        +
+        1
+        )
+        .
+        
+        (
+        10
+        )
+      
+    
+    {\displaystyle \sum _{j=k}^{n}\mathrm {C} (j,k)=\mathrm {C} (n+1,k+1).\qquad (10)}
+  
+
+
+=== Delitelji binomskih koeficientov ===
+Prafaktorje C(n, k) se lahko obravnava na naslednji način: če je p praštevilo in je pr najvišja potenca p, ki deli C(n, k), potem je r enako številu naravnih števil j, da je decimalni del k/pj večji kot decimalni del n/pj. Posebej je C(n, k) vedno deljivo zn/(n,k), kjer je (n,k) največji skupni delitelj n in k..
+
+
+=== Posplošitev v kompleksnem ===
+Binomske koeficiente C(z, k) se lahko določi za vsako kompleksno število z in vsako naravno število k z:
+
+  
+    
+      
+        
+          C
+        
+        (
+        z
+        ,
+        k
+        )
+        =
+        
+          
+            
+              z
+              (
+              z
+              −
+              1
+              )
+              (
+              z
+              −
+              2
+              )
+              …
+              (
+              z
+              −
+              k
+              +
+              1
+              )
+            
+            
+              k
+              !
+            
+          
+        
+        .
+        
+        (
+        11
+        )
+      
+    
+    {\displaystyle \mathrm {C} (z,k)={\frac {z(z-1)(z-2)\dots (z-k+1)}{k!}}.\qquad (11)}
+  To posplošitev se uporablja pri določitvi binomskega izreka in zadovoljuje značilnosti (3) in (7).
+Za določen k je enačba C(z, k) polinom v z stopnje k z racionalnimi koeficienti. Vsak polinom p(z) stopnje d se lahko zapiše v obliki:
+
+  
+    
+      
+        p
+        (
+        z
+        )
+        =
+        
+          ∑
+          
+            k
+            =
+            0
+          
+          
+            d
+          
+        
+        
+          a
+          
+            k
+          
+        
+        
+          C
+        
+        (
+        z
+        ,
+        k
+        )
+      
+    
+    {\displaystyle p(z)=\sum _{k=0}^{d}a_{k}\mathrm {C} (z,k)}
+  s primernimi konstantami ak. To je pomembno v teoriji diferencialnih enačb. Na enačbo se lahko gleda kot na nezvezno obliko Taylorjevega izreka.
+
+
+== Glej tudi ==
+središčni binomski koeficient

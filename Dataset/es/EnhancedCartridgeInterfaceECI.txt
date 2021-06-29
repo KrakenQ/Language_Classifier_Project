@@ -1,0 +1,10 @@
+El Enhanced Cartridge Interface, abreviado ECI (Interfaz de cartucho mejorada) era una extensión de 14 pines a la ranura de cartuchos de los ordenadores de 8 bits Atari XE. Permitía a los dispositivos externos acceder a las líneas de datos y al bus del sistema. Es similar funcionalmente y compatible a nivel software con el Parallel Bus Interface (PBI) de la gama Atari XL.
+El ECI está presente en los ordenadores Atari 65XE europeos, Atari 130XE y Atari 800XE. Entre otros, está soportado por los siguientes periféricos :
+
+KMK/JŻ/IDEa IDE Interface : proporciona una interfaz IDE
+ICD MIO Board : proporciona un RAMdisk, un puerto paralelo de impresora, un puerto serie y una interfaz de disco duro
+CSS Black Box : proporciona una interfaz SCSI, un puerto paralelo de impresora, un puerto serie, una controladora de unidades de disquete y un menú de gestión del sistema.
+
+
+== Referencias ==
+Chadwick, Ian (1985). Mapping the Atari Revised Edition. COMPUTE! Publications, Inc. ISBN 0-87455-004-1. [1]

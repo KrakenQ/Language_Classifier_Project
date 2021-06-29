@@ -1,0 +1,1877 @@
+
+== Algoritmo Naive ==
+O algoritmo naive ou ingênuo para a construção do diagrama de Voronoi é o método mais simples e fácil de se ser provado, porém ineficiente, a partir disso, foram realizadas muitas pesquisas no campo da geometria computacional para fazer algoritmos eficientes.
+
+
+=== Definição ===
+Dado um conjunto de dois ou mais, mas um número finito, de pontos distintos no espaço euclidiano, associamos todos os locais em que o espaço com o membro mais próximo(s) do ponto de ajuste em relação ao distância euclidiana. O resultado é uma camada do plano em um conjunto de regiões associadas com os membros de um conjunto de pontos. Chamamos isso de diagrama de Voronoi ordinário planar gerado pelo conjunto de pontos, e as regiões que constituem o diagrama de Voronoi de  polígonos de Voronoi ordinários.
+Seja  
+  
+    
+      
+        P
+      
+    
+    {\displaystyle P}
+   = {
+  
+    
+      
+        
+          p
+          
+            1
+          
+        
+        ,
+        
+          p
+          
+            2
+          
+        
+        ,
+        .
+        .
+        .
+        ,
+        
+          p
+          
+            n
+          
+        
+      
+    
+    {\displaystyle p_{1},p_{2},...,p_{n}}
+  } contido em 
+  
+    
+      
+        
+          R
+          
+            2
+          
+        
+      
+    
+    {\displaystyle R^{2}}
+  , onde 2 ≤ n ≤ ∞ e 
+  
+    
+      
+        
+          x
+          
+            i
+          
+        
+      
+    
+    {\displaystyle x_{i}}
+   ≠ 
+  
+    
+      
+        
+          x
+          
+            j
+          
+        
+      
+    
+    {\displaystyle x_{j}}
+   para i, j pertencente a 
+  
+    
+      
+        
+          I
+          
+            n
+          
+        
+      
+    
+    {\displaystyle I_{n}}
+   . Chamamos a região 
+  
+    
+      
+        V
+        (
+        
+          p
+          
+            i
+          
+        
+        )
+      
+    
+    {\displaystyle V(p_{i})}
+   = ∩ 
+  
+    
+      
+        H
+        (
+        
+          p
+          
+            i
+          
+        
+        ,
+        
+          p
+          
+            j
+          
+        
+      
+    
+    {\displaystyle H(p_{i},p_{j}}
+  ).
+O polígono de Voronoi ordinário associado com 
+  
+    
+      
+        
+          p
+          
+            i
+          
+        
+      
+    
+    {\displaystyle p_{i}}
+   e o conjunto 
+  
+    
+      
+        V
+        (
+        P
+      
+    
+    {\displaystyle V(P}
+  ) =  {
+  
+    
+      
+        V
+        (
+        
+          p
+          
+            1
+          
+        
+      
+    
+    {\displaystyle V(p_{1}}
+  ), 
+  
+    
+      
+        V
+        (
+        
+          p
+          
+            2
+          
+        
+      
+    
+    {\displaystyle V(p_{2}}
+  ), … , 
+  
+    
+      
+        V
+        (
+        
+          p
+          
+            n
+          
+        
+        )
+      
+    
+    {\displaystyle V(p_{n})}
+  } o diagrama de Voronoi ordinário plano gerados por  
+  
+    
+      
+        P
+      
+    
+    {\displaystyle P}
+  .
+
+
+=== Construção ===
+Seja  
+  
+    
+      
+        P
+      
+    
+    {\displaystyle P}
+   = {
+  
+    
+      
+        
+          p
+          
+            1
+          
+        
+        ,
+        
+          p
+          
+            2
+          
+        
+        ,
+        .
+        .
+        .
+        ,
+        
+          p
+          
+            n
+          
+        
+      
+    
+    {\displaystyle p_{1},p_{2},...,p_{n}}
+  }  o conjunto de geradores, e 
+  
+    
+      
+        V
+      
+    
+    {\displaystyle V}
+   = {
+  
+    
+      
+        
+          v
+          
+            1
+          
+        
+        ,
+        
+          v
+          
+            2
+          
+        
+        ,
+        .
+        .
+        .
+        ,
+        
+          v
+          
+            n
+          
+        
+      
+    
+    {\displaystyle v_{1},v_{2},...,v_{n}}
+  } denota o diagrama de Voronoi para 
+  
+    
+      
+        P
+      
+    
+    {\displaystyle P}
+  . A construção do diagrama é o procedimento para a geração 
+  
+    
+      
+        V
+        (
+        p
+        )
+      
+    
+    {\displaystyle V(p)}
+  . A partir da definição que vimos do Diagrama de Voronoi ordinario a partir de meios planos é possível criar um método ingénuo para a construação do diagrama.
+O polígono de Voronoi para o 
+  
+    
+      
+        
+          p
+          
+            i
+          
+        
+      
+    
+    {\displaystyle p_{i}}
+   gerador é a intersecção de todos os planos definidos por meio das meadiatrizes de 
+  
+    
+      
+        
+          p
+          
+            i
+          
+        
+      
+    
+    {\displaystyle p_{i}}
+   e dos outros geradores. Assim podemos construir os polígonos de Voronoi um por um que serão no final o Diagrama de Voronoi a partir do seguinte método:
+
+
+=== Algoritmo ===
+Método Naive:
+VORONOI_DIAGRAM
+ENTRADA: n geradores 
+  
+    
+      
+        
+          p
+          
+            1
+          
+        
+        ,
+        
+          p
+          
+            2
+          
+        
+        ,
+        .
+        .
+        .
+        ,
+        
+          p
+          
+            n
+          
+        
+      
+    
+    {\displaystyle p_{1},p_{2},...,p_{n}}
+  .
+SAÍDA: Diagrama de Voronoi 
+  
+    
+      
+        V
+      
+    
+    {\displaystyle V}
+   = {
+  
+    
+      
+        V
+        (
+        
+          p
+          
+            1
+          
+        
+        )
+        ,
+        V
+        (
+        
+          p
+          
+            2
+          
+        
+        )
+      
+    
+    {\displaystyle V(p_{1}),V(p_{2})}
+  }Passo 1: Para cada i sendo i = 1,2, . . . , n, gerar n-1 planos intermediários  
+  
+    
+      
+        H
+        (
+        
+          p
+          
+            1
+          
+        
+        ,
+        
+          p
+          
+            2
+          
+        
+        )
+      
+    
+    {\displaystyle H(p_{1},p_{2})}
+   , 1 ≤ j ≤n, j ≠ i , e assim construir sua intersecção em comum 
+  
+    
+      
+        V
+        (
+        
+          p
+          
+            i
+          
+        
+        )
+      
+    
+    {\displaystyle V(p_{i})}
+  .Passo 2: Retorna {
+  
+    
+      
+        V
+        (
+        
+          p
+          
+            1
+          
+        
+        )
+        ,
+        V
+        (
+        
+          p
+          
+            2
+          
+        
+        )
+        ,
+      
+    
+    {\displaystyle V(p_{1}),V(p_{2}),}
+   … ,
+  
+    
+      
+        V
+        (
+        
+          p
+          
+            n
+          
+        
+        )
+      
+    
+    {\displaystyle V(p_{n})}
+  } todas as intersecções a partir dos geradores.
+
+
+=== Avaliação do método naive ===
+O método naive não pode ser chamado de 'algoritmo' prático, porque é "insuficiente".
+Para avaliar um algoritmo, temos que considerar pelo menos se ele é correto e sua eficiência, e se se tratando de computação numérica, nós também temos que considerar robustez contra erros numéricos. O método acima é correto, porque é uma atualização da definição do diagrama de Voronoi. Assim, consideramos os outros dois aspetos.
+
+
+==== Eficiência do método naive ====
+Primeiro vamos avaliar a eficiência. Para construção de um plano intermediário H (pi, pj) para dois pontos dados pi e pj requer tempo constante. Assim, para cada pi o tempo necessário para a construção de um n-planos  é proporcional a n-1, por exemplo 
+  
+    
+      
+        a
+        (
+        n
+        −
+        1
+        )
+      
+    
+    {\displaystyle a(n-1)}
+  , onde 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+   é uma constante positiva. Para construir a intersecção dos planos, vamos considerar o seguinte procedimento:
+
+Primeiro, construir a interseção de dois planos, obtendo um polígono com dois lados.Depois construir a interseção deste polígono com o terceiro plano.Na k-ésima etapa  deste procedimento, temos que encontrar a interseção de um polígono k lados (no pior dos casos) com outro plano, e o tempo desta etapa é pelo menos proporcional ao k, se verificarmos se cada um dos lados de k cruza a linha limite do plano. Esta construção da intersecção dos planos n-1 requer tempo proporcional a 
+  
+    
+      
+        1
+        +
+        2
+        +
+        .
+        .
+        .
+        +
+        n
+        −
+        2
+        =
+        (
+        n
+        −
+        2
+        )
+        ∗
+        (
+        n
+        −
+        1
+        )
+        
+          /
+        
+        2
+      
+    
+    {\displaystyle 1+2+...+n-2=(n-2)*(n-1)/2}
+  , dizem 
+  
+    
+      
+        b
+        ∗
+        (
+        n
+        −
+        2
+        )
+        (
+        n
+        −
+        1
+        )
+      
+    
+    {\displaystyle b*(n-2)(n-1)}
+    em que 
+  
+    
+      
+        b
+      
+    
+    {\displaystyle b}
+   é uma outra constante positiva. Temos que repetir esse processo para todos os geradores, e, consequentemente, o tempo total exigido pelo método ingênuo é:
+
+  
+    
+      
+        T
+        (
+        n
+        )
+        =
+        n
+        
+          a
+          (
+          n
+          −
+          1
+          )
+          +
+          b
+          (
+          n
+          −
+          2
+          )
+          (
+          n
+          −
+          1
+          )
+        
+        =
+        O
+        (
+        
+          n
+          
+            3
+          
+        
+        )
+      
+    
+    {\displaystyle T(n)=n{a(n-1)+b(n-2)(n-1)}=O(n^{3})}
+  .
+Isto significa que, para um programa de computador com base no procedimento acima, o tempo para o processamento torna-se oito vezes maior do que o tamanho da entrada e torna-se o dobro do tamanho.
+Empregando uma técnica pouco mais sofisticada, podemos construir a interseção de n-1 planos em 
+  
+    
+      
+        O
+        (
+        n
+        l
+        o
+        g
+        n
+        )
+      
+    
+    {\displaystyle O(nlogn)}
+  . Por isso, a complexidade de tempo do método naive pode ser reduzida para 
+  
+    
+      
+        O
+        (
+        
+          n
+          
+            2
+          
+        
+        n
+        l
+        o
+        g
+        )
+      
+    
+    {\displaystyle O(n^{2}nlog)}
+  
+Existem outros algoritmos para construção do diagrama de Voronoi que requerem pelo menos 
+  
+    
+      
+        O
+        (
+        n
+        l
+        o
+        g
+        n
+        )
+      
+    
+    {\displaystyle O(nlogn)}
+   no pior caso, e pelo menos 
+  
+    
+      
+        O
+        (
+        n
+        )
+      
+    
+    {\displaystyle O(n)}
+  , em média. Além disso, existem algoritmos cuja complexidade de tempo atinge estes limites, e alguns deles, na verdade, tem tempo de execução muito curto, mesmo para pequenos valores de n (embora a própria ordem representa o comportamento do algoritmo que n se aproxima do infinito). Em comparação com estes algoritmos, o algoritmo naive não é muito satisfatório do ponto de vista de complexidade de tempo.
+
+
+==== Robustez do método naive ====
+Outro ponto de suma importância de vista para avaliar o algoritmo é a robustez contra erros numéricos. Sob este ponto de vista também o método naive não é satisfatório. Isso pode ser entendido através do seguinte exemplo:
+Suponha-se que há apenas quatro geradores P1, P2, P3 e P4 e eles estão muito próximos de um círculo em comum. Então as três bissetrizes entre p1 e os outros mais próximos geradores passam para o centro do círculo.
+Se o erro numérico ocorre, é difícil decidir as posições relativas dos pontos de interseção dessas mediatrizes. Por isso, o resultado da intersecção dos três planos associados a P1 pode ser um polígono de dois lados ou um polígono de três lado, dependendo o número de erros numéricos. Os outros três polígonos de Voronoi têm instabilidade similar. No método naive, cada polígono de Voronoi é calculado de forma independente, de modo que o resultado poderá tornar-se inconsistente topologicamente.
+De um ponto de vista teórico, todos os polígonos de Voronoi um mosaico dos planos, mas no cálculo real a saída do método naive, não proporciona necessariamente um mosaico dos planos. Assim, o método naive, se traduzido para um programa de computador de uma maneira simples, não é robusto contra erros numéricos. Sua produção pode ser inconsistente topologicamente. Precisamos de uma análise cuidadosa, a fim de fazer um algoritmo numericamente robusto.
+O método naive, apresentado acima, é um dos métodos mais fáceis de compreender, porque é uma tradução direta da definição do diagrama de Voronoi. Este método não é recomendado para propósitos gerais, ele pode ser usado para alguns tipos especiais de simulação onde o objetivo não é construir o próprio diagrama de Voronoi, mas para gerar muitas amostras de polígonos de Voronoi para obter dados estatísticos, tais como a distribuição do número de arestas por polígono.
+Portanto a saída do método ingênuo é uma coleção de polígonos de Voronoi, e ele não inclui informações explícitas sobre a estrutura topológica do diagrama. Para extrairmos vários tipos de informação a partir do diagrama de Voronoi, o método ingênuo não é adequado.
+
+
+=== Bibliografia ===
+Okabe, A. (1992). Spatial Tessellations, Concepts and Applications of Voronoi diagrams (em inglês). Londres: Wiley Vera, Sacristán. Computational Geometry - Algorithms for constructing Voronoi diagrams (PDF). Espanha: [s.n.] Consultado em 4 de setembro de 2014. Arquivado do original (PDF) em 4 de setembro de 2014 Algoritmos para a construção de Diagramas de Voronoi
+
+
+== Algoritmo Incremental ==
+O algoritmo incremental para a construção de diagramas de Voronoi foi proposto por  Peter Green e Robin Sibson  em 1978.
+Este algoritmo gasta tempo 
+  
+    
+      
+        O
+        (
+        n
+        )
+      
+    
+    {\displaystyle O(n)}
+   para cada inserção de ponto, para uma complexidade total de 
+  
+    
+      
+        O
+        (
+        
+          n
+          
+            2
+          
+        
+        )
+      
+    
+    {\displaystyle O(n^{2})}
+  . Apesar de ter complexidade quadrática, é um método simples e popular para a construção de diagramas de Voronoi.
+
+
+=== Descrição ===
+Este algoritmo começa com um Diagrama de Voronoi 
+  
+    
+      
+        V
+        (
+        
+          p
+          
+            n
+          
+        
+        )
+      
+    
+    {\displaystyle V(p_{n})}
+   para um dado conjunto 
+  
+    
+      
+        
+          p
+          
+            n
+          
+        
+      
+    
+    {\displaystyle p_{n}}
+   de pontos 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+  . Novas arestas são construídas à medida que novos pontos são adicionados. A ideia básica é construir um polígono de Voronoi para um novo ponto 
+  
+    
+      
+        
+          p
+          
+            n
+            +
+            1
+          
+        
+      
+    
+    {\displaystyle p_{n+1}}
+   que é adicionado ao conjunto de pontos 
+  
+    
+      
+        p
+      
+    
+    {\displaystyle p}
+  . As etapas do algoritmo estão descrito a seguir :
+
+A) O primeiro passo é identificar o ponto 
+  
+    
+      
+        
+          p
+          
+            i
+          
+        
+      
+    
+    {\displaystyle p_{i}}
+   cujo polígono de Voronoi contém o ponto 
+  
+    
+      
+        
+          p
+          
+            n
+            +
+            1
+          
+        
+      
+    
+    {\displaystyle p_{n+1}}
+  . 
+B) Construa uma mediatriz do segmento 
+  
+    
+      
+        
+          p
+          
+            n
+            +
+            1
+          
+        
+        
+          p
+          
+            i
+          
+        
+      
+    
+    {\displaystyle p_{n+1}p_{i}}
+   o qual interceta o 
+  
+    
+      
+        V
+        (
+        
+          p
+          
+            n
+          
+        
+        )
+      
+    
+    {\displaystyle V(p_{n})}
+   em 
+  
+    
+      
+        
+          q
+          
+            i
+          
+        
+      
+    
+    {\displaystyle q_{i}}
+   e 
+  
+    
+      
+        
+          q
+          
+            i
+            +
+            1
+          
+        
+      
+    
+    {\displaystyle q_{i+1}}
+  , respectivamente.
+C) Assumindo que 
+  
+    
+      
+        
+          q
+          
+            i
+          
+        
+        
+          q
+          
+            i
+            +
+            1
+          
+        
+      
+    
+    {\displaystyle q_{i}q_{i+1}}
+   é orientado no sentido anti-horário, adicione uma mediatriz do segmento 
+  
+    
+      
+        
+          p
+          
+            n
+            +
+            1
+          
+        
+        
+          p
+          
+            i
+            +
+            1
+          
+        
+      
+    
+    {\displaystyle p_{n+1}p_{i+1}}
+   no polígono de Voronoi adjacente ao ponto 
+  
+    
+      
+        
+          q
+          
+            i
+            +
+            1
+          
+        
+      
+    
+    {\displaystyle q_{i+1}}
+  .
+D) Os passos B e C são repetidos até que o ponto 
+  
+    
+      
+        
+          q
+          
+            i
+          
+        
+      
+    
+    {\displaystyle q_{i}}
+   for revisitado.
+E)  Neste ponto, o polígono de Voronoi para o ponto 
+  
+    
+      
+        
+          p
+          
+            n
+            +
+            1
+          
+        
+      
+    
+    {\displaystyle p_{n+1}}
+   é obtido.
+F) O novo Diagrama de Voronoi 
+  
+    
+      
+        V
+        (
+        
+          p
+          
+            n
+            +
+            1
+          
+        
+        )
+      
+    
+    {\displaystyle V(p_{n+1})}
+   é obtido pela remoção da subestrutura dentro do polígono de Voronoi para 
+  
+    
+      
+        
+          p
+          
+            n
+            +
+            1
+          
+        
+      
+    
+    {\displaystyle p_{n+1}}
+  .
+
+
+=== Exemplo ===
+Seja o conjunto de pontos 
+  
+    
+      
+        
+          p
+          
+            1
+          
+        
+      
+    
+    {\displaystyle p_{1}}
+  , 
+  
+    
+      
+        
+          p
+          
+            2
+          
+        
+      
+    
+    {\displaystyle p_{2}}
+   e 
+  
+    
+      
+        
+          p
+          
+            3
+          
+        
+      
+    
+    {\displaystyle p_{3}}
+  . Se um ponto 
+  
+    
+      
+        
+          p
+          
+            4
+          
+        
+      
+    
+    {\displaystyle p_{4}}
+   é adicionado ao conjunto, 
+  
+    
+      
+        
+          p
+          
+            2
+          
+        
+      
+    
+    {\displaystyle p_{2}}
+   deve ser escolhido como o ponto inicial para a construção do novo diagrama de Voronoi (DV), uma vez que o polígono de Voronoi que contém  
+  
+    
+      
+        
+          p
+          
+            2
+          
+        
+      
+    
+    {\displaystyle p_{2}}
+   contém 
+  
+    
+      
+        
+          p
+          
+            4
+          
+        
+      
+    
+    {\displaystyle p_{4}}
+   e é o mais próximo deste último. Uma mediatriz que corta o segmento 
+  
+    
+      
+        
+          p
+          
+            4
+          
+        
+        
+          p
+          
+            2
+          
+        
+      
+    
+    {\displaystyle p_{4}p_{2}}
+   é adicionada, a qual intercepta o DV nos pontos 
+  
+    
+      
+        
+          q
+          
+            1
+          
+        
+      
+    
+    {\displaystyle q_{1}}
+   e 
+  
+    
+      
+        
+          q
+          
+            2
+          
+        
+      
+    
+    {\displaystyle q_{2}}
+  . Similarmente, mediatrizes que cortam 
+  
+    
+      
+        
+          p
+          
+            4
+          
+        
+        
+          p
+          
+            3
+          
+        
+      
+    
+    {\displaystyle p_{4}p_{3}}
+   e 
+  
+    
+      
+        
+          p
+          
+            4
+          
+        
+        
+          p
+          
+            1
+          
+        
+      
+    
+    {\displaystyle p_{4}p_{1}}
+   são desenhadas as quais interceptam o polígono de Voronoi de 
+  
+    
+      
+        
+          p
+          
+            3
+          
+        
+      
+    
+    {\displaystyle p_{3}}
+   em 
+  
+    
+      
+        
+          q
+          
+            2
+          
+        
+      
+    
+    {\displaystyle q_{2}}
+   e 
+  
+    
+      
+        
+          q
+          
+            3
+          
+        
+      
+    
+    {\displaystyle q_{3}}
+  , e aquele de 
+  
+    
+      
+        
+          p
+          
+            1
+          
+        
+      
+    
+    {\displaystyle p_{1}}
+   em 
+  
+    
+      
+        
+          q
+          
+            3
+          
+        
+      
+    
+    {\displaystyle q_{3}}
+   e 
+  
+    
+      
+        q
+      
+    
+    {\displaystyle q}
+  . O novo DV é obtido removendo a subestrutura interna do novo polígono de Voronoi formado.
+
+
+== Divisão e conquista ==
+O primeiro algoritmo a utilizar o paradigma computacional da divisão e conquista para construção de Diagramas de Voronoi, foi proposto por Shamos e Hoey em 1975. Foi também o primeiro algoritmo a computador os diagramas com complexidade 
+  
+    
+      
+        O
+        (
+        n
+        l
+        o
+        g
+        n
+        )
+      
+    
+    {\displaystyle O(nlogn)}
+   no pior dos casos.
+
+
+=== Descrição ===
+O algoritmo considera um conjunto 
+  
+    
+      
+        S
+      
+    
+    {\displaystyle S}
+   de 
+  
+    
+      
+        N
+      
+    
+    {\displaystyle N}
+   pontos divididos em dois subconjuntos 
+  
+    
+      
+        
+          S
+          
+            E
+          
+        
+      
+    
+    {\displaystyle S_{E}}
+   e 
+  
+    
+      
+        
+          S
+          
+            D
+          
+        
+      
+    
+    {\displaystyle S_{D}}
+  , cada um contendo 
+  
+    
+      
+        N
+        
+          /
+        
+        2
+      
+    
+    {\displaystyle N/2}
+   pontos, de tal modo que cada ponto de 
+  
+    
+      
+        
+          S
+          
+            E
+          
+        
+      
+    
+    {\displaystyle S_{E}}
+   encontra-se à esquerda de qualquer ponto de 
+  
+    
+      
+        
+          S
+          
+            D
+          
+        
+      
+    
+    {\displaystyle S_{D}}
+  .
+Assumindo que já possuímos os diagramas de Voronoi 
+  
+    
+      
+        V
+        (
+        
+          S
+          
+            E
+          
+        
+        )
+      
+    
+    {\displaystyle V(S_{E})}
+   e 
+  
+    
+      
+        V
+        (
+        
+          S
+          
+            D
+          
+        
+        )
+      
+    
+    {\displaystyle V(S_{D})}
+  , construídos recursivamente, a etapa de união dos diagramas é realizada traçando-se uma reta poligonal 
+  
+    
+      
+        P
+      
+    
+    {\displaystyle P}
+  , também conhecida como cadeia divisória, que divide ambos conjuntos de pontos verticalmente. Essa cadeia possui a propriedade de que cada reta horizontal intersecta 
+  
+    
+      
+        P
+      
+    
+    {\displaystyle P}
+   exatamente em um único ponto, uma vez que toda linha poligonal que separa dois conjuntos disjuntos em x é monótona em y.
+A cadeia 
+  
+    
+      
+        P
+      
+    
+    {\displaystyle P}
+   faz um percurso sobre o lugar geométrico equidistante de algum ponto de 
+  
+    
+      
+        
+          S
+          
+            E
+          
+        
+      
+    
+    {\displaystyle S_{E}}
+   e algum ponto de 
+  
+    
+      
+        
+          S
+          
+            D
+          
+        
+      
+    
+    {\displaystyle S_{D}}
+  . Basicamente, o caminho percorrido acaba formando segmentos de reta pertencentes a uma fronteira comum de uma região de um certo ponto de 
+  
+    
+      
+        
+          S
+          
+            E
+          
+        
+      
+    
+    {\displaystyle S_{E}}
+  , com a região um certo ponto de 
+  
+    
+      
+        
+          S
+          
+            D
+          
+        
+      
+    
+    {\displaystyle S_{D}}
+  . Visto isso, 
+  
+    
+      
+        P
+      
+    
+    {\displaystyle P}
+   forma as novas arestas do diagrama de Voronoi 
+  
+    
+      
+        V
+        (
+        S
+        )
+      
+    
+    {\displaystyle V(S)}
+   dado por. 
+  
+    
+      
+        V
+        (
+        
+          S
+          
+            E
+          
+        
+        )
+        ∪
+        V
+        (
+        
+          S
+          
+            D
+          
+        
+        )
+      
+    
+    {\displaystyle V(S_{E})\cup V(S_{D})}
+  .
+Após a construção de 
+  
+    
+      
+        P
+      
+    
+    {\displaystyle P}
+  , a união está praticamente concluída, sendo necessário apenas eliminar parte das arestas de 
+  
+    
+      
+        V
+        (
+        
+          S
+          
+            E
+          
+        
+        )
+      
+    
+    {\displaystyle V(S_{E})}
+   e 
+  
+    
+      
+        V
+        (
+        
+          S
+          
+            D
+          
+        
+        )
+      
+    
+    {\displaystyle V(S_{D})}
+   que cruzam 
+  
+    
+      
+        P
+      
+    
+    {\displaystyle P}
+  .
+
+
+=== Como computar a cadeia divisória ===
+
+A essência do algoritmo está na construção da reta poligonal 
+  
+    
+      
+        P
+      
+    
+    {\displaystyle P}
+  . Podemos computa-la através dos seguintes passos:
+
+Computar o fecho convexo de 
+  
+    
+      
+        
+          S
+          
+            E
+          
+        
+      
+    
+    {\displaystyle S_{E}}
+   e o fecho convexo de 
+  
+    
+      
+        
+          S
+          
+            D
+          
+        
+      
+    
+    {\displaystyle S_{D}}
+  .
+Encontrar o par de pontos, 
+  
+    
+      
+        e
+        ∈
+        
+          S
+          
+            E
+          
+        
+      
+    
+    {\displaystyle e\in S_{E}}
+   e 
+  
+    
+      
+        d
+        ∈
+        
+          S
+          
+            D
+          
+        
+      
+    
+    {\displaystyle d\in S_{D}}
+   que define a ponte superior de junção dos fechos convexos de 
+  
+    
+      
+        
+          S
+          
+            E
+          
+        
+      
+    
+    {\displaystyle S_{E}}
+   e 
+  
+    
+      
+        
+          S
+          
+            D
+          
+        
+      
+    
+    {\displaystyle S_{D}}
+  
+Criar uma aresta consistindo da mediatriz desses dois pontos, a partir do 
+  
+    
+      
+        −
+        ∞
+      
+    
+    {\displaystyle -\infty }
+  , e definir como aresta atual.
+Sempre que a aresta atual encontrar uma aresta existente, muda-se um dos dois pontos. Se a aresta encontrada pertence à 
+  
+    
+      
+        V
+        (
+        
+          S
+          
+            E
+          
+        
+        )
+      
+    
+    {\displaystyle V(S_{E})}
+  , então atualiza-se o ponto 
+  
+    
+      
+        e
+      
+    
+    {\displaystyle e}
+  , caso contrário atualiza-se o ponto 
+  
+    
+      
+        d
+      
+    
+    {\displaystyle d}
+  . O ponto é trocado pelo outro ponto equidistante da aresta que foi interceptada.
+Criar uma nova aresta a partir sobre a mediatriz desses novos pontos que passa a ser a reta atual.
+Adicionar essa aresta à 
+  
+    
+      
+        P
+      
+    
+    {\displaystyle P}
+  
+Repetir passos 4, 5 e 6 até que a ponte inferior de junção dos fechos convexos seja alcançada.
+
+
+=== Pseudocódigo ===
+VORONOI_DIAGRAMENTRADA: Uma lista/conjunto S = {s1, s2,..., sn} de pontos em ordem ascendente em relação a coordenada x, onde n > 3
+SAÍDA: Diagrama de Voronoi V(S)
+Seja t a parte inteira de n/2, dividir S em SE = {s1, s2,..., st} e SD = {st+1, st+2,..., sn}
+Construir o Diagrama de Voronoi V(SE) de SE recursivamente
+Construir o Diagrama de Voronoi V(SD) de SD recursivamente
+Combinar V(SE) e V(SD) em V(S) i.e, V(S)=V(SE) ∪ V(SD) computando a cadeia divisória e podando as arestas desnecessárias.
+Devolve V(S)
+
+
+== Algoritmo de Fortune ==
+Para a construção de diagramas de Vornoi, o Algoritmo de varredura (Sweep Algorithm) foi proposto em 1986 por Steven Fortune através do artigo "A Sweepline Algorithm for Voronoi Diagrams" (Tradução livre: Um algoritmo de linha de varredura para os diagramas de Voronoi). Esse algoritmo é normalmente chamado de Algoritmo de Fortune, em referência a seu autor, tem complexidade 
+  
+    
+      
+        O
+        (
+        n
+        l
+        o
+        g
+        n
+        )
+      
+    
+    {\displaystyle O(nlogn)}
+   e é, portanto, considerado um algoritmo ótimo para a construção dos diagramas.
+
+
+=== Descrição ===
+Inicialmente temos um conjunto 
+  
+    
+      
+        S
+      
+    
+    {\displaystyle S}
+   de 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+   pontos dispostos no plano 
+  
+    
+      
+        x
+        y
+      
+    
+    {\displaystyle xy}
+   Em seguida, criamos um conjunto de cones idênticos, de forma que, para cada ponto do conjunto haja um cone que cresce em direção ao eixo 
+  
+    
+      
+        z
+      
+    
+    {\displaystyle z}
+  . 
+Dito isso, podemos dizer que a intersecção entre dois cones é uma hipérbole, cuja projeção no plano 
+  
+    
+      
+        x
+        y
+      
+    
+    {\displaystyle xy}
+   é uma reta correspondente a uma das arestas do Diagrama de Voronoi.
+A ideia do algoritmo de Fortune é deslocar um plano, com a mesma inclinação que a dos cones, sobre o plano 
+  
+    
+      
+        x
+        y
+      
+    
+    {\displaystyle xy}
+  . Este plano é chamado de "Plano de Varredura" e sua intersecção com o plano 
+  
+    
+      
+        x
+        y
+      
+    
+    {\displaystyle xy}
+  , gera a linha que é chamada de Sweepline, ou “Linha de varredura”.
+A projeção no plano 
+  
+    
+      
+        x
+        y
+      
+    
+    {\displaystyle xy}
+   a esquerda da Linha de Varredura, gerará o diagrama de Voronoi.
+Dado um ponto 
+  
+    
+      
+        P
+      
+    
+    {\displaystyle P}
+   qualquer, podemos dizer que o conjunto de pontos mais próximos de 
+  
+    
+      
+        P
+      
+    
+    {\displaystyle P}
+   do que da linha de varredura é uma parábola. A fronteira da união das parábolas formadas antes da linha de varredura é chamada de beach line, ou “linha de praia”.
+Vale observar que o ponto de encontro entre duas parábolas na linha de praia sempre está sobre uma aresta do diagrama.
+
+
+=== Estratégia do Algoritmo ===
+
+A estratégia do algoritmo é deslocar a linha de varredura de cima para baixo (note que no plano, a ordem esquerda-direita e cima-baixo, não altera em nada a lógica do algoritmo), armazenando a estrutura acima da linha enquanto a mesma se desloca. É fácil notar que a estrutura acima da linha de praia não se modifica. Sobre a linha de praia, ela só sofre alterações significativas em duas situações as quais são chamadas de Site Events, ou “evento-ponto”, e Circle Events, ou “evento-círculo”.
+Um ponto-evento ocorre quando a linha de varredura passa por um ponto qualquer. Depois que isso acontece, um novo arco é adicionado à linha de praia. Esse novo arco pode quebrar um arco já existente em dois.
+Quando um arco na linha de praia é reduzido até tornar-se um ponto (quando ocorre o encontro entre três parábolas), podemos traçar um círculo centrado nesse ponto que passa por todos os pontos geradores das parábolas e que também é tangente a linha de varredura. Por isso dizemos que aconteceu um evento-círculo, que é o único modo de um arco sair da linha de praia.
+Resumindo, um novo arco surge na linha de praia quando um evento-ponto ocorre e sai com um evento-círculo.
+
+BibliografiaMark de Berg, Marc van Kreveld, Mark Overmars, e Otfried Schwarzkopf (2008). Computational Geometry (em inglês). [S.l.]: Springer-Verlag. ISBN 3-540-65620-0  !CS1 manut: Nomes múltiplos: lista de autores (link)
+
+
+== Ver também ==
+Diagrama de Voronoi
+
+
+== Referências ==

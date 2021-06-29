@@ -1,0 +1,29 @@
+Samasusteisendus ehk ühikteisendus on teisendus 1A: A → A (A on mittetühi hulk), mis jätab iga A elemendi iseendaks, st
+
+  
+    
+      
+        
+          1
+          
+            A
+          
+        
+        (
+        a
+        )
+        =
+        a
+      
+    
+    {\displaystyle 1_{A}(a)=a}
+  mis tahes a∈A korral.
+Samasusteisendus on hulga teisenduste monoidis ühikelemendiks.
+
+
+== Vaata ka ==
+Teisendus
+Funktsioon
+
+
+== Viited ==

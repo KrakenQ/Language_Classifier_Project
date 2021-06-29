@@ -1,0 +1,15 @@
+Nicolas Tadeusz Courtois, né le 14 novembre 1971 à Lębork en Pologne, est un cryptologue franco-polonais. Son travail se concentre sur les cryptosystèmes et la cryptanalyse basée sur les équations polynomiales à plusieurs variables sur les corps finis.
+
+
+== Biographie ==
+Nicolas Courtois obtint un doctorat en cryptographie à l'université Pierre-et-Marie-Curie en septembre 2001 sous la direction de Sami Harari,.
+Avec Josef Pieprzyk, Nicolas Courtois fut à l'origine du concept d'attaque XSL, une méthode théorique pouvant potentiellement casser AES et qui a été critiquée par plusieurs experts en cryptologie après sa publication en 2002.
+
+
+== Notes et références ==
+
+
+== Liens externes ==
+
+Site officiel
+ Portail de la cryptologie   Portail de la sécurité informatique

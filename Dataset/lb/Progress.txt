@@ -1,0 +1,84 @@
+De Progress (russesch: Прогресс fir Fortschrëtt) ass e russeschen, vu Sojus ofgeleeten onbemannte Raumtransporter deen nëmmen eng Kéier kann agesat ginn an dee Mëtt vun den 1970er-Jore vum OKB-1 Koroljow (Experimental-Konstruktiounsbüro-1, haut RKK Energija) fir de Ravitaillement vu Raumstatioune vun der Saljut-Serie entwéckelt gouf. Spéider gouf mam Progress och d'Raumstatioun Mir ugeflunn. Haut starten d'Progress-Transporter op d'International Raumstatioun (ISS). D'Drorakéit ass eng Sojus.
+
+
+== Opbau ==
+De Progress besteet grondsätzlech aus dräi Moduler: Déi aus dem Sojus-Orbitalmodul ofgeleet ënner Drock gesate Frachtsektioun (Progress GO = Gruzovoi otsek /russ. Грузовой отсек) mat Loftschleis, d'Tanksektioun (Progress OKD = Otsek komponentov dozapravki/russ.Отсек компонентов дозаправки) an de Servicemodul (Progress PAO = Priborno-agregatniy otsek/russ. Приборно-агрегатный отсек) mat den Dreifwierker an der Energieversuergung fir Progress.
+Progress huet keng Kapsel fir zréckzekommen a gëtt nom Betanke vun der Raumstatioun an dem Ausluede vum Transport mat Offall belueden, fir domat an der Äerdatmosphär ze verglousen. Fir net fir all Proufréckféierung vun der Mir eng Sojus starten ze mussen, gouf de Modul fir zréckzekommen VBK-Raduga, (VBK fir Vozvrashchaemaya ballisticheskaya kapsula /russ. Возвращаемая баллистическая капсула) entwéckelt, dee ronn 150 kg Notzlaascht zréck op d'Äerd transportéiere kann.
+
+
+== Asaz ==
+De Progress déngt am Ament als Noschubtransporter fir d'International Raumstatioun. Pro Joer ginn duerchschnëttlech véier Transporter gestart.
+
+
+== Versiounen ==
+Mëtt vun den 1970er-Jore gouf eng onbemannt Frachtvariant vun der Sojus 7K-T entwéckelt, déi den Numm Progress krut. Den éischte Start war den 20. Januar 1978 op d'Raumstatioun Saljut 6. An den 1980er gouf mat Progress M eng nei Variant vum Transportschëff entworf, déi huet um Sojus-T-Raumschëff baséiert a gouf fir déi éischt Kéier 1989 op d'Mir gestart. Spéider gouf d'Progress M fir d'ISS agesat. 2000 ass mat Progress M1 eng weider Modifikatioun vum Schëff gemaach ginn, déi Kéier gouf d'Kapazitéit vum d'Dreifstofftransport vum Frachter vergréissert. Am Ament gëtt d'ISS vun de Progress-M-Raumschëffer versuergt, d'Progress-M1-Tanker ginn nëmmen agesat, wa se gebraucht ginn.
+De 26. November 2008 gouf e Progress-Raumschëff vun der neier Versioun Progress M-01M (GRAU-Index: 11F615A60) gestart. Dat huet amplaz vum analoge Fluchsteierungssystem Argon-16 dräifach redundant digital Fluchsteierungssystemer ZWN-101 (mat RISC 3081 Prozessor) an e miniaturiséiert Radiotelemetriesystem MBITS. Déi nei Systemer erlaben eng séier a méi effizient Fluchsteierung a si 75 kg méi liicht.
+Bis Januar 2012 ware 45 Progress-Raumschëffer fir de Ravitaillement vun der ISS agesat ginn.
+De 44. Fluch (Flug 44P) war de 24. August 2011 verongléckt an erofgefall, wourop weider Starte vu Sojus-Rakéite bis zu der Klärung vun der Ofstuerzursaach gestoppt goufen.Déi nächst Progress ass den 30. Oktober 2011 erfollegräich gestart an ass op der Internationaler Raumstatioun ukomm.
+
+
+=== Progress ===
+Längt: 7,48 m
+Maximalen Duerchmiesser: 2,72 m
+Mass: 7.020 kg
+Notzlaascht: 2.315 kg, dovu maximal 975 kg Dreifstoff.
+Éischte Fluch: 20. Januar 1978 (Progress 1 zu Saljut 6)
+Leschte Fluch: 5. Mee 1990
+Zuel vu gegléckte Starten: 42, dovun
+12 zu Saljut 6
+12 zu Saljut 7
+18 zu der Mir
+Energieversuergung: Akkumulatoren
+
+
+=== Progress M ===
+
+Längt: 7,23 m
+Maximalen Duerchmiesser: 2,72 m
+Mass: 7.450 kg
+Notzlaascht: 2.350 kg, dovun maximal 1.200 kg Dreifstoff
+Éischte Fluch: 23. August 1989 (Progress M 1 zu der Mir)
+Leschte Fluch: 24. Juli 2009 (Progress M 67 zu der ISS, Deorbit 27. September 2009)
+Energieversuergung: Solarzellen an Akkuen
+
+
+=== Progress M1 ===
+
+Längt: 7,2 m
+Maximalen Duerchmiesser: 2,72 m
+Mass: 7.150 kg
+Notzlaascht: 2.230 kg, dovun maximal 1.950 kg Dreifstoff
+Éischte Fluch: 1. Februar 2000 (Progress M1-1 zu der Mir), am Asaz
+Energieversuergung: Solarzellen an Akkuen
+
+
+=== Progress M-M ===
+
+Längt: 7,2 m
+Maximalen Duerchmiesser: 2,72 m
+Mass: 7.150 kg
+Notzlaascht: 2.425 kg
+Éischte Fluch: 26. November 2008 (Progress M-01M zu der ISS), am Asaz
+Energieversuergung: Solarzellen an AkkuenVun 2015 un, solle weiderentwéckelt Progress-MS-Raumschëffer an den Asaz kommen. Déi solle sech ënner anerem duerch en neie Rendez-vous- a Kopplungssystem Kurs-NA an en zousätzleche Meteoritteschutz vun der leschter Versioun ënnerscheeden.
+
+
+== Fluchzäit ==
+Mat dem Progress M 16M (Juli 2012), dem Progress M 17M (Oktober 2012) an dem Progress M 18M (Februar 2013) gouf eng drastesch verkierzt Fluchzäit fir op ISS-Raumstatioun vu ronn 6 Stonnen géigeniwwer ongeféier 50 Stonne bei fréiere Flich erreecht. Déi dräi Flich waren Tester fir déi nei Bunnen, déi zanter 2013 fir bemannt Raumschëffer vum Typ Sojus gebraucht ginn.
+
+
+== Verschiddenes ==
+No engem Neesantrëtt fale vergloust Brochstécker vun de Raumtransporter an en Areal am südleche Pazifik., Dat Gebitt gëtt polemesch als „Raumschëff-Kierfecht“ bezeechent, ënner anerem leien op dësem Mieresgebitt Iwwerreschter vu méi wéi 60 Raumfrachteren an och ronn 40 Tonnen vun der ausgedéngter Raumstatioun Mir.,
+
+
+== Kuckt och ==
+ Portal Astronomie
+
+Bemannt Raumfaart
+
+
+== Um Spaweck ==
+(en) RussianSpaceWeb: Progress
+(en) Encyclopedia Astronautica: Progress
+
+
+== Referenzen ==

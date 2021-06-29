@@ -1,0 +1,25 @@
+Parallellprogrammering er en teknikk ved bruk av programmeringsspråk for å oppnå parallell utførelse av operasjoner, enten på ett autonomt datamaskinsystem eller over flere systemer. I det siste tilfellet kan en også bruke begrepet distribuerte systemer.
+Motivasjoner for parallellprogrammering kan være å utføre tunge beregninger over flere prosessorer, utnytte tid som går med til å vente på lesing eller skriving på eksterne enheter, betjene mange samtidige brukere av en tjenermaskin, med flere. Parallellprogrammering kan og være aktuelt ved modellering av virkelige prosesser som skjer i parallell eller ved styring eller kontroll av systemer i sanntid. 
+Man skiller mellom to former for parallellisme: ekte og simulert parallellisme (pseudoparallellisme). I den første formen vil en prosessor kun kjøre en prosess, mens i den andre formen kan en kjøre flere prosesser enn tilgjengelige prosessorer. På engelsk bruker en begrepet parallel programming bare for ekte parallellisme, mens begrepet concurrent programming dekker begge deler.  
+Eksempler på programmeringsspråk som støtter parallellisme, ekte eller simulert er Ada, Java, Erlang, Pascal, Concurrent Pascal og Modula.
+Hello World i Ada ved parallellprogrammering kan se slik ut:
+
+task Hello_World_Line_1; 
+task body Hello_World_Line_1 is
+begin
+ loop
+  delay 3.0;
+  Put_Line("Hello World Line 1");
+ end loop;
+end Hello_World_Line_1;
+
+task Hello_World_Line_2; 
+task body Hello_World_Line_2 is
+begin
+ loop
+  delay 5.0;
+  Put_Line("Hello World Line 2");
+ end loop;
+end Hello_World_Line_2;
+
+Edsger Dijkstra, Tony Hoare og Per Brinch Hansen var pionerer innenfor parallellprogrammering.

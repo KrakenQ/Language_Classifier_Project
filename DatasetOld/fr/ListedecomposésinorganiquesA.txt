@@ -1,0 +1,5 @@
+Cette liste répertorie les éléments chimiques dont le symbole commence par une même lettre, ainsi que leurs principaux composés inorganiques.
+Il peut y avoir plusieurs articles pour une même molécule, et plusieurs molécules pour une même formule. Alors :
+
+la formule chimique renvoie aux synonymes, isomères ou polymorphes ;
+le nom renvoie aux articles respectifs.

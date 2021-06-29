@@ -1,0 +1,9 @@
+Smallest Federated Wiki és una plataforma de programari desenvolupada per Ward Cunningham la qual permet als seus usuaris crear pàgines wiki i que posteriorment puguin ser bifurcades (fork en anglès) per altres usuaris, mantenint les seves còpies pròpies. Es podria establir el paral·lelisme amb GitHub però en un entorn wiki. El projecte va ser presentat al IndieWebCamp 2011.La federació dóna suport quin Cunningham ha descrit com "un cor de veus" on els usuaris comparteixen contingut però mantenen les seves perspectives individuals. Aquesta aproximació contrasta amb la tendència de wikis centralitzades com ara la Viquipèdia.
+
+
+== Referències ==
+
+
+== Enllaços externs ==
+Smallest Federated Wiki - Lloc web oficial
+Missing from the Beginning: The Federation of Wiki Presentació de Ward Cunningham a la University of Advanced Technology

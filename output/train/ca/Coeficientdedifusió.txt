@@ -1,0 +1,29 @@
+En física, el  coeficient de difusió  (
+  
+    
+      
+        D
+      
+    
+    {\displaystyle D}
+  ) és un valor que representa la facilitat amb què cada solut en particular es mou en un solvent determinat. Depèn de tres factors:
+
+Propietats del solut (com la mida i la forma)
+Propietats del solvent (com la viscositat)
+Temperatura i pressió del mediAquest coeficient apareix a la Llei de Fick, relacionada amb la difusió de matèria o energia. Les unitats en el SI són 
+  
+    
+      
+        
+          m
+          
+            2
+          
+        
+        
+          /
+        
+        s
+      
+    
+    {\displaystyle m^{2}/s}

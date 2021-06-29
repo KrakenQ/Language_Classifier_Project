@@ -1,0 +1,54 @@
+Abū ‘Abd Allāh Muhammad ibn Mūsā al-Khwāriznī (árabe: أبو عبد الله محمد بن موسى الخوارزمي; Khwārizn, c. 780 - Bagdad, c. 850) fui un matemático, astrónomo, astrólogo, geógrafo i outor persa. Cunhecen-se poucos detalhes de sue bida. Era un erudito na Casa de la Sabedorie an Bagdade.
+Sou Kitab al-Jabr wa-l-Muqabala apersentou la purmeira soluçon sistemática de las eiquaçones lineares i quadráticas. Ye cunsidrado l fundador de la Álgebra, un crédito que cumpartilha cun Diofante. Ne l seclo XII, traduçones pa l latin de sue obra subre numerales andianos apersentou la notaçon posicional decimal pa l Mundo Oucidental. Rebisou la geografie de Ptolomiu i screbiu subre astronomie i astrologie.
+Sues cuntribuiçones tubírun un grande ampato subre la lenguaige. "Álgebra" ye deribado de al-jabr, ua de las dues ouparaçones qu'el usou para resulber eiquaçones quadráticas. L radical de algarismo i algoritmo ben de algoritmi, la forma latina de sou nome. Para alhá de l pertués algarismo, sou nome tamien dou ourige al espanhol guarismo.
+
+
+== Bida ==
+Al-Khwarizmi naciu an Khawarizn (Khiba), ne l sul de la cidade de l riu Oxus ne l Uzbequiston atual, sous pais migrórun para un lugar al sul de Bagdá quando era nino, la data sata de sou nacimiento nun ye coincida.
+Bibeu na época de l califa abássida al Ma'mun, ne l seclo IX, sabe-se qu'el morriu an 846, trabalhou na biblioteca formada por Harun al-Rashid pai de Al Ma'mun, chamada casa de la Sabedorie, na qual fúrun reunidas todas las obras científicas de l'antiguidade.
+
+
+== Obra ==
+
+Era la época de las grandes traduçones pa l Árabe de las ciéncias griegas, hindus, persas, etc. Sou libro qu'eternizou sou nome ye l Modelo:Trasl ("libro de l cálclo Algébrico i cunfrontaçon"), que nun solamente dou l nome de Álgebra l'esta ciéncia, an sou seneficado moderno, mas abriu ua nuoba era de la matemática.
+Al Khawarizmi stableciu seis tipos d'eiquaçones algébricas qu'el mesmo solucionou an sou libro, l nome de Al Khawarizmi, an spanhol guarismo, qu'al passar pa l francés se tornou logarithme, dou ourige al termo moderno Logaritmos.
+Al Khawarizmi fui l purmeiro a screbir subre la álgebra, depuis del bieno Abu Kamil Shuja Ibn Aslan, muitos outros seguiran sous passos, sou libro subre ls seis porblemas de álgebra ye un de ls melhores subre este assunto, muitos outores de la Andaluzia fazirun buns comentairos subre l sou libro, sendo un de ls melhores eisemplos l de Al Qurashi.
+Anfin, grandes matemáticos de l'ouriente muçulmano oumentórun l númaro d'eiquaçones de seis para binte, para todas achórun soluçones fundadas an sólidas demunstraçones geométricas.
+L'ancógnita nas eiquaçones algébricas era chamada puls matemáticos muçulmanos cumo xay (cousa), notadamente na álgebra de Ómar Khayyan, qu'al ser trascrita xay puls spanholes, dou ourige al X de la álgebra moderna.
+Outra obra de Al Khawarizmi qu'eiserceu grande anfluéncia ye l'antroduçon de l cálclo hindu ne l mundo eislámico, l que mais tarde fui ampliado i aperfundado por outros matemáticos muçulmanos que l seguiran.
+Dében-se tamien la Al Khawarizmi un tratado de geometrie, tábuas astronómicas i outros trabalhos an geografie, cumo l sou libro Suratul Ardh (eimaige de la Tierra).
+Al Khawarizmi fui un de ls astrónomos que participórun de l'ouparaçon Geodésica mais delicada de sue época; la mediçon de l cumprimiento dun grau terrestre, esso yá ne l seclo IX, l'oubjetibo era detreminar, na suposiçon de que a tierra era redonda, l tamanho desta i sue circunferéncia.
+L'ouparaçon rializada na prainada al norte de l Eufrates i tamien acerca de Palmira, andicou 91 176 metros cumo cumprimiento dun grau de l meridiano, un resultado stremamente acurado, pus scede l cumprimiento rial de l grau nesse lugar de solo 877 metros, el fui i siempre será ua de las maiores capacidades científicas de l Eislan.
+
+
+=== Kitab al-Mukhtasar fi Ssab al Jabr wa-l-Muqabala ===
+L Libro de la Restouraçon i de l Valanceamiento, Modelo:Trasl, ye un libro de matemática scrito por Al-Khwāriznī aprossimadamente ne l'anho de 830.
+L método de Al-Khwāriznī de resulber eiquaçones lineares i quadráticas cunsiste an purmeiro reduzir l'eiquaçon para ua de seis formas padron (adonde "b" i "c" son anteiros positibos):
+
+quadrado eigual a ua raiç (ax² = bx)
+quadrado eigual a un númaro (ax² = c)
+raiç eigual a un númaro (bx = c)
+quadrado i raiç eigual a un númaro (ax² + bx = c)
+quadrado i númaro eigual a ua raiç (ax² + c = bx)
+raiç i númaro eigual a un quadrado (bx + c = ax²)Debedindo l coeficiente de l númaro al quadrado i usando las ouparaçones al-ǧabr (Árabe: الجبر “restouraçon”) i al-muqābala ("balanceamiento"). 
+
+Al-ǧabr ye l porcesso de remober númaros negatibos, númaros al quadrado i raízes por meio de l'adiçon de la mesma cantidade para cada lado de l'eiquaçon. Por eisemplo, x² = 40x - 4x² ye reduzida para 5x² = 40x.
+Al-muqābala ye l porcesso de trazer cantidades de l mesmo tipo pa l mesmo lado de l'eiquaçon. Por eisemplo, x² + 14 = x + 5 ye reduzida para x² + 9 = x.
+
+
+== Refréncias ==
+
+
+== Refréncias bibliográficas ==
+Berggren, J. Lennart (1986), Eipisodes in the Mathematics of Mediebal Eislan, New York: Springer Science+Business Medie, ISBN 0-387-96318-9 
+Daffa, Eilhi Abdullah al- (1977), The Muslin cuntribution to mathematics, London: Cron Heiln, ISBN 0-85664-464-1 
+Gandç, Tierramon (1926). «The Ourigin of the Tern "Algebra"». The Amarican Mathematical Monthly (9): 437–440. doi:10.2307/2299605. Modelo:ISSN  
+Struik, Dirk Jan (1987), La Cuncise Story of Mathematics, Dober Publicationes, ISBN 0486602559 
+Modelo:Cite ancyclopedie
+
+
+== Lhigaçones sternas ==
+.pt/mathis/Arabes/Khwarizmi.htn al-Khwarizmi
+.pt/users/andrepache/matetabira/tarefa7/alkhwarizmi.htn Al-Khwarizmi i las eiquaçones de l segundo grau
+Modelo:Geografie eislámica
+Modelo:Eruditos de Coraçon

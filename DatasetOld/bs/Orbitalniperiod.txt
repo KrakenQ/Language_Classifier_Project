@@ -1,0 +1,9 @@
+Orbitalni period je vrijeme koje je potrebno da objekat napravi jednu punu orbitu oko drugog objekta.
+Ako drugačije nije naznačeno, ovime se misli siderički period astronomskog objekta koji se računa u odnosu na zvijezde.
+Postoji nekoliko vrsta orbitalnih perioda kada su u pitanju objekti oko Sunca (ili drugih nebeskih tijela):
+
+Siderički period je vremenski period koji je potreban da objekat napravi jednu punu orbitu oko sunca u odnosu na zvijezde. Ovo se smatra pravim orbitalnim periodom objekta.
+Sinodički period je vremenski period koji je potreban objektu da se ponovo pojavi na istoj tački u odnosu na dva druga objekta (linearna čvora), npr. Mjesec se u odnosu na Sunce gledano sa Zemlje vraća u istu fazu. Sinodički period je vrijeme koje protekne između dvije uzastopne konjunkcije sa linijom Sunce-Zemlja u istom linearnom redu. Sinodički period se razlikuje od sideričkog zbog Zemljine orbite oko Sunca.
+Drakonski period je vrijeme koje prođe između dva prolaska objekta kroz njegov ulazni čvor, tačku na orbiti na kojoj prolazi kroz ekliptiku iz južne u sjevernu hemisferu. Razlikuje se od sideričkog perioda jer je čvor rezultat presjeka ravni, ne linearne prirode, a linija čvorova objekta se obično pomjera zavisno od orbitalnog perioda.
+Anomalijski period je vrijeme koje prođe između dva prolaska objekta na njegovom perihelu, tački najbližeg prilaska suncu. Razlikuje se od sideričkog perioda jer velika poluosa objekta obično vremenom polako napreduje.
+Zemaljski tropski period ili godina, naposljetku, je vrijeme koje prođe između dva poravnanja ose rotacije sa suncem, ili dva prolaska objekta kroz tačku u kojoj je rektascenzija jednaka nuli. Jedna zemaljska godina je kraći interval od solarne orbite (sideričkog perioda) jer nagnuta osa i ekvatorijalna ravan polako precesiraju, poravnavajući se ponovo prije nego što orbita pređe interval jednak inverznoj vrijednosti ciklusa precesije (oko 25.770 godina).

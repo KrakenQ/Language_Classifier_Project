@@ -1,0 +1,33 @@
+Transklusjon er et fenomen innen informatikk og beskriver inklusjon av en del av et dokument i et annet dokument gjennom referanse. Termen ble oppfunnet av Ted Nelson som også er opphavsmannen til termene hypertekst og hypermedia. Enkelte hypertekst-systemer, inkludert Ted Nelsons Xanadu-prosjekt, støtter transklusjon. For eksempel vil en artikkel om et land kunne inkludere en tabell eller et avsnitt som beskriver landets jordbrukseksport fra en annen artikkel omhandlende jordbruk. Framfor å måtte kopiere den inkluderte informasjonen og lagre den på to steder, inkorporerer transklusjon modulær design ved å tillate lagring kun en gang (og, dersom lenketypen gir støtte for dette, korrigere og oppdatere) og framvisning i ulike sammenhenger. Referansen tjener også som lenke mellom begge artikler. 
+I Ted Nelsons opprinnelige forslag til hypertekst som ble beskrevet i hans bok  Literary Machines fra 1982 kan mikrobetalinger automatisk innkreves fra leseren for all tekst, uansett hvor mange brokker med innhold som hentes fra forskjellige steder.
+Nelson har nylig gitt en demonstrasjon på web-transklusjon gjennom programmet the Little Transquoter (programmert etter Nelsons spesifikasjon av Andrew Pam). Det skaper et nytt format bygget på porsjonsadresser fra nettsteder. Dette fungerer på den måten at når referansen opphører vil hver porsjon på resultatsiden forbli klikk-forbundet til sin opprinnelige sammenheng. Dette var alltid et nøkkelaspekt for Nelson men manglende i de fleste implementeringer av transklusjon.
+
+
+== Selvavgrensning ==
+Transklusjon virker bedre når transkluderte tekstseksjoner er selvavgrensede i betydning at de kan stå alene, uavhengig av konteksten. For eksempel vil formuleringer som «som det ble vist i forrige seksjon» være problematiske fordi den transkluderte seksjonen kan framstå i en annen kontekst og dermed skape forvirring.
+
+
+== Bruk i HTML og på verdensveven ==
+Dagens HTML har en begrenset form for transklusjon. En side kan transkludere et bilde, men også et annet dokument ved å inkludere rammer i dokumentet (kalt «iframe») – se direktelenking. Nettleseren innhenter rammeinnholdet og renderer det på siden. Nettstedet Weather.com har siden 2002 benyttet denne teknikken til å produsere sine værmeldingsider fra flere mindre dokumenter.  
+Fremtidige versjoner av HTML vil ha mulighet for å gi støtte for dypere transklusjon av deler av dokumenter gjennom bruk av XML-teknologier slik som XPaths dokumentreferering og XSLT-manipulasjoner. Se også rammer på nettsider.
+Praksisen med «fjernlading», inkludert data fra andre nettsteder, slik som lenker til bilder etc., blir vanligvis misbilliget på grunn av bruken av båndbredde (til og med kalt «båndbreddetyveri») og datakraft som trengs fra det fjerne datasystemet. Det blir sagt at dette er å belaste en annen nettverkstjener og blir ofte ansett som et eksempel på «leeching».
+Et vesentlig unntak fra denne regelen er nettannonsering hvor annonser levert av en annonsør blir publisert sammen med annet innhold av en publisist. En annonsør foretrekker å levere en annonse for å kunne registrere når den ble lest istedenfor å la den leveres av publisisten og være nødt til å stole på publisisten. (Se også webcounter, web-bug).
+En mekanisme av nyere dato som i funksjon likner transklusjon er mashup.
+
+
+== Referanser ==
+
+
+== Utgivelser ==
+Di Iorio, A. og Vitali, F., A Xanalogical Collaborative Editing Environment, Proceedings of the Second International Workshop of Web Document Analysis (WDA2003), 2003, Edinburgh, Storbritannia, august 2003.[1] (pdf)Kolbitsch, J. og Maurer, H., Transclusions in an HTML-Based Environment, Journal of Computing and Information Technology, Bind 14, nr. 2, juni 2006, ss. 161-174. [2]Kolbitsch, J., Fine-Grained Transclusions of Multimedia Documents in HTML, Journal of Universal Computer Science, Bind 11, nr. 6, juni 2005. [3]Krottmaier, H., Transcluded Documents: Advantages of Reusing Document Fragments, Proceedings of the 6th International ICCC/IFIP Conference on Electronic Publishing (ELPUB2002), 2002, Karlovy Vary, Tsjekkia, ss. 359–367. [4] (pdf)Krottmaier, H. og Helic, D., Issues of Transclusions, Proceedings of the World Conference on E-Learning in Corporate, Government, Healthcare, & Higher Education (E-Learn 2002), 2002, Montreal, Canada, ss. 1730–1733. [5] Arkivert 20. juni 2015 hos Wayback Machine. (pdf)Krottmaier, H. og Maurer, H., Transclusions in the 21st Century, Journal of Universal Computer Science, Bind 7, nr. 12 (juli 2001), ss. 1125–1136. [6]Moore, A. og andre, Personally tailored teaching in WHURLE using conditional translucion, Proceedings of the Twelfth ACM Conference on Hypertext and Hypermedia, 2001, Århus, Danmark, ss. 163–164.Nelson, T. H., Literary Machines', Mindful Press, 1981.Nelson, T. H., The Heart of Connection: Hypermedia Unified by Transclusion, Communications of the ACM, nr. 8, 1995, ss. 31–33.Nelson, T. H., Generalized Links, Micropayment and Transcopyright, 1996. [7]Nelson, T. H., Transcopyright: Pre-Permission for Virtual Republishing, 1998. [8]Nelson, T. H., Xanalogical Structure, Needed Now More than Ever: Parallel Documents, Deep Links to Content, Deep Versioning and Deep Re-Use, ACM Computing Surveys, nr. 4es, 1999. [9]Pam, A., Fine-Grained Transclusion in the Hypertext Markup Language, Internet Draft, 1997. [10]Wilde, E. og Lowe, D., XML Linking Language. I: Wilde, E. og Lowe, D., XPath, XLink, XPointer, and XML: A Practical Guide to Web Hyperlinking and Transclusion, 2002, ss. 169-198, Addison-Wesley Professional. [11] (pdf)
+
+
+== Se også ==
+Sammensatt dokument
+Makro
+Single source publishing
+Subrutine
+PurpleWiki [12] er en UseModWiki-avledning som implementerer TransClusion ved bruk av Purple Numbers.
+Linux-HA-prosjektet benytter wiki-transklusjon for å lage sitt offentlige nettsted.
+w:Wikipedia:Transclusion, transklusjon i Wikipedia
+Answers.com

@@ -1,0 +1,9 @@
+Paratýfus A je črevné infekčné ochorenie klinicky veľmi podobné brušnému týfusu. Od neho sa líši kratším inkubačným časom, celkovo kratším trvaním a ľahším priebehom. Komplikácie sú ľahšie a zriedkavejšie. Diagnostika, prevencia a liečba je praktický zhodná.
+Tento typ paratýfu sa vyznačuje častejším relapsom (návratom) ochorenia, ako brušný týfus. Miernejšia, nesystémová forma ochorania sa môže prejaviť ako gastroenteritída (žalúdočný a črevný katar).
+Pôvodcom ochorenia je druh Salmonella enterica, poddruh I, sérotyp Salmonella paratyphi A, ktorý je striktne ľudským patogénom.
+Proti ochoreniu dodnes neexistuje účinná vakcína.
+
+
+== Klasifikácia ==
+A01: Brušný týfus a paratýfusy
+A01.1: Paratýfus A

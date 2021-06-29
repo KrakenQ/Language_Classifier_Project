@@ -1,0 +1,50 @@
+Un lector de libros electrónicos también llamado lector electrónico (conocido en inglés como e-reader) es un dispositivo electrónico que reproduce los contenidos de libros electrónicos, con una calidad de lectura como en papel gracias a la tecnología de tinta electrónica. 
+
+
+== Terminología ==
+En el mercado existe una gran confusión entre el término inglés e-reader que designa al dispositivo que actúa como soporte de lectura y el término e-book (libro electrónico) que es el contenido digital que se lee, utilizándose en muchos casos erróneamente el segundo para designar al soporte de lectura.[1]​
+
+
+== Tecnologías ==
+Los lectores de libros electrónicos permiten la lectura de libros en formato digital, a diferencia de las tabletas que utilizan pantallas LED, sus pantallas de tinta electrónica en blanco y negro permiten que sean dispositivos livianos con un mínimo consumo de energía, teniendo capacidad para almacenar miles de libros y especializados para esta tarea. Al tener un bajo consumo su batería puede durar más de una semana de uso y varios meses en reposo con una sola carga.[2]​
+El tamaño de la fuente empleada para la lectura puede modificarse, y la lectura en pantallas de tinta electrónica causa una menor fatiga visual que la de una pantalla LED, similar a la lectura en un libro de papel convencional.
+
+
+=== Pantallas ===
+El tamaño de las pantallas inicialmente era el de un libro de bolsillo, entre 5 y 6 pulgadas, sin embargo ahora se pueden encontrar de diversos tamaños, siendo la tendencia a que aumenten de tamaño.[3]​
+Las pantallas han pasado de una escala de grises ha pasado de 4 tonos los primeros ereaders, a las 16 tonalidades que tienen los lectores actuales. También han aumentado la claridad del fondo de la pantalla, consiguiendo un "blanco" mucho más puro.
+En el campo de la resolución, se han superado los 800 X 600 píxeles llegando a la alta resolución HD de 1440 X 1080 píxeles o 300 ppi que tienen varios aparatos del mercado.
+
+
+==== Iluminación ====
+Algunos modelos han incorporado la iluminación lateral por leds que permite la lectura en condiciones de luminosidad bajas.[4]​
+
+
+== Capacidad almacenamiento y lectura ==
+Dado que los libros electrónicos ocupan muy poco espacio, permiten almacenar un gran número de libros, además muchos dispositivos permiten ampliar la memoria interna, teniendo disponible una biblioteca completa en un único dispositivo. Dependiendo de cada modelo, los dispositivos pueden leer algunos formatos dentro de la gran variedad disponible: epub, txt, pdf, mobi, fb2, html, .doc, rtf, Kindle, etc.
+
+
+== Otras funciones y conectividad ==
+Los dispositivos recuerdan en que página del libro has dejado la lectura por última vez, además muchos modelos incluyen funciones como, marcar pasajes concretos, añadir notas, acceso a diccionario o acceso enciclopédico. Los nuevos dispositivos permiten la conexión a internet, tanto para descargarse nuevos libros electrónicos como para realizar consultas.
+
+
+== Algunas variedades ==
+Sony Reader Lanzado en 2006.
+Kindle: Dispositivo creado por Amazon en 2007.
+Hanlin eReader lanzado en 2007.
+Nook de Barnes & Noble lanzado en 2009.
+BQ Cervantes lanzado en 2010.
+Kobo eReader de Rakuten lanzado en 2010.
+
+
+== Véase también ==
+Libro electrónico
+Tableta (computadora)
+Proyecto Gutenberg
+
+
+== Referencias ==
+
+
+== Enlaces externos ==
+El libro electrónico, publicado en El País por Ricardo Fornas

@@ -1,0 +1,13 @@
+Fotoosjetljivost je sposobnost objekta da reaguje na primanje fotona, posebno vidljive svjetlosti.
+
+
+== Interpretacija u medicini ==
+Postoje razni oblici osjetljivosti kože na svjetlost iz različitih izvora. Neki ljudi imaju osjetljivu kožu, te izlaganje sunčevoj svjetlosti uzrokuje opekline. Neki lijekovi povećavaju osjetljivost kože na svjetlost.
+
+
+== Interpretacija u elektroinženjerstvu ==
+Elektroničke komponente (npr. fotodiode) su osjetljive na svjetlost. One su konstruisane tako da koriste fotoelektrični efekat, emisiju elektrona iz materije nakon djelovanja elektromagnetnog zračenja.
+
+
+== Interpretacija u hemiji ==
+Fotoosjetljive supstance podliježu hemijskim reakcijama nakon izlaganja svjetlosti. Primjeri fotosenzitivnih materija su npr. fotografski film i ljudska retina.

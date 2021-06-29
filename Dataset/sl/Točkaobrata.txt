@@ -1,0 +1,48 @@
+Točka obrata (tudi spinoda) je singularna točka krivulje. Točke obrata so lokalne singularnosti, ki na krivulji ne nastanejo zaradi sekanja samega sebe.
+Na ravninskih krivuljah so vse točke obrata difeomorfne z enim od naslednjih izrazov:
+
+  
+    
+      
+        
+          x
+          
+            2
+          
+        
+        −
+        
+          y
+          
+            2
+            k
+            +
+            1
+          
+        
+        =
+        0
+        
+        
+        ,
+      
+    
+    {\displaystyle x^{2}-y^{2k+1}=0\!\,,}
+  kjer je k ≥ 1 celo število.
+
+
+== Zgledi ==
+
+Navadna točka obrata je dana z x2 − y3 =  0.
+Ramfoidna točka obrata je dana z x2 – y5 = 0.To pa je ničelna nivojska  množica, ki pripada singularnosti tipa A4. Te vrste točk obrata ne povzročajo kavstik in valovnih čel. Ramfoidne točke obrata niso difeomorfne.
+
+
+== Glej tudi ==
+teorija katastrofe
+krunoda
+aknoda
+
+
+== Zunanje povezave ==
+Weisstein, Eric Wolfgang. "Cusp". MathWorld (angleščina).
+Klasifikacija izoliranih singularnosti (angleško)

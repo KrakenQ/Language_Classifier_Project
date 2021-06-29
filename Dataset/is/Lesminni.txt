@@ -1,0 +1,22 @@
+Lesminni (enska: read-only memory, skammstafað og oft kallað í daglegu tali ROM) er tölvuminni sem tölva getur einungis lesið. Tölva getur ekki skrifað gögn í lesminni heldur þarf til þess sérstakan búnað (sem getur þó verið jaðartæki tölvu). Dæmi um ROM minni eru CD, DVD og ROM kubbar. Segulbönd geta líka flokkast sem ROM.
+
+
+== ROM kubbar ==
+ROM kubbar eru kísilflögur með ROM minni. Þeir eru non-volatile, sem þýðir að gögnin af þeim glatast ekki ef spennan er tekin af þeim (t.d. þegar slökkt á tölvu eða tæki).
+ROM kubbar eru algengir á móðurborðum tölvu, í leikjahylkjum (e. cartridge) fyrir ákveðnar tegundir leikjatölva (dæmi: NES, SNES, N64, Sega Mega Drive) og geyma gjarnan fastbúnað (e. firmware) fyrir ýmis tæki með tölvustýringu (dæmi: geislaspilarar, þvottavélar, bílar, farsímar, sjónvörp, o.s.fr.).
+ROM kubbar er strangt tiltekið RAM (Random access memory), vegna þess að maður er alltaf jafnlegni að sækja gögn í það, óháð því hvaða vistfang maður vill sækja.
+
+
+== Tegundir ROM kubba ==
+ROM: Elsta tegund lesminnis er þannig að gögnin eru á kubbnum þegar hann er framleiddur.
+PROM (Programmable ROM): Lesminni sem eru framleidd með engum gögnum, PROM kubbar eru keyptir með engum gögnum á og hægt er að skirfa gögn á þá með sérstökum tækjum. PROM virkar mjög svipað og skrifanlegur geisladiskur, hann er keyptur með engum gögnum og það er einu sinni hægt að skrifa gögn á hann með sérstökum tækjum (geisladiskabrennara).
+EPROM (Erasable PROM): PROM sem hægt er að eyða gögnum af með sérstökum tækjum. Það gert með að lýsa með útfjólubláu ljósi á þá og þá eyðast öll gögnin af þeim í einu. 
+EEPROM (Electrically EPROM): EEPORM er nýrri tækni en fyrstu EPROM, þá er í staðin fyrir að lýsa með útfjólubláuljósi hægt að eyða öllum gögnum af kubbnum með því að setja spennu á einn pinnan á þeim. Það er töluvert þægilegra að vinna með svoleiðis kubba heldur en EPROM.
+
+Taka skal fram að þegar orðið gögn er notað hér, þá getur forritskóði (þar á meðal vélamálsskipanir) flokkast sem gögn.
+
+
+== Heimildir ==
+Webopedia.com
+pcguide.com
+computer.howstuffworks.com

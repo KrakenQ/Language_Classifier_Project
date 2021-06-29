@@ -1,0 +1,44 @@
+NGC 7374 (također poznat kao IRAS 22435+1035, MCG 2-58-7, NGC 7374A i PGC 69676) je galaksija koja je udaljena oko 326 miliona sg od Zemlje i nalazi se u sazviježđu Pegaz. Najveći prečnik je 0,90 (85 hiljada sg) a najmanji 0,7 uglovnih minuta (66 hiljada sg). Prvo otkriće je napravio Albert Marth 7. augusta 1864. godine.
+
+
+== Najbliži NGC/IC objekti ==
+Sljedeći spisak sadrži deset najbližih NGC/IC objekata.
+
+
+== Također pogledajte ==
+Novi opći katalog
+Spisak NGC objekata
+Spisak galaksija
+
+
+== Bilješke ==
+a  Prividna magnituda od 13,8 – Apsolutna magnituda: M = m - 5 ((log10 DL) - 1), gdje je m=13,8 i DL=99,9 * 106.
+b  0,90 uglovnih minuta – S = A * D * 0,000291 * P, gdje je A=0,90, D=99,9 i P = 3,2616.
+c  Bazirano na euklidsku udaljenost.
+
+
+== Reference ==
+
+
+== Literatura ==
+(en) Steinicke, Wolfgang (2007),  Jakiel, Richard (ured.), Galaxies and How to Observe Them, Springer, ISBN 978-1852337520
+(en) R. J. Buta, H. G. Corwin, Jr., S. C. Odewahn (2007). The de Vaucouleurs Atlas of Galaxies. Cambridge: Cambridge University. ISBN 978-0521820486.CS1 održavanje: više imena: authors list (link)
+(en) Sinnott, R. W. (1988). NGC 2000.0: The Complete New General Catalogue and Index Catalogues of Nebulae and Star Clusters. Sky Publishing. ISBN 978-0-933346-51-2.
+
+
+== Vanjski linkovi ==
+
+
+=== NGC 7374 ===
+NGC 7374 na WikiSky stranici: DSS2, SDSS, GALEX, IRAS, Hydrogen α, X-Ray, Astrophoto, Sky Map, Članci i slike
+(en) NGC 7374 na Aladin pregledaču
+
+
+=== NGC katalog ===
+(en) Interaktivni NGC Online Katalog
+(en) Astronomska baza podataka SIMBAD
+(en) NGC katalog na Messier45.com
+(en) NGC/IC projekt
+(en) NGC2000 na NASA sajtu
+(en) NGC na The Night Sky Atlas sajtu
+Nedovršeni članak NGC 7374 koji govori o svemiru treba dopuniti. Dopunite ga prema pravilima Wikipedije.

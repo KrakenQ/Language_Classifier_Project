@@ -1,0 +1,2 @@
+JAWS (acronimo per Job Access With Speech) è uno screen reader (letteralmente lettore di schermo), un software prodotto dalla Freedom Scientific in Florida. Il suo scopo è rendere accessibile a ciechi e ipovedenti computer che usano sistemi operativi Microsoft. L'informazione mostrata sullo schermo viene letta da una voce artificiale o inviata a uno schermo braille.
+Tramite JSL (JAWS Scripting Language) gli utenti possono creare script personali, rendendo accessibili tramite JAWS programmi che sarebbero altrimenti inutilizzabili da utenti con difficoltà visive.

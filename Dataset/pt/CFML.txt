@@ -1,0 +1,5 @@
+ColdFusion Markup Language (CFML) é uma linguagem baseada em tags. Por ser similar à linguagem HTML (que também se baseia em tags), a curva de aprendizagem do CFML é rápida e muitos profissionais escolhem essa como a sua primeira linguagem de programação para Internet. O ColdFusion também é a linguagem preferida para desenvolver aplicações dinâmicas que utilizam o Flash como interface com o usuário.
+Existe vários distribuições da linguagem CFML, as mais usadas são a Open Source, ou seja, versão gratuita com certificado acessível e a versão paga da ADOBE. Ambas são compatíveis entre si.
+
+
+== Referências ==

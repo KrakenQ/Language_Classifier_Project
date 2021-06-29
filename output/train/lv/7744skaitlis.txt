@@ -1,0 +1,2 @@
+7744 ir naturāls skaitlis, kas veselo skaitļu rindā atrodas starp skaitļiem 7743 un 7745. Tas ir vienīgais kāda skaitļa kvadrāts, kuram savā starpā ir vienādi gan pirmie divi cipari, gan divi pēdējie cipari. Tā kvadrātsakne ir skaitlis 88, kuram arī abi cipari ir vienādi.
+Romiešu skaitļu sistēmā septiņdesmit deviņi tiek pierakstīts šādi — VMMDCCXLIV, bet binārajā skaitīšanas sistēmā septiņdesmit deviņi ir 11110010000002, oktālajā skaitīšanas sistēmā — 171008 un heksadecimālajā skaitīšanas sistēmā — 1E4016. 7744 ir pāra skaitlis.

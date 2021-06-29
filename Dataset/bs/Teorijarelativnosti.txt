@@ -1,0 +1,26 @@
+Albert Einsteinova teorija relativnosti  sastoji se od dvije naučne teorije na području fizike: posebne relativnosti i opće relativnosti. Ove su teorije osmišljene kako bi objasnile činjenicu da se elektromagnetski valovi ne pokoravaju Newtonovim zakonima kretanja. Elektromagnetski valovi kreću se konstantnom brzinom, nezavisno od kretanja promatrača. Osnovna ideja obje teorije je da će dva promatrača, koji se nalaze u međusobno relativnom kretanju (tj. kretanju jedan u odnosu na drugoga), izmjeriti različite vremenske i prostorne intervale za iste događaje, ali da će fizikalni zakoni obojici izgledati jednako.
+
+
+== Posebna relativnost ==
+
+Einsteinov članak, "O elektrodinamici tijela u kretanju" (1905), uvodi posebnu teoriju relativnosti. Posebna relativnost smatra da promatrači u inercijskim referentnim okvirima koji su u međusobno relativnom jednolikom kretanju ne mogu izvesti nikakav pokus kojim bi utvrdili koji od njih je u "apsolutnom kretanju". Teorija postulira da će brzina svjetlosti u vakuumu biti ista za oba promatrača (tj. promatraču nepromjenjiva invariantna brzina). 
+Jedna od prednosti posebne relativnosti je što može biti izvedena iz svega nekoliko pravila: 
+
+brzina svjetlosti u vakumu je konstantna (299.792.458 m/s)
+fizikalni zakoni su isti za sve promatrače u inercijskim referentnim okvirima
+
+
+== Opća relativnost ==
+
+Opću teoriju relativnosti Einstein je objavio 1916. (kao seriju predavanja održanih na Pruskoj akademiji nauke 25. septembra 1915). Opća teorija relativnosti je geometrijska teorija koja postulira da prisutnost mase i energije "zakrivljuje" prostorvrijeme, te da ta zakrivljenost utiče na put slobodnih čestica (i općenito svjetlosti). Ova se teorija koristi matematikom diferencijalne geometrije i tenzora da bi opisala gravitiranje bez korištenja gravitacijske sile. Ova teorija sve promatrače drži ekvivalentnima, a ne samo one koji su u jednolikom kretanju.
+
+
+== Također pogledajte ==
+Takion
+
+
+== Vanjski linkovi ==
+Probe set to test theory of Relativity -  Aug. 07, 2004 — "Gravity probe B" (en)
+Reflections on Relativity — cjelovit online kurs o relativnosti (en)
+Relativity explained in words of four letters or less — (en)
+Albert Einstein: Relativity - The Special and General Theory — verzija za download (en)

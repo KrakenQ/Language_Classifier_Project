@@ -1,0 +1,241 @@
+Vyvažování rotorů turbín a kompresorů (také elektromotorů a obecně rotačních součástí) se provádí za účelem odstranění nerovnováhy rotujících částí způsobující vibrace při chodu strojních zařízení a zbytečnou zátěž ložisek. Samotné vyvažování se potom provádí přidáváním materiálu (závaží ve vyvažovacích rovinách, přivařený materiál apod.), nebo jeho odebíráním (odvrtáváním, broušením apod.).
+Vyvažovačky se používají s tuhým, nebo měkkým uložením. S tuhým uložením jsou obecně méně přesné, ale levnější a rychlejší k použití. Vyvažovací stroje s měkkým uložením ložisek je obvykle třeba nastavit pro každý rotor zvlášť  pomocí zkušebních závaží ve vyvažovacích rovinách, aby se zjistil jejich vliv na (ne)vyváženost rotoru. Odpadá nutnost předem zadávat rozměry rotoru a jeho rovin.
+Vibrace stojanu měří indukční snímač, který u vyvažovaček s tuhým stojanem je vybaven mechanickým zesilovačem. Poloha rotoru je snímána buď přímo podle motoru, nebo optočidlem na vyvažovaném stojanu. Rotory lopatkových strojů se často zkoušejí ve vakuu pro snížení odporu vzduchu. Pohon měřené součásti je realizován kloubovým hřídelem, nebo přetaženým plochým řemenem (nutnost odečítat polohu přímo na součásti – prokluz řemenu). Vyvažování probíhá zprvu při nižších otáčkách podle citlivosti stroje, potom se zkouší při provozních.
+
+
+== Dělení ==
+Vyváženost se často rozděluje na statickou a dynamickou. Statická nevyváženost působí v obou tolerančních rovinách stejně, lze ji vyvážit v případné třetí prostřední vyvažovací rovině. Dynamická nevyváženost naproti tomu působí v obou tolerančních rovinách různými směry. Tyto nevývažky je třeba řešit v každé vyvažovací rovině zvlášť.
+
+Jednotkami neváženosti jsou gram milimetry (hmota * vzdálenost) – hmotnostní moment. Tím se určuje odstředivá síla působící proti podporám (ložiskům) při roztočení součásti.
+Rotory většinou obsahují toleranční a korekční roviny (toleranční ve středu umístění ložisek, korekční v místech uložení závaží/odebírání materiálu)
+
+
+== Zbytkový nevývažek ==
+
+Zbytkový nevývažek je přímo úměrný hmotnosti součásti. 
+  
+    
+      
+        
+          U
+          
+            p
+            e
+            r
+          
+        
+        .
+        .
+        .
+        m
+      
+    
+    {\displaystyle U_{per}...m}
+  
+Specificky zbytkovy nevyvazek: 
+  
+    
+      
+        
+          e
+          
+            p
+            e
+            r
+          
+        
+        =
+        
+          U
+          
+            p
+            e
+            r
+          
+        
+        
+          /
+        
+        m
+      
+    
+    {\displaystyle e_{per}=U_{per}/m}
+   
+  
+    
+      
+        [
+        μ
+        m
+        ]
+        =
+        [
+        g
+        ∗
+        m
+        m
+        ]
+        
+          /
+        
+        [
+        k
+        g
+        ]
+      
+    
+    {\displaystyle [\mu m]=[g*mm]/[kg]}
+    
+  
+    
+      
+        
+          U
+          
+            p
+            e
+            r
+          
+        
+        =
+        1000
+        ∗
+        
+          (
+          
+            e
+            
+              p
+              e
+              r
+            
+          
+          ∗
+          ω
+          )
+          ∗
+          m
+        
+        
+          /
+        
+        ω
+      
+    
+    {\displaystyle U_{per}=1000*{(e_{per}*\omega )*m}/\omega }
+   
+  
+    
+      
+        
+          U
+          
+            p
+            e
+            r
+          
+        
+      
+    
+    {\displaystyle U_{per}}
+   … přípustný zbytkový nevývažek [g*mm] 
+  
+    
+      
+        (
+        
+          e
+          
+            p
+            e
+            r
+          
+        
+        ∗
+        ω
+        )
+      
+    
+    {\displaystyle (e_{per}*\omega )}
+   … stupeň jakosti vyvážení [mm/s] 
+  
+    
+      
+        m
+      
+    
+    {\displaystyle m}
+   … hmotnost rotoru [kg] 
+  
+    
+      
+        ω
+      
+    
+    {\displaystyle \omega }
+   … úhlová rychlost [rad/s] Přípustný zbytkový specifický nevývažek je nepřímo úměrný provozním otáčkám rotoru.
+
+
+== Stupně jakosti vyvážení G podle ČSN ISO 1940-1 ==
+Příklad:  G 6,3    G 1,6        G 16Jakost vyvážení 
+  
+    
+      
+        G
+        [
+        m
+        m
+        
+          /
+        
+        s
+        ]
+        =
+        
+          e
+          
+            p
+            e
+            r
+          
+        
+        [
+        μ
+        m
+        ]
+        ∗
+        ω
+        [
+        r
+        a
+        d
+        
+          /
+        
+        s
+        ]
+      
+    
+    {\displaystyle G[mm/s]=e_{per}[\mu m]*\omega [rad/s]}
+   kde 
+  
+    
+      
+        ω
+      
+    
+    {\displaystyle \omega }
+   je úhlová rychlost rotoru.
+
+
+== Obrázky ==
+Vyvažovací stroje s měkkým uložením:
+
+		
+		
+		
+		
+		
+		
+		
+Vyvažovací stroje s tuhým uložením:

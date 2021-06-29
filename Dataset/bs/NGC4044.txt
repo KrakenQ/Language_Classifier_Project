@@ -1,0 +1,44 @@
+NGC 4044 (također poznat kao MCG 0-31-20, PGC 38018 i UGC 7018) je eliptična galaksija koja je udaljena oko 282 miliona sg od Zemlje i nalazi se u sazviježđu Djevica. Najveći prečnik je 1,20 (98 hiljada sg) a najmanji 1,1 uglovnih minuta (90 hiljada sg). Prvo otkriće je napravio John Frederick William Herschel 1. januara 1786. godine.
+
+
+== Najbliži NGC/IC objekti ==
+Sljedeći spisak sadrži deset najbližih NGC/IC objekata.
+
+
+== Također pogledajte ==
+Novi opći katalog
+Spisak NGC objekata
+Spisak galaksija
+
+
+== Bilješke ==
+a  Prividna magnituda od 13,3 – Apsolutna magnituda: M = m - 5 ((log10 DL) - 1), gdje je m=13,3 i DL=86,4 * 106.
+b  1,20 uglovnih minuta – S = A * D * 0,000291 * P, gdje je A=1,20, D=86,4 i P = 3,2616.
+c  Bazirano na euklidsku udaljenost.
+
+
+== Reference ==
+
+
+== Literatura ==
+(en) Steinicke, Wolfgang (2007),  Jakiel, Richard (ured.), Galaxies and How to Observe Them, Springer, ISBN 978-1852337520
+(en) R. J. Buta, H. G. Corwin, Jr., S. C. Odewahn (2007). The de Vaucouleurs Atlas of Galaxies. Cambridge: Cambridge University. ISBN 978-0521820486.CS1 održavanje: više imena: authors list (link)
+(en) Sinnott, R. W. (1988). NGC 2000.0: The Complete New General Catalogue and Index Catalogues of Nebulae and Star Clusters. Sky Publishing. ISBN 978-0-933346-51-2.
+
+
+== Vanjski linkovi ==
+
+
+=== NGC 4044 ===
+NGC 4044 na WikiSky stranici: DSS2, SDSS, GALEX, IRAS, Hydrogen α, X-Ray, Astrophoto, Sky Map, Članci i slike
+(en) NGC 4044 na Aladin pregledaču
+
+
+=== NGC katalog ===
+(en) Interaktivni NGC Online Katalog
+(en) Astronomska baza podataka SIMBAD
+(en) NGC katalog na Messier45.com
+(en) NGC/IC projekt
+(en) NGC2000 na NASA sajtu
+(en) NGC na The Night Sky Atlas sajtu
+Nedovršeni članak NGC 4044 koji govori o svemiru treba dopuniti. Dopunite ga prema pravilima Wikipedije.

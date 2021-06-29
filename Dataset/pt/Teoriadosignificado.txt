@@ -1,0 +1,80 @@
+Em filosofia, existem dois tipos principais de teoria do significado: a teoria fundamental e a teoria semântica. Entretanto, a expressão "teoria do significado" tem figurado, de uma forma ou de outra, em um grande número de disputas filosóficas durante a última metade do século XX. Infelizmente, este termo também tem sido usada para significar um grande número de coisas diferentes.
+O primeiro tipo de teoria, uma teoria semântica, é uma teoria que designa conteúdos semânticos a expressões de uma língua. As abordagens de semântica podem ser divididas de acordo como elas atribuem ou não proposições aos significados das frases e, se o fazem, qual é a visão que elas nos levam a pensar sobre a natureza dessas proposições.
+O segundo tipo de teoria, a teoria fundamental de significado, é uma teoria que afirma os fatos em virtude da qual as expressões possuem o conteúdo semântico que elas possuem. As abordagens da teoria fundamental de significado podem ser divididas em teorias que explicam, e as teorias que não explicam, os significados das expressões de uma linguagem utilizada por um grupo em termos do conteúdo dos estados mentais dos membros desse grupo.
+
+
+== Dois tipos de teoria do significado ==
+Filósofos não têm sido capazes de consistentemente manter as duas questões separadas. Eles concordam que há claramente uma distinção entre as questões "Qual é o significado do símbolo (para uma determinada pessoa ou grupo)  disto ou aquilo?" e "Em virtude de quais fatos sobre a pessoa ou grupo que o símbolo tem esse significado?
+Em "Semântica Geral", escreveu David Lewis:
+
+Faço uma distinção entre dois temas: primeiro, a descrição de linguagens possível ou gramáticas como abstrata sistemas semânticos em que os símbolos estão associados a aspectos do mundo e, segundo, a descrição dos fatos psicológicos e sociológicos pelo qual um particular destes sistemas abstratos semântica é o utilizado por uma pessoa ou população. Confusão só vem de misturar esses dois tópicos.   General Semantics Lewis, D. (1970) 
+Correspondendo as duas questões estão dois tipos diferentes de teoria do significado. Um tipo de teoria do significado, a teoria semântica, é uma especificação dos significados das palavras e frases de algum sistema de símbolos. Teorias semânticas, portanto, respondem à pergunta, "Qual é o significado desta ou daquela expressão?" Um tipo distinto de teoria, a teoria fundamental do significado, tenta explicar o que sobre alguma pessoa ou grupo dá aos símbolos de sua língua os significados que eles têm. Para ter certeza, a forma de uma teoria semântica correta pode colocar restrições sobre uma correta teoria fundamental de sentido, ou vice-versa, mas isso não muda o fato de que as teorias semânticas e teorias fundamentais são simplesmente diferentes tipos de teorias, concebida para responder a diferentes perguntas.Vale a pena notar que uma tradição de destaque na filosofia da linguagem nega que há fatos sobre os significados das expressões linguísticas. Se esse tipo de ceticismo sobre o significado está correto, então não há nem uma verdadeira teoria semântica e nem uma verdadeira teoria fundamental do significado a ser encontrada, uma vez que o tipo de fatos relevantes simplesmente não estão ao redor para poderem ser designados ou analisado.
+
+
+== Teorias semânticas ==
+As Teorias semânticas são aquelas que incluem teorias de semântica proposicional e teorias de semântica não proposicional.
+
+
+=== Semântica proposicional ===
+A questão central sobre a forma correta de uma teoria semântica diz respeito à natureza do significado de uma expressão e o trabalho da semântica é conectar expressões com as entidades que são seus significados. Porque a entidade que corresponde a uma sentença é chamada de proposição, alguns filósofos chamam esta de teoria semântica proposicional. 
+A teoria da referência é uma teoria que, como uma teoria semântica proposicional, junta as expressões de uma língua com determinados valores. No entanto, ao contrário de uma teoria semântica, uma teoria da referência não associa expressões com seus significados; ao invés, ela combina expressões com a contribuição que essas expressões fazem para a determinação dos valores de verdade de sentenças em que elas ocorrem.  Esta interpretação da teoria da referência é feita com base na tentativa de Gottlob Frege para formular uma lógica suficiente para a formalização de inferências matemáticas. A construção de uma teoria de referência deste género é melhor ilustrado por exemplo começando com o de nomes próprios. Considere as seguintes frases:Lula foi presidente do Brasil.
+Mario Soares foi presidente do Brasil.(1) é verdadeira, e (2) é falsa. Obviamente, esta diferença de valor de verdade é feita com base em alguma diferença entre as expressões 'Lula' e 'Mario Soares'. E sobre essas expressões, o que explicaria a diferença de valor de verdade entre essas frases? É muito plausível que é o fato de que 'Lula' refere ao homem que era o presidente do Brasil, ao passo que 'Mario Soares' aponta para um homem que não foi. Isso indica que a referência de um nome próprio (a sua contribuição para a determinação das condições de verdade das frases em que ocorre) é o objeto para o qual esse nome significa.
+
+Teorias das teorias de referência versus semântica 
+Relação entre conteúdo e referência 
+Caráter e conteúdo, contexto e circunstância 
+Semântica dos mundos possíveis 
+Proposições russellianas 
+Proposições fregenianas Semântica não proposicional:
+
+O programa Davidsoniano
+Internalista semântica de Chomsky 
+
+
+== Teorias fundamentais de significado ==
+Teorias fundamentais incluem as teorias mentalísticas e não mentalísticas.
+Mentalísticas:
+
+Programa de Paul Grice
+Sentido, crença e convenção 
+Teoria baseadas em representação mental Não mentalísticas:
+
+Origem causal 
+Maximização - verdade e o princípio da caridade 
+Regularidades no uso 
+Normas sociais 
+
+
+== Teóricos importantes ==
+
+
+== Notas ==
+
+
+== Referências ==
+
+
+== Leitura adicional ==
+Akmajian, Adrian, Richard Demers, Ann Farmer, and Robert Harnish.  Linguistics: an introduction to language and communication, 4th edition. 1995. Cambridge: MIT Press.
+Allan, Keith. Linguistic Meaning, Volume One. 1986. New York: Routledge & Kegan Paul.
+Austin, J. L. How to Do Things With Words. 1962. Cambridge: Harvard University Press.
+Bacon, Sir Francis, Novum Organum, 1620.
+Berger, Peter and Thomas Luckmann.  The Social Construction of Reality : A Treatise in the Sociology of Knowledge. 1967. First Anchor Books Edition. 240 pages.
+Blackmore, John T., "Section 2, Communication", Foundation theory, 2000. Sentinel Open Press.
+Blackmore, John T., "Prolegomena", Ernst Mach's Philosophy - Pro and Con, 2009. Sentinel Open Press.
+Blackmore, John T. Semantic Dialogues or Ethics versus Rhetoric, 2010, Sentinel Open Press
+Chase, Stuart, The Tyranny of Words, New York, 1938. Harcourt, Brace and Company
+Davidson, Donald. Inquiries into Truth and Meaning, 2nd edition. 2001. Oxford: Oxford University Press.
+Dummett, Michael. Frege: Philosophy of Language, 2nd Edition. 1981. Cambridge: Harvard University Press.
+Frege, Gottlob. The Frege Reader. Edited by Michael Beaney. 1997. Oxford: Blackwell Publishing
+Gauker, Christopher. Words without Meaning. 2003. MIT Press
+Goffman, Erving. Presentation of Self in Everyday Life.  1959. Anchor Books.
+Grice, Paul. Studies in the Way of Words. 1989. Cambridge: Harvard University Press.
+Hayakawa, S.I. The Use and Misuse of Language, 11th edition, 1962 [1942]. Harper and Brothers.
+James, William. William James on Habit, Will, Truth, and the Meaning of Life. Edited by James Sloan Allen. 2014. Savannah: Frederic C. Beil, Publisher.
+Ogden, C.K. and I.A. Richards, The Meaning of Meaning, New York, 1923. Harcourt Brace & World.
+Schiller, F.C.S., Logic for Use, London, 1929. G. Bell.
+Searle, John and Daniel Vanderveken. Foundations of Illocutionary Logic. 1985. Cambridge: Cambridge University Press.
+Searle, John. Speech Acts. 1969. Cambridge: Cambridge University Press.
+Searle, John. Expression and Meaning. 1979. Cambridge: Cambridge University Press.
+Stonier, Tom: Information and Meaning. An Evolutionary Perspective. 1997. XIII, 255 p. 23,5 cm.

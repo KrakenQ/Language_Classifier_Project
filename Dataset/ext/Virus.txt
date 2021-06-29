@@ -1,0 +1,33 @@
+En biología, un virus (del latín virus y esti del griegu:ἰός «toxina» o «venenu») es un agenti infeciosu microscópicu acelular que solu puei multiplicalsi drentu de las células d'otrus organismus.
+Los virus infectan tós los tipus d'organismus, dendi animalis, hongus, plantas, hata bacterias y arqueas. Tamién infectan a otrus virus; en esi casu recibin el nombri de virófagus. Los virus son demasiau pequeñus pa puel sel observaus con l'ayuda d'un microscopiu ópticu, guipal a través de microscopía ópticaEl primer virus conocíu, el virus del mosaicu del tabacu, hue descubiertu por Martinus Beijerinck en 1899, y actualmenti s'án descritu más de 5000, si bien argunus autoris opinan que puerían existil millonis de tipus diferentis. Los virus se hallan en casi toïtus los ecosistemas la Tierra y son el tipu de entidá biológica más abundanti. El estudiu de los virus recibi el nombri de virología, una rama de la microbiología.A diferencia de los prionis y viroidis, los virus se componin de dos o tres partis: el su material genéticu, que porta l'enhormación hereditaria, que puei sel ADN o de ARN; una cubierta proteica que protegi a estus genis —llamá cápsidi— y en argunus tamién se puei encontral una bicapa lipídica que los rodea cuandu s'encuentran huera de la célula —denominá envoltura vírica—. Los virus varían en la su forma, dendi simplis helicoidis o icosaedros hata estructuras más complejas. El origin evolutivo los virus aún es inciertu, argunus puerían avel volucionau a partil de plásmidus (fragmentus d'ADN que se muevin entri las células), mientras qu'otrus puerían avelsi originau dendi bacterias. Además, dendi el puntu de vista la volución d'otras especis, los virus son un meyu importanti de transferencia horizontal de genis, la cual incrementa la diversidá genética.Los virus se diseminan d'una hartá maneras diferentis y cá tipu de virus tié un métodu distintu de transmisión. Entri estus métodus s'encuentran los vectoris de transmisión, que son otrus organismus que los transmitin entri portaoris. Los virus vegetalis se propagan frecuentementi por insetus que s'alimentan de la su savia, comu los áfidus, mientras que los virus animalis s'estilan propagal por meyu d'insetus hematófagus. Por otru lau, otrus virus no precisan de vectoris: el virus la gripi (ortomixovirus) o el resfriau común (rinovirus y coronavirus) se propagan pol airi a través de los estornús y la tos y los norovirus son transmitíus por vía fecal-oral, o a través de las manus, alimentus y áugua contaminaus. Los rotavirus se extiendin a menú por contactu directu con niños infectaus. El VIH es unu d'una hartá virus que se transmiten por contactu sexual o por exposición con sangri infectá.No tós los virus provocan malotias, ya qu'una hartá virus se reproducin sin causal nengún dañu al organismu infectau. Argunus virus comu'l VIH puein producil infeciones permanentis o crónicas cuandu'l virus continúa multiplicándosi en el cuerpo evadiendu los mecanismus de defensa del huésped. En los animalis, sin embargu, es frecuenti que las infeciones víricas produzcan una respuesta inmunitaria que confieri una inmunidá permanenti a la infeción. Los microorganismus comu las bacterias tamién tién defensas contra las infeciones víricas, conocías com'sistemas de restrición-modificación. Los antibióticus no tién efectu sobri los virus, pero s'án desarrollau medicamentus antiviralis pa tratal infeciones potencialmenti mortalis.
+
+
+== Guípesi tamién ==
+Provirus
+Virofagu
+Virus satéliti
+Elementu viral endógenu
+
+
+== Notas ==
+
+
+== Huentis ==
+
+
+=== Referéncias ===
+
+
+=== Bibliografía ===
+Aranda-Anzaldo, A., D. Viza y R. G. Busnel, «Chemical inactivation of human immunodeficiency virus (HIV) in vitro» Journal of Virological Methods 37, pp. 71-82.
+Cann, A. J. y J. Karn, «Molecular Biology of HIV: new insights into the virus life-cycle.» AIDS3 (suppl. 1), 1989, pp. s19-s34.</ref>
+Collier, Leslie; Balows, Albert; Sussman, Max (1998) Topley and Wilson's Microbiology and Microbial Infections ninth edition, Volume 1, Virology, volume editors: Mahy, Brian and Collier, Leslie. Arnold. ISBN 0-340-66316-2.
+Dimmock, N. J.; Easton, Andrew J.; Leppard, Keith (2007) Introduction to Modern Virology sixth edition, Blackwell Publishing, ISBN 1-4051-3645-6.
+Knipe, David M.; Howley, Peter M.; Griffin, Diane E.; Lamb, Robert A.; Martin, Malcolm A.; Roizman, Bernard; Straus Stephen E. (2007) Fields Virology, Lippincott Williams & Wilkins. ISBN 0-7817-6060-7.
+Shors, Teri (2008). Understanding Viruses. Jones and Bartlett Publishers. ISBN 0-7637-2932-9.
+
+
+== Atijus ==
+ En Wikimedia Commons ai conteníu multimedia a tentu de Virus.
+ViralZone Institutu Suizu de Bioinformática de recursus pa toäs las familias víricas, proporcionandu enhormación general molecular y epidemiológica. (en ingrés)
+Viruses Revista d'aceso abiertu (en ingrés)

@@ -1,0 +1,68 @@
+Il valore biologico è un parametro di valutazione degli alimenti in base alla qualità delle proteine contenute in essi. Esso dipende dalla composizione in amminoacidi di un alimento e dalla sua digeribilità, ed è definito come il rapporto tra l'azoto (N) trattenuto e l'azoto assorbito. Esso è misurato con la formula:
+
+  
+    
+      
+        V
+        .
+        B
+        .
+        =
+        
+          (
+          
+            
+              
+                N
+                a
+                l
+                i
+                m
+                .
+                −
+                N
+                f
+                e
+                c
+                i
+                −
+                N
+                u
+                r
+                i
+                n
+                e
+              
+              
+                N
+                a
+                l
+                i
+                m
+                .
+                −
+                N
+                f
+                e
+                c
+                i
+              
+            
+          
+          )
+        
+      
+    
+    {\displaystyle V.B.=\left({\frac {Nalim.-Nfeci-Nurine}{Nalim.-Nfeci}}\right)}
+  
+In questa formula al numeratore figura la differenza tra l'azoto alimentare consumato (Nalim) e l'azoto perduto (con feci e urine), cioè l'azoto trattenuto dall'organismo, mentre al denominatore figura l'azoto alimentare consumato e l'azoto non digerito contenuto nelle feci, cioè l'azoto assorbito. Il valore biologico così calcolato andrebbe in realtà depurato da due fonti di azoto endogeno: l'azoto metabolico fecale (azoto di costituzione degli enzimi digestivi, degli acidi biliari, degli epiteli di sfaldamento del canale alimentare, delle spoglie della microflora intestinale) e l'azoto endogeno urinario (azoto derivante non dal catabolismo degli amminoacidi assunti con l'alimento, ma dal catabolismo degli amminoacidi e delle basi puriniche che provengono dal ricambio tissutale, l'azoto cioè che si troverebbe nelle feci anche con una dieta completamente priva di proteine).
+Il valore biologico di una proteina dipende dalla sua composizione in amminoacidi: infatti una proteina è utilizzata meglio tanto più la sua composizione amminoacidica si avvicina a quella della proteina da sintetizzare da parte dell'organismo animale. Le proteine animali hanno una composizione amminoacidica molto più vicina a quella del corpo animale (e quindi anche umano) di quanto non abbiano le proteine vegetali. La carenza di un solo amminoacido rispetto alla quantità richiesta (amminoacido limitante) è responsabile del basso valore biologico di una proteina alimentare, valore che può quindi essere migliorato integrando con l'amminoacido mancante. In generale il valore biologico è alto nelle proteine animali (i valori più alti sono quelli dell'uovo e del latte crudo), minore in quelle batteriche e basso in quelle vegetali, anche se si possono ottenere proteine di alto valore biologico combinando insieme cereali e legumi, motivo per cui in molti piatti della cucina popolare di tutto il mondo esistono tali combinazioni (es. riso con i piselli, pasta e ceci, pasta e fagioli).
+
+
+== Voci correlate ==
+Punteggio chimico
+Protein Efficiency Ratio
+PDCAAS
+Proteine
+Amminoacido
+Fabbisogno sostanziale umano

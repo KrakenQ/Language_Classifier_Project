@@ -1,0 +1,2 @@
+watchOS  l'è el sistema operadivo del rełojo intełijente Apple Watch, xvilupà da la Apple Inc., baxà sol so steso sistema operadivo iOS, che co st'ultimo el condivide racuante funsion.
+La prima version de WatchOS la xe sta lansada el 24 de aprile del 2015, drento al primo Apple Watch. L'Apple Watch el xe al dì de onco l'unico dispoxidivo a doparar sto sistema operadivo. L'API de sto sistema, la se ciama WatchKit.

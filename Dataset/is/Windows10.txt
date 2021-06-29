@@ -1,0 +1,15 @@
+Windows 1.0 er stýrikerfi, sem er ekki lengur stutt, sem kom út þann 20. nóvember 1985 og var byggt á VisiOn gluggakerfinu sem að Microsoft hafði keypt af VisiCorp árinu áður. Windows 1.0 var fyrsta tilraun Microsoft, til að ná markaðshlutdeild á stýrikerfamarkaði fyrir gluggaviðmót (grafísku notendaviðmóti), sem MacOS hafi yfirráðandi stöðu á, á þeim tíma.
+Windows 1.0 var fyrsta stýrikerfið frá Microsoft með stuðningi við mýs, þó þær höfðu verið notaðar í DOS-forritum án hjálpar stýrikerfisins sérstaklega.
+
+
+== Vélbúnaðarkröfur ==
+Til að keyra Windows 1.0 þurfti tölva að vera með MS-DOS 2.0 uppsett, 256 KB í minni og tvö, tveggja leshausa diskadrif eða harðan disk.
+Þessi fyrsta útgáfa Windows keyrði skeljarforritið MS-DOS M-Executive. Önnur innbyggð forrit voru meðal annars:
+
+Calculator (reiknivél)
+Calendar (dagatal)
+Clock (klukkan)
+Notepad (ritblokk)
+Control Panel (stjórnborð)
+Paint (teikniforrit)
+Reversi (Óþelló leikur)Í Windows 1.0 voru ekki fljótandi gluggar/forrit á skjánum heldur var þeim staflað upp eins og veggflísum.

@@ -1,0 +1,168 @@
+Pierre de Fermat (Béumont de Lomanha, Gascunya, Francia, 17 d'agosto de 1601 u 1607/1608- Castras, Lenguadoc, Francia, 12 de chinero de 1665) estió un advogau y matematico occitán, qui sobresalió por os suyos treballos matematicos. Estudió en Tolosa de Lenguadoc. Introdució por primer vegada l'infinito en o calculo, descubrió as propiedatz de quantos numeros y ye considerau o creyador d'a moderna teoría d'os numeros. Con René Descartes, aplicó l'alchebra a la cheometría, y, con Blaise Pascal, establió a teoría d'as probabilidatz. Aplicó o concepto d'as variables infinitesimals a os problemas de maximos y minimos y a la construcción de tanchents. A obra matematica de Fermat ye replegada en o libro Varia opera mathematica, que escribió su fillo Samuel en 1679.
+Antiparte, ye pro conoixiu por o Zaguer teorema de Fermat, asinas como por o Chicot teorema de Fermat.
+
+
+== Vida ==
+Fermat naixió en Bèumont de Lomanha, Tarn y Garona (Francia); a mansión de zaguers d'o sieglo XV a on que naixió ye hue un museu. O pai de Fermat yera un rico mercant de cuero y segundo consul de Bèumont de Lomanha. Pierre teneba un chermán y dos chermanas y con toda probabilidat creixió en o suyo lugar natal.
+Fue t'a Universidat de Tolosa antes de marchar ta Bordeus en a segunda metat d'os anyos 20 d'o sieglo XVII. En Bordeus escomenzó as suyas primeras investigacions matematicas seriosas. Entre ista epoca fizo treballos sombre maximos y minimos. Astí quedó influenciau por a obra de François Viète.
+Dimpués de Bordeus, Fermat fue ta Orléans an que estudió dreito en a universidat.  Fermat parlaba fluentment latín, basco, griego clasico, italián y espanyol.  Quasi toda a suya obra la comunicó en cartas a os suyos amigos, a ormino sin contrimostra u con pocas prebas d'os suyos teoremas.  Ye por ixo que se le continó considerando un "aficionau" entre que aconseguiba o reconoiximiento que deseyaba. Fue amigo con Blaise Pascal.Morió en Castras, Tarn. L'instituto d'educación segundaria mas viello y prestichioso de Tolosa ye nombrau en a suya honor:  o Liceu Pierre de Fermat. O escultor francés Théophile Barrau fizo una estatua de marbol clamada Hommage à Pierre Fermat como homenache a Fermat.
+
+
+== Obra matematica ==
+
+
+=== Espiral de Fermat ===
+Ta mas información se veiga l'articlo Espiral de FermatTamién conoixida como espiral parabolica, ye un curva que responde a la siguient equación:
+
+  
+    
+      
+        r
+        =
+        ±
+        
+          θ
+          
+            1
+            
+              /
+            
+            2
+          
+        
+        
+      
+    
+    {\displaystyle r=\pm \theta ^{1/2}\,}
+  Ye un caso particular d'a espiral d'Arquimedes.
+
+
+=== Numeros amigos ===
+Ta mas información se veiga l'articlo Números amigosDos numeros amigos son dos numeros naturals a y b tals que a ye a suma d'os divisors propios de b, y b ye a suma d'os divisors propios d'a. (A unidat se considera divisor propio, pero no pas o propio numero.)
+En 1636, Fermat descubrió que 17.296 y 18.416 yeran una parella de nuemrs amigos, antiparte de redescubrir una formula cheneral ta calcular-ne, ya conoixida por Tabit ibn Qurra, arredol de l'anyo 850.
+
+
+=== Numeros primers ===
+Ta mas información se veiga l'articlo Numero primero de FermatUn numero de Fermat ye un numero natural d'a traza:
+
+  
+    
+      
+        
+          F
+          
+            n
+          
+        
+        =
+        
+          2
+          
+            
+              2
+              
+                n
+              
+            
+          
+        
+        +
+        1
+      
+    
+    {\displaystyle F_{n}=2^{2^{n}}+1}
+  Pierre de Fermat conchecturó que totz os numeros naturals d'ista traza con n natural yeran numeros primers, pero Leonhard Euler contrimostró en 1732 que no yera pas asinas. En efecto, en prener n=5 s'obtiene un numero compuesto:
+
+  
+    
+      
+        
+          F
+          
+            5
+          
+        
+        =
+        
+          2
+          
+            
+              2
+              
+                5
+              
+            
+          
+        
+        +
+        1
+        =
+        
+          2
+          
+            32
+          
+        
+        +
+        1
+        =
+        4294967297
+        =
+        641
+        ⋅
+        6700417
+        
+      
+    
+    {\displaystyle F_{5}=2^{2^{5}}+1=2^{32}+1=4294967297=641\cdot 6700417\;}
+  a on que n ye natural.
+
+
+=== Teorema sobre a suma de dos quadraus ===
+Ta mas información se veiga l'articlo Teorema de Fermat sobre a suma de dos quadrausO teorema sobre a suma de dos quadraus afirma que tot numero primero p, tal que p-1 ye divisible entre 4, se puet escribir como suma de dos quadraus. O 2 tamién se i incluye, ya que 12+12=2. Fermat anunció o suyo teorema en un carta a Marin Mersenne sinyada o 25 d'aviento de 1640, y por ixa razón tamién se lo conoix como Teorema de Nadal de Fermat
+
+
+=== Chicot teorema de Fermat ===
+Ta mas información se veiga l'articlo chicot teorema de FermatO chicot teorema de Fermat, referent a la divisibilidat de numeros, diz que, si s'eleva un numero a a la p-ena potencia y a o resultau se le resta a, o que queda ye divisible por p, estando p un numero primero. O suyo intrés prencipal ye en a suya aplicación a o problema d'a primalidat y en criptografía.
+
+
+=== Prencipio de Fermat ===
+Ta mas información se veiga l'articlo Prencipio de Fermat
+
+
+=== Zaguer teorema de Fermat ===
+Ta mas información se veiga l'articlo Zaguer teorema de FermatPierre de Fermat gosaba escribir as solucions a os problemas en a marguin d'os libros. Una d'as notas que escribió en o suyo eixemplar d'o texto griego de L'Aritmetica de Diofanto (editada por Claude Gaspard Bachet de Méziriac en 1621) diz o siguient:
+
+Ista afirmación, mas enta debant ya conoixida como Zaguer teorema de Fermat, esdevinió uno d'os teoremas mas importants en Matematicas. No se sabe si Fermat trobó de verdat a contrimuestra, ya que no en deixó garra bayo pa que atros matematicos la podesen verificar. Iste problema mantenió enlucernaus a matematicos entre mas de tres sieglos (se diz que, frustrau, Euler mesmo demandó a un amigo que rechistrase a casa de Fermat ta mirar-ie a contrimuestra), dica que en 1995 Andrew Wiles podió contrimostrar o teorema.  Wiles emplegó pa ixo ferramientas matematicas que amaneixioron muito dimpués d'a muerte de Fermat, de traza que iste debió de trobar a solución por belatro camín, si ye que la trobó. En tot caso, teneba razón en o suyo enunciau.
+
+
+== Referencias ==
+
+
+== Bibliografía ==
+Émile Brassinne, Précis des œuvres mathématiques, Toulouse, 1853.
+Paul Tannery, Charles Henry y Cornelis de Waard. Œuvres de P. Fermat [url=http://quod.lib.umich.edu/cgi/b/bib/bibperm?q1=abr8792], Gauthier-Villars et cie, París, data=1891-1922 (5 vol. 23×29 cm).
+Pierre de Fermat, I sogni di un magistrato alle origini della matematica moderna.
+Paul Féron, Jacques Arlet, Henri Gilles, Georges Passerat et al. Pierre de Fermat : un génie européen. Tolosa, Presses de l'Université des sciences sociales de Toulouse et Éditions toulousaines de l'Ingénieur, 2002, (224 pp.). ISBN 2-909628-83-3.
+Simon Singh, Le dernier théorème de Fermat. ISBNE 2-7096-1854-0.
+André Dupuy, Pierre Fermat.
+Giulio Giorello, Corrado Sinigagliano, Pierre Fermat. Col. Dossiers Pour la science (les génies de la science), nº 32. Pour la science (ed.). ISBN 2-84245-091-1, ISSN 1298-6879. [1].
+
+
+== Se veiga tamién ==
+ Se veigan as imáchens de Commons sobre Pierre_de_Fermat.
+Premio Fermat d'investigación en matematicas
+Espiral de Fermat
+Numero primero de Fermat
+Principio de Fermat
+Chicot teorema de Fermat
+Zaguer teorema de Fermat
+
+
+== Vinclos externos ==
+Œuvres de Fermat publiées par les soins de MM. Paul Tannery et Charles Henry sous les auspices du Ministère de l'instruction publique.
+Méthode de Fermat pour la recherche du minimum et du maximum, analysée sur le site BibNum.
+Exposición permanent en Beumont de Lomanha
+La vida i temps de Pierre de Fermat (1601 - 1665) de la W. W. Rouse Ball's history of mathematics
+O zaguer teorema de Fermat
+Aportacions de Fermat

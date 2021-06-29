@@ -1,0 +1,18 @@
+Diphonum in linguistica est series binorum phonematum. Diphona usum in exemplaribus rationum linguarum naturalium habent, ubi ad varios contextus constituendos adhibentur in quibus phonema in certa lingua naturali fieri potest. Notio diphonorum ad impressionem electronicum transitionis binorum phonorum attingendam usitate adhibetur. In diagrammate sequente, flumen phonorum a P1, P2, et ceteris, ac diphona congruentia a D1-2, D2-3, et ceteris repraesentantur:
+
+|P1===|P2===|P3===|P4===|P5===|P6===|
+|D1-2=|D2-3=|D3-4=|D4-5=|D5-6=|
+
+Linguae Hispanicae circa 800 diphona, linguae Theodiscae circa 2500 sunt.
+
+
+== Nexus interni ==
+Triphonum
+
+
+== Bibliographia ==
+Jurafsky, Daniel, et James H. Martin. 2008. Speech and Language Processing. Prentice Hall. ISBN 0131873210.
+
+
+== Nexus externi ==
+Propositum Mbrola, tcts.fpms.ac.be (Mbrola Project)

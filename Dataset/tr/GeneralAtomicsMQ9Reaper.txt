@@ -1,0 +1,47 @@
+MQ-9 Reaper (ilk adı RQ-9 Predator B) General Atomics Aeronautical Systems şirketi tarafından Amerika Birleşik Devletleri Hava Kuvvetleri, Amerika Birleşik Devletleri Donanması ve İngiliz Kraliyet Hava Kuvvetleri için geliştirilmiş insansız hava aracıdır (İHA). MQ-9'un en önemli özelliği ilk vurucu İHA olmasıdır. MQ-9 Reaper UAV'nin turboprop motoru saatte 250 knot hız yapmasını ve 40.000 feet irtifaya çıkmasını sağlar. Ayrıca MQ-9 Reaper UAV'nin yaklaşık olarak uçuş süresi ise 20 saattir. Uçuş süresi taşıdığı faydalı yüke göre değişiklik gösterebilmektedir.
+MQ-9 Reaper UAV'nin 1,5 ton ağırlığında Hellfire füzeleri ve GBU-12 Lazer Güdümlü Bombalar gibi mühimmatları taşıma kapasitesi bulunmaktadır.
+
+
+== Kullanıcılar ==
+ Birleşik Krallık
+ ABD
+ İtalya
+ Fransa
+ Hollanda
+
+
+== Genel Özellikler ==
+
+Bilgi kaynağı: Globalsecurity.org
+Mürettebat: yok (uçak üzerinde), 2 (kontrol istasyonunda)
+Uzunluk: 11 m (36 ft 1 in)
+Yükseklik: 3,81 m (12 ft 6 in)
+Kanat açıklığı: 20 m (65 ft 7 in)
+Boş ağırlığı: 2.223 kg (4.901 lb)
+Azami Kalkış Ağırlığı:  4.760 kg (10.494 lb)
+Yakıt kapasitesi:  1.800 kg (4.000 lb)
+Motor: 1× Honeywell TPE331-10 Turboprop, 900 hp (671 kW) Dijital Elektronik Motor Kontrolü ile birlikte
+
+
+=== Performans ===
+
+Azami hız: 482 km/h (300 mph; 260 kn)
+Seyir Hızı: 313 km/h (194 mph; 169 kn) 
+Menzil: 1.852 km (1.151 mi 1.000 nmi)
+Havada Kalış Süresi: 14 saat (tam yüklü iken)
+Servis Tavanı: 15.240 m (50.000 ft)
+Operasyonel irtifa :7.500 m (25.000 ft)
+
+
+== İlgili İçerik ==
+Benzer tasarım ve gelişimdeki uçaklar
+
+MQ-1 PredatorBenzer rolde, dönemde ve yetenekte olan uçaklar
+
+IAI Eitan
+BAE Systems Mantis
+		
+		
+
+
+== Kaynakça ==

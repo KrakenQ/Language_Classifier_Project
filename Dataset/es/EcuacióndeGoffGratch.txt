@@ -1,0 +1,22 @@
+La ecuación de Goff-Gratch es una (posiblemente la primera confiable en la historia) entre muchas correlaciones experimentales propuestas para estimar la presión de vapor de agua de saturación a una temperatura dada.
+Otra ecuación similar basada en datos más recientes es la ecuación de Arden Buck.
+
+
+== Nota histórica ==
+Esta ecuación lleva el nombre de los autores del artículo científico original que describió cómo poder calcular la presión de vapor de agua de saturación sobre una superficie plana de agua libre en función de la temperatura (Goff y Gratch, 1946). Goff (1957) luego revisó su fórmula, y esta última fue recomendada para su uso por la Organización Meteorológica Mundial en 1988, con correcciones adicionales en 2000.
+Sin embargo, la edición de 2015 del Reglamento Técnico de la OMM (OMM-Nº 49) establece en el Volumen 1, Parte III, Sección 1.2.1, que cualquier fórmula o constante dada en la Guía de Instrumentos Meteorológicos y Métodos de Observación también conocida como Guía CIMO (OMM-Nº 8) se utilizará, y este documento solo contiene la fórmula de Magnus mucho más simple (Anexo 4.B. - Fórmulas para el cálculo de medidas de humedad). Con respecto a la medición de la humedad del aire superior, esta publicación también dice (en la Sección 12.5.1):
+La saturación con respecto al agua no se puede medir mucho por debajo de –50 ° C, por lo que los fabricantes deben usar una de las siguientes expresiones para calcular la presión de vapor de saturación en relación con el agua a las temperaturas más bajas: Wexler (1976, 1977),[1]​[2]​ [1] [2 ] informado por Flatau et al. (1992)., [3] Hyland y Wexler (1983) o Sonntag (1994), y no la ecuación de Goff-Gratch recomendada en publicaciones anteriores de la OMM.[3]​
+
+
+== Correlación experimental ==
+La correlación experimental original de Goff-Gratch (1946) dice lo siguiente:
+
+De manera similar, la correlación para la presión de vapor de agua de saturación sobre hielo es:
+
+
+== Véase también ==
+Ecuación de Antoine
+Ecuación de Arden Buck
+
+
+== Referencias ==

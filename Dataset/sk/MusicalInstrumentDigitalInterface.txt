@@ -1,0 +1,5 @@
+MIDI (angl.: Musical Instrument Digital Interface = „Digitálne rozhranie pre hudobné nástroje“) je protokol na prenos dát, s cieľom prenosu, predania, nahrania a opätovnej reprodukcie hudobných riadiacich informácií medzi hudobnými nástrojmi a osobným počítačom. MIDI-protokol je podporovaný väčšinou hudobných nástrojov a zvukových kariet.
+
+
+== Zdroj ==
+Tento článok je čiastočný alebo úplný preklad článku Musical Instrument Digital Interface na nemeckej Wikipédii.

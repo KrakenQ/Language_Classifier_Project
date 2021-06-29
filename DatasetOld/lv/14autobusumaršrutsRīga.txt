@@ -1,0 +1,4 @@
+14. autobusu maršruts ir Rīgas sabiedriskā transporta autobusu maršruts, kas kursē no Abrenes ielas līdz Juglas zvēraudzētavai Juglas apkaimē.
+14. autobusu maršruta kopējais garums ir 28,215 km. Maršruta Abrenes iela — Zvēraudzētava kopējais garums ir 13,791 km, bet maršruta Zvēraudzētava — Abrenes iela kopējais garums ir 14,424 km.
+Darbdienās pa 14. autobusu maršrutu kursē tikai 3 autobusi, bet brīvdienās — tikai 2 autobusi.
+14. autobusu maršrutu apkalpo 7. autobusu parks. Autobuss ceļā nepietur: Palmu iela, Katedrāle, Brīvības piemineklis, Centrālā stacija,

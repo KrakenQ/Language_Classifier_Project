@@ -1,0 +1,70 @@
+Perseverance, (en català, 'Perseverança'), sobrenomenat Percy és un vehicle Mars rover dissenyat i fabricat pel Jet Propulsion Laboratory per explorar el cràter Jezero de Mart com a part de la missió Mars 2020 del Mars Exploration Program ('Programa d'Exploració de Mart') de la NASA. Va ser llançat el 30 de juliol de 2020 a les 11:50 UTC des de Cap Canaveral a Florida i va aterrar a Mart el 18 de febrer de 2021 a les 20:55 UTC.El seu disseny és gairebé idèntic al ròver Curiosity, compta amb set instruments científics per estudiar la superfície marciana començant des del cràter Jezero. També porta a bord 23 càmeres i dos micròfons. En la missió també navega l'helicòpter explorador Ingenuity, que ajuda al ròver Perseverance a trobar possibles llocs per estudiar.
+
+
+== Disseny ==
+El mateix equip d'enginyers que va dissenyar el rover Curiosity va estar involucrat en el disseny de Perseverance. Van redissenyar les rodes del nou rover perquè fossin més robustes que les del Curiosity, que amb el transcurs del seu ús van sofrir alguns danys. En aquesta ocasió les seves rodes seran d'alumini, més gruixudes i duradores, amb un ample reduït i un diàmetre major (52,5 cm) que les rodes del Curiosity que eren de 50,5 cm. Al seu torn, les rodes d'alumini estan cobertes amb tacs de tracció i radis de titani corbs per a un suport elàstic. La combinació del conjunt d'instruments majors, el nou sistema de presa i emmagatzemament de mostres, i les rodes modificades, fan que el Perseverance sigui més pesat que el seu predecessor, en un 17% (899 kg a 1050 kg). El rover inclourà un braç robòtic de cinc articulacions que mesura 2,1 m de llarg. Aquest braç s'utilitzarà en combinació amb una torreta per analitzar mostres geològiques de la superfície marciana.El generador d'energia del vehicle, un MMRTG (anglès: Multi-Mission Radioisotope Thermoelectric Generator) té una massa de 45 quilograms i utilitza 4,8 quilograms de diòxid de plutoni com a font energètica constant de calor que es converteix en electricitat. La potència elèctrica generada és d'aproximadament 110 watts durant el llançament amb una petita disminució durant el temps de la missió. S'inclouen dues bateries recarregables de ions de liti per satisfer la demanda de les activitats mòbils quan la demanda excedeix temporalment els nivells constants de sortida elèctrica del MMRTG. El MMRTG ofereix una vida útil operativa de 14 anys, i va ser proveït a la NASA pel Departament d'Energia dels Estats Units. A diferència dels panells solars, el MMRTG proporciona als enginyers una gran flexibilitat per operar els instruments del vehicle explorador fins i tot de nit i durant les tempestes de pols, i també durant la temporada d'hivern.L'ordinador del rover utilitza un RAD750 de BAE preparat per la radiació, disposa de 128 megaoctets de memòria volàtil DRAM i opera a 133 MHz. El programari de vol és capaç d'accedir a altres 4 gigaoctets de memòria NAND no volàtil que es troben en una altra targeta.Al costat del Perseverance i com a part de Mars 2020 també viatja l'helicòpter experimental anomenat Ingenuity. Un helicòpter alimentat amb energia solar que pesa 1,8 kg, es posarà a prova tant la seva estabilitat en el vol com la possibilitat d'utilitzar-ho per fer d'avançada al rover ajudant a la planificació de la ruta durant un període planificat de 30 dies. A part de les càmeres no porta cap instrument científic.
+
+
+== Missió ==
+
+
+=== Objectius científics ===
+El rover Perseverance té quatre objectius científics:
+Recerca d'habitabilitat: identificar ambients que van poder ser capaços de contenir vida microbiana.
+Recerca de biosignatures: buscar signes de possible vida microbiana en aquests ambients habitables, particularment en roques especials que es coneix que preserven aquests signes en el temps.
+Emmagatzematge de mostres: recollir mostres de terra i roca i emmagatzemar-les en la superfície.
+Aplanar el camí als humans: provar la generació d'oxigen des de la superfície marciana.
+
+
+=== Nom ===
+Thomas Zurbuchen, administrador associat de la Direcció de Missions Científiques de la NASA, va seleccionar el nom Perseverance després d'un concurs orientat a tots els alumnes de primària i secundària del país que va rebre un total de 28.000 propostes i al voltant de 772.000 vots. El 5 de març de 2020 es va anunciar que el guanyador havia estat un estudiant de setè grau de Virgínia, Alexander Mather. A més de l'honor de posar el nom al rover el guanyador i la seva família van ser convidats per al Centre espacial John F Kennedy a veure el llançament del rover des de l'Estació de la Força Aèria de Cap Canaveral a Florida.
+Mather va escriure en el seu assaig guanyador:
+traduït al català:
+
+
+=== Estat actual ===
+El rover Perseverance va enlairar-se amb èxit el 30 de juliol de 2020 a les 11:50 UTC (7:50 EDT) a bord d'un Atlas V de United Launch Alliance des del Complex de Llançament 41 de l'Estació de la Força Aèria de Cap Canaveral a Florida.El temps de trànsit fins al planeta vermell va ser de 7 mesos. El descens a la superfície de Mart va ser el 18 de febrer de 2021 tot aterrant al cràter Jezero per començar els experiments.
+
+
+== Instruments científics ==
+
+Sobre la base dels objectius científics, es van avaluar gairebé 60 propostes per als instruments del rover i, el 31 de juliol de 2014, la NASA va anunciar els set que viatjarien a bord:
+Planetary Instrument for X-Ray Lithochemistry – PIXL (Instrument Planetari per a Litioquímica en rajos X), un espectròmetre de fluorescència de rajos X per determinar la composició elemental a una escala fina de materials de la superfície de Mart. Investigadora principal: Abigail Allwood, Jet Propulsion Laboratory de la NASA (JPL per la seva sigla en anglès), Pasadena, Califòrnia.Radar Imager for Mars’ Subsurface Exploration – RIMFAX (Sensor d'Imatges per Radar per a l'Exploració del Subsòl Marcià), un georradar que utilitzarà un radar per explorar el subsòl i conèixer la geologia de la zona. Investigador principal: Svein-Erik Hamran, Institut Forsvarets Forskning, Noruega.
+Mars Environmental Dynamics Analyzer – MEDA (Analitzador de Dinàmica Ambiental Marciana), una espècie d'estació meteorològica que proveirà informació sobre les condicions al voltant del rover, tals com temperatura, humitat, grandària i forma de la pols, velocitat i direcció del vent. Investigador principal: José Rodríguez-Manfredi, Centre d'Astrobiología, Institut Nacional de Tècnica Aeroespacial, Espanya.El Mars Oxygen ISRU Experiment – MOXIE (Experiment ISRU d'Oxigen en Mart), un dispositiu que intentarà produir oxigen a partir de l'atmosfera de Mart, la qual està composta per diòxid de carboni. Investigador principal: Michael Hecht, Institut Tecnològic de Massachusetts, Cambridge, Massachusetts. Aquesta tecnologia podria ser utilitzada en el futur per mantenir la vida humana o fer combustible de coet per a missions de tornada.SuperCam, un instrument que pot detectar compostos orgànics presents en roques i regolita, a través de la mineralogia i anàlisi de composició química. Investigador principal: Roger Wiens, Laboratori Nacional Los Álamos, Nou Mèxic.Mastcam-Z, un sistema de càmeres capaces de realitzar acostament (zoom) i prendre imatges panoràmiques o espectroscòpiques. Investigador principal: Jim Bell, Universitat de l'Estat d'Arizona.Scanning Habitable Environments with Raman and Luminescence for Organics and Chemicals – SHERLOC (Escaneig d'Ambients Habitables amb Raman i Luminescència per a compostos Orgànics i Químics), el qual examinarà l'espectre de mostres superficials per conèixer la seva composició, i possiblement per trobar compostos orgànics. Investigador principal: Luther Beegle, JPL.A més dels instruments científics el rover estarà equipat amb 23 càmeres i, per primera vegada en una sonda marciana, dos micròfons que s'utilitzaran durant l'aterratge, la conducció i la recollida de mostres.
+Malgrat que diversos instruments resulten ser noves tecnologies, Mastcam-Z va néixer d'una altra ja provada a Mart. Versions anteriors d'aquest instrument van viatjar en el Curiosity, igual que en els seus predecessors Spirit i Opportunity, que van aterrar en el planeta vermell l'any 2004.
+
+
+== Recorregut previst ==
+Està planificat que Perseverance visiti les parts inferiors i superiors del delta de Neretva Vallis que es va formar fa uns 3400 i 3800 milions d'anys, les parts llises i gravades dels dipòsits del sòl del cràter Jezero interpretats com a dipòsits de cendra volcànica o de cascada eòlica, emplaçats abans de la formació del delta; l'antiga línia de la costa coberta amb Dorsals eòliques transversals (dunes) i dipòsits de residus massius i, finalment, està previst pujar a la vora del cràter Jezero.
+
+
+== "Envia El teu Nom a Mart" ==
+La campanya de la NASA "Envia El teu Nom a Mart" (anglès: "Send Your Name to Mars") va convidar a persones de tot el món a enviar el seu nom a Mart a bord del proper rover. Els noms van ser gravats utilitzant un doll d'electrons en tres xips de silici, juntament amb els assajos dels 155 finalistes del concurs per nomenar al rover. Després es van muntar en una placa d'alumini juntament amb un gravat que mostra la Terra, el Sol i Mart que va ser acoblada al rover el 26 de març de 2020.
+
+
+== Muntatge ==
+Muntatge del rover Perseverance (2019).
+
+
+== Mapa interactiu de Mart ==
+El següent mapa d'imatge del planeta Mart conté enllaços interns a característiques geogràfiques destacant les ubicacions de Rovers i mòduls de descens. Feu clic en les característiques i us enllaçarà a les pàgines dels articles corresponents. El nord està a la part superior; les elevacions: vermell (més alt), groc (zero), blau (més baix).
+
+
+== Referències ==
+
+
+== Vegeu també ==
+Curiosity
+Opportunity
+Rosalind Franklin
+Sojourner
+Spirit
+Viking 1
+Viking 2
+
+
+== Enllaços externs ==
+Mars 2020 (anglès) al lloc web de la NASA
+ Mars 2020: Overview (2:58; 27 July 2020; NASA) a YouTube (anglès)
+ Mars 2020: LAUNCH of Rover (6:40; 30 July 2020) a YouTube (anglès)
+ Mars 2020: LAUNCH of Rover (1:11; 30 July 2020; NASA) a YouTube (anglès)

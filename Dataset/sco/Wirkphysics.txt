@@ -1,0 +1,5 @@
+In physics, a force is said tae dae wirk if, when actin on a body, there is a displacement o the pynt o application in the direction o the force.
+
+
+== Units ==
+The SI unit o wirk is the joule (J), named after yer man James Prescott Joule, a 19t-century Inglis physicist frae Salford. It is defined as the wirk tae exert a force o ane newton through a displacement o ane metre.

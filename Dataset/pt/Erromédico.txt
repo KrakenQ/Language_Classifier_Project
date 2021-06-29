@@ -1,0 +1,38 @@
+O erro médico é um defeito na prestação do serviço de saúde que venha a causar dano ao paciente. Apesar do nome, ele não é cometido exclusivamente por um médico, pode decorrer da atuação de outros profissionais como enfermeiros , dentistas, nutricionistas ou até mesmo da administração do ambiente hospitalar.Segundo a Organização Mundial de Saúde (OMS), mais de 138 milhões de pessoas são afetadas anualmente por erros médicos e cerca de 2,6 milhões morrem por esta causa. No Brasil, o número de óbitos causados por erros médicos se aproxima do número de homicídios dolosos cometidos por criminosos, chegando a 148 mortes por dia.
+
+
+== Classificação ==
+Para ser classificado como erro médico, é necessário a configuração da culpa - mais precisamente da "não culpa" uma vez que um erro não se enquadra na intencionalidade -  Para se configurar a culpa, é necessário que o ato se enquadre em uma de suas modalidades:
+
+
+=== Imprudência ===
+O médico realiza atos imprudentes ou não embasados em documentos científicos, como usar tratamentos experimentais em pacientes sem alerta-los do caráter experimental dos mesmos, ou então, prescrever remédio que não conhece, a pedido do próprio paciente, que causa danos ao mesmo. 
+
+
+=== Imperícia ===
+O médico realiza tratamento para o qual não está formado. Um exemplo ocorre das complicações de uma cirurgia plástica de lipoaspiração executada por um ginecologista que não estudou para tal fim, cirurgia de cérebro por um médico não especialista na área. 
+
+
+=== Negligência ===
+O médico, estando livre de outros afazeres deixa, por exemplo, de ir ao quarto de um paciente para examina-lo embora a enfermeira o tenha informado que o paciente está passando mal. Ou então, ignora os sintomas e queixas relatados pelo paciente, levando a danos ao mesmo.
+A negligência médica pode ocorrer inclusive no tocante à informações prestadas pelos médicos, resultando em negligência médica informacional.
+A culpa, no Erro Médico ou Evento Adverso Evitável, é classificado no direito médico internacional, "Como uma divergência deliberada do padrão, ou seja, um cuidado médico que caiu abaixo do padrão esperado pelos médicos de sua comunidade e especialidade".
+
+
+== Responsabilidade do hospital por erro médico ==
+Hospitais e clínicas podem ser responsabilizados pela atuação dos seus funcionários, contudo, não respondem pela falha do médico que apenas usa o espaço para a cirurgia se o profissional não mantém vínculo com o estabelecimento hospitalar.
+
+
+== Nomeações errôneas ==
+Nos dias de hoje, qualquer insatisfação de pacientes quanto a tratamentos médicos tende a ser descrita pelos mesmos como erro médico.
+No entanto, o erro médico precisa necessariamente ser enquadrado em algumas das características supra citadas para ser assim classificado, e para que o paciente tenha direito a uma indenização.Necessário se faz caracterizar bem a culpa, para que se cogite a possibilidade de requerer dano moral, necessário que se estabeleça o nexo causal entre o dano e o ato danoso.
+Outros problemas podem ser erroneamente classificados como erro médico, como, no caso mais comum, as intercorrências médicas, pelas quais o médico não é culpado.
+
+
+== Lesão Iatrogênica e Erro Médico ==
+As Lesões iatrogênicas não resultam necessariamente de erros médicos, como erros cometidos na cirurgia ou a prescrição ou dispensa da terapia errada, como um medicamento. De fato, os efeitos intrínsecos e às vezes adversos de um tratamento médico são iatrogênicos. Por exemplo, a radioterapia e a quimioterapia - necessariamente agressivas para efeito terapêutico - freqüentemente produzem efeitos iatrogênicos como perda de cabelo, anemia hemolítica, diabetes insípido, vômitos, náusea, dano cerebral, linfedema, infertilidade, etc. A perda de função resultante da necessidade A remoção de um órgão doente é iatrogênica, como no caso de diabetes, conseqüente à remoção total ou parcial do pâncreas.
+A incidência de iatrogenia pode ser enganosa em alguns casos. Por exemplo, o aneurisma da aorta rompido é fatal na maioria dos casos; a taxa de sobrevida para um aneurisma da aorta rompido é inferior a 25%. Pacientes que morrem durante ou após uma operação ainda serão considerados mortes iatrogênicas, mas o procedimento em si permanece uma aposta melhor do que a probabilidade de 100% de morte se não for tratada.
+Outras situações podem envolver negligência real ou procedimentos defeituosos, como quando os farmacoterapias produzem prescrições manuscritas de medicamentos.
+
+
+== Referências ==

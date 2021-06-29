@@ -1,0 +1,32 @@
+Ríki er yfirflokkur vísindalegra flokka sem notaðir eru til að flokka lífverur. Ríki eru sums staðar notuð sem yfirflokkur fyrir annað en lífverur vegna hliðstæðu milli flokkunarkerfa. Sem dæmi má nefna veiruríkið (veirur eru ekki lífverur en flokkaðar á svipaðan hátt) og steinaríkið. Ríkin eru efsti (eða næstefsti) flokkurinn í flokkunarfræðinni.
+Í bók sinni Systema naturae sem kom út árið 1735 gerði Carl von Linné greinarmun á tveimur ríkjum lifandi vera, dýraríkinu og jurtaríkinu. Hann fjallaði raunar líka um steindir og setti þær í sérstakt steinaríki (Mineralia). Linné skipti hverju ríki í flokka sem síðar urðu að fylkingum hjá dýrum og skiptingum hjá jurtum.
+Þegar einfrumungar uppgötvuðust var þeim fyrst skipt á milli ríkjanna tveggja þannig að hreyfanleg form lentu í frumdýraríkinu (Protozoa) en litir þörungar og bakteríur í jurtaríkinu sem þelplöntur (Thallophyta) og frumplöntur (Protophyta). Erfitt reyndist að flokka nokkurn fjölda einfrumunga eða þá að þeir voru flokkaðir á ólíkan hátt af ólíkum höfundum; til dæmis hreyfanlegir dílþörungar og amöbulík Mycetozoa. Vegna þessa stakk Ernst Haeckel upp á þriðja ríkinu, frumveruríkinu (Protista), fyrir þessar lífverur.
+
+
+== Tvö veldi, fjögur ríki ==
+Sú uppgötvun að bakteríur eru með frumubyggingu sem er gerólík frumum annarra lífvera (bakteríur eru með eina frumuhimnu meðan frumur annarra lífvera hafa flóknari byggingu, til dæmis kjarna og frumulíffæri) fékk Chatton til að stinga árið 1937 upp á skiptingu alls lífríkisins í tvö veldi; veldi heilkjörnunga fyrir lífverur með frumukjarna, og veldi dreifkjörnunga fyrir lífverur án frumukjarna.Tillaga Chattons fékk ekki miklar undirtektir til að byrja með. Herbert Copeland kom fram með algengara kerfi árið 1956 þar sem dreifkjörnungar fengu sérstakt ríki sem upphaflega hét Mychota en fékk síðar heitið Monera eða gerlaríkið (Bacteria). Í kerfi Copelands voru allir heilkjörnungar, aðrir en dýr og jurtir, settir í frumveruríkið Protoctista.
+Smátt og smátt kom samt betur í ljós hversu mikilvæg skiptingin var milli heilkjörnunga og dreifkjörnunga og fleiri urðu til að taka upp tvíveldiskerfi Chattons.
+
+
+== Fimm ríki ==
+Robert Whittaker stillti upp sérstöku svepparíki 1969 og niðurstaðan af því varð fimm ríkja kerfi sem hefur náð mikilli útbreiðslu og er enn mikið notað. Það byggir aðallega á ólíkum næringaraðferðum: jurtaríkið inniheldur aðallega fjölfruma frumbjarga lífverur, dýraríkið fjölfruma ófrumbjarga lífverur og svepparíkið fjölfruma rotverur. Síðustu tvö ríkin, frumveruríkið og gerlaríkið, innihalda einfrumunga og einfalda frumuklasa.
+
+
+== Sex ríki ==
+Á árunum í kringum 1980 var mikil áhersla á þróunarferla og ríkin voru endurskilgreind þannig að þau yrðu einætta. Dýraríki, jurtaríki og svepparíki voru dregin saman í kjarnahópa náskyldra vera og afgangurinn settur í frumveruríkið.  Á grundvelli rRNA-rannsókna skipti Carl Woese dreifkjörnungum í tvö ríki: raungerlaríkið Eubacteria og forngerlaríkið Archaebacteria. Slík sex ríkja kerfi hafa orðið algeng síðan.
+Margar nýjar uppástungur að heilkjörnungaríkjum hafa síðar komið fram en þeim hefur jafnan verið hafnað og þau gerð að fylkingum eða flokkum eða einfaldlega hent. Það eina sem enn er almennt notað er ríki litvera (Chromista) (Thomas Cavalier-Smith, 1981) sem inniheldur þara, kísilþörunga og eggsveppi. Heilkjörnungum er þannig í grundvallaratriðum skipt í þrjá hópa ófrumbjarga lífvera: dýraríki, svepparíki og frumdýr; og tvo hópa lífvera sem ljóstillífa: jurtaríki (þar með talda rauðþörunga) og Chromista. Þessi skipting hefur samt ekki náð mikilli útbreiðslu vegna óvissu um að tvö síðastnefndu ríkin séu einstofna.
+
+
+== Þrjú lén ==
+Árið 1990 stakk Carl Woese upp á því að raunbakteríur, fornbakteríur og heilkjörnungar væru þrjár helstu þróunarlínur lífvera og gerði þá í samræmi við það að lénum sem hann kallar Bacteria, Archaea og Eucarya. Þetta þriggja léna kerfi hefur fengið á sig mikla gagnrýni en hefur engu að síður að mestu tekið við af tveggja léna kerfi Chattons sem leið til að flokka ríkin sjálf.
+
+
+== Samantekt ==
+Athugið að samsíða ríki í þessari töflu eru ekki endilega alveg jafngild. Haeckel setti til dæmis rauðþörunga og blábakteríur í jurtaríkið en í nútímaflokkunum eru þeir hafðir með frumverum annars vegar og gerlum hins vegar.
+
+
+== Tilvísanir ==
+
+
+== Heimildir ==
+Fyrirmynd greinarinnar var „Kingdom (biology)“ á ensku  útgáfu Wikipedia. Sótt 15. september 2006.

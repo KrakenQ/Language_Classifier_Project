@@ -1,0 +1,26 @@
+Le flétrissement américain du chêne est une  maladie cryptogamique provoquée par le champignon  Ceratocystis fagacearum qui attaque toutes les espèces de chênes en Amérique du Nord et plus particulièrement les chênes rouges. Les symptômes, variables selon les espèces d'arbres, comprennent généralement la décoloration des feuilles, le flétrissement, la défoliation et la mort de l'arbre. Le champignon se propage par l'intermédiaire d'insectes vecteurs ou par des connexions entre les racines des arbres. La gestion de la maladie consiste principalement en action de prévention de l'infection, en évitant les blessures des arbres, en détruisant les arbres malades et en creusant des tranchées destinées à supprimer les contacts au niveau des racines. Des traitements chimiques sont disponibles et sont pour la plupart préventifs. Le flétrissement du chêne est une maladie importante aussi bien en sylviculture pour la production de bois que dans les plantations ornementales en zone urbaine.
+
+
+== Aire de répartition ==
+Le champignon Ceratocystis fagacearum n'est présent qu'en Amérique du Nord et est indigène des États américain de l'Est et du Midwest.
+La maladie du flétrissement américain du chêne n'est signalée qu'aux États-Unis dans les États suivants : Alabama, Arkansas, Caroline du Nord, Caroline du Sud, Dakota du Sud, Illinois, Indiana, Iowa, Kansas, Kentucky, Louisiane, Maryland, Michigan, Minnesota, Mississippi, Missouri, Nebraska, New York, Ohio, Oklahoma, Pennsylvanie, Tennessee, Texas, Virginie, Virginie occidentale, Wisconsin.
+Cette zone de distribution ne semble pas s'étendre vers le sud ou le nord-est.
+Elle est absente des autres continents. En Europe, Ceratocystis fagacearum est classé comme organisme de quarantaine (liste A1) par l'Organisation européenne et méditerranéenne pour la protection des plantes (OEPP).
+
+
+== Cycle biologique de la maladie ==
+
+Le champignon responsable du flétrissement américain du chêne se diffuse de deux manières : transfert de spores d'un arbre malade à un arbre sain par des insectes vecteurs, d'une part, et déplacement du champignon d'un arbre à l'autre par les greffes racinaires, d'autre part.
+Quand un arbre se flétrit et meurt, si les conditions sont réunies, des spores sont produites dans les masses mycéliennes qui se forment sous l'écorce de l'arbre. Ces masses produisent des spores asexuées appelées endoconidies, spores en forme de baril produites en chapelets. Si des types sexuellement compatibles sont présents, ces masses peuvent aussi produire des spores sexuées appelées ascospores dans des structures reproductives appelées périthèces. Certains insectes de la famille des Nitidulidés, attirés par l'odeur fruitée de ces mycéliums, viennent s'y nourrir et se reproduire, et se chargent de spores. Ces mêmes nitidules, également attirés par les écoulements de sève, peuvent déposer les spores provenant des masses mycéliennes dans les blessures d'autres arbres. Cette voie de transmission joue un rôle important dans l'introduction du champignon dans de nouvelles zones qui n'auraient pu être atteintes par la transmission racinaire.
+La transmission par le biais des greffes racinaires est le mode de diffusion le plus courant, des arbres situés dans un rayon de 15 mètres autour d'un arbre malade pouvant être infectés.
+Le flétrissement américain du chêne se transmet habituellement des arbres malades aux arbres sains par les racines qui sont reliées entre elles par des anastomoses ou greffes. Les spores (et les endoconidies) produites dans les arbres peuvent alors circuler par les tissus vasculaires. La plupart des anastomoses racinaires se forment entre chênes de la même espèce ; les chênes rouges s'anastomosent plus facilement que les chênes blancs, et les anastomoses entre chêne rouges et chênes blancs sont très rares. Bien que cela soit possible, il est très rare que le flétrissement du chêne puisse passer entre chênes d'espèces différentes par les anastomoses racinaires – les espèces différentes ne s'anastomosent pas souvent par les racines, si bien qu'elles se contaminent moins fréquemment.
+
+
+== Notes et références ==
+
+
+== Liens externes ==
+(fr) Ceratocystis fagacearum (Flétrissement du chêne) - Fiche de renseignements, Agence canadienne d'inspection des aliments.
+(en) USDA Article du Forest Service
+(en) USDA How to prevent Oak Wilt
+(en) Oak Wilt in Minnesota Portail de la botanique   Portail de la mycologie   Portail du bois et de la forêt   Portail de la protection des cultures

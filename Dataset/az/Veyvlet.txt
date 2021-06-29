@@ -1,0 +1,5 @@
+Kəsilməz veyvlet çevirməsi  (ing. wavelet – kiçik dalğa deməkdir) – zaman və tezlik üzrə çözünürlüklə bağlı problemləri aradan qaldırmaq üçün qısamüddətli Furye çevirməsinə alternativ kimi təklif edilmişdir. Praktikada rast gəlinən siqnallarda çox vaxt yüzsək tezlikli komponentlərin müddəti böyük olmur, aşağı tezlikli komponentlərin müddəti isə kifayət qədər böyük olur. Qısamüddətli Furye çevirməsində zaman və tezlik oxu üzrə çözünürlük bütün çevirmə üçün sabit kəmiyyətdir. Veyvletlərin köməyi ilə yüksək tezliklər oblastında zaman üzrə yüksək və tezlik üzrə aşağı çözünürlük, aşağı tezliklər oblastında isə tezlik üzrə yüksək və zaman üzrə aşağı çözünürlük əldə etmək olar.
+
+
+== Ədəbiyyat ==
+İmamverdiyev Y.N., Suxostat L.V. "Nitq texnologiyaları üzrə terminlərin izahlı lüğəti ", 2015,“İnformasiya Texnologiyaları” nəşriyyatı,111 səh.

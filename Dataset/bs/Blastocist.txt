@@ -1,0 +1,53 @@
+Blastocist je struktura koja se formira u ranom embrionskom razvoju sisara. Posjeduje unutrašnju ćelijsku masu (ICM) koja naizgled stvara embrion, a izvor je embrionskih matičnih ćelija. Vanjski sloj blastocista se sastoji od ćelija koje se zajednički nazivaju trofoblast. Ovaj sloj okružuje unutrašnju ćelijsku masu i šupljinu ispunjenu tekućinom, tj. blastocel. Trofoblast podržava stvaranje posteljice.Kod ljudi, oblikovanje blastocista počinje otprilike oko 5. dana nakon oplodnje, kada se u moruli (skupu više malih, jednakih ćelija) pojavi tekućinom ispunjena šupljina. Promjer blastocista je oko 0,1-0,2 mm, a ouhvata oko 200-300 ćelija koje se brzo uključuju u brazdanje – blastulaciju. Nakon otprilike oko jedan dan, blastocist se ugnježđuje (nidacija) u endometrij zida maternice i takva ostaje u daljnjim fazama razvoja, u kojima prvo dolazi gastrulacija.
+Upotreba blastocista u vanmaterničnoj in vitro oplodnji uključuje kulturu zigota, pet dana prije implantacije u maternicu.
+
+
+== Proces razvića ==
+U toku ljudske embriogeneze, blastocist se razvija u maternici iz morule, pet dana nakon oplodnje. Rani embrion (zametak) ulazi u diferencijaciju ćelija i strukturne promjene da postane blastocist. Tada se priprema za implantaciju u zid maternice, šest dana nakon oplodnje. Implantacija označava kraj začetne faze i početak embrionske faze individualnog razvoja.
+
+
+=== Morfogeneza – Oblikovanje ===
+Morula je prethodnica blastocista, a rani embrion sadrži 16 jednakih ćelija. Kratko nakon ulaska morule (iz jajovoda) u maternicu, ona postaje blastocist, diferencijacijom i kavitacijom (dobijanjem šupljina) u sloju ćelija. Ćelije morule se diferenciraju u dva tipa: unutarnju ćelijsku masu koja raste iznutra, na rubu, i u sloju ćelija trofoblasta koje rastu izvana.Ona strana blastocista gdje se nalazi unutrašnja ćelijska masa, označava se kao animalni pol, a suprotna vegetativni pol. Kavitacija je proces u kojem se, unutar embriona, formira tekućinom ispunjena šupljina. Ćelije trofoblasta izbacuju natrijeve ione u centar embriona, što uzrokuje ulazak vode putem osmoze. To oblikuje unutrašnji blastocel.
+
+
+=== Implantacija ===
+Implantacija je kritična faza za preživljavanje i razvoj ranog embriona. Time se stvara veza između majke i embriona koja opstaje do kraja trudnoće. Tu vezu omogućavaju strukturne promjene blastocista i zida endometrija."Zona pellucida" koja okružuje blastocist puca. To uklanja ograničenje fizičke veličine embrionske mase i izlaže vanjske ćelije blastocista unutrašnjosti maternice. Pored toga, hormonske promjene majke, tačnije vrh luteinizirajućeg hormona, pripremaju endometrij za prihvatanje i obavijanje blastocista. Čim postanu ograničene vanćelijskim matriksom endometrija, trofoblastne ćelije izlučuju enzime i ostale faktore za ugradnju blastocist uz zid maternice. Enzimi razgrađuju endometrijsko obloge, dok faktori rasta, kao što je horionski gonadotropin (hCG) i faktor rasta sličan insulinu (IGF), koji dozvoljavaju blastocistu da upada dublje u endometrij. 
+Implantacija u zid maternice dozvoljava prelazak u sljedeći korak embriogeneze, gastrulaciju, koja uključuje oblikovanje posteljice, od ćelija trofoblasta, uz diferencijaciju unutrašnje elijske mase u amnionsku vreću i epiblast.
+
+
+== Građa ==
+Blastocist se sastoji od ćelija blastomere i blastocela.
+Postoje dva tipa blastomerskih ćelija:
+
+Unutrašnja ćelijska masa (embrioblast) iz koje se razvijaju primitivni endoderm i epiblast.
+Primitivni endoderm se razvija u amnionsku kesu, koja formira blastocel sa embrionom tokom trudnoće.
+Epiblast se razvija u tri zametna lista embriona u razvoju tokom gastrulacije (endoderm, mezoderm i ektoderm).
+Trofoblast je sloj stanica koji oblikuje vanjsku stranu blastocista i, zajedno s materničkim endometrijem, stvara posteljicu. Ćelije trofoblasta također luče faktore koji utiču na formiranje blastocela.Citotrofoblast je unutrašnji sloj trofoblasta koji se sastoji od matičnih ćelija, iz kojih se diferenciraju tkiva i organi, uključujući horionske čupice, posteljicu i sincicijotrofoblast.
+Sincicijotrofoblast je vanjski sloj trofoblasta. Ove ćelije izlučuju enzime proteaze, za razlaganje endometrijskog vaćelijskog matriksa i tako omoguće implantaciju blastocist u zid maternice.Tekućina blastocelske šupljine sadrži aminokiseline, faktore rasta i ostale molekule koje su potrebne za diferencijaciju ćelija.
+
+
+== Specijalizacija ćelija ==
+Specijalizacijom ćelija upravljaju mnogi procesi, koji, na osnovu porijekla, proizvode trofoblast, epiblast i primitivni endoderm. Ovi procesi uključuju: 
+
+ekspresiju gena,
+ćelijsku signalizaciju,
+međućelijske veze,
+pozicijske efekte i
+epigenetiku.Kada se, unutar blastocista, uspostavi unutrašnja ćelijska masa, ona se priprema za daljnju specifikaciju u epiblast i primitivni endoderm. Ovaj proces je određen djelomično pomoću signaliranja faktora rasta fibroblasta (FGF), koji stvara put mitogen-aktiviranoj proteinskoj (MAP) kinazi da promijeni ćelijske genome.Daljnja diferencijacija trofoblasta i unutrašnje ćelijske mase regulirana je homeodomenskim proteinom Cdx2. Ovaj faktor transkripcije potiskuje ekspresiju faktora Oct4 i Nanog, u trofektodermu (trofoblast nakon gastrulacije).Te genetičke izmjene dopuštaju razvojnu specijalizaciju epiblasta i primitivnog endoderma po porijeklu, na kraju blastocistne faze razvoja, a koja prethodi gastrulaciji.
+Trofoblasti, na površinama ćelija, eksprimiraju integrin, što omogućava adheziju vanćelijskog matriksa na zid maternice. Ovo međudjelovanje dozvoljava implantaciju i aktiviranje daljnje specifikaciju u tri različita tipa ćelija, što priprema blastocist za gastrulaciju.
+
+
+== Također pogledajte ==
+Klicin list
+Embriogeneza
+
+
+== Reference ==
+
+
+== Vanjski linkovi ==
+Blastocyst transfer and fertility treatment
+Risks of blastocyst transfer
+Blastocyst photos at different stages of development
+Diagram at weber.edu
+Blastocyst Differentiation Diagram

@@ -1,0 +1,23 @@
+L sistema decimal ye un sistema de numeraçon de posiçon qu'outeliza la base dieç.
+
+Un sistema de numeraçon ye un cunjunto de percípios custituindo l'artifício lógico de classficaçon an grupos i subgrupos de las ounidades que forman ls númaros. La base dun sistema de numeraçon ye ua cierta cantidade d'ounidades que debe custituir ua ounidade d'orde eimediatamente superior. Ls sistemas de numeraçon ten sou nome deribado de la sue base, ó seia, l sistema binairo ten base dous, l sistema setimal ten base siete i l decimal ten base dieç.L percípio fundamental de l sistema decimal ye que dieç ounidades dua orde qualquiera forman ua d'orde eimediatamente superior. Depuis de las ordes, las ounidades custitutibas de ls númaros son agrupadas an classes, an que cada classe ten trés ordes, an que cada orde ten ua chamaçon special, sendo idénticas a las mesmas ordes d'outras classes.La purmeira classe, de las ounidades, ten las ordes de las cientos, dezenas i ounidades. La purmeira orde de la purmeira classe, ó seia, l'orde de las ounidades, corresponde als númaros un, dous, trés, quatro, cinco, seis, siete, uito i nuobe. La segunda orde de la purmeira classe, l'orde de las dezenas, corresponde als númaros dieç (ua dezena), binte ( dues dezenas), trinta (trés dezenas), quarenta (quatro dezenas), cinquenta (cinco dezenas), sessenta (seis dezenas), setenta ( siete dezenas), uitenta (uito dezenas) i nobenta (nuobe dezenas), sendo cada un destes númaros dieç bezes l númaro correspondente na orde anterior. La terceira orde de la purmeira classe, l'orde de las cientos, corresponde als númaros que ban dua ciento la nuobe ciento, ó seia, cien, duzientos, trezientos, quatrocientos, quenhientos, seicientos, [[sietecientos] ], uitecientos i nuobecientos. Analogamente, cada un destes númaros corresponde la dieç bezes l númaro correspodente na orde anterior.La segunda classe, la classe de ls miles, anclui la quarta, quinta i sesta ordes, que son, respetibamente, l'orde de las ounidades de milhar, dezenas de milhar i cientos de milhar. Sous nomes son ls nomes de ls númaros de la purmeira classe, seguidos de miles. Ó seia, la quarta orde (ounidades de milhar) corresponde la mil (ó un milhar), dous mil, etc, até nuobe mil, la quinta orde, dezenas de milhar, bai de dieç mil la nobenta mil, i la sesta orde, cientos de milhar, bai de cien mil la nuobecientos mil.La terceira classe corresponde a la classe de ls milhones. A partir dende, segundo l testo de João José Luiç Biana aporfilhado ne l Brasil, las classes se chaman classes de ls bilhones (quarta classe), trilhones (quinta classe), quatrilhones (sesta classe), quintilhones (sétima classe), seistilhones (oitaba classe), setilhones (nona classe), otilhones (décima classe), nonilhones (décima purmeira classe), etc.Ls nomes de ls númaros anteiros cumprendidos antre dieç i binte, ó antre binte i trinta, etc, até ls cumprendidos antre nobenta i cien, son formados puls nomes de las ounidades de segunda orde, seguidos de ls nomes de las ounidades de purmeira orde:  dieç i un,  dieç i dous, ...,  dieç i nuobe, binte i un, ..., ..., nobenta i nuobe; an lugar de  dieç i un, ...,  dieç i cinco diç-se onze, duoze, treze, quatorze i quinze.Ls nomes de ls nobenta i nuobe númaros cumprendidos antre cada dous númaros de la terceira orde, ó seia, ls númaros antre cien i duzientos, ó antre duzientos i trezientos, etc, son formados de ls númaros de l'ounidade de terceira orde seguidos de ls nomes de ls nobenta i nuobe purmeiros númaros anteiros, i son ciento i un, ciento i dous, ..., ciento i nobenta i nuobe, duzientos i un, duzientos i dous, duzientos i trés, ..., duzientos i nobenta i nuobe, trezientos i un, trezientos i dous, trezientos i trés, ..., nuobecientos i nobenta i nuobe.
+
+
+== Ber tamien ==
+Bilhon
+Scalas cúrtie i longa
+
+
+== Notas e referências ==
+
+
+== Notas ==
+
+
+== Notas ==
+
+
+== Notas ==
+
+
+== Refréncias ==

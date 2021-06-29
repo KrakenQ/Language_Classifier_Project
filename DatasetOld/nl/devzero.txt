@@ -1,0 +1,1 @@
+/dev/zero is een begrip uit de computerwereld. In Unix-systemen is /dev/zero een virtueel uitvoerapparaat dat vergelijkbaar is met /dev/null. Als er naar geschreven wordt, werkt /dev/zero op dezelfde manier als /dev/null, want de data verdwijnen in het niets. Als er echter uit gelezen wordt, levert /dev/zero zoveel ASCII null-karakters als in het leescommando opgevraagd wordt.

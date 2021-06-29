@@ -1,0 +1,6 @@
+Kodovi za identifikaciju plastičnih masa predstavljaju grupu simbola, koji se stavljaju na plastične materijale kako bi se identifikovao tip polimera. Ovaj način označavanja je razvilo Udruženje za plastičnu industriju (Society of Plastics Industry SPI). Primarna svrha ovih kodova je omogućavanje efikasnog razdvajanja različitih tipova polimera pri recikliranju.
+Simboli korišteni u ovom kodu se sastoje od tri strijele koje formiraju zaobljeni trougao i usmjeravaju u smijeru kazaljke na satu. U centru trougla je broj, a često sadrži i akronim ispod trougla, koji označava vrstu plastike. Kada je broj izostavljen, podrazumijeva se da se radi o univerzalnom simbolu za reciklažu i predstavlaj materijal koji se može reciklirati.
+Nasuprot uobičajenom mišljenju, brojevi unutar trougla ne predstavljaju oznaku težine reciklaže materijala, već su uzeti dogovorno.
+
+
+== Tabela kodova ==

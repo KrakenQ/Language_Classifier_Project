@@ -1,0 +1,52 @@
+In uimhirtheoiric, is é ráiteas bunteoirime na huimhríochta ná go bhfuil fachtóiriú uathúil ag gach slánuimhir níos mó ná 1 mar iolrach d'uimhreacha príomha, seachas ord na bhfachtóirí. Mar shampla, 
+
+  
+    
+      
+        60
+        =
+        
+          2
+          
+            2
+          
+        
+        ⋅
+        3
+        ⋅
+        5
+        =
+        3
+        ⋅
+        2
+        ⋅
+        5
+        ⋅
+        2
+        =
+        …
+      
+    
+    {\displaystyle 60=2^{2}\cdot 3\cdot 5=3\cdot 2\cdot 5\cdot 2=\dots }
+  
+
+
+== Cruthúnas ==
+Úsáideann an cruthúnas seo Leama Euclid: bíodh a,b ina slánuimhreacha, agus p ina huimhir phríomha. Más roinnteoir d'ab í p, is roinnteoir d'a nó roinnteoir de b í p. 
+
+
+=== Eiseadh ===
+Úsáidfear ionduchtú láidir. Is uimhir phríomha í 2. Ansin glac leis go bhfuil an tairiscint fíor do chuile slánuimhir idir 1 agus n. Más uimhir phríomha í n, níl tuilleadh le cruthú. Seachas sin, bíonn slánuimhreacha a,b, a bhfuil n=ab, agus 1 < a  ≤ b < n. De réir ionduchtaithe láidir,  bíonn a agus b ina n-iolraigh d’uimhreacha príomha, agus mar sin bíonn n ina n-iolraigh d'uimhreacha príomha, na cinn atá ag a agus b.
+
+
+=== Uathúlacht ===
+Glac leis go bhfuil dhá fhachtóiriú diffriúla ag an slánuimhir k, agus gurb í k an slánuimhir dhearfach is lú leis an airí seo. Bíodh k = p1 ... pn = q1 ... qm, a bhfuil p1, ... , pn, q1, ... qm príomha. Roineann p1 an slánuimhir q1 ... qm, agus de réir Leama Euclid, roineann p1 ceann de q1, ... qm. Más roineann p1 an uimhir phríomha q1, tá p1 = q1. Mar sin, tá p2 ... pn = q2 ... qm , uimhir a bhfuil níos lú ná k, a bhréagnaíonn an hipitéis ar k. Dá bhrí sin, tá fachtóiriú  uathúil ar gach uimhir níos mó ná 1. 
+
+
+== Ginearálaithe ==
+Is é fearann fachtóirithe uathúil an t-ainm atá ar na faileanna a bhfuil fachtóiriú uathúil ar na mball den fhail.
+
+
+== Féach freisin ==
+Uimhir phríomha
+Uimhirtheoiric

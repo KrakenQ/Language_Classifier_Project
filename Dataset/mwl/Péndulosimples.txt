@@ -1,0 +1,273 @@
+An Macánica, un péndulo simples ye un strumiento ó ua montaige que cunsiste nun oubjeto que se abana al alredror dun punto fixo. L braço eisecuta mobimientos altarnados an torno de la posiçon central, chamada posiçon d'eiquelíbrio. L péndulo ye mui outelizado an studos de la fuorça peso i de l mobimiento ouscilatório.
+La çcubierta de la periodicidade de l mobimiento pendular fui feita por Galileu Galilei. L mobimiento dun péndulo simples ambuolbe basicamente ua grandeza chamada período (simbolizada por T): ye l'anterbalo de tiempo que l'oubjeto lieba para percorrer toda la trajetória (ó seia, retornar a sue posiçon oureginal de lançamiento, ua beç que l mobimiento pendular ye periódico). Deribada dessa grandeza, eisiste la frequéncia (f), numericamente eigual al amberso de l período (f = 1 / T), i qu'antoce carateriza-se pul númaro de bezes (ciclos) que l'oubjeto percorre la trajetória pendular nun anterbalo de tiempo specífico. La ounidade de la frequéncia ne l SI ye l hertz, eiquibalente a un ciclo por segundo(1/s).
+
+
+== Eiquaçon de l mobimiento ==
+
+Denota-se por 
+  
+    
+      
+        θ
+        
+      
+    
+    {\displaystyle \theta \,}
+   l anglo formado antre la bertical i l braço de péndulo. Faç-se las seguintes heipóteses:
+
+L braço ye formado por un filo nun flexible que se mantén siempre cul mesmo formato i cumprimiento.
+Toda la massa, 
+  
+    
+      
+        m
+        
+      
+    
+    {\displaystyle m\,}
+  ,  de l péndulo stá cuncentrada na punta de l braço a ua çtáncia custante 
+  
+    
+      
+        L
+        
+      
+    
+    {\displaystyle L\,}
+   de l'eixe.
+Nun eisisten outras fuorças a atuar ne l sistema senó la grabidade i la fuorça que mantén l'eixe de l péndulo fixo. (L mobimiento ye antoce cunserbatibo).
+L péndulo rializa un mobimiento bidimensional ne l plano xy.Ye fácele ber que la segunda lei de Newton fornece la seguinte eiquaçon defrencial ourdinária nó-linear coincida cumo eiquaçon de l péndulo:
+
+  
+    
+      
+        
+          
+            
+              
+                d
+                
+                  2
+                
+              
+              θ
+            
+            
+              d
+              
+                t
+                
+                  2
+                
+              
+            
+          
+        
+        +
+        
+          
+            g
+            L
+          
+        
+        sin
+        ⁡
+        θ
+        =
+        0.
+      
+    
+    {\displaystyle {d^{2}\theta  \over dt^{2}}+{g \over L}\sin \theta =0.}
+  
+
+
+== Fórmula de l Período para pequeinhas ouscilaçones ==
+Para pequeinhas ouscilaçones, l'aprossimaçon 
+  
+    
+      
+        sin
+        ⁡
+        θ
+        ≃
+        θ
+        
+      
+    
+    {\displaystyle \sin \theta \simeq \theta \,}
+   dá la seguinte spresson pa l período de l péndulo:
+
+  
+    
+      
+        T
+        =
+        2
+        π
+        
+          
+            
+              L
+              g
+            
+          
+        
+      
+    
+    {\displaystyle T=2\pi {\sqrt {\frac {L}{g}}}}
+  T: período
+L: cumprimiento de l filo
+g: acelaraçon de la grabidade
+Bal la pena lembrar que l período de l péndulo nun depende de la massa i que l filo ten que ser eineilástico i de massa çprezible pa que nun altere l período(T).
+Ua spresson percisa pa l período de l péndulo, bálida mesmo pa amplitudes tan grandes cumo 
+  
+    
+      
+        
+          60
+          
+            l
+          
+        
+        
+      
+    
+    {\displaystyle 60^{l}\,}
+   ye dada por:
+
+  
+    
+      
+        T
+        =
+        2
+        π
+        
+          
+            
+              l
+              g
+            
+          
+        
+        
+          (
+          
+            1
+            +
+            
+              
+                
+                  θ
+                  
+                    0
+                  
+                  
+                    2
+                  
+                
+                16
+              
+            
+          
+          )
+        
+      
+    
+    {\displaystyle T=2\pi {\sqrt {l \over g}}\left(1+{\theta _{0}^{2} \over 16}\right)}
+  .
+
+
+=== Stimando l cumprimiento de l péndulo ===
+
+  
+    
+      
+        
+          T
+          
+            0
+          
+        
+        =
+        2
+        π
+        
+          
+            
+              ℓ
+              g
+            
+          
+        
+      
+    
+    {\displaystyle T_{0}=2\pi {\sqrt {\frac {\ell }{g}}}}
+   puode ser spresso cumo 
+  
+    
+      
+        ℓ
+        =
+        
+          
+            g
+            
+              π
+              
+                2
+              
+            
+          
+        
+        ×
+        
+          
+            
+              T
+              
+                0
+              
+              
+                2
+              
+            
+            4
+          
+        
+        .
+      
+    
+    {\displaystyle \ell ={\frac {g}{\pi ^{2}}}\times {\frac {T_{0}^{2}}{4}}.}
+  Se ousarmos l Sistema anternacional d'ounidades (esto ye, cumprimiento an metros i tiempo an segundos), anton, na superfice de la Tierra (g = 9.80665 m/s²), l cumprimiento de l péndulo puode ser stimado de forma simples a partir de l sou período:
+
+  
+    
+      
+        ℓ
+        ≈
+        
+          
+            
+              T
+              
+                0
+              
+              
+                2
+              
+            
+            4
+          
+        
+      
+    
+    {\displaystyle \ell \approx {\frac {T_{0}^{2}}{4}}}
+  An outras palabras:
+Na superfice de la Tierra, l cumprimiento dun péndulo an metros ye cerca dun quarto de l quadrado de l sou período an segundos.
+
+
+== Ber tamien ==
+Péndulo físico
+Péndulo de Foucault
+Péndulo de Newton

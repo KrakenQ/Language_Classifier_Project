@@ -1,0 +1,16 @@
+Das DNA-Identitätsfeststellungsgesetz (DNA-IFG) war das Gesetz, mit dem der § 81g in die deutsche Strafprozessordnung eingeführt wurde. Diese Vorschrift ermöglicht es, zum Zweck der Identitätsfeststellung in Strafverfahren von bestimmten Beschuldigten und unter bestimmten Bedingungen Körperzellen zu entnehmen und molekulargenetisch zu untersuchen.
+
+Das Gesetz wurde durch das Gesetz zur Änderung des DNA-Identitätsfeststellungsgesetzes von 1999, durch das Strafverfahrensänderungsgesetz von 1999 und das Gesetz zur Änderung der Vorschriften über die Straftaten gegen die sexuelle Selbstbestimmung 2004 modifiziert. Mit dem Gesetz über die forensische DNA-Analyse trat das DNA-IFG dann vollständig außer Kraft. Die materiell-rechtlichen Vorschriften werden in §§ 81f–81h der Strafprozessordnung integriert. Möglich wird damit auch ein Massenscreening, über dessen Rechtmäßigkeit bisher Streit bestand.
+
+
+== Materiell-rechtlicher Gehalt ==
+Wesentlich sind die Bestimmungen der §§ 2 und 3 DNA-IFG:
+§ 2:(1) Maßnahmen, die nach § 81g der Strafprozessordnung zulässig sind, dürfen auch durchgeführt werden, wenn der Betroffene wegen einer der in § 81g Abs. 1 der Strafprozessordnung genannten Straftaten rechtskräftig verurteilt oder nur wegen erwiesener oder nicht auszuschließender Schuldunfähigkeit, auf Geisteskrankheit beruhender Verhandlungsunfähigkeit oder fehlender oder nicht ausschließbar fehlender Verantwortlichkeit (§ 3 des Jugendgerichtsgesetzes) nicht verurteilt worden ist und die entsprechende Eintragung im Bundeszentralregister oder Erziehungsregister noch nicht getilgt ist.
+(2) Für Maßnahmen nach Absatz 1 gelten § 81a Abs. 2, §§ 81f, 81g Abs. 3 Satz 2, § 162 Abs. 1 der Strafprozessordnung entsprechend.
+(3) Bezüglich der in Absatz 1 genannten Personen gelten die §§ 131a und 131c der Strafprozessordnung entsprechend.
+§ 3: Die Speicherung der gemäß § 2 dieses Gesetzes gewonnenen DNA-Identifizierungsmuster beim Bundeskriminalamt ist zulässig. Die gemäß § 81g der Strafprozessordnung oder gemäß § 2 dieses Gesetzes gewonnenen DNA-Identifizierungsmuster sowie des Geschlechts können nach dem Bundeskriminalamtgesetz verarbeitet und genutzt werden. Auskünfte dürfen nur für Zwecke eines Strafverfahrens, der Gefahrenabwehr und der internationalen Rechtshilfe hierfür erteilt werden.
+
+
+== Rechtsprechung ==
+BVerfG, Beschluss vom 14. Dezember 2000 - 2 BvR 1741/99, 276, 2061/00 = BVerfGE 103, 21, 33 – (Genetischer Fingerabdruck I) Volltext
+BVerfG, Beschluss vom 15. März 2001 - 2 BvR 1841/00 (Genetischer Fingerabdruck II) Volltext

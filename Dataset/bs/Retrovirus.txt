@@ -1,0 +1,35 @@
+Retrovirus je pripadnik virusne porodice Retroviridae – virusa koji se umnožavaju u ćeliji domaćina putem procesa reverzne transkripcije.
+To je jednolančani pozitivno smisleni RNK virus sa DNK međustepenom, a ćelije domaćina napada kao parazit. Unutar ćelije domaćina u citoplazmi, virus koristi svoj enzim reverznu transkriptazu za proizvodnju DNK iz RNK genoma, suprotno od uobičajenog obrasca, tj.  retro (=unazad). Ova nova DNK je tada uključena u genom ćelije  domaćina pomoću enzima integraze, koja usmjerava retrovirusnu DNK zvanu provirus. Ćelije domaćina zatim prihvataju virusnu DNK kao dio vlastitog genoma, prevodi i prepisuje virusne gene zajedno sa vlastitim genima, uključujući i proizvodnju proteina potrebnih za sklapanje novih kopija virusa. Zato je teško otkriti virus prilikom zaraze domaćina. U tom trenutku, infekcija će istrajati na neodređeno vrijeme.
+Najpoznatiji virus iz ove grupe je HIV (Human Immunodeficiency Virus - ljudski virus imunodeficijencije). Svi retrovirusi koriste reverznu transkriptazu za sintezu DNK iz RNK. Inhibicijom reverzne transkriptaze se zaustavlja razmnožavanje retrovirusa, pa su razvijeni odgovarajući lijekovi (inhibitori reverzne tranksriptaze).
+Kod većine virusa, DNK se transkribirana u RNK, koja se zatim prevodi na jezik aminokiselina, tj. proteina.  Međutim, retrovirusi djeluju drugačije - njihova RNK je obrnuto transkribovana u DNK, koja je ukjlučena u genom  ćelije domaćina (kada postaje provirus), a zatim prolazi kroz uobičajene transkripcijske i translacijske procese ekspresije virusnih gena. Dakle, informacija retrovirusnih gena se koristi za stvaranje odgovarajućeg proteina u slijedu: RNK → DNK → RNK → polipeptid. To proširuje osnovne procese koje je prepoznao Francis Crick, (jedan gen-jedan peptid), u kojima je formuliran niz: DNK → RNK → peptid, (proteini su izrađeni od jednog ili više polipeptidnih lanaca npr., hemoglobin sadrži četiri lanca peptida).
+Retrovirusi su dokazani kao vrijedni istraživački alati u molekularnoj biologiji, a uspješno se koriste u sistemima prenosa gena.
+
+
+== Struktura ==
+Virioni retrovirusa se sastoje od obavijenih čestica promjera oko 100 nm. Oni također sadrže dvije identične jednolančane  molekule RNK dužine 7-10 kilobaza. Iako virioni različitih retrovirusa nemaju istu morfologiju ili biologijawbiologiju, svi sastavni dijelovi viriona su vrlo slični.Glavni dijelovi viriona su:Virusni omotač, koji se sastoji od lipida (koji se dobija od plazmi membrane domaćina tokom procesa pupoljenja), kao i glikoproteina kodiranog sa env genima. Omotač ima tri različite uloge: zaštita od ekstracelularnog okruženja preko lipidnog dvosloja, omogućavajući retrovirusu ulazak / izlazak u/iz ćelije kroz endosomske membrane čovjeka i sposobnost da izravno uđe u ćelije, stapanjem sa svojim membranama.
+
+RNK se sastoji od nukleotidnih dimera. Ima kapu na 5' kraju i poli (A) rep na 3' kraju. U RNK genomu također postoje  terminalne nekodirajuće regije, koje su važne za replikaciju, i unutrašnje regije koje kodiraju virionske proteine za ekspresiju gena. Na 5' kraju uključene su četiri regije: R, U5, PBS i L. R regija je kratka ponavljajuća sekvenca, koja se na svakom kraju genoma koristi tokom obrnute transkripcije, kako bi se osigurao ispravan "kraj-na kraj" (end-to-end) prenos inormacije  u porastu lanca. U 5', s druge strane, je kratak jedinstveni slijed između R i PBS. PBS (prajmer obavezujući sajt) se sastoji od 18 komplementarnih baza na 3' kraju tRNK prajmera. L region je prevedeni lider regije koji daje signal za pakovanje genoma RNK. Na 3' kraju uključuje tri regije: PPT (polipurin trakt), U3 i R. PPT je prajmer za plus-lanac sinteze DNK tokom obrnute transkripcije. U3 je niz između PPT i R, a služi kao signal da se provirusi mogu koristiti u transkripciji. R je terminal ponavljajuće sekvence na 3' kraju.
+Proteini se sastoje od usta proteina, proteaze (PR), pol proteina i envproteina.
+Groupno-specifični antigenski (gag) proteini su glavni dijelovi virusne capside, kojih ima oko 2000-4000 kopija po virionu.
+Proteaze su različito izražene u različitim virusima. Djeluju proteolitički u zrenju viriona gag-a i pol proteina.
+Pol proteini su odgovorni za sintezu virusne DNK i objedinjavanje u DNK domaćina nakon infekcije.
+Env proteini imaju ulogu u saradnji i ulasku viriona u ćeliju domaćina posjedovanjem funkcionalne kopije env gena, a to je ono što čini razliku retrovirusa i retroelementa. Sposobnost retrovirusa da se veže za ciljne ćelije domaćina pomoću posebnih receptora je data površinskom komponentom (SU) env proteina, dok je sposobnost retrovirusa za ulazak u ćeliju omogućena preko membranske fuzije trans-membranske membranom-vezane komponente (TM). Tako je env protein ono što omogućava zaraznost retrovirusa.
+
+
+== Reference ==
+
+
+== Također pogledajte ==
+Virus
+Virusologija
+Vektor
+
+
+== Vanjski linkovi ==
+ViralZone A Swiss Institute of Bioinformatics resource for all viral families, providing general molecular and epidemiological information (follow links for "Retro-transcribing viruses")
+Retrovirus Animation (Flash Required)
+Retrovirology Scientific journal
+Retrovirus life cycle chapter From Kimball's Biology (online biology textbook pages)
+"Retroviruses" ISBN 0-87969-571-4
+Annals of Science: Darwin's Surprise. Michael Specter. The New Yorker. December 3, 2007.
+Nedovršeni članak Retrovirus koji govori o medicini treba dopuniti. Dopunite ga prema pravilima Wikipedije.

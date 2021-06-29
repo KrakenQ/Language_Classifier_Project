@@ -1,0 +1,12 @@
+Ternário ó trinairo ye un sistema de numeraçon posicional an que todas las cantidades se repersentan cun base an trés númaros, cul que se çpone de las cifras: zero, un i dous (0, 1 i 2).
+
+
+== Cumparaçon cun outras bases ==
+
+
+== An relaçon al decimal i binairo ==
+Repersentaçones de númaros anteiros an ternairo nun quedan çcunfortabelmente longas tan debrebe quanto an binairo. Por eisemplo, l decimal 365 corresponde al binairo 101101101 (9 dígitos) i ternairo 111112 (6 dígitos). Inda assi, eilhes inda son mui menos cirnes de l que las repersentaçones correspondentes an bases cumo decimal.
+
+
+== Ber tamien ==
+Ternário balanceado

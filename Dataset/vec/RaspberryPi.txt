@@ -1,0 +1,49 @@
+El 'Raspberry Pì el xe un conputer a scheda singola svilupà intel Regno Unito da la Raspberry Pi Foundation. La prexentasion al publico la xe avegnua el 29 febraro 2012.
+La scheda l xe sta projetà par ospitare sistemi operativi baxai se el kernel Linux o RISC OS. La xe asenblà in Galles, intel Sony UK Technology Centre. El xe sta consepio un sistema operativo apositamente dedicà, chiamà Raspberry Pi OS.
+
+
+== Caratarìsteghe ==
+
+
+=== Hardware ===
+
+El projeto se baxa so un system-on-a-chip de fabricasion Broadcom (BCM2835, opure BCM2836 par el Raspberry Pi 2, o BCM2837 par Raspberry Pi 3), che incorpora un prosesore ARM, na GPU VideoCore IV, e 256 o 512 Megabyte  o 1 Gigabyte de memoria. El projeto no prevede né hard disk né unità a stato solido, afidàndose invese a na scheda SD par el boot e par la memoria non volatile.
+Par ogni revision ghi xe stae prodote diverse version:
+
+Modelo A
+Modelo A+
+Modelo B
+Modelo B+
+Modelo Zero
+Modelo Zero W
+Modelo Pi Zero WH
+Modelo Pi 400
+
+
+=== Software ===
+La Raspberry Pi Foundation difonde uficialmente sistemi operativi baxai su GNU/Linux, intrà cui NOOBS e Raspbian, tuti do baxai so Debian GNU/Linux.
+Mojang e 4J Studios i ga svilupà na version de Minecraft (0.1.1) par sta piataforma.
+
+
+=== Spesifeghe tecniche ===
+
+
+== Modeli prodoti ==
+Raspberry Pi/Pi revision 2
+Raspberry Pi 2
+Raspberry Pi 3
+Raspberry Pi 3 B+
+Raspberry Pi 3 A+Il Raspberry Pi 4 Model B, inte le configurasion 1GB, 2GB e 4GB de memoria rispetivamente, vien imeso so el marcà intel xugno 2019, monta un :Broadcom BCM2711 quad-core a 1.5 Ghz e ofre molteplisi novità rispeto ai predesesori:Raspberry Pi Zero (v1.3)
+Raspberry Pi Zero W
+Raspberry Pi Zero WH
+Raspberry Pi 400
+
+
+== Nòte ==
+
+
+== Lexi anca ==
+Architettura ARM
+Raspberry Pi Foundation
+Single-board conputer
+Sistema embedded Portałi:Modeło:Portałe informadega | Modeło:Portałe siensa |

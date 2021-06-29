@@ -1,0 +1,927 @@
+L-ekwazzjoni ta' Schrödinger, misjuba mill-fiżiku Awstijak/Irlandiż Erwin Schrödinger fl-1925, hi ekwazzjoni fundamentali fil-Mekkanika kwantistika mhux relativistika. Tiddeskrivi l-evoluzzjoni mal-ħin ta' partiċella massiva mhux relativistika, u tieħu l-post li għandha t-tieni liġi ta' Newton fil-Mekkanika klassika. 
+
+
+== Twelid tal-ekwazzjoni ==
+
+
+=== Kuntest storiku ===
+Fil-bidu tas-seklu XX, kien jidher ċar li d-dawl juri d-dwalità mewġa-partiċella, jiġifieri jista' jidher, skont iċ-ċirkostanzi, kemm bħala partiċella, il-foton, u kemm bħala mewġa elettromanjetika. Louis de Broglie imbagħad ippropona li għandna niġġeneralizzaw id-dwalità għall-partiċelli magħrufa kollha allavolja l-ipoteżi kienet ħa toħloq paradoss għall-elettroni li kien ikollhom ikunu jistgħu jagħmlu interferenza bħad-dawl, ħaġa li ġiet verifikata wara mill-esperiment ta' Davisson-Germer. Bl-istess mod bħal fil-każ tal-foton, Louis de Broglie assoċja ma' kull partiċella ħielsa ta' enerġija 
+  
+    
+      
+        
+          
+            E
+          
+        
+      
+    
+    {\displaystyle \displaystyle {E}}
+   u momentu 
+  
+    
+      
+        
+          
+            p
+          
+        
+      
+    
+    {\displaystyle \displaystyle {p}}
+   frekwenza 
+  
+    
+      
+        
+          
+            ν
+          
+        
+      
+    
+    {\displaystyle \displaystyle {\nu }}
+   u tul tal-mewġa 
+  
+    
+      
+        
+          
+            λ
+          
+        
+      
+    
+    {\displaystyle \displaystyle {\lambda }}
+   :
+
+  
+    
+      
+        
+          {
+          
+            
+              
+                
+                  E
+                  =
+                  h
+                  ν
+                
+              
+              
+                
+                  p
+                  =
+                  h
+                  
+                    /
+                  
+                  λ
+                
+              
+            
+          
+          
+        
+      
+    
+    {\displaystyle \left\{{\begin{matrix}E=h\nu \\p=h/\lambda \end{matrix}}\right.}
+  .L-ekwazzjoni ta' Schrödinger, misjuba mill-fiżiku Erwin Schrödinger fl-1925, hi ekwazzjoni tal-mewġa li tiġġeneralizza l-approċċ ta' de Broglie li rajna hawn fuq għall-partiċelli massivi mhux relativistiċi li hemm fuqhom forza mnissla minn potenzjal u li l-enerġija mekkanika totali tagħhom hi klassikament:
+
+  
+    
+      
+        E
+        =
+        
+          
+            
+              p
+              
+                2
+              
+            
+            
+              2
+              m
+            
+          
+        
+        +
+        V
+        (
+        r
+        )
+      
+    
+    {\displaystyle E={p^{2} \over 2m}+V(r)}
+  .L-ekwazzjoni, imnissla minn din l-estensjoni permezz tal-prinċipju tal-korrispondenza, kellha suċċess minnufih billi biha setgħu jikkalkulaw il-livelli kwantifikati tal-enerġija tal-elettron fl-atomu tal-idroġenu u jispjegaw l-ispettru tal-idroġenu : is-serji ta' Lyman, Balmer, Brackett, Paschen, eċċ. 
+L-interpretazzjoni fiżika korretta tal-funzjoni ta' Schrödinger ingħatat fl-1926 minn Max Born. Minħabba l-karattru probabilistiku li daħħlet, il-mekkanika ondulatorja ta' Schrödinger fil-bidu intlaqgħet bis-suspett minn ċerti fiżiċi magħrufin bħal Albert Einstein, li għalih "Alla ma jilgħabx bid-dammi".
+
+
+=== Id-derivazzjoni ta' Schrödinger ===
+Id-derivazzjoni tiegħu Schrödinger ibbażaha fuq analoġija formali bejn l-ottika u l-mekkanika:
+
+Fl-ottika ondulatorja, l-ekwazzjoni tal-propagazzjoni f'materjal trasparenti ta' indiċi reali n li jinbidel bil-mod fuq l-iskala tat-tul tal-mewġa, twassal – sakemm wieħed jkun qiegħed ifittex soluzzjoni monokromatika li l-ampjezza tagħha tvarja bil-mod ħafna mal-fażi – għal ekwazzjoni approssima li tissejjaħ l-ekwazzjoni eikonali. Din hija l-approssimazzjoni tal-ottika ġeometrika, li magħha nassoċjaw il-prinċipju varjazzjonali ta' Fermat.Fil-formulazzjoni Hamiltonjana, hemm ekwazzjoni msejħa l-ekwazzjoni ta' Hamilton-Jacobi. Għal partiċella massiva mhux relativistika li fuqha hemm forza mnissla minn potenzjal, l-enerġija mekkanika totali hi kostanti u l-ekwazzjoni ta' Hamilton-Jacobi għall-"funzjoni karatteristika ta' Hamilton" tixbaħ formalment l-ekwazzjoni eikonali (il-prinċipju varjazzjonali użat hawn hu l-prinċipju tal-inqas azzjoni.)Din l-analoġija induna biha Hamilton fl-1843, imma dan ma kellux għalfejn jiddubita l-validità tal-mekkanika klassika. Wara li De Broglie ħareġ bl-ipoteżi tiegħu fl-1923, Schrödinger qal lilu nnifsu  : la l-ekwazzjoni eikonali hija approssimazzjoni tal-ekwazzjoni tal-mewġa fl-ottika ondulatorja, għaliex ma nfittxux l-ekwazzjoni tal-mewġa fil-"mekkanika ondulatorja" li l-approssimazzjoni tagħha tkun l-ekwazzjoni ta' Hamilton-Jacobi. U hekk għamel, l-ewwel għal mewġa stazzjonarja (E = kostanti), u mbagħad għal liema mewġa tkun kif tkun.
+Rimarka : Schrödinger kien beda jittratta l-każ ta' partiċella relativistika – kif kien għamel De Broglie qablu. Kien kiseb l-ekwazzjoni li llum tissejjaħ bl-isem l-ekwazzjoni ta' Klein-Gordon, imma meta sab li l-applikazzjoni tiegħu għall-każ tal-potenzjal Coulombjan tagħti livelli tal-enerġija li ma jaqblux mar-riżultati tal-esperimenti għall-atomu tal-idroġenu, reġa' ntefa' fuq il-każ mhux relativistiku, bis-suċċess li jaf kulħadd.
+
+
+== Formulazzjoni moderna tal-ekwazzjoni ==
+Fil-mekkanika kwantistika, l-istat fil-mument t ta' sistema niddeskrivuha b'element 
+  
+    
+      
+        
+          |
+          
+            Ψ
+            (
+            t
+            )
+          
+          ⟩
+        
+      
+    
+    {\displaystyle \left|\Psi (t)\right\rangle }
+   tal-ispazju ta' Hilbert kompless — nużaw in-notazzjoni bra-ket ta' Paul Dirac. 
+  
+    
+      
+        
+          |
+          
+            Ψ
+            (
+            t
+            )
+          
+          ⟩
+        
+      
+    
+    {\displaystyle \left|\Psi (t)\right\rangle }
+   tirrappreżenta l-probabbilità tar-riżultati ta' kull kejl possibbli fuq is-sistema.
+L-evoluzzjoni temporali ta' 
+  
+    
+      
+        
+          |
+          
+            Ψ
+            (
+            t
+            )
+          
+          ⟩
+        
+      
+    
+    {\displaystyle \left|\Psi (t)\right\rangle }
+   niddeskrivuha bl-ekwazzjoni ta' Schrödinger :
+
+fejn 
+
+  
+    
+      
+        
+          
+            i
+          
+        
+      
+    
+    {\displaystyle \displaystyle {i}}
+   hu radiċi ta'  
+  
+    
+      
+        
+          
+            −
+            1
+          
+        
+      
+    
+    {\displaystyle \displaystyle {-1}}
+  ;
+
+  
+    
+      
+        ℏ
+        =
+        
+          
+            h
+            
+              2
+              π
+            
+          
+        
+      
+    
+    {\displaystyle \hbar ={\frac {h}{2\pi }}}
+   fejn 
+  
+    
+      
+        
+          
+            h
+          
+        
+      
+    
+    {\displaystyle \displaystyle {h}}
+   hu l-kostanti ta' Planck ;
+
+  
+    
+      
+        
+          
+            
+              H
+              ^
+            
+          
+        
+        
+      
+    
+    {\displaystyle {\hat {H}}\,}
+   hu l-Hamiltonjan, li inġenerali jiddependi mill-ħin, l-osservabbli li jikkorrespondi għall-enerġija totali tas-sistema ;
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  
+                    r
+                  
+                  →
+                
+              
+              ^
+            
+          
+        
+        
+      
+    
+    {\displaystyle {\hat {\vec {\mathbf {r} }}}\,}
+   hu l-osservabbli pożizzjoni ;
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  
+                    p
+                  
+                  →
+                
+              
+              ^
+            
+          
+        
+        
+      
+    
+    {\displaystyle {\hat {\vec {\mathbf {p} }}}\,}
+   hu l-osservabbli momentu.Bil-kontra għall-ekwazzjonijiet ta' Maxwell li jagħtu l-evoluzzjoni tal-mewġ elettromanjetiċi, l-ekwazzjoni ta' Schrödinger mhijiex relativistika. Din l-ekwazzjoni kienet postulat. Ġiet aċċettata bħala korretta wara li Davisson u Germer bl-esperimenti tagħhom kienu kkonfirmaw l-ipoteżi ta' Louis ta' Broglie.
+
+
+== Riżoluzzjoni tal-ekwazzjoni ==
+Billi l-ekwazzjoni ta' Schrödinger hi ekwazzjoni vettorjali, nistgħu niktbuha b'mod ekwivalenti f'bażi partikulari tal-ispazju tal-istati. Jekk pereżempju nagħżlu l-bażi 
+  
+    
+      
+        
+          |
+          
+            
+              
+                r
+                →
+              
+            
+          
+          ⟩
+        
+      
+    
+    {\displaystyle \left|{\vec {r}}\right\rangle }
+   li tikkorrispondi mar-rappreżentazzjoni tal-pożizzjoni ddefinita hekk
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  
+                    r
+                  
+                  →
+                
+              
+              ^
+            
+          
+        
+        
+          |
+          
+            
+              
+                r
+                →
+              
+            
+          
+          ⟩
+        
+        =
+        
+          
+            
+              r
+              →
+            
+          
+        
+        
+          |
+          
+            
+              
+                r
+                →
+              
+            
+          
+          ⟩
+        
+      
+    
+    {\displaystyle {\hat {\vec {\mathbf {r} }}}\left|{\vec {r}}\right\rangle ={\vec {r}}\left|{\vec {r}}\right\rangle }
+  
+imbagħad il-funzjoni tal-mewġa 
+  
+    
+      
+        Ψ
+        (
+        t
+        ,
+        
+          
+            
+              r
+              →
+            
+          
+        
+        )
+        ≡
+        
+          ⟨
+          
+            
+              
+                r
+                →
+              
+            
+          
+          |
+        
+        
+          
+          
+            Ψ
+            (
+            t
+            )
+          
+          ⟩
+        
+        
+      
+    
+    {\displaystyle \Psi (t,{\vec {r}})\equiv \left\langle {\vec {r}}\right|\left.\Psi (t)\right\rangle \,}
+  tissodisfa l-ekwazzjoni li ġejja
+
+  
+    
+      
+        i
+        ℏ
+        
+          
+            
+              ∂
+              Ψ
+              (
+              t
+              ,
+              
+                
+                  
+                    r
+                    →
+                  
+                
+              
+              )
+            
+            
+              ∂
+              t
+            
+          
+        
+        =
+        −
+        
+          
+            
+              ℏ
+              
+                2
+              
+            
+            
+              2
+              m
+            
+          
+        
+        
+          
+            
+              ∇
+              →
+            
+          
+          
+            2
+          
+        
+        Ψ
+        (
+        t
+        ,
+        
+          
+            
+              r
+              →
+            
+          
+        
+        )
+        +
+        V
+        (
+        
+          
+            
+              r
+              →
+            
+          
+        
+        ,
+        t
+        )
+        Ψ
+        (
+        t
+        ,
+        
+          
+            
+              r
+              →
+            
+          
+        
+        )
+      
+    
+    {\displaystyle i\hbar {\partial \Psi (t,{\vec {r}}) \over \partial t}=-{\hbar ^{2} \over 2m}{\overrightarrow {\nabla }}^{2}\Psi (t,{\vec {r}})+V({\vec {r}},t)\Psi (t,{\vec {r}})}
+  
+fejn  
+  
+    
+      
+        
+          
+            
+              ∇
+              →
+            
+          
+          
+            2
+          
+        
+        
+      
+    
+    {\displaystyle {\overrightarrow {\nabla }}^{2}\,}
+   hi l-Laplacjana.
+F'din il-forma nistgħu naraw li l-ekwazzjoni ta' Schrödinger hi ekwazzjoni lineari bid-derivati parzjali u allura nistgħu niktbu s-soluzzjoni ġenerali tagħha bħala s-somma ta' soluzzjonijiet partikulari. L-ekwazzjoni fil-parti l-kbira tal-każi hi kkomplikata wisq biex ikollha soluzzjoni analitika u għalhekk ikollna nfittxu soluzzjoni approssima jew numerika. 
+
+
+=== Tfittxija għall-awtostati ===
+Bill l-operaturi li jidhru fl-ekwazzjoni ta' Schrödinger huma operaturi lineari, kull kumbinazzjoni lineari ta' soluzzjonijiet hi soluzzjoni tal-ekwazzjoni. Għalhekk nikkonċentraw fuq it-tfittxija għal soluzzjoniet li hemm interess kbir fihom għar-raġunijiet teoretiċi u prattiċi, l-istati li huma awtostati tal-operatur Hamiltonjan:
+
+  
+    
+      
+        H
+        
+          |
+        
+        
+          φ
+          
+            n
+          
+        
+        ⟩
+        =
+        
+          E
+          
+            n
+          
+        
+        
+          |
+        
+        
+          φ
+          
+            n
+          
+        
+        ⟩
+      
+    
+    {\displaystyle H|\varphi _{n}\rangle =E_{n}|\varphi _{n}\rangle }
+  .L-awtostat 
+  
+    
+      
+         
+        
+          |
+        
+        
+          φ
+          
+            n
+          
+        
+        ⟩
+      
+    
+    {\displaystyle \ |\varphi _{n}\rangle }
+   hu assoċjat mal-awtovalur skalari reali
+  
+    
+      
+         
+        
+          E
+          
+            n
+          
+        
+      
+    
+    {\displaystyle \ E_{n}}
+   , l-enerġija tal-partiċella li għandha 
+  
+    
+      
+        
+          |
+        
+        
+          φ
+          
+            n
+          
+        
+        ⟩
+      
+    
+    {\displaystyle |\varphi _{n}\rangle }
+   bħala stat. Din l-ekwazzjoni xi minn daqqiet tissejjaħ l-ekwazzjoni ta' Schrödinger indipendenti mill-ħin. 
+Il-valuri tal-enerġija jistgħu jkunu diskreti bħas-soluzzjonijiet fil-każ ta' bir ta' potenzjal (pereż. il-livelli tal-atomu tal-idroġenu); dawn jirriżultaw fil-kwantifikazzjoni tal-livelli tal-enerġija. Jistgħu ukoll jagħtu spettru kontinwu bħal meta l-partiċella jkollha biżżejjed enerġija biex titbiegħed għall-infinit (pereż. elettron li għandu biżżejjed enerġija biex jaħrab min-nukleu tal-idroġenu).
+Spiss jiġri li bosta stati
+  
+    
+      
+         
+        
+          |
+        
+        
+          φ
+          
+            n
+          
+        
+        ⟩
+      
+    
+    {\displaystyle \ |\varphi _{n}\rangle }
+   jikkorispondu mal-istess valur tal-enerġija: f'dan il-każ ngħidu li l-livell tal-enerġija hu deġenerat.
+B'mod ġenerali awtostat tal-Hamiltonjan,  
+  
+    
+      
+         
+        
+          |
+        
+        
+          φ
+          
+            n
+          
+        
+        ⟩
+      
+    
+    {\displaystyle \ |\varphi _{n}\rangle }
+  , u l-enerġija assoċjata miegħu, jagħti soluzzjoni stazzjonarju tal-ekwazzjoni ta' Schrödinger (li tiddependi mill-ħin) :
+
+  
+    
+      
+        
+          |
+        
+        
+          ψ
+          
+            n
+          
+        
+        (
+        t
+        )
+        ⟩
+        
+        =
+        
+        
+          |
+        
+        
+          φ
+          
+            n
+          
+        
+        ⟩
+        
+        
+          e
+          
+            
+              (
+              
+                
+                  
+                    −
+                    i
+                    
+                      E
+                      
+                        n
+                      
+                    
+                    t
+                  
+                  ℏ
+                
+              
+              )
+            
+          
+        
+        .
+      
+    
+    {\displaystyle |\psi _{n}(t)\rangle \,=\,|\varphi _{n}\rangle \,e^{\left({\frac {-iE_{n}t}{\hbar }}\right)}.}
+  Mela s-soluzzjoni ġenerali tal-ekwazzjoni ta' Schrödinger nistgħu niktbuha bħala kumbinazzjoni lineari ta' stati bħal dawn:
+
+  
+    
+      
+        
+          |
+        
+        ψ
+        (
+        t
+        )
+        ⟩
+        
+        =
+        
+        
+          ∑
+          
+            n
+          
+        
+        
+          c
+          
+            n
+          
+        
+        
+          |
+        
+        
+          φ
+          
+            n
+          
+        
+        ⟩
+        
+          e
+          
+            
+              (
+              
+                
+                  
+                    −
+                    i
+                    
+                      E
+                      
+                        n
+                      
+                    
+                    t
+                  
+                  ℏ
+                
+              
+              )
+            
+          
+        
+        .
+      
+    
+    {\displaystyle |\psi (t)\rangle \,=\,\sum _{n}c_{n}|\varphi _{n}\rangle e^{\left({\frac {-iE_{n}t}{\hbar }}\right)}.}
+  Skont il-postulati tal-Mekkanika kwantistika,
+
+il-kwantità skalari komplessa
+  
+    
+      
+         
+        
+          c
+          
+            n
+          
+        
+      
+    
+    {\displaystyle \ c_{n}}
+   hi l-ampjezza tal-istat
+  
+    
+      
+         
+        ψ
+        (
+        t
+        )
+      
+    
+    {\displaystyle \ \psi (t)}
+   fuq l-istat 
+  
+    
+      
+         
+        
+          φ
+          
+            n
+          
+        
+      
+    
+    {\displaystyle \ \varphi _{n}}
+  ;
+in-numru reali 
+  
+    
+      
+         
+        
+          |
+        
+        
+          c
+          
+            n
+          
+        
+        
+          
+            |
+          
+          
+            2
+          
+        
+      
+    
+    {\displaystyle \ |c_{n}|^{2}}
+   hu l-probabbiltà (fil-każ ta' spettru diskret) li nsibu enerġija
+  
+    
+      
+         
+        
+          E
+          
+            n
+          
+        
+      
+    
+    {\displaystyle \ E_{n}}
+   meta nkejlu l-enerġija tas-sistema.
+
+
+=== Soluzzjonijet analitiċi eżatti ===
+It-tfittixija għall-awtostati tal-Hamiltonjan hi, inġenerali, komplessa ħafna. Anki l-każ tal-atomu tal-idroġenu li nistgħu nirriżolvuh analitikament, ma nistgħux niktbuh f'forma sempliċi jekk ma nħallux barra r-rabta mal-kamp elettromanjettiku li tippermetti l-istati eċċitati, is-soluzzjonijiet tal-ekwazzjoni de Schrödinger tal-atomu, li jgħaddu għall-istat fundamentali. 
+Nistgħu nsibu soluzzjonijiet analitiċi għal xi mudelli sempliċi li għalkemm ma jaqblux mar-realtà nstabu utli ħafna: 
+
+partiċella ħielsa (potenzjal null);
+oxxillatur armoniku (potenzjal kwadratiku);
+partiċella li timxi f'ċirku;
+partiċella f'bir ta'potenzjal rettangulari;
+partiċella f'gwida tal-mewġ anulari ;
+partiċella f'potenzjal b'simetrija sferika;
+partiċella f'xibka unidimensjonali (potenzjal perjodiku).Fil-każi l-oħra jkollna nirrikorru għal diversi metodi ta' approssimazzjoni:
+
+it-teorija tal-perturbazzjonijiet tagħti espressjonijiet analitiċi f'forma ta' żvilupp asintotiku madwar problema mhux perturbat li hu eżattament riżolvibbli.
+l-analiżi numerika tippermettielna nistudjaw sitwazzjonijiet li ma nistgħux nilħquhom bit-teorija tal-perturbazzjonijiet.
+
+
+== Ġeneralizzazzjoni tal-ekwazzjoni ==
+Il-ġeneralizzazzjoni għall-qasam relativistiku twassal għall-ekwazzjoni ta' Klein-Gordon, u mbagħad għall-ekwazzjoni ta' Dirac; din tal-aħħar tistabilixxi b'mod naturali l-eżistenza tal-ispin u tal-antipartiċelli. Madankollu ma teżistix interpretazzjoni koerenti għalkollox ta' dawn l-ekwazzjonijiet relativistiċi tal-mewġa fil-forma ta' teorija li tiddeskrivi partiċella waħda u għalhekk it-teorija kwantistika relativistika rridu nqegħduha fit-teorija kwantistika tal-kampi.
+
+
+== Referenzi u noti ==
+
+
+== Bibljografija ==
+Erwin Schrödinger, Quantisierung als Eigenwertproblem. Annalen der Physik vol. 79, 1926, pp. 361, 489, 734, u Vol 81, p. 109, 1926.
+Paul Adrien Maurice Dirac, The Principles of Quantum Mechanics ir-4 edizzjoni, Oxford University Press, 1958.
+Erwin Schrödinger, "An Undulatory Theory of the Mechanics of Atoms and Molecules"  Physical. Review, Vol 28 p. 1049, 1926.
+
+
+== Ara wkoll ==
+
+Erwin Schrödinger
+Mekkanika kwantistika
