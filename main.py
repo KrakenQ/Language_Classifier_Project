@@ -3,50 +3,86 @@ import pickle
 
 import matplotlib.pyplot as plt
 import numpy as np  # linear algebra
+import pandas
 import pandas as pd  # data processing, CSV file I/O (e.g. pd.read_csv)
 import splitfolders
-from keras.layers.core import Dense, Dropout
-from keras.layers.recurrent import LSTM, GRU
+import tensorflow.python.keras.backend as K
+from keras.callbacks import EarlyStopping
+from keras.utils.np_utils import to_categorical
+from keras_preprocessing.sequence import pad_sequences
+from keras_preprocessing.text import Tokenizer
+
+sess = K.get_session()
+from keras.layers import TextVectorization, Embedding, GRU
+from keras.layers.core import Dense, Dropout, SpatialDropout1D
+from keras.layers.recurrent import LSTM
 from keras.models import Sequential
+from keras.utils import np_utils
+from keras.wrappers.scikit_learn import KerasClassifier
 from numpy import newaxis
 from sklearn import datasets
 from sklearn import metrics
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.feature_extraction.text import TfidfTransformer
-from sklearn.linear_model import SGDClassifier
-from sklearn.metrics import jaccard_score, plot_confusion_matrix
-from sklearn.model_selection import GridSearchCV
+from sklearn.metrics import plot_confusion_matrix
+from sklearn.model_selection import GridSearchCV, learning_curve, KFold, cross_val_score, train_test_split
 from sklearn.neighbors import KNeighborsClassifier
 from sklearn.pipeline import Pipeline
-from scipy.stats import entropy
+from sklearn.preprocessing import LabelEncoder
+from sklearn.svm import SVC
+
 
 def main():
-
-    LSTM_GRU_test()
-
+    # LSTM_GRU_test()
 
     train_dataset, val_dataset, test_dataset = get_datasets(split=False)
 
     svm_clf = svm(
-                  ngram_range=(1, 1))  # (1, 1)`` means only unigrams, ``(1, 2)`` means unigrams and bigrams,
+        ngram_range=(1, 2))  # (1, 1)`` means only unigrams, ``(1, 2)`` means unigrams and bigrams,
     # and ``(2, 2)`` means only bigrams.
 
     knn_clf = k_nearest_neighbors(ngram_range=(1, 1))
 
-    look_for_best_SVM_parameters(svm_clf, train_dataset)
-    look_for_best_KNN_parameters(knn_clf, train_dataset)
+    # look_for_best_SVM_parameters(svm_clf, train_dataset)    #1 hour
+    # look_for_best_KNN_parameters(knn_clf, train_dataset)    #5 minutes
 
     svm_model = trainModel(svm_clf, train_dataset)
     knn_model = trainModel(knn_clf, train_dataset)
+    #lstm_model = lstm(train_dataset)
+    #gru_model = gru(train_dataset)
 
-    print_metrics(svm_model, train_dataset, test_dataset)
-    print_metrics(knn_model, train_dataset, test_dataset)
+    # print_metrics(svm_model, train_dataset, test_dataset)
+    # print_metrics(knn_model, train_dataset, test_dataset)
+    #print_metrics(lstm_model, train_dataset, test_dataset)
 
-    predicted = svm_model.predict(test_dataset.data)
+    fig, axes = plt.subplots(3, 2, figsize=(10, 15))
+    #fig.tight_layout()
+    X, y = test_dataset.data, test_dataset.target
 
-    plt.bar(range(88), jaccard_score(test_dataset.target, predicted, average=None),
-            tick_label=test_dataset.target_names,
-            width=0.8, color=['red', 'green'])
+    #predicted = svm_model.predict(test_dataset.data)
+
+    
+
+    title = r"Learning Curves SVM"
+    # SVC is more expensive so we do a lower number of CV iterations:
+
+    estimator = svm_model
+    plot_learning_curve(
+        estimator, title, X, y, axes=axes[:, 0], ylim=(0.0, 1.01), n_jobs=-1
+    )
+    title = r"Learning Curves KNN"
+    estimator = knn_model
+    plot_learning_curve(
+        estimator, title, X, y, axes=axes[:, 1], ylim=(0.0, 1.01), n_jobs=-1
+    )
+
+
+
+
+
+    #plt.bar(range(88), jaccard_score(test_dataset.target, predicted, average=None),
+    #        tick_label=test_dataset.target_names,
+    #        width=0.8, color=['red', 'green'])
 
     fig, ax = plt.subplots(figsize=(88, 88))
     plot_confusion_matrix(svm_model, test_dataset.data, test_dataset.target, cmap=plt.cm.Blues,
@@ -55,10 +91,161 @@ def main():
     fig, ax = plt.subplots(figsize=(88, 88))
     plot_confusion_matrix(knn_model, test_dataset.data, test_dataset.target, cmap=plt.cm.Blues,
                           display_labels=train_dataset.target_names, ax=ax)
+
+
     plt.show()
 
     # save_model(svmModel, 'svmModel.pkl')
     # svmModel = load_model('svmModel.pkl')
+
+
+
+def plot_learning_curve(
+        estimator,
+        title,
+        X,
+        y,
+        axes=None,
+        ylim=None,
+        cv=None,
+        n_jobs=None,
+        train_sizes=np.linspace(0.1, 1.0, 5),
+):
+    """
+    Generate 3 plots: the test and training learning curve, the training
+    samples vs fit times curve, the fit times vs score curve.
+
+    Parameters
+    ----------
+    estimator : estimator instance
+        An estimator instance implementing `fit` and `predict` methods which
+        will be cloned for each validation.
+
+    title : str
+        Title for the chart.
+
+    X : array-like of shape (n_samples, n_features)
+        Training vector, where ``n_samples`` is the number of samples and
+        ``n_features`` is the number of features.
+
+    y : array-like of shape (n_samples) or (n_samples, n_features)
+        Target relative to ``X`` for classification or regression;
+        None for unsupervised learning.
+
+    axes : array-like of shape (3,), default=None
+        Axes to use for plotting the curves.
+
+    ylim : tuple of shape (2,), default=None
+        Defines minimum and maximum y-values plotted, e.g. (ymin, ymax).
+
+    cv : int, cross-validation generator or an iterable, default=None
+        Determines the cross-validation splitting strategy.
+        Possible inputs for cv are:
+
+          - None, to use the default 5-fold cross-validation,
+          - integer, to specify the number of folds.
+          - :term:`CV splitter`,
+          - An iterable yielding (train, test) splits as arrays of indices.
+
+        For integer/None inputs, if ``y`` is binary or multiclass,
+        :class:`StratifiedKFold` used. If the estimator is not a classifier
+        or if ``y`` is neither binary nor multiclass, :class:`KFold` is used.
+
+        Refer :ref:`User Guide <cross_validation>` for the various
+        cross-validators that can be used here.
+
+    n_jobs : int or None, default=None
+        Number of jobs to run in parallel.
+        ``None`` means 1 unless in a :obj:`joblib.parallel_backend` context.
+        ``-1`` means using all processors. See :term:`Glossary <n_jobs>`
+        for more details.
+
+    train_sizes : array-like of shape (n_ticks,)
+        Relative or absolute numbers of training examples that will be used to
+        generate the learning curve. If the ``dtype`` is float, it is regarded
+        as a fraction of the maximum size of the training set (that is
+        determined by the selected validation method), i.e. it has to be within
+        (0, 1]. Otherwise it is interpreted as absolute sizes of the training
+        sets. Note that for classification the number of samples usually have
+        to be big enough to contain at least one sample from each class.
+        (default: np.linspace(0.1, 1.0, 5))
+    """
+    if axes is None:
+        _, axes = plt.subplots(1, 3, figsize=(20, 5))
+
+    axes[0].set_title(title)
+    if ylim is not None:
+        axes[0].set_ylim(*ylim)
+    axes[0].set_xlabel("Training examples")
+    axes[0].set_ylabel("Score")
+
+    train_sizes, train_scores, test_scores, fit_times, _ = learning_curve(
+        estimator,
+        X,
+        y,
+        cv=cv,
+        n_jobs=n_jobs,
+        train_sizes=train_sizes,
+        return_times=True,
+    )
+    train_scores_mean = np.mean(train_scores, axis=1)
+    train_scores_std = np.std(train_scores, axis=1)
+    test_scores_mean = np.mean(test_scores, axis=1)
+    test_scores_std = np.std(test_scores, axis=1)
+    fit_times_mean = np.mean(fit_times, axis=1)
+    fit_times_std = np.std(fit_times, axis=1)
+
+    # Plot learning curve
+    axes[0].grid()
+    axes[0].fill_between(
+        train_sizes,
+        train_scores_mean - train_scores_std,
+        train_scores_mean + train_scores_std,
+        alpha=0.1,
+        color="r",
+    )
+    axes[0].fill_between(
+        train_sizes,
+        test_scores_mean - test_scores_std,
+        test_scores_mean + test_scores_std,
+        alpha=0.1,
+        color="g",
+    )
+    axes[0].plot(
+        train_sizes, train_scores_mean, "o-", color="r", label="Training score"
+    )
+    axes[0].plot(
+        train_sizes, test_scores_mean, "o-", color="g", label="Cross-validation score"
+    )
+    axes[0].legend(loc="best")
+
+    # Plot n_samples vs fit_times
+    axes[1].grid()
+    axes[1].plot(train_sizes, fit_times_mean, "o-")
+    axes[1].fill_between(
+        train_sizes,
+        fit_times_mean - fit_times_std,
+        fit_times_mean + fit_times_std,
+        alpha=0.1,
+    )
+    axes[1].set_xlabel("Training examples")
+    axes[1].set_ylabel("fit_times")
+    axes[1].set_title("Scalability of the model")
+
+    # Plot fit_time vs score
+    axes[2].grid()
+    axes[2].plot(fit_times_mean, test_scores_mean, "o-")
+    axes[2].fill_between(
+        fit_times_mean,
+        test_scores_mean - test_scores_std,
+        test_scores_mean + test_scores_std,
+        alpha=0.1,
+    )
+    axes[2].set_xlabel("fit_times")
+    axes[2].set_ylabel("Score")
+    axes[2].set_title("Performance of the model")
+
+    return plt
 
 
 def get_datasets(split: bool):
@@ -75,9 +262,7 @@ def svm(ngram_range):
     svm_clf = Pipeline([
         ('vect', CountVectorizer(ngram_range=ngram_range, lowercase='true')),
         ('tfidf', TfidfTransformer()),
-        ('clf', SGDClassifier(loss='hinge', penalty='l2',
-                              alpha=1e-3, random_state=42,
-                              max_iter=5, tol=None)),
+        ('clf', SVC(gamma=0.01, C=1.0, kernel='linear'))
     ])
 
     return svm_clf
@@ -86,8 +271,8 @@ def svm(ngram_range):
 def k_nearest_neighbors(ngram_range):
     nn_clf = Pipeline([
         ('vect', CountVectorizer(ngram_range=ngram_range, lowercase='true')),
-        ('tfidf', TfidfTransformer()),
-        ('clf', KNeighborsClassifier(n_neighbors=3, weights='uniform', algorithm='auto')),
+        # ('tfidf', TfidfTransformer()),
+        ('clf', KNeighborsClassifier(n_neighbors=3, weights='distance', metric='euclidean'))
     ])
 
     return nn_clf
@@ -107,13 +292,18 @@ def print_metrics(model, train_dataset, test_dataset):
 
 def look_for_best_SVM_parameters(clf, train_dataset):
     parameters = {
-        'vect__ngram_range': [(1, 1), (1, 2)],
+        'vect__ngram_range': [(1, 1), (1, 2), (2, 2)],
         'tfidf__use_idf': (True, False),
-        'clf__alpha': (1e-2, 1e-3),
+        'clf__gamma': (1e-2, 1e-3, 1e-4),
+        'clf__kernel': ['linear', 'rbf'],
+        'clf__C': [1, 10, 100, 1000]
     }
     gs_clf = GridSearchCV(clf, parameters, cv=5, n_jobs=-1)
+    # print(gs_clf.get_params().keys())
     gs_clf = gs_clf.fit(train_dataset.data, train_dataset.target)
-
+    print()
+    print('SVM best parameters')
+    print('Mean cross-validated score of the SVM best_estimator: ')
     print(gs_clf.best_score_)
 
     for param_name in sorted(parameters.keys()):
@@ -122,13 +312,18 @@ def look_for_best_SVM_parameters(clf, train_dataset):
 
 def look_for_best_KNN_parameters(clf, train_dataset):
     parameters = {
-        'vect__ngram_range': [(1, 1), (1, 2)],
+        'vect__ngram_range': [(1, 1), (1, 2), (2, 2)],
         'tfidf__use_idf': (True, False),
         'clf__n_neighbors': (3, 10),
+        'clf__weights': ['uniform', 'distance'],
+        'clf__metric': ['euclidean', 'manhattan']
     }
     gs_clf = GridSearchCV(clf, parameters, cv=5, n_jobs=-1)
+    # print(gs_clf.get_params().keys())
     gs_clf = gs_clf.fit(train_dataset.data, train_dataset.target)
-
+    print()
+    print('KNN best parameters')
+    print('Mean cross-validated score of the KNN best_estimator: ')
     print(gs_clf.best_score_)
 
     for param_name in sorted(parameters.keys()):
@@ -152,93 +347,111 @@ def load_model(pkl_filename):
         pickle_model = pickle.load(file)
     return pickle_model
 
-def load_data(datasetname, column, seq_len, normalise_window):
-    # A support function to help prepare datasets for an RNN/LSTM/GRU
-    data = datasetname.loc[:,column]
+def lstm(train_dataset):
+    n_most_common_words = 8000
+    max_len = 130
+    tokenizer = Tokenizer(num_words=n_most_common_words, filters='!"#$%&()*+,-./:;<=>?@[\]^_`{|}~', lower=True)
+    tokenizer.fit_on_texts(train_dataset.data)
+    sequences = tokenizer.texts_to_sequences(train_dataset.data)
+    word_index = tokenizer.word_index
+    print('Found %s unique tokens.' % len(word_index))
 
-    sequence_length = seq_len + 1
-    result = []
-    for index in range(len(data) - sequence_length):
-        result.append(data[index: index + sequence_length])
+    labels = to_categorical(train_dataset.target)
+    print(labels[:10])
+    X = pad_sequences(sequences, maxlen=max_len)
+    print('Shape of data tensor:', X.shape)
+    X_train, X_test, y_train, y_test = train_test_split(X , labels, test_size=0.25, random_state=42)
 
-    if normalise_window:
-        #result = sc.fit_transform(result)
-        result = normalise_windows(result)
+    labels = train_dataset.target
+    epochs = 50
+    emb_dim = 128
+    batch_size = 256
+    labels = labels[:2]
 
-    result = np.array(result)
+    print((X_train.shape, y_train.shape, X_test.shape, y_test.shape))
 
-    #Last 10% is used for validation test, first 90% for training
-    row = round(0.9 * result.shape[0])
-    train = result[:int(row), :]
-    np.random.shuffle(train)
-    x_train = train[:, :-1]
-    y_train = train[:, -1]
-    x_test = result[int(row):, :-1]
-    y_test = result[int(row):, -1]
+    model = Sequential()
+    model.add(Embedding(n_most_common_words, emb_dim, input_length=X.shape[1]))
+    model.add(SpatialDropout1D(0.7))
+    model.add(LSTM(64, dropout=0.7, recurrent_dropout=0.7))
+    model.add(Dense(88, activation='softmax'))
+    model.compile(optimizer='adam', loss='categorical_crossentropy', metrics=['acc'])
+    print(model.summary())
+    history = model.fit(X_train, y_train, epochs=epochs, batch_size=batch_size,validation_split=0.2,callbacks=[EarlyStopping(monitor='val_loss',patience=7, min_delta=0.0001)])
+    accr = model.evaluate(X_test,y_test)
+    print('Test set\n  Loss: {:0.3f}\n  Accuracy: {:0.3f}'.format(accr[0],accr[1]))
 
-    x_train = np.reshape(x_train, (x_train.shape[0], x_train.shape[1], 1))
-    x_test = np.reshape(x_test, (x_test.shape[0], x_test.shape[1], 1))
-
-    return [x_train, y_train, x_test, y_test]
-
-def normalise_windows(window_data):
-    # A support function to normalize a dataset
-    normalised_data = []
-    for window in window_data:
-        normalised_window = [((float(p) / float(window[0])) - 1) for p in window]
-        normalised_data.append(normalised_window)
-    return normalised_data
-
-def plot_results(predicted_data, true_data):
-    fig = plt.figure(facecolor='white')
-    ax = fig.add_subplot(111)
-    ax.plot(true_data, label='True Data')
-    plt.plot(predicted_data, label='Prediction')
-    plt.legend()
+    plt.plot(history.history['acc'])
+    plt.plot(history.history['val_acc'])
+    plt.title('model accuracy')
+    plt.ylabel('accuracy')
+    plt.xlabel('epoch')
+    plt.legend(['train', 'test'], loc='upper left')
+    plt.show()
+    # summarize history for loss
+    plt.plot(history.history['loss'])
+    plt.plot(history.history['val_loss'])
+    plt.title('model loss')
+    plt.ylabel('loss')
+    plt.xlabel('epoch')
+    plt.legend(['train', 'test'], loc='upper left')
     plt.show()
 
-def predict_sequence_full(model, data, window_size):
-    #Shift the window by 1 new prediction each time, re-run predictions on new window
-    curr_frame = data[0]
-    predicted = []
-    for i in range(len(data)):
-        predicted.append(model.predict(curr_frame[newaxis,:,:])[0,0])
-        curr_frame = curr_frame[1:]
-        curr_frame = np.insert(curr_frame, [window_size-1], predicted[-1], axis=0)
-    return predicted
 
-def LSTM_GRU_test():
-    # Load the data
-    dataset = pd.read_csv('input/sinwave/Sin Wave Data Generator.csv')
-    dataset["Wave"][:].plot(figsize=(16,4),legend=False)
+    return model
 
-    # Prepare the dataset, note that all data for the sinus wave is already normalized between 0 and 1
-    # A label is the thing we're predicting
-    # A feature is an input variable, in this case a stock price
-    Enrol_window = 100
-    feature_train, label_train, feature_test, label_test = load_data(dataset, 'Wave', Enrol_window, False)
+def gru(train_dataset):
+    n_most_common_words = 8000
+    max_len = 130
+    tokenizer = Tokenizer(num_words=n_most_common_words, filters='!"#$%&()*+,-./:;<=>?@[\]^_`{|}~', lower=True)
+    tokenizer.fit_on_texts(train_dataset.data)
+    sequences = tokenizer.texts_to_sequences(train_dataset.data)
+    word_index = tokenizer.word_index
+    print('Found %s unique tokens.' % len(word_index))
 
-    print ('Datasets generated')
+    labels = to_categorical(train_dataset.target)
+    print(labels[:10])
+    X = pad_sequences(sequences, maxlen=max_len)
+    print('Shape of data tensor:', X.shape)
+    X_train, X_test, y_train, y_test = train_test_split(X , labels, test_size=0.25, random_state=42)
 
-    # The LSTM model I would like to test
-    # Note: replace LSTM with GRU or RNN if you want to try those
+    labels = train_dataset.target
+    epochs = 50
+    emb_dim = 128
+    batch_size = 256
+    labels = labels[:2]
+
+    print((X_train.shape, y_train.shape, X_test.shape, y_test.shape))
+
     model = Sequential()
-    model.add(LSTM(50, return_sequences=True, input_shape=(feature_train.shape[1],1)))
-    model.add(Dropout(0.2))
-    model.add(LSTM(100, return_sequences=False))
-    model.add(Dropout(0.2))
-    model.add(Dense(1, activation = "linear"))
+    model.add(Embedding(n_most_common_words, emb_dim, input_length=X.shape[1]))
+    model.add(SpatialDropout1D(0.7))
+    model.add(GRU(64, dropout=0.7, recurrent_dropout=0.7))
+    model.add(Dense(88, activation='softmax'))
+    model.compile(optimizer='adam', loss='categorical_crossentropy', metrics=['acc'])
+    print(model.summary())
+    history = model.fit(X_train, y_train, epochs=epochs, batch_size=batch_size,validation_split=0.2,callbacks=[EarlyStopping(monitor='val_loss',patience=7, min_delta=0.0001)])
+    accr = model.evaluate(X_test,y_test)
+    print('Test set\n  Loss: {:0.3f}\n  Accuracy: {:0.3f}'.format(accr[0],accr[1]))
 
-    model.compile(loss='mse', optimizer='adam')
+    plt.plot(history.history['acc'])
+    plt.plot(history.history['val_acc'])
+    plt.title('model accuracy')
+    plt.ylabel('accuracy')
+    plt.xlabel('epoch')
+    plt.legend(['train', 'test'], loc='upper left')
+    plt.show()
+    # summarize history for loss
+    plt.plot(history.history['loss'])
+    plt.plot(history.history['val_loss'])
+    plt.title('model loss')
+    plt.ylabel('loss')
+    plt.xlabel('epoch')
+    plt.legend(['train', 'test'], loc='upper left')
+    plt.show()
 
-    print ('model compiled')
 
-    print (model.summary())
+    return model
 
-    #Train the model
-    model.fit(feature_train, label_train, batch_size=512, epochs=10, validation_data = (feature_test, label_test))
-    #Let's use the model and predict the wave
-    predictions = predict_sequence_full(model, feature_test, Enrol_window)
-    plot_results(predictions,label_test)
 if __name__ == "__main__":
     main()
