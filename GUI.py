@@ -1,11 +1,4 @@
-
 import tkinter as tk
-
-
-from PIL import ImageTk
-from PIL.Image import Image
-from matplotlib.backends._backend_tk import NavigationToolbar2Tk
-from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
 
 import Classifier as cl
 
@@ -78,6 +71,7 @@ class mclass:
         # self.txt_edit.insert(tk.END, "\n" + cl.print_metrics(lstm_model, train_dataset, test_dataset))
 
 
-window = tk.Tk()
-start = mclass(window)
-window.mainloop()
+if __name__ == "__main__":
+    window = tk.Tk()
+    start = mclass(window)
+    window.mainloop()

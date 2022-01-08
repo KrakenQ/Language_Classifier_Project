@@ -11,7 +11,6 @@ from keras.callbacks import EarlyStopping
 from keras.utils.np_utils import to_categorical
 from keras_preprocessing.sequence import pad_sequences
 from keras_preprocessing.text import Tokenizer
-import tkinter as tk
 
 from sklearn.utils import Bunch
 
@@ -222,7 +221,8 @@ def print_metrics(model, train_dataset, test_dataset):
 
     print(metrics.confusion_matrix(test_dataset.target, predicted))"""
     predicted = model.predict(test_dataset.data)
-    text = "Predicted language for 'My name is John Smith and I love studying history.' = " + train_dataset.target_names[
+    text = "Predicted language for 'My name is John Smith and I love studying history.' = " + \
+           train_dataset.target_names[
                model.predict(['My name is John Smith and I love studying history.'])[0]]
     text += "\nAcc= " + str(np.mean(predicted == test_dataset.target))
     text += "\n" + metrics.classification_report(test_dataset.target, predicted, target_names=test_dataset.target_names)
