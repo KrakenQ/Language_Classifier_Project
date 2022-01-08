@@ -26,7 +26,7 @@ from sklearn import datasets
 from sklearn import metrics
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.feature_extraction.text import TfidfTransformer
-from sklearn.metrics import plot_confusion_matrix
+from sklearn.metrics import plot_confusion_matrix, confusion_matrix
 from sklearn.model_selection import GridSearchCV, learning_curve, KFold, cross_val_score, train_test_split
 from sklearn.neighbors import KNeighborsClassifier
 from sklearn.pipeline import Pipeline
@@ -45,9 +45,9 @@ def get_datasets(split: bool):
 
 
 def save_model(model, filename):
-    if not os.path.exists('Models'):
-        os.makedirs('Models')
-    with open('Models/' + filename, 'wb') as file:
+    if not os.path.exists('checkpoints'):
+        os.makedirs('checkpoints')
+    with open('checkpoints/' + filename, 'wb') as file:
         pickle.dump(model, file)
 
 
@@ -57,7 +57,7 @@ def train_model(model, train_dataset):
 
 
 def load_model(pkl_filename):
-    with open('Models/' + pkl_filename, 'rb') as file:
+    with open('checkpoints/' + pkl_filename, 'rb') as file:
         pickle_model = pickle.load(file)
     return pickle_model
 
@@ -84,36 +84,42 @@ def lstm(train_dataset):
     labels = labels[:2]
 
     print((X_train.shape, y_train.shape, X_test.shape, y_test.shape))
+    if os.path.exists(os.path.join("checkpoints", "lstm.model")):
+        model = load_model("lstm.model")
+    else:
+        model = Sequential()
+        model.add(Embedding(n_most_common_words, emb_dim, input_length=X.shape[1]))
+        model.add(SpatialDropout1D(0.7))
+        model.add(LSTM(64, dropout=0.7, recurrent_dropout=0.7))
+        model.add(Dense(88, activation='softmax'))
+        model.compile(optimizer='adam', loss='categorical_crossentropy', metrics=['acc'])
+        print(model.summary())
+        history = model.fit(X_train, y_train, epochs=epochs, batch_size=batch_size, validation_split=0.2,
+                            callbacks=[EarlyStopping(monitor='val_loss', patience=7, min_delta=0.0001)])
+        save_model(model, "lstm.model")
 
-    model = Sequential()
-    model.add(Embedding(n_most_common_words, emb_dim, input_length=X.shape[1]))
-    model.add(SpatialDropout1D(0.7))
-    model.add(LSTM(64, dropout=0.7, recurrent_dropout=0.7))
-    model.add(Dense(88, activation='softmax'))
-    model.compile(optimizer='adam', loss='categorical_crossentropy', metrics=['acc'])
-    print(model.summary())
-    history = model.fit(X_train, y_train, epochs=epochs, batch_size=batch_size, validation_split=0.2,
-                        callbacks=[EarlyStopping(monitor='val_loss', patience=7, min_delta=0.0001)])
+        plt.plot(history.history['acc'])
+        plt.plot(history.history['val_acc'])
+        plt.title('model accuracy')
+        plt.ylabel('accuracy')
+        plt.xlabel('epoch')
+        plt.legend(['train', 'test'], loc='upper left')
+        plt.show()
+        # summarize history for loss
+        plt.plot(history.history['loss'])
+        plt.plot(history.history['val_loss'])
+        plt.title('model loss')
+        plt.ylabel('loss')
+        plt.xlabel('epoch')
+        plt.legend(['train', 'test'], loc='upper left')
+        plt.show()
     accr = model.evaluate(X_test, y_test)
     print('Test set\n  Loss: {:0.3f}\n  Accuracy: {:0.3f}'.format(accr[0], accr[1]))
+    predictions = model.predict(X_test)
+    y_pred = (predictions > .5)
+    matrix = confusion_matrix(y_test.argmax(axis=1), y_pred.argmax(axis=1))
 
-    plt.plot(history.history['acc'])
-    plt.plot(history.history['val_acc'])
-    plt.title('model accuracy')
-    plt.ylabel('accuracy')
-    plt.xlabel('epoch')
-    plt.legend(['train', 'test'], loc='upper left')
-    plt.show()
-    # summarize history for loss
-    plt.plot(history.history['loss'])
-    plt.plot(history.history['val_loss'])
-    plt.title('model loss')
-    plt.ylabel('loss')
-    plt.xlabel('epoch')
-    plt.legend(['train', 'test'], loc='upper left')
-    plt.show()
-
-    return model
+    return model, matrix
 
 
 def gru(train_dataset):
@@ -139,35 +145,42 @@ def gru(train_dataset):
 
     print((X_train.shape, y_train.shape, X_test.shape, y_test.shape))
 
-    model = Sequential()
-    model.add(Embedding(n_most_common_words, emb_dim, input_length=X.shape[1]))
-    model.add(SpatialDropout1D(0.7))
-    model.add(GRU(64, dropout=0.7, recurrent_dropout=0.7))
-    model.add(Dense(88, activation='softmax'))
-    model.compile(optimizer='adam', loss='categorical_crossentropy', metrics=['acc'])
-    print(model.summary())
-    history = model.fit(X_train, y_train, epochs=epochs, batch_size=batch_size, validation_split=0.2,
-                        callbacks=[EarlyStopping(monitor='val_loss', patience=7, min_delta=0.0001)])
+    if os.path.exists(os.path.join("checkpoints", "gru.model")):
+        model = load_model("gru.model")
+    else:
+        model = Sequential()
+        model.add(Embedding(n_most_common_words, emb_dim, input_length=X.shape[1]))
+        model.add(SpatialDropout1D(0.7))
+        model.add(GRU(64, dropout=0.7, recurrent_dropout=0.7))
+        model.add(Dense(88, activation='softmax'))
+        model.compile(optimizer='adam', loss='categorical_crossentropy', metrics=['acc'])
+        print(model.summary())
+        history = model.fit(X_train, y_train, epochs=epochs, batch_size=batch_size, validation_split=0.2,
+                            callbacks=[EarlyStopping(monitor='val_loss', patience=7, min_delta=0.0001)])
+        save_model(model, "gru.model")
+
+        plt.plot(history.history['acc'])
+        plt.plot(history.history['val_acc'])
+        plt.title('model accuracy')
+        plt.ylabel('accuracy')
+        plt.xlabel('epoch')
+        plt.legend(['train', 'test'], loc='upper left')
+        plt.show()
+        # summarize history for loss
+        plt.plot(history.history['loss'])
+        plt.plot(history.history['val_loss'])
+        plt.title('model loss')
+        plt.ylabel('loss')
+        plt.xlabel('epoch')
+        plt.legend(['train', 'test'], loc='upper left')
+        plt.show()
     accr = model.evaluate(X_test, y_test)
     print('Test set\n  Loss: {:0.3f}\n  Accuracy: {:0.3f}'.format(accr[0], accr[1]))
+    predictions = model.predict(X_test)
+    y_pred = (predictions > .5)
+    matrix = confusion_matrix(y_test.argmax(axis=1), y_pred.argmax(axis=1))
 
-    plt.plot(history.history['acc'])
-    plt.plot(history.history['val_acc'])
-    plt.title('model accuracy')
-    plt.ylabel('accuracy')
-    plt.xlabel('epoch')
-    plt.legend(['train', 'test'], loc='upper left')
-    plt.show()
-    # summarize history for loss
-    plt.plot(history.history['loss'])
-    plt.plot(history.history['val_loss'])
-    plt.title('model loss')
-    plt.ylabel('loss')
-    plt.xlabel('epoch')
-    plt.legend(['train', 'test'], loc='upper left')
-    plt.show()
-
-    return model
+    return model, matrix
 
 
 def look_for_best_KNN_parameters(clf, train_dataset):
