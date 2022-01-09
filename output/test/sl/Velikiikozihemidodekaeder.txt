@@ -1,2 +1,0 @@
-Veliki ikozihemidodekaeder je nekonveksni uniformni polieder z oznako (indeksom) U71. Njegova slika oglišč je križni štirikotnik.  
-Je hemipolieder, ki ima šest dekagramskih stranskih ploskev, ki potekajo skozi središče modela.

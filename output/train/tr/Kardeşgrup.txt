@@ -1,3 +1,0 @@
-Kardeş grup ya da kardeş takson, bir filogenetik ağacında verilen bir birime en yakın olan birimdir. Bu durum, aşağıdaki kladogram ile açıklanabilmektedir:
-
-A taksonunun kardeş grubu B taksonu, aynı şekilde B taksonunun kardeş grubu da A taksonudur. A ve B taksonları, en son ortak atalarının tüm soyu ile birlikte monofilik bir grup olan AB kladını oluştururlar. AB kladının kardeş grubu ise C taksonudur ve C taksonunun kardeş grubunun AB kladı olması konusu ise tartışmalıdır.

@@ -1,7 +1,0 @@
-Astronomesch Moosseenheeten gi gebraucht, fir de spezifesche Fuerderunge vun der Astronomie gerecht ze ginn. Den Ausdrock soll net mat der "Astronomescher Eenheet" verwiesselt ginn, déi eng vun deene Moosseenheeten duerstellt.
-Am Verglach zu den eis vertrauten (terrestreschen) Moosseenheete sinn d'Gréisstenuerdnungen an der Astronomie heefeg spréchwiertlech "astronomesch", an déi mënschlech Betruechtung fänkt un, ze versoen: D'Distanz vun eiser Sonn zu hirem nooste Stärennoper (Proxima Centauri) ass z. B. ronn 40 Billioune Kilometer, eis Sonn weit zirka 1,9891·1030 kg. Et kann een déi Wäerter zwar mat anere vergläichen, awer dobäi kënnt d'Gefill op, datt een déi Gréisstenuerdnung net verstoe kann.
-Dofir ginn, fir eng einfach Vergläichsméiglechkeet ze kréien, an der Astronomie dacks Verbindungen zu bekannte Gréisste gebraucht. 
-
-Fir Distanze gëtt dacks de Begrëff Liichtjoer gebraucht. Dat ass d'Streck, déi d'Liicht an engem Joer zréckleet, eng Tatsaach, déi e Laien dacks irritéiert, well d'Bezeechnung "Joer" op eng Zäitdauer schléisse léisst.
-D'Mass vu Stären, Planéiten oder aneren astronomeschen Objete gëtt dacks a Multiple vun der Mass vun anereren Objeten uginn, z. B. an Eenheete vun der Sonnen- oder der Äerdmass.
-D'Angab vun engem Wénkel- a rotatiounsgebonnene Koordinatesystemer an Zäiteenheeten, déi dem intuitiven Zougang zu der Rotatiounsdauer entgéintkommen, sou wéi den Dag vun der Äerd, also 24 Stonnen amplaz vun 360 Grad, z. B. Stärenzäit {{{1}}}.

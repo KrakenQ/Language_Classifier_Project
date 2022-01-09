@@ -1,2 +1,0 @@
-Funkcyjo - we matymatyce relacyjo půmjyndzy dwoma myngůma, kaj lo kożdygo elemyntu jednyj myngi (argůmyntu) prziwjůnazany je gynau jedyn elemynt drugij myngi (wert).
-Uobrozek funkcyji pokozuje na ukłodźe wspůłrzyndnych wert (na pjonowyj uośi, uośi Y) lo wybranych argumyntůw (poźůmo uoś, uoś X).

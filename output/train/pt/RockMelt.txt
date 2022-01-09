@@ -1,6 +1,0 @@
-Rockmelt foi um navegador web proprietário, focado nas redes sociais desenvolvido por Tim Howes e Eric Vishria e apoiado pelo fundador da Netscape, Marc Andreessen.
-Uma versão antecipada do navegador foi publicada em 8 de novembro de 2010. O RockMelt baseou-se no projeto de código aberto Chromium, que é o Google Chrome open source. O Rockmelt foi criado pela Rockmelt, Inc., localizada em Mountain View, Califórnia. A sua versão final, a 2.2.0, foi lançada em 9 de fevereiro de 2013.
-Em 2 de agosto de 2013, o Rockmelt foi adquirido pela Yahoo!. Os aplicativos e o website foram retirados do ar em 31 de agosto de 2013. A Yahoo! planeja integrar a tecnologia em seus produtos.
-
-
-== Referências ==

@@ -1,2 +1,0 @@
-GDK (stendur fyrir GIMP Drawing Kit) er frjálst forritasafn sem hjúpar grunnteikniaðgerðir gluggakerfisins sem liggur undir. GDK var upphaflega þróað ofan á X-gluggakerfið fyrir myndvinnsluforritið GIMP. Það liggur á milli X og GTK+ og sér um grunnaðgerðir eins myndsetningu grunnforma, rastamynda, bendla, leturgerða o.s.frv.
-GDK er venjulega sett upp sem hluti af GTK+ og útgáfur þess fylgja útgáfum GTK. Frá útgáfu 2.8 hefur það notað Cairo fyrir útfærslu vigurmynda á SVG-sniði.

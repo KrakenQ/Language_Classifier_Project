@@ -1,1 +1,0 @@
-Qt (/ˈkjuːt/) — kross platformalı, Qİİ-in köməyi ilə proqram təminatı yaratmaq üçün proqramlaşdırma mühitdir. Qt ilə əsasən Qİİ proqramlar yaradılsa da, az da olsa qrafiksiz proqramlarda yaradılır. Bir çox böyük proqramların (yalnız Linux üçün hazırlanmasında (Skype, VCL Media player, VirtualBox, Mathematica və s.) Qt-dən istifadə olunub.

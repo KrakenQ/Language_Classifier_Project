@@ -1,1 +1,0 @@
-Operon ybeZYX-lnt on Escherichia coli operon, mis on vajalik 3. tüüpi sekretsioonisüsteemi jaoks enterohemorraagilises E. coli`s. Operonis on neli geeni: ybeZ, ybeY, ybeX  ja lnt. Geenid ybeZ, ybeY, ybeX  on ühendatud ühe Promootori alla (ybeZp), geenil Int on oma eraldi olev promootor (Intp4). ybeZ geeni pikkus on 1080 bp, ybeY – 468 bp, ja ybeX - 879 bp.

@@ -1,1 +1,0 @@
-FreeDOS (prije Free-DOS i PD-DOS) jest besplatni operativni sistem za IBM kompatibilne računare. Cilj mu je da pruži okruženje koje će pružiti potpunu DOS kompatibilnost za pokretanje DOS softvera i raznih drugih ugrađenih sistema.FreeDOS se može pokrenuti s flopi diskete ili USB sticka. Dizajniran je da se lako pokreće na virtualizacijskim softverima ili drugom x86 emulacijom.

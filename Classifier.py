@@ -1,5 +1,6 @@
 import os
 import pickle
+import shutil
 
 import matplotlib.pyplot as plt
 import numpy as np  # linear algebra
@@ -34,13 +35,14 @@ from sklearn.preprocessing import LabelEncoder
 from sklearn.svm import SVC
 
 
-def get_datasets(split: bool):
-    if split:
-        splitfolders.ratio(input='Dataset', output='output', seed=1338, ratio=(.8, .1, .1),
-                           group_prefix=None)  # default values
-    train_dataset = datasets.load_files('output/train', shuffle='true', encoding='utf-8', load_content=True)
-    val_dataset = datasets.load_files('output/val', shuffle='true', encoding='utf-8', load_content=True)
-    test_dataset = datasets.load_files('output/test', shuffle='true', encoding='utf-8', load_content=True)
+def get_datasets(split, dataset_path="Dataset", ratio=(.8, .1, .1)):
+    # if split:
+    splitfolders.ratio(input=dataset_path, output='output', seed=1338, ratio=ratio,
+                       group_prefix=None)  # default values
+    train_dataset = datasets.load_files(os.path.join('output', "train"), shuffle='true', encoding='utf-8', load_content=True)
+    val_dataset = datasets.load_files(os.path.join('output', "val"), shuffle='true', encoding='utf-8', load_content=True)
+    test_dataset = datasets.load_files(os.path.join('output', "test"), shuffle='true', encoding='utf-8', load_content=True)
+    shutil.rmtree("output")
     return train_dataset, val_dataset, test_dataset
 
 
@@ -62,7 +64,7 @@ def load_model(pkl_filename):
     return pickle_model
 
 
-def lstm(train_dataset):
+def lstm(train_dataset, force_retrain=False, return_acc=False):
     n_most_common_words = 8000
     max_len = 130
     tokenizer = Tokenizer(num_words=n_most_common_words, filters='!"#$%&()*+,-./:;<=>?@[\]^_`{|}~', lower=True)
@@ -84,7 +86,7 @@ def lstm(train_dataset):
     labels = labels[:2]
 
     print((X_train.shape, y_train.shape, X_test.shape, y_test.shape))
-    if os.path.exists(os.path.join("checkpoints", "lstm.model")):
+    if os.path.exists(os.path.join("checkpoints", "lstm.model")) and not force_retrain:
         model = load_model("lstm.model")
     else:
         model = Sequential()
@@ -99,31 +101,34 @@ def lstm(train_dataset):
         save_model(model, "lstm.model")
         save_model(history, "lstm.history")
 
-        plt.plot(history.history['acc'])
-        plt.plot(history.history['val_acc'])
-        plt.title('model accuracy')
-        plt.ylabel('accuracy')
-        plt.xlabel('epoch')
-        plt.legend(['train', 'test'], loc='upper left')
-        plt.show()
-        # summarize history for loss
-        plt.plot(history.history['loss'])
-        plt.plot(history.history['val_loss'])
-        plt.title('model loss')
-        plt.ylabel('loss')
-        plt.xlabel('epoch')
-        plt.legend(['train', 'test'], loc='upper left')
-        plt.show()
+        # plt.plot(history.history['acc'])
+        # plt.plot(history.history['val_acc'])
+        # plt.title('model accuracy')
+        # plt.ylabel('accuracy')
+        # plt.xlabel('epoch')
+        # plt.legend(['train', 'test'], loc='upper left')
+        # plt.show()
+        # # summarize history for loss
+        # plt.plot(history.history['loss'])
+        # plt.plot(history.history['val_loss'])
+        # plt.title('model loss')
+        # plt.ylabel('loss')
+        # plt.xlabel('epoch')
+        # plt.legend(['train', 'test'], loc='upper left')
+        # plt.show()
     accr = model.evaluate(X_test, y_test)
     print('Test set\n  Loss: {:0.3f}\n  Accuracy: {:0.3f}'.format(accr[0], accr[1]))
     predictions = model.predict(X_test)
     y_pred = (predictions > .5)
     matrix = confusion_matrix(y_test.argmax(axis=1), y_pred.argmax(axis=1))
 
-    return model, matrix
+    if return_acc:
+        return model, matrix, accr[1]
+    else:
+        return model, matrix
 
 
-def gru(train_dataset):
+def gru(train_dataset, force_retrain=False, return_acc=False):
     n_most_common_words = 8000
     max_len = 130
     tokenizer = Tokenizer(num_words=n_most_common_words, filters='!"#$%&()*+,-./:;<=>?@[\]^_`{|}~', lower=True)
@@ -146,7 +151,7 @@ def gru(train_dataset):
 
     print((X_train.shape, y_train.shape, X_test.shape, y_test.shape))
 
-    if os.path.exists(os.path.join("checkpoints", "gru.model")):
+    if os.path.exists(os.path.join("checkpoints", "gru.model")) and not force_retrain:
         model = load_model("gru.model")
     else:
         model = Sequential()
@@ -161,28 +166,31 @@ def gru(train_dataset):
         save_model(model, "gru.model")
         save_model(history, "gru.history")
 
-        plt.plot(history.history['acc'])
-        plt.plot(history.history['val_acc'])
-        plt.title('model accuracy')
-        plt.ylabel('accuracy')
-        plt.xlabel('epoch')
-        plt.legend(['train', 'test'], loc='upper left')
-        plt.show()
-        # summarize history for loss
-        plt.plot(history.history['loss'])
-        plt.plot(history.history['val_loss'])
-        plt.title('model loss')
-        plt.ylabel('loss')
-        plt.xlabel('epoch')
-        plt.legend(['train', 'test'], loc='upper left')
-        plt.show()
+        # plt.plot(history.history['acc'])
+        # plt.plot(history.history['val_acc'])
+        # plt.title('model accuracy')
+        # plt.ylabel('accuracy')
+        # plt.xlabel('epoch')
+        # plt.legend(['train', 'test'], loc='upper left')
+        # plt.show()
+        # # summarize history for loss
+        # plt.plot(history.history['loss'])
+        # plt.plot(history.history['val_loss'])
+        # plt.title('model loss')
+        # plt.ylabel('loss')
+        # plt.xlabel('epoch')
+        # plt.legend(['train', 'test'], loc='upper left')
+        # plt.show()
     accr = model.evaluate(X_test, y_test)
     print('Test set\n  Loss: {:0.3f}\n  Accuracy: {:0.3f}'.format(accr[0], accr[1]))
     predictions = model.predict(X_test)
     y_pred = (predictions > .5)
     matrix = confusion_matrix(y_test.argmax(axis=1), y_pred.argmax(axis=1))
 
-    return model, matrix
+    if return_acc:
+        return model, matrix, accr[1]
+    else:
+        return model, matrix
 
 
 def look_for_best_KNN_parameters(clf, train_dataset):
@@ -223,6 +231,10 @@ def look_for_best_SVM_parameters(clf, train_dataset):
 
     for param_name in sorted(parameters.keys()):
         print("%s: %r" % (param_name, gs_clf.best_params_[param_name]))
+
+def get_acc(model, test_dataset):
+    predicted = model.predict(test_dataset.data)
+    return np.mean(predicted == test_dataset.target)
 
 
 def print_metrics(model, train_dataset, test_dataset):
