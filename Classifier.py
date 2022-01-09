@@ -97,6 +97,7 @@ def lstm(train_dataset):
         history = model.fit(X_train, y_train, epochs=epochs, batch_size=batch_size, validation_split=0.2,
                             callbacks=[EarlyStopping(monitor='val_loss', patience=7, min_delta=0.0001)])
         save_model(model, "lstm.model")
+        save_model(history, "lstm.history")
 
         plt.plot(history.history['acc'])
         plt.plot(history.history['val_acc'])
@@ -138,7 +139,7 @@ def gru(train_dataset):
     X_train, X_test, y_train, y_test = train_test_split(X, labels, test_size=0.25, random_state=42)
 
     labels = train_dataset.target
-    epochs = 50
+    epochs = 60
     emb_dim = 128
     batch_size = 256
     labels = labels[:2]
@@ -158,6 +159,7 @@ def gru(train_dataset):
         history = model.fit(X_train, y_train, epochs=epochs, batch_size=batch_size, validation_split=0.2,
                             callbacks=[EarlyStopping(monitor='val_loss', patience=7, min_delta=0.0001)])
         save_model(model, "gru.model")
+        save_model(history, "gru.history")
 
         plt.plot(history.history['acc'])
         plt.plot(history.history['val_acc'])
