@@ -74,7 +74,7 @@ class mclass:
         else:
             svm_model = cl.train_model(svm_clf, train_dataset)
             cl.save_model(svm_model, "svm.model")
-        self.txt_edit.insert(tk.END, "\n" + cl.print_metrics(svm_model, train_dataset, test_dataset))
+        # self.txt_edit.insert(tk.END, "\n" + cl.print_metrics(svm_model, train_dataset, test_dataset))
         fig, axes = cl.plt.subplots(3, 2, figsize=(10, 15))
         # fig.tight_layout()
         X, y = test_dataset.data, test_dataset.target
@@ -100,7 +100,7 @@ class mclass:
         else:
             knn_model = cl.train_model(knn_clf, train_dataset)
             cl.save_model(knn_model, "knn.model")
-        self.txt_edit.insert(tk.END, "\n" + cl.print_metrics(knn_model, train_dataset, test_dataset))
+        # self.txt_edit.insert(tk.END, "\n" + cl.print_metrics(knn_model, train_dataset, test_dataset))
         fig, axes = cl.plt.subplots(3, 2, figsize=(10, 15))
         # fig.tight_layout()
         X, y = test_dataset.data, test_dataset.target

@@ -93,7 +93,7 @@ def lstm(train_dataset, force_retrain=False, return_acc=False):
         model.add(Embedding(n_most_common_words, emb_dim, input_length=X.shape[1]))
         model.add(SpatialDropout1D(0.7))
         model.add(LSTM(64, dropout=0.7, recurrent_dropout=0.7))
-        model.add(Dense(88, activation='softmax'))
+        model.add(Dense(64, activation='softmax'))
         model.compile(optimizer='adam', loss='categorical_crossentropy', metrics=['acc'])
         print(model.summary())
         history = model.fit(X_train, y_train, epochs=epochs, batch_size=batch_size, validation_split=0.2,
@@ -158,7 +158,7 @@ def gru(train_dataset, force_retrain=False, return_acc=False):
         model.add(Embedding(n_most_common_words, emb_dim, input_length=X.shape[1]))
         model.add(SpatialDropout1D(0.7))
         model.add(GRU(64, dropout=0.7, recurrent_dropout=0.7))
-        model.add(Dense(88, activation='softmax'))
+        model.add(Dense(64, activation='softmax'))
         model.compile(optimizer='adam', loss='categorical_crossentropy', metrics=['acc'])
         print(model.summary())
         history = model.fit(X_train, y_train, epochs=epochs, batch_size=batch_size, validation_split=0.2,
